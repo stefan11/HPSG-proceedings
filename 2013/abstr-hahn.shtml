@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Hahn, Michael: Word Order Variation in Khoekhoe
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Word Order Variation in Khoekhoe">
+<meta name="citation_author"           content="Hahn, Michael">
+<meta name="citation_conference_title" content="Proceedings of the 20th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2013">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="48">
+<meta name="citation_lastpage"         content="68">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2013/hahn.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Hahn, Michael: Word Order Variation in Khoekhoe
+</h1>
+
+<div class="blurb"
+<p>
+Khoekhoe, a Central Khoisan language, has been claimed to have a clause-second position and
+topological fields similar to German and Dutch. The position in front of the clause-second position
+can be occupied by either the matrix verb or a dependent. We argue that monomoraic words are exempt
+from the general head-final order of Khoekhoe and suggest that this can give rise to discontinuous
+constituents, where second-position clitics intervene within the VP. We show that this idea provides
+a simple account of Khoekhoe word order variation and formalize it within a linearization-based HPSG
+analysis that has a wider scope than the previous Minimalist analyses of Khoekhoe and that is
+compatible with evidence from tonology.
+  
+<P>
+<ul>
+<li><a href="hahn.pdf">download PDF</a>
+<li><a href="hahn.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2013
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

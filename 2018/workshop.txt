@@ -1,0 +1,39 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # abstract
+
+
+Bekki, Daisuke # Ochanomizu University # lightblue: A Japanese CCG Parser # # no # In this talk I address problems that arise from the use of category variables vT in combinatory categorial grammars (CCGs), 
+in particular, that they require an extension of semantic languages with variable vectors.  As a solution to such problems, 
+we introduce a technique for implementing variable vectors within the context of lightblue, a Japanese CCG parser 
+implemented within the Haskell programming language with a dependent type semantics (DTS) representation.  
+
+
+
+Moeljadi, David & Kuribayashi, Takayuki # Nanyang Technological University & Nanyang Technological University # Introduction and demo of Jacy: an implemented HPSG grammar of Japanese # October 21, 2018 # no # The Jacy Japanese grammar (Siegel, Bender, & Bond, 2016; Siegel & Bender, 2002) is a broad coverage linguistically precise grammar of Japanese. It is based on the HPSG formalism with MRS semantics. In combination with a parser, it can analyze Japanese sentences, yielding derivation trees and MRS semantic representations, and also generate sentences from semantic representations. It has been used in various applications, such as in a spoken language machine translation project, where it was used in deep processing of appointment scheduling and travel reservation dialogues, in an industrial application of automatic email response, and in research on parse ranking with lexical semantics and machine translation. In this session, we will describe the fundamentals of Jacy: a short introduction, history, development environment, treebank, applications, the current state, and some interesting linguistic phenomena. We will show an online demo of Jacy parsing and generating sentences, the treebank, and some online documentation. # HPSG, Jacy, Japanese, MRS
+
+
+Kubota, Yusuke # University of Tsukuba # The lexical semantics of
+control: A view from Japanese # October 19, 2018 # no # It has been
+controversial in the literature of control phenomena whether the
+obligatory control status of the unexpressed subject in the so-called
+'finite control' construction in Japanese is due to syntactic or
+semantic factors (Fujii 2006, Gamerschlag 2007, Wang 2011, Akuzawa
+2018, Akuzawa and Wang 2018). In this talk, I review evidence adduced
+by Akuzawa and Wang (2018) for a semantics analysis of finite control
+in Japanese and sketch a preliminary version of a semantics analysis
+of control verbs in Japanese. Verbs that exhibit finite control in
+Japanese range over what at first sight seem to be heterogeneous
+classes, including aspectual, implicative, direcive and reflexive
+verbs. I argue that the common semantic component of this apparently
+non-uniform classes can be captured by extending the notion of
+'responsibility', first identified by Farkas (1988) as an important
+notion in understanding the lexical meanings of control predicates. #
+control, responsibility, de se attitude, finite control
+
+Machicao y Priemer, Antonio & Fritz-Huechante, Paola # Humboldt-Universität zu Berlin & Humboldt-Universität zu Berlin # Korean and Spanish psych-verbs: Interaction of case, theta-roles, linearization, and event structure in HPSG # October 15, 2018 # # In this paper, we argue that by making a more detailed distinction of theta-roles, while at the same time investigating the correlation of case marking, theta-role assignment, and eventuality types, we can describe different psych-verb subclasses and explain their alignment patterns in Spanish and Korean. We propose a neo-Davidsonian treatment of psych-verbs in HPSG that allows us to account for the underspecification of theta-roles which are modeled in an inheritance hierarchy for semantic relations. By assuming linking properties modeled lexically, we can constrain the properties for psych-verbs which shows the mapping of semantic arguments (i.e. experiencer, stimulus-causer, subject matter and target) to the elements in the argument structure. The type hierarchy and lexical rules proposed here capture the alternation in case marking not only of the experiencer (as traditionally assumed in the literature), but also of the stimulus. This analysis leads us to a new fourfold classification of psych-verbs for both languages. # Spanish, Korean, Psych-Verbs, Theta-Roles, Neo-Davidsonian, Linking 
+
+
+
+
+Yatabe, Shûichi & Tanigawa, Kei # University of Tokyo & University of Tokyo # The fine structure of clausal right-node raising constructions in Japanese # October 15, 2018 # # We examine the fine structure of clausal right-node raising constructions in Japanese, and argue that there are sentences in which a tensed verb is right-node-raised out of coordinated tensed clauses as well as sentences in which a verb stem is right-node-raised out of coordinated tenseless phrases.  In the latter case, the tense morpheme has to be assumed to take a tenseless complement clause, and we note that the existence of such a structure contradicts the so-called lexicalist hypothesis, according to which a verb stem and the tense morpheme immediately following it always form a morphosyntactic constituent. # the lexicalist hypothesis, non-constituent coordination
+
+

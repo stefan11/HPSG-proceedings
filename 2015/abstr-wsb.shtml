@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Wang, Wenjie &amp; Song, Sanghoun &amp; Bond, Francis: A Constraint-based Analysis of A-NOT-A Questions in Mandarin Chinese
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="A Constraint-based Analysis of A-NOT-A Questions in Mandarin Chinese">
+<meta name="citation_author"           content="Wang, Wenjie">
+<meta name="citation_author"           content="Song, Sanghoun">
+<meta name="citation_author"           content="Bond, Francis">
+<meta name="citation_conference_title" content="Proceedings of the 22nd International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="195">
+<meta name="citation_lastpage"         content="214">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2015/wsb.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Wang, Wenjie &amp; Song, Sanghoun &amp; Bond, Francis: A Constraint-based Analysis of A-NOT-A Questions in Mandarin Chinese
+</h1>
+
+<div class="blurb"
+<p>
+The A-NOT-A structure is one way to express polar questions in Mandarin Chinese. The present study provides a constraint-based analysis of A-NOT-A questions in Mandarin Chinese within the framework of HPSG (Pollard & Sag, 1994) and MRS (Copestake et al., 2005). We propose two possible approaches to analysing the A-NOT-A structure — a morphological/lexical approach as well as a syntactic approach — and illustrate their implementation, as well as their respective strengths and weaknesses.
+  
+<P>
+<ul>
+<li><a href="wsb.pdf">download PDF</a>
+<li><a href="wsb.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

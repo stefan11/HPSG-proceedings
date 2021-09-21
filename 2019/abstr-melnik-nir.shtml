@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Melnik, Nurit &amp; Nir, Bracha: Argument Structure and the Cause-Directed-Motion Construction in Hebrew
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Melnik, Nurit &amp; Nir, Bracha: Argument Structure and the Cause-Directed-Motion Construction in Hebrew
+</h1>
+
+<div class="blurb"
+<p>
+This paper argues for a productive cause-directed-motion construction (CDMC) in Hebrew. Building on corpus data, it identifies the types of verbs which can appear in the trivalent structure of [NP [V OBJ OBL]], where OBL is directional, and shows that this argument structure is not limited to cause-motion verbs. On the contrary, non-motion verbs which appear in the CDMC are interpreted as expressing caused-motion events by virtue of their appearance in the construction.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 14.10.2019
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

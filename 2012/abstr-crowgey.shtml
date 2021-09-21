@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Crowgey, Joshua: An a priori Typology of Sentential Negation from an HPSG Perspective
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="An a priori Typology of Sentential Negation from an HPSG Perspective">
+<meta name="citation_author"           content="Crowgey, Joshua">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="107">
+<meta name="citation_lastpage"         content="122">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/crowgey.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Crowgey, Joshua: An a priori Typology of Sentential Negation from an HPSG Perspective
+</h1>
+
+<div class="blurb"
+<p>
+In this paper I explore the logical range of sentential negation types predicted by the theory of
+HPSG. I find that typological surveys confirm that attested simple negation strategies neatly line
+up with the types of lexical material given by assuming Lexical Integrity and standard Phrase
+Structure Grammar dependencies. I then extend the methodology to bipartite negation and derive a
+space of predicted sentential negation types. I present details of the analysis for each type and
+relevant examples where possible.
+  
+<P>
+<ul>
+<li><a href="crowgey.pdf">download PDF</a>
+<li><a href="crowgey.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

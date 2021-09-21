@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Yatsuhiro, Kazuko: The Reverse Partitive Construction in Japanese
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Yatsuhiro, Kazuko: The Reverse Partitive Construction in Japanese
+</h1>
+
+<div class="blurb"
+<p>
+In Japanese noun phrases, quantificational expressions are frequently
+marked with genitive case. Genitive case attached to nouns marks
+possession or partitivity, but on quantifiers it has been regarded as
+purely morphological. We show that genitive case on quantifiers can be
+analyzed as regular genitive case, and identify three distinct
+derivations. Two of these derivations proceed from an underlying
+partitive structure. We claim that the genitive particle can be
+stranded by NP ellipsis, and then attaches to a quantifier. Our
+analysis therefore supports an analysis of partitives, assuming two NP
+positions where ellipsis can target one or both of those two NPs.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Borsley, Robert D.: An Approach to English Comparative Correlatives
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="An Approach to English Comparative Correlatives">
+<meta name="citation_author"           content="Borsley, Robert D.">
+<meta name="citation_conference_title" content="Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2004">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="70">
+<meta name="citation_lastpage"         content="92">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2004/borsley.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Borsley, Robert D.: An Approach to English Comparative Correlatives
+</h1>
+
+<div class="blurb"
+<p>
+Recent syntactic theory has highlighted the importance of peripheral
+constructions such as the comparative correlative construction. This
+construction involves a pair of filler-gap constructions with unusual
+properties. The first is a subordinate clause and the second a main clause. The
+construction has a number of related constructions. A version of HPSG, which
+assumes hierarchies of phrase types, can provide satisfactory analyses both for
+the comparative correlative constructions and for the related
+constructions. The two clauses in the comparative-correlative construction can
+be analysed as non-standard head-filler phrases differing from standard
+headfiller phrases in certain respects. The construction as a whole can be
+analyzed as a non-standard head-adjunct phrase, in which the head and the
+phrase have different categories.
+  
+<P>
+<ul>
+<li><a href="borsley.pdf">download PDF</a>
+<li><a href="borsley.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 11, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

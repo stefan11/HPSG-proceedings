@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Ray Jackendoff &amp; Eva Wittenberg: What Can You Say Without Syntax?  A Hierarchy of Grammatical Complexity
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Ray Jackendoff &amp; Eva Wittenberg: What Can You Say Without Syntax?  A Hierarchy of Grammatical Complexity
+</h1>
+
+<div class="blurb"
+<p>
+(Full version in Frederick J. Newmeyer and Laurel B. Preston, Measuring Grammatical Complexity, Oxford University Press, 2014)
+<p>
+We propose a hierarchy of grammatical complexity for natural languages.  Unlike the familiar Chomsky hierarchy (Chomsky 1956), which deals only with uninterpreted formal languages, this hierarchy describes languages that map between overt expression and meaning.  We take as given the complexity of meaning, a product of the human conceptual system (Jackendoff 2002); the hierarchy concerns the complexity of the machinery available to express meaning.  The major layers in the hierarchy are:
+<ol>
+<li>	One-word grammar
+<li>	Two-word grammar
+<li>	Linear grammar:  Words can be strung together, but without phrase structure or grammatical categories
+<li>	Simple phrase grammar:  There are phrases that consist of strings of words
+<li>	Recursive phrase grammar:  Phrases can contain phrases (hence recursion is possible)
+<li>	Grammar with further add-ons such as long-distance dependencies
+</ol>	
+Two additional branch points in the hierarchy are whether words and phrases belong to grammatical categories, and whether words can be decomposed morphologically.  
+<p>
+For each of these types of grammar, we propose interface rules that correlate linguistic structure with meaning, in particular allowing for “pragmatic” elaborations of meaning beyond that provided by the individual words.  As the linguistic structure becomes more complex, it offers more affordances for complex principles of interpretation.  In many cases, interface rules can do the sort of work normally attributed to syntax.  For instance, a rule such as “Agent First,” which correlates a thematic role in semantics with a linear position in linguistic expression, can implement constraints on word order even with a grammar that lacks grammatical categories and that simply concatenates words.  
+<p>
+The interest of the hierarchy is in its usefulness in differentiating various linguistic and quasi-linguistic phenomena for which we have previously had only the binary distinction “grammar” versus “no grammar.”  For any particular phenomenon, we can ask where it falls on the hierarchy.  For example:
+<ul>
+<li>	We can envision language acquisition in part as gradually climbing up the hierarchy, and we can ask which layers of the hierarchy actually can be attested in child production.  
+<li>	Late second language acquisition in some individuals can be arrested at a lower point in the hierarchy, cf. the “Basic Variety” of Klein and Perdue (1997).
+<li>	The Home Signs invented by deaf children with no exposure to a signed language typically achieve a certain point on the hierarchy (Goldin-Meadow 2003).
+<li>	Abu-Sayyid Bedouin Sign Language, an emerging sign language, shows increasing grammatical sophistication in later learners, characterizable in terms of moving up the hierarchy. (Sandler et al. 2005).  Another emerging sign language, the recently discovered Central Taurus Sign Language, displays many properties of linear grammar.
+<li>	Many peripheral constructions of English (e.g. compounding, how about XP?) utilize only the power of lower steps in the hierarchy (Jackendoff 2002).
+<li>	Speakers under stress show impaired comprehension of certain grammatical constructions (Townsend and Bever 2001; Ferreira and Patson 2007).  Their “perceptual strategies” are principles from a lower layer of the hierarchy.
+<li>	Some “full” languages such as Riau Indonesion (Gil 2009) and Pirahã (Everett 2005) appear only to use principles from lower domains of the hierarchy.
+</ul>
+We conclude that the human language faculty is a palimpsest that includes many of these layers.  The upper layers are more difficult to acquire and process, accounting for their late emergence in acquisition and language creation, and for their early exit in cases of language impairment.  We speculate on the possibility that some of these layers represent intermediate stages in the evolution of the human language faculty (Jackendoff 2002).
+<h2>References</h2>
+<ul>
+<li>Chomsky, Noam (1956). Three models for the description of language. IRE Transactions on Information Theory (2): 113–124.
+<li>Everett, Daniel (2005).  Cultural constraints on grammar and cognition in Pirahã.  Current Anthropology 46.
+<li>Ferreira, F., and N. Patson (2007). The good enough approach to language comprehension. Language and Linguistics Compass, 1, pp 71-83.
+<li>Gil, David (2009)  How much grammar does it take to sail a boat?  In G. Sampson, D. Gil, and P. Trudgill (eds.), Language Complexity as an Evolving Variable.  Oxford: Oxford University Press.
+<li>Goldin-Meadow, Susan (2003).  The Resilience of Language.  New York:  Psychology Press.
+<li>Jackendoff, Ray (2002).  Foundations of Language.  Oxford:  Oxford University Press.
+<li>Klein, Wolfgang, and Clive Perdue (1997).  The Basic Variety, or: Couldn’t language be much simpler?  Second Language Research 13: 301-47
+<li>Sandler, Wendy, Irit Meir, Carol Padden, and Mark Aronoff (2005)  The emergence of grammar:  Systematic structure in a new language.  PNAS 102.7, 2661-2665.
+<li>Townsend, David, and Thomas Bever (2001).  Sentence Comprehension.  Cambridge:  MIT Press.
+</ul>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 18, 2014
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

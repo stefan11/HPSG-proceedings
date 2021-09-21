@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Copestake, Ann: Semantics and Generation
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Copestake, Ann: Semantics and Generation
+</h1>
+
+<div class="blurb"
+<p>
+Natural language generation utilising linguistically-motivated, 
+general-purpose, grammars can conveniently be thought of as involving two 
+components. The first component involves constructing some logical form that 
+is accepted by the grammar, while the second (called tactical generation, or 
+now more usually, realisation) involves going from the logical form to a 
+string.    My main interest is in realisation, and in particular, the 
+implications that supporting tractable realisation has for the nature of 
+logical form in computational grammars. I am not concerned here with 
+denotation, but with the form of the semantic representation and with the way 
+that composition operates.
+There are two main considerations. Firstly, we can make the realisation 
+problem more or less difficult, depending on the meaning representation we 
+choose, even though the denotation is the same.  Secondly, structure in the 
+logical form may be exploited to guide realisation, and this may be necessary 
+for realisation to work at all. But structure that reflects the syntax of the 
+language too closely is generally to be avoided, since it can make it 
+impossible for the input to the realiser to be constructed without detailed 
+knowledge of the grammar.
+The Minimal Recursion Semantics (MRS: Copestake et al, in press) approach was 
+designed to be usable for generation.
+<p>
+Robust realisation has three requirements:
+<ol>
+<li> A realisation algorithm that is efficient with minimal guidance from the 
+logical form syntax.
+<li> A formalism that allows sufficient abstraction over syntax that 
+constructing the input to the realiser is doable.
+<li> An interface layer expressing those constraints imposed by the grammar that 
+have to be known to construct the input.
+</ol>
+Carroll et al (1999) describe an approach to chart generation which partially 
+met these conditions.  A paper describing the approach to generation currently 
+implemented in the LKB is in preparation: this will discuss the extent to 
+which we meet these requirements now.
+<p>
+<br>
+<br>
+John Carroll, Ann Copestake, Dan Flickinger and Victor Poznanski (1999)
+`An Efficient Chart Generator for (Semi-)Lexicalist Grammars'
+Proceedings of the 7th European Workshop on Natural Language
+Generation (EWNLG'99), Toulouse, 86-95
+<p>
+Ann Copestake, Dan Flickinger, Ivan Sag and Carl Pollard
+Minimal Recursion Semantics: An introduction
+Research on Language and Computation
+in press
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

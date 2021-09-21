@@ -1,0 +1,80 @@
+\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
+                    % For some reasons some old HPSG proceedings have pdf 1.6
+\documentclass[a4paper,11pt]{article}
+\usepackage{times}
+\usepackage{ogonek} % Dąbkowski
+\hyphenation{Acad-e-my}
+\usepackage{pdfpages}
+\pdfinclusioncopyfonts=1
+\usepackage[utf8]{inputenc}
+        \usepackage{hyperref}
+        \hypersetup{colorlinks=false, pdfborder={0 0 0}}
+        \setcounter{page}{116}
+        \begin{document}
+
+\newcommand\formatauthor[2]{\begin{tabular}[t]{@{}c@{}}
+  {\LARGE#1\strut}\\
+  {\small#2\strut}\\
+  \rule{\dimexpr0.5\linewidth-1em}{0pt}
+  \end{tabular}\xhfill\ignorespaces}
+\newcommand\xhfill{\hspace{1em plus 1fill}}
+\thispagestyle{empty}
+
+\begin{center}
+  {\huge\bfseries Towards a Grammar of Preposition-Noun Combinations\par}
+
+  \bigskip
+
+~\\
+\begingroup
+\setlength{\leftskip}{0pt plus 1fill}
+\setlength{\rightskip}{0pt plus 1fill}
+\setlength{\parindent}{0pt}
+\setlength{\parfillskip}{0pt}
+  \formatauthor{Tibor Kiss}{\begin{tabular}{@{}c@{}}Ruhr-Universität Bochum\end{tabular}}
+
+\par\endgroup
+
+  \vspace*{8ex}
+
+  Proceedings of the 15th International Conference on\par Head-Driven Phrase Structure Grammar
+
+  \bigskip
+
+  National Institute of Information and Communications Technology, Keihanna
+
+  \medskip
+
+  Stefan Müller (Editor)
+
+  \medskip
+
+  2008
+
+  \medskip
+
+  CSLI Publications
+
+  \medskip
+
+  pages 116--130
+
+  \medskip
+
+  \url{http://csli-publications.stanford.edu/HPSG/2008}
+\end{center}
+\vfill
+
+\noindent
+
+
+
+\vfill
+\noindent
+% APA Style
+Kiss, Tibor. 2008. Towards a Grammar of Preposition-Noun Combinations. In Müller, Stefan (Ed.), \emph{{Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar, National Institute of Information and Communications Technology, Keihanna}}, 116--130. Stanford,
+CA: CSLI Publications. \hfill\href{http://creativecommons.org/licenses/by/4.0/}{\includegraphics[height=.75em]{Includes/ccby.eps}}
+
+\newpage
+\includepdf[pages=-,pagecommand=\thispagestyle{plain}]{Includes/kiss.pdf}
+        \end{document}

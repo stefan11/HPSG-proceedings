@@ -1,0 +1,142 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+Brown, Dunstan  & Evans, Roger # University of Surrey & University of Brighton # Inflectional Defaults and Principal Parts: an Empirical Investigation # October 16, 2010 # #
+We describe an empirical method to explore and contrast the roles of default and principal part
+information in the differentiation of inflectional classes. We use an unsupervised machine learning
+method to classify Russian nouns into inflectional classes, first with full paradigm information,
+and then with particular types of information removed. When we remove default information, shared
+across classes, we expect there to be little effect on the classification. In contrast when we
+remove principal part information we expect there to be a more detrimental effect on classification
+performance. Our data set consists of paradigm listings of the 80 most frequent Russian nouns,
+generated from a formal theory which allows us to distinguish default and principal part
+information. Our results show that removal of forms classified as principal parts has a more
+detrimental effect on the classification than removal of default information. However, we also find
+that there are differences within the defaults and principal parts, and we suggest that these may in
+part be attributable to stress patterns.
+
+
+Corbett, Greville G. # University of Surrey # Classic Problems at the Syntax-Morphology Interface:<br> Whose are They? # October 2010 # #
+There are fascinating problems at the syntax-morphology interface which tend to be missed. I offer a
+brief explanation of why that may be happening, then give a Canonical Typology perspective, which
+brings these problems to the fore. I give examples showing that the phenomena could in principle be
+treated either by syntactic rules (but these would be complex) or within morphology (but this would
+involve redundancy). Thus `non-autonomous' case values, those which have no unique form but are
+realized by patterns of syncretism, could be handled by a rule of syntax (one with access to other
+features, such as number) or by morphology (with resulting systematic syncretisms). I concentrate on
+one of the most striking sets of data, the issue of prepositional government in Latvian, and outline
+a solution within Network Morphology using structured case values.
+
+
+Crysmann, Berthold # Universität Bonn and Universität des Saarlandes # Discontinuous Negation in Hausa # October 23, 2010 # #
+Investigating the morphological and syntactic properties of discontinuous negative marking in Hausa,
+I shall suggest a constructional approach involving edge inflection, accounting simultaneously for
+the morphologically bound nature of the initial marker and its interaction with the TAM system,
+haplology of the final marker, and wide scope over coordination.  I will argue that the degree of
+morphological integration of initial markers and haplology of final markers both favour an edge
+feature approach over phrasal affixation.
+
+
+Léonard, Jean-Léo  & Kihm, Alain # Paris 3, IUF & CNRS, Paris 7  # Verb Inflection in Chiquihuitlán Mazatec: a Fragment and a PFM Approach # October 15, 2010 # #
+Mazatec is an Eastern Otomanguean language spoken by about 200,000 people, located in the
+northeastern part of the state of Oaxaca, Mexico. The present paper aims to shed new light on
+Mazatec verb inflection within the framework of current research on Otomanguean phonology and
+morphology. We intend to show that, despite bewildering apparent complexity, mainly due to extensive
+morphophonological processes, Mazatec inflectional morphology is in fact rather simple and
+regular. Realizational approaches, in particular Paradigm Function Morphology (PFM) seem especially
+adequate to capture such regularities.
+
+
+Singh, Smriti  & Sarma, Vaijayanthi M # Indian Institute of Technology Bombay # Hindi Noun Inflection and Distributed Morphology # October 18, 2010 # #
+This paper primarily presents an analysis of nominal inflection in Hindi within the framework of
+Distributed Morphology (Halle & Marantz 1993, 1994 and Harley and Noyer 1999). Müller (2002, 2003,
+2004) for German, Icelandic and Russian nouns respectively and Weisser (2006) for Croatian nouns
+have also used Distributed Morphology (henceforth DM) to analyze nominal inflectional morphology.
+This paper will discuss in detail the inflectional categories and inflectional classes, the
+morphological processes operating at syntax, the distribution of vocabulary items and the
+readjustment rules required to describe Hindi nominal inflection. Earlier studies on Hindi
+inflectional morphology (Guru 1920, Vajpeyi 1958, Upreti 1964, etc.) were greatly influenced by the
+Paninian tradition (classical Sanskrit model) and work with Paninian constructs such as root and
+stem. They only provide descriptive studies of Hindi nouns and verbs and their inflections without
+discussing the role or status of affixes that take part in inflection. The discussion on the
+mechanisms (morphological operations and rules) used to analyze or generate word forms are missing
+in these studies. In addition, these studies do not account for syntax-morphology or
+morphology-phonology mismatches that show up in word formation. One aim of this paper is to present
+an economical way of forming noun classes in Hindi as compared to other traditional methods,
+especially gender and stem ending based or paradigm based methods that give rise to a large number
+of inflectional paradigms. Using inflectional class information to analyse the various forms of
+Hindi nouns, we can reduce the number of affixes and word-generation and readjustment rules that are
+required to describe nominal inflection. The analysis also helps us in developing a morphological
+analyzer for Hindi. The small set of rules and fewer inflectional classes are of great help to
+lexicographers and system developers. To the best of our knowledge, the analysis of Hindi
+inflectional morphology based on DM and its implementation in a Hindi morphological analyzer has not
+been done before. The methods discussed here can be applied to other Indian languages for analysis
+as well as word generation.
+
+
+Spencer, Andrew # University of Essex # Lexical Relatedness and the Lexical Entry &ndash; a Formal Unification # October 13, 2010 # #
+Based on the notion of a lexicon with default inheritance, I address the problem of how to provide a
+template for lexical representations that allows us to capture the relatedness between inflected
+word forms and canonically derived lexemes within a broadly realizational-inferential model of
+morphology. To achieve this we need to be able to represent a whole host of intermediate types of
+lexical relatedness that are much less frequently discussed in the literature. These include
+transpositions such as deverbal participles, in which a word's morphosyntactic class changes
+(e.g. verb ⇒ adjective) but no semantic predicate is added to the semantic representation and the
+derived word remains, in an important sense, a "form" of the base lexeme (e.g. the 'present
+participle form of the verb'). I propose a model in which morphological properties are inherited by
+default from syntactic properties and syntactic properties are inherited from semantic properties,
+such as ontological category (the Default Cascade). Relatedness is defined in terms of a Generalized
+Paradigm Function (perhaps in reality a relation), a generalization of the Paradigm Function of
+Paradigm Function Morphology (Stump 2001). The GPF has four components which deliver respectively
+specifications of a morphological form, syntactic properties, semantic representation and a lexemic
+index (LI) unique to each individuated lexeme in the lexicon. In principle, therefore, the same
+function delivers derived lexemes as inflected forms. In order to ensure that a newly derived lexeme
+of a distinct word class can be inflected I assume two additional principles. First, I assume an
+Inflectional Specifiability Principle, which states that the form component of the GPF (which
+defines inflected word forms of a lexeme) is dependent on the specification of the lexeme's
+morpholexical signature, a declaration of the properties that the lexeme is obliged to inflect for
+(defined by default on the basis of morpholexical class). I then propose a Category Erasure
+Principle, which states that 'lower' attributes are erased when the GPF introduces a non-trivial
+change to a 'higher' attribute (e.g. a change to the semantic representation entails erasure of
+syntactic and morphological information). The required information is then provided by the Default
+Cascade, unless overridden by specific declarations in the GPF. I show how this model can account
+for a variety of intermediate types of relatedness which cannot easily be treated as either
+inflection or derivation, and conclude with a detailed illustration of how the system applies to a
+particularly interesting type of transposition in the Samoyedic language Sel'kup, in which a noun is
+transposed to a similitudinal adjective whose form is in paradigmatic opposition to case-marked noun
+forms, and which is therefore a kind of inflection.
+
+
+Stump, Greg # University of Kentucky# Paradigm templates, stem patterns and lexical representations # October 16, 2010 # no #
+One apparent choice to be made in morphological theory is the choice between (a) defining a
+language's morphology with RULES OF EXPONENCE, which deduce the word form realizing a given
+cell in a lexeme's paradigm from the stem and morphosyntactic property set associated with that cell,
+as in (i); and (b) defining a language's morphology with IMPLICATIVE RULES, which deduce the word
+form realizing a given cell in a lexeme's paradigm from the word forms realizing one or more other
+cells in that paradigm, as in (ii).
+<ol style="list-style-type:lower-roman;">
+<li>The cell (Xa, {CASE:locative, NUM:singular}) is realized as Xe.
+<li>If Xena is a lexeme's instrumental singular form, then Xe its locative singular form.
+</ol>
+Definitions of types (a) and (b) suggest rather different approaches to lexical representation; in
+particular, (a) suggests that a lexeme's lexical representation includes a specification of its stem, while
+(b) suggests that its lexical representation consists of the word form(s) realizing one or more cells in
+its paradigm.
+<p>
+I argue that (a) and (b) needn't be seen as alternatives: that if the defaults and overrides constituting
+a language's system of inflection classes are defined in a suitably general way, then rules of
+exponence and implicative rules coexist as theorems of this definition. I propose that general
+definitions of this sort take the form of a default inheritance hierarchy whose nodes are inflection
+classes, and that each inflection class is itself the pairing of a PARADIGM TEMPLATE with a pattern of
+stem alternation. I illustrate with examples from the declensional morphology of Sanskrit.
+
+
+Tribout, Delphine # LLF and Université Paris Diderot-Paris 7 # How Many Conversions from Verb to Noun Are There in French? # October 2010 # #
+In this paper, I discuss verb to noun conversion in French. The properties of
+the input verb and the output noun are presented and a formal representation is
+proposed using the SBCG framework. The use of such a formalism based on
+constraints and multiple inheritance highlights the difficulties in defining
+what exactly is a conversion rule. I propose that the different properties of
+the input verb and the output noun can be thought of as different dimensions of
+classification, which characterize the verb to noun conversion rule.
+
+

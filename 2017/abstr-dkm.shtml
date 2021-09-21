@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Diaz, Thomas &amp; Koenig, Jean-Pierre &amp; Michelson, Karin: Oneida prepronominal prefixes in Information-Based Morphology
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Diaz, Thomas &amp; Koenig, Jean-Pierre &amp; Michelson, Karin: Oneida prepronominal prefixes in Information-Based Morphology
+</h1>
+
+<div class="blurb"
+<p>
+Oneida (Northern Iroquoian) prepronominal prefixes represent a particularly challenging system to model. It is a highly fusional system with complex (and sometimes unnatural) allomorphy. Due to these challenges, there has been little in the way of formal analysis of these prefixes. In our paper, we provide such a formal analysis, utilizing Information-Based Morphology (Crysmann & Bonami, 2016). In our paper, we focus on three aspects of this morphological system. We formalize the solutions Oneida utilizes to resolve conflicts between semantically compatible features that occupy a single position class. We also analyze the unusual pseudo-cumulative exponence of the translocative prefix which <q>borrows</q> the exponent of another prefix for part of its own exponent. Furthermore, we demonstrate the usefulness of online-type construction in modeling complex morphotactic allomorphy, focusing on the factual prefix. Oneida provides a formidable litmus test for formal theories of morphology, and we attempt to demonstrate the utility of an approach, like Information-Based Morphology, that treats inflections as descriptions of patterns of association between features, forms, and positions classes of words.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 20, 2017
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

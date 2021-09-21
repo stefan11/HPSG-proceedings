@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Ørsnes, Bjarne: Preposed Negation in Danish
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Preposed Negation in Danish">
+<meta name="citation_author"           content="Ørsnes, Bjarne">
+<meta name="citation_conference_title" content="Proceedings of the 16th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2009">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="255">
+<meta name="citation_lastpage"         content="275">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2009/oersnes.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Ørsnes, Bjarne: Preposed Negation in Danish
+</h1>
+
+<div class="blurb"
+<p>
+In Danish the base position of the negation and negated
+quantifier phrases  is between the subject and
+the finite verb in embedded clauses. However, in embedded clauses
+introduced by a non-veridical complementizer such as <em>hvis</em> (`if')
+or <em>om</em> (`whether') the negation and negated
+quantifier phrases can also
+appear between the complementizer and the subject. This phenomenon is
+referred to as preposed negation. The paper investigates the structure
+and semantics of this construction. It is argued that preposed
+negation is no adjunction structure, but a special construction where
+the negation element is a sister of the complementizer and the filler
+of a filler-gap-structure. It is further argued that preposed negation is associated with negated
+verum-focus of a clause lacking an (aboutness-) topic. The
+negation of a verum predicate explains why preposed negation fails to license strong
+negative polarity items and to rule out positive ones. The lack of a
+topic explains why preposed negation is preferred with
+non-referential subjects and with weak readings of
+indefinite subjects and why preposed negation is incompatible with
+topic-binding particles.The final section presents an HPSG-analysis of preposed
+negation using Minimal Recursion Semantics (MRS).
+  
+<P>
+<ul>
+<li><a href="oersnes.pdf">download PDF</a>
+<li><a href="oersnes.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 13, 2009
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

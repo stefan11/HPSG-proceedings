@@ -1,0 +1,81 @@
+\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
+                    % For some reasons some old HPSG proceedings have pdf 1.6
+\documentclass[a4paper,11pt]{article}
+\usepackage{times}
+\usepackage{ogonek} % Dąbkowski
+\hyphenation{Acad-e-my}
+\usepackage{pdfpages}
+\pdfinclusioncopyfonts=1
+\usepackage[utf8]{inputenc}
+        \usepackage{hyperref}
+        \hypersetup{colorlinks=false, pdfborder={0 0 0}}
+        \setcounter{page}{100}
+        \begin{document}
+
+\newcommand\formatauthor[2]{\begin{tabular}[t]{@{}c@{}}
+  {\LARGE#1\strut}\\
+  {\small#2\strut}\\
+  \rule{\dimexpr0.5\linewidth-1em}{0pt}
+  \end{tabular}\xhfill\ignorespaces}
+\newcommand\xhfill{\hspace{1em plus 1fill}}
+\thispagestyle{empty}
+
+\begin{center}
+  {\huge\bfseries Syntactic haplology and the Dutch proform "er"\par}
+
+  \bigskip
+
+~\\
+\begingroup
+\setlength{\leftskip}{0pt plus 1fill}
+\setlength{\rightskip}{0pt plus 1fill}
+\setlength{\parindent}{0pt}
+\setlength{\parfillskip}{0pt}
+  \formatauthor{Gert Webelhuth}{\begin{tabular}{@{}c@{}}University of Frankfurt\end{tabular}}
+\formatauthor{Olivier Bonami}{\begin{tabular}{@{}c@{}}Universite de Paris, LLF, CNRS\end{tabular}}
+
+\par\endgroup
+
+  \vspace*{8ex}
+
+  Proceedings of the 26th International Conference on\par Head-Driven Phrase Structure Grammar
+
+  \bigskip
+
+  University of Bucharest
+
+  \medskip
+
+  Stefan  Müller, Petya Osenova (Editors)
+
+  \medskip
+
+  2019
+
+  \medskip
+
+  CSLI Publications
+
+  \medskip
+
+  pages 100--119
+
+  \medskip
+
+  \url{http://csli-publications.stanford.edu/HPSG/2019}
+\end{center}
+\vfill
+
+\noindent
+Keywords: HPSG, Dutch, Haplology, ARG-ST, COMPS
+
+
+\vfill
+\noindent
+% APA Style
+Webelhuth, Gert, \& Bonami, Olivier. 2019. Syntactic haplology and the Dutch proform "er". In Müller, Stefan, \& Osenova, Petya (Eds.), \emph{{Proceedings of the 26th International Conference on Head-Driven Phrase Structure Grammar, University of Bucharest}}, 100--119. Stanford,
+CA: CSLI Publications. \hfill\href{http://creativecommons.org/licenses/by/4.0/}{\includegraphics[height=.75em]{Includes/ccby-eps-converted-to.pdf}}
+
+\newpage
+\includepdf[pages=-,pagecommand=\thispagestyle{plain}]{Includes/webelhuth-bonami.pdf}
+        \end{document}

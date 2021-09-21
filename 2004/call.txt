@@ -1,0 +1,156 @@
+Dear HPSG2004/workshop contributor,
+
+I will be editing the HPSG proceedings. At the business meeting in East
+Lansing everyone agreed that a timely publication is very important and
+the deadline for the final versions will therefore be strict.
+
+I hereby invite you to submit a final version of your contribution to
+the electronic proceedings to be published by CSLI Publications.
+
+You can find the proceedings of the previous years at:
+
+http://cslipublications.stanford.edu/HPSG/
+
+The page limit is 20 pages (a4paper, 11pt, title page not included).
+The deadline for submission is October 15th.
+
+
+If you cannot submit your paper, please do see if you could:
+
+1. turn in an abstract anyways (template below)
+2. give me any citations or links for the paper (e.g., if it is
+   going to appear in a journal or if you have the handout on-line)
+
+
+Details on formatting are included below.
+
+*IMPORTANT* For each submission we require:
+
+1. a short abstract in plain text (ascii); the template for the
+   abstract is included below.  I will format the abstract for you;
+   just send us the requested information.
+
+2. the paper in PDF.
+
+   Please submit your paper without page numbering.  We will add in
+   the page numbering on the PDF file as we are putting the
+   proceedings together.
+
+If you are converting your paper to pdf from LaTeX via ps, then please
+make sure to include the specification "times" (this ensures type 1
+fonts).  For example:
+
+     \documentclass[11pt,a4paper]{article}
+     \usepackage{times}
+
+This ensures that the pdf will come out looking good and will also
+allow me to make changes.
+
+LaTeX and bst style files are availible at:
+
+http://cslipublications.stanford.edu/HPSG/5/call.shtml
+
+If you are not using LaTeX please make sure that the text is typeset in justification,
+i.e. with the text aligned at both the left-hand side and the right-hand side.
+
+Papers are due by:
+
+    15 October 2004
+
+The sooner you get in your papers, the faster we can get the
+proceedings on line.
+
+   If you have any questions, please contact me at:
+
+Stefan.Mueller@cl.uni-bremen.de
+
+I am looking forward to your submissions.
+
+Greetings
+
+    Stefan
+
+----------------------------------------------------------------
+
+BASIC INFO:
+
+  Official On-line Proceedings:
+       Deadline: October 15th
+       *Required formats*:
+                Abstract: plain text following template below
+                Paper: PDF
+
+       Send to: Stefan.Mueller@cl.uni-bremen.de
+
+We require a brief abstract in plain text (this can simply be a
+paragraph from your introduction [please remove LaTeX mark up, thanks]); 
+the paper itself must be in PDF.
+These requirements make it simpler to produce an on-line readable
+paper.
+
+As with last year, we will produce a large pdf file that includes all
+of the papers.  This way, readers can download the entire proceedings
+as a book.
+
+If you absolutely cannot do PDF, please let me know as soon as
+possible and I will accomodate you in some way: point you to some
+reasonable converters, help you with the conversion, etc.
+
+As usual, the proceedings will be registered under an ISSN (it's the
+same one for each of the proceedings).  As such, your paper counts as
+a publication and, as a result, we have some formatting requirements.
+
+PDF: The pdf format is easy to use and manipulate.  It is also easy to
+prepare.  On Unix machines, the command to use is "ps2pdf file.ps" if you
+use PostScript specific styles. Otherwise you can use pdflatex instead of latex
+(make sure you have A4 format and 11pt Fonts).  With Word, you need to have
+PDFwriter installed, then instead of printing to a printer, you can
+print to a file and choose the pdf format. If you do not have access
+to this conversion program, I can convert Word files for you, but
+since Word files tend to be a big bother (fonts lost, tabs lost,
+tables freeze up), we would much prefer you to do the conversion.
+
+
+
+BASIC FORMATING:
+
+LENGTH: Up to 20 pages long (including references and diagrams).
+
+TITLE PAGE (not included in the 20);
+Make sure this is on a separate page with all lines centered:
+
+                    TITLE
+                   author
+
+                 affiliation
+
+         Proceedings of the HPSG04 Conference
+
+Center for Computational Linguistics, Katholieke Universiteit Leuven
+
+              Stefan Müller (Editor)
+
+                   2004
+
+              CSLI Publications
+
+          http://csli-publications.stanford.edu/
+
+ABSTRACT: We encourage the inclusion of a short (one paragraph)
+          abstract just after the title page.
+
+(no pagebreak before the main text, please)
+
+
+ABSTRACT INSTRUCTIONS:
+
+Please send us the following information; use only plain text (ascii):
+
+1. Paper Title
+2. Author Name(s)
+3. Email-address(es)
+4. Text of Abstract
+
+
+
+

@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Venkova, Tzvetomira: Unexpressed Object Alternations of Bulgarian verbs in HPSG
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Unexpressed Object Alternations of Bulgarian verbs in HPSG">
+<meta name="citation_author"           content="Venkova, Tzvetomira">
+<meta name="citation_conference_title" content="Proceedings of the 13th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2006">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="441">
+<meta name="citation_lastpage"         content="455">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2006/venkova.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Venkova, Tzvetomira: Unexpressed Object Alternations of Bulgarian verbs in HPSG
+</h1>
+
+<div class="blurb"
+<p>
+This paper proposes a projectionist account of the unexpressed object
+alternations in HPSG. The approach is based on the two-level mapping mechanism,
+developed in Manning and Sag (1998) and Sag et al (2003). The proposed analysis
+keeps identical argument structure values in the lexeme description of both
+valence alternatives, while different surface valence values are related by a
+lexical rule.
+<p>
+The HPSG model is applied cross-linguistically to English and Bulgarian. Some
+Bulgarian-specific traits, such as the limited alternation range and the
+grammaticalized aspect, related to the formal characteristics of the
+unexpressed object alternations, are discussed and interpreted within HPSG.
+  
+<P>
+<ul>
+<li><a href="venkova.pdf">download PDF</a>
+<li><a href="venkova.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: August 26, 2006
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

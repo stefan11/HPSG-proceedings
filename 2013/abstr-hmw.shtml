@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Haugereid, Petter &amp; Melnik, Nurit &amp; Wintner, Shuly: Nonverbal Predicates in Modern Hebrew
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Nonverbal Predicates in Modern Hebrew">
+<meta name="citation_author"           content="Haugereid, Petter">
+<meta name="citation_author"           content="Melnik, Nurit">
+<meta name="citation_author"           content="Wintner, Shuly">
+<meta name="citation_conference_title" content="Proceedings of the 20th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2013">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="69">
+<meta name="citation_lastpage"         content="89">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2013/hmw.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Haugereid, Petter &amp; Melnik, Nurit &amp; Wintner, Shuly: Nonverbal Predicates in Modern Hebrew
+</h1>
+
+<div class="blurb"
+<p>
+Nonverbal predicates in Modern Hebrew have been the subject of investigation in a number of
+studies. However, to our knowledge, none of them was corpus-based. Corpus searches reveal that the
+nonverbal constructions which are most commonly addressed in the literature are not the most
+commonly used ones. Once a broader range of data is considered additional issues are raised. Our
+analysis addresses these issues, unifying the treatment of three types of copular constructions that
+we identify in MH. The analysis is implemented as part of a larger-scale grammar, and is extensively
+tested.
+  
+<P>
+<ul>
+<li><a href="hmw.pdf">download PDF</a>
+<li><a href="hmw.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 12, 2013
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kim, Jong-Bok: Floating Numeral Classifiers in Korean: A Thematic-Structure Perspective
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Floating Numeral Classifiers in Korean: A Thematic-Structure Perspective">
+<meta name="citation_author"           content="Kim, Jong-Bok">
+<meta name="citation_conference_title" content="Proceedings of the 18th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2011">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="302">
+<meta name="citation_lastpage"         content="313">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2011/kim.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kim, Jong-Bok: Floating Numeral Classifiers in Korean: A Thematic-Structure Perspective
+</h1>
+
+<div class="blurb"
+<p>
+The syntactic and semantic complexity of the so-called numeral classifier
+(NUM-CL) constructions in languages like Korean (Japanese and Chinese as
+well) has much challenged theoretical as well as computational approaches.
+Among several types of the NUM-CL constructions, the most complicated
+type includes the so-called FQ (floated numeral classifier/quantifier) construction
+where the NUM-CL `floats' away from its antecedent. This paper,
+couched upon the non-derivational VP-modifier view, shows that in addition
+to the grammatical function of the host NP and types of the main predicate,
+properties of the intervening expression between the FQ and its host NP also
+play an important role in licensing the FQ's distribution. In particular, we
+show that the FQ introduces new information in discourse and as default sets
+off rheme in the thematic structure. This functional analysis can provide an
+answer to several puzzling contrasts we observe in the distribution of the FQ.
+  
+<P>
+<ul>
+<li><a href="kim.pdf">download PDF</a>
+<li><a href="kim.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: November 17, 2011
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

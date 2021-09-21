@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Goldberg, Adele: Argument structure constructions: Lexical or Phrasal?
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Goldberg, Adele: Argument structure constructions: Lexical or Phrasal?
+</h1>
+
+<div class="blurb"
+<p>
+This presentation suggested several advantages of constructions as against lexical rules including the following: <ol>
+<li>Implausible verb senses are avoided;
+<li>The possibility of representing a distinction between mismatches and matches of verb and constructional meaning is allowed for;
+<li>The possibility of morphemes that have semantic scope only over the lexical verb is allowed for; 
+<li>Broader generalizations are captured without lexical rules (or derivations);  
+<li>The constructionist approach extends to a natural treatment of idioms.  
+</ol>
+The final point argues additionally that a phrasal account is preferable over a lexical account in general (even assuming the lexical account avoids the pitfalls of lexical rules).  In particular, it was argued, following Fellbaum (2007) that idioms often have meanings and syntactic constraints that are much more complex than those found in simple words.
+<p>
+The presentation additionally addressed several possible concerns that a phrasal constructional account might raise (cf. Kay 2005; <a href="http://hpsg.fu-berlin.de/~stefan/Pub/phrasal.html">Müller 2006</a>). The possible concerns that were countered included the following: 
+<ol>
+<li>there is no reason to assume that linear order be prespecified, which would lead to massive proliferation of constructions; instead linear order is underspecified;
+<li><q>relation changing</q> passive, middle constructions do require additional constructions to capture the relevant linking; however, instead of being a drawback, it was argued that this is motivated because these constructions often involve some non-predictable aspect; 
+<li>Complex predicate behavior is acknowledged, but it was argued that such behavior does not entail that argument structure patterns are lexical; 
+<li>Morphological markers are naturally captured in argument structure constructions by relaxing the constraint of locality (which must, it was argued, be relaxed on the lexical account as well, particularly for the treatment of idioms); 
+<li>while
+linking rules look more general than construction-specific form-function pairings, accurate linking rules turn out to be quite construction specific.
+</ol>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 2007
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

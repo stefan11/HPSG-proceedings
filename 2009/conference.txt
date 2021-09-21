@@ -1,0 +1,259 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+Bîlbîie, Gabriela  &  Laurens, Frédéric # LLF, Université Paris Diderot Paris 7# A Construction-based Analysis of Verbless Relative Adjuncts in French and Romanian # October 15, 2009 # #
+French and Romanian verbless relative adjuncts are incidental adjuncts which 
+have been described as elliptical relative clauses. We show that this analysis 
+is not empirically adequate and propose an alternative non-elliptical analysis. 
+We analyze verbless relative adjuncts as sentential fragments whose head can be 
+a cluster of phrases. They are marked by a functor phrase which displays 
+selection properties with respect to the head phrase and makes an essential 
+contribution to the semantics of the adjunct. The analysis relies on the 
+interaction of grammatical constraints introduced by various linguistic objects, 
+as well as on a constructional analysis of verbless relative adjuncts 
+distinguishing several subtypes.
+
+Bonami, Olivier  & Samvelian, Pollet # Université Paris-Sorbonne and Laboratoire de Linguistique Formelle & Université Paris 3 Sorbonne nouvelle and Mondes iranien et indien  # Inflectional periphrasis in Persian # October 16, 2009 # #
+Modern Persian conjugation makes use of five periphrastic constructions. We contrast the properties
+of these five constructions and argue that they call for different analyses. We propose contrasting
+analyses relying on the combination of an HPSG approach to feature geometry and syntactic
+combination, and an approach to paradigm organization and morphological exponence based on Paradigm
+Function Morphology. This combination of analytic tools allows us to treat the whole array of
+periphrastic constructions as lexical in origin&mdash;no phrasal construction or multi-word lexical
+entry of any kind is required.
+
+Chaves, Rui P. # University at Buffalo, SUNY # Construction-based Cumulation and Adjunct Extraction # October 14, 2009 # #
+Previous HPSG accounts of extraction blur the distinction between
+valents and adjuncts by allowing verbs to lexically control the
+modifiers that combine with their phrasal projections. However,
+assuming that adjuncts are valents runs into various difficulties.
+This paper argues that the distinction between complements and
+adjuncts can be maintained, and that certain semantic
+phenomena that challenge traceless theories of extraction can be seen
+as an instance of a more general process. Finally, this paper also
+discusses a uniform mechanism for case assignment to valents and
+adverbial nominals.
+
+Crysmann, Berthold # Universität Bonn and Universität des Saarlandes # Deriving Superficial Ergativity in Nias # October 15, 2009 # #
+In this paper, I discuss the case and agreement system of Nias, a
+language that has been described as a marked-absolutive system by
+various authors (Donohue and Brown, 1999; Corbett, 2006; Cysouw, 2005;
+Handschuh, 2008; Wichmann, 2005). I shall argue in particular that the
+ergativity of this language is highly superficial in nature, showing
+that hypothesised marked-absolutive arguments fail to display typical
+subject properties. Extending the linking theory of ergativity by
+Manning (1994) and Manning and Sag (1999), which assumes an inverse
+linking pattern for transitive, I shall suggest that Nias
+transitives are best analysed as a Nominative-Accusative system,
+attributing the <q>ergative</q> split in Nias to an <q>inverse</q> linking of
+intransitives instead. Under this perspective, case, agreement, and word
+order will receive a natural explanation.
+
+Desmets, Marianne  & Villoing, Florence # Université Paris Ouest/LLF & Université Paris Saint-Denis/SFL # French VN lexemes: morphological compounding in HPSG # October 15, 2009 # #
+Although the original framework of HPSG is mostly compatible with
+independent theoretical claims or analyses in lexical lexeme base morphology
+(Anderson 1992, Aronoff & Fudeman 2004, Beard 1995, Booij 2005,
+Carstairs-McCarthy 1992, Fradin 2003, Haspelmath 2002, Matthews 1991, Plag
+2003, for example), so far, most research in morphology has been done on
+inflexional phenomena (Orgun & Inkelas 2002, Bonami & Boyé 2006), and few on
+derivational morphology (Koenig 1999, Riehemann 1998). Yet, we believe it is
+worth investigating how the formal and theoretical apparatus of HPSG deals
+with capturing multilevel constraints that apply in the lexeme formation of
+French Verb-Noun nominal compounds, such as as GRILLE-PAIN (lit.
+grill-bread, `toaster'), PERCE-OREILLE (lit. pierce-ear, `earwig'),
+TOURNEVIS (lit. turn-screw, `screwdriver'), or LÈCHE-VITRINE (lit.
+lick-window, `window-shopping'). Contrary to what has often been said, we
+argue VN lexemes formation comes under morphological constraints but not
+under syntactic mechanisms. Our analysis integrates VN lexemes into a
+multiple-dimension typed-hierarchy of lexemes and provides an account for
+semantic generalizations involved in different types of lexeme formation
+(compounding, derivation, and conversion).
+
+Fokkens, Antske & Poulson, Laurie  & Bender, Emily M. # Universität des Saarlandes & University of Washington # Inflectional Morphology in Turkish VP Coordination # October 16, 2009 # #
+We address three properties of Turkish morphology and
+ VP coordination: the identification of tense and aspect values
+ across conjuncts, the optional omission of affixes on non-final
+ conjuncts coordinated with the word <i>ve</i> and the obligatory
+ sharing of scopal modals across conjuncts in coordination structures
+ with the affix <i>-ip</i>.  For the modals in an <i>-ip</i>
+ structure, we propose an analysis that uses syntactic features to
+ trigger the application of a construction at the level of the
+ coordinated VP introducing the scopal predications.  Our analysis is
+ implemented in a small HPSG grammar and tested against datasets
+ confirming the functionality and consistency of the analysis.
+
+Holler, Anke # University of Göttingen # Towards an analysis of the adverbial use of German interrogative <em>was</em>
+(`what') # October 15, 2009 # #
+The paper discusses the so-called adverbial use of the <em>wh</em>-pronoun
+<em>was</em> (`what'), which establishes a non-standard interrogative
+construction type in German.  It argues that the adverbial use of <em>was</em>
+(`what') is based on the lexical properties of a categorically deficient
+pronoun <em>was</em> (`what'), which bears a causal meaning. In addition,
+adverbial <em>was</em> (`what') differs from canonical argument <em>was</em>
+(`what')  as it is analyzed as a functor which is generated in
+clause-initial position.
+<p>
+By means of empirical facts mainly provided by d'Avis (2001) it is shown
+that <em>was</em> (`what') behaves ambivalently regarding the
+<em>wh</em>-property: On the one hand, <em>was</em> (`what') can introduce an
+interrogative clause, but on the other hand it cannot license
+<em>wh</em>-phrases in situ. While formally analyzing the data against the
+background of existing accounts on <em>wh</em>-interrogatives couched in the
+framework of Head-driven Phrase Structure Grammar, an analysis is developed
+that separates two pieces of information to keep track of the
+<em>wh</em>-information percolating in an interrogative clause. Whereas the
+WH-value models <em>wh</em>-fronting and pied-piping phenomena, the QUE value
+links syntactic and semantic information and thus keeps track of
+<em>wh</em>-phrases in-situ.
+
+Iordăchioaia, Gianina  & Richter, Frank # Universität Stuttgart & Universität Tübingen # Negative Concord in Romanian as Polyadic Quantification # October 16, 2009 # #
+In this paper we develop an HPSG syntax-semantics of negative concord in
+Romanian. We show that n-words in Romanian can best be treated as negative
+quantifiers which may combine by resumption to form polyadic negative
+quantifiers. Optionality of resumption explains the existence of simple
+sentential negation readings alongside double negation readings. We solve
+the well-known problem of defining general semantic composition rules for
+translations of natural language expressions in a logical language with
+polyadic quantifiers by integrating our higher-order logic in Lexical
+Resource Semantics, whose constraint-based composition mechanisms directly
+support a systematic syntax-semantics for negative concord with polyadic
+quantification.
+
+Kay, Paul  & Sag, Ivan A. # University of California, Berkeley & Stanford University # How Hard a Problem Would This Be to Solve? # October 14, 2009 # #
+This paper analyzes the interrelation
+of two understudied phenomena of English: 
+discontinuous modifier phenomenon (<strong>so</strong> <em>willing to help
+  out <strong>that they called early</strong>; <strong>more</strong> <em>ready for
+  what was coming</em> <strong>than I was</strong>) and the complex 
+pre-determination phenomenon (<em>this</em> <em>delicious a lasagna</em>;
+<em>How</em> <em>hard a problem</em> (<em>was it</em>)<em>?</em>). Despite
+their independence, they frequently occur
+intertwined, as in <strong>too</strong> <em>heavy {a trunk</em>} <strong>(for me)
+  to lift</strong> and <strong>so</strong> <em>lovely a melody</em> <strong>that some
+    people cried</strong>. This paper presents a declarative analysis of
+these and related facts that avoids syntactic movement in favor
+of monotonic constraint satisfaction. It demonstrates how
+an explicit, sign-based, constructional approach to grammatical
+structure captures linguistic generalizations, while at the same time
+accounting for idiosyncratic facts in this seemingly
+complex grammatical domain.
+
+Lahm, David # Universität Tübingen # An Alternative to the HPSG Raising Principle on the Description-Level # October 15, 2009 # #
+I reconsider the HPSG Raising Principle which is introduced in Pollard & Sag (1994) to constrain the
+way in which lexical entries describe the SUBCAT lists of the words they license. On the basis of
+whether a complement is assigned a semantic role in a lexical entry or not, this entry may not or
+must describe this complement as structure-shared with the unrealised subject of some other
+(non-subject) complement. The formal status of this principle is still unclear, as it is formulated
+as a 'meta principle' that does not talk about linguistic objects directly but rather about the
+lexical entries that license them. I show that, although its meaning cannot be expressed faithfully
+by the usual kind of constraints employed in HPSG, the Raising Principle can nevertheless be
+replaced by two such constraints which make largely the same predictions. Most importantly, these
+constraints interact with the output values of description-level lexical rules in the style of
+Meurers (2001) in a way that makes predictions available that Pollard & Sag (1994) intended the
+Raising Principle to make but that it cannot possibly make if description-level lexical rules are
+employed.
+
+Müller, Stefan # Freie Universität Berlin #  On Predication # October 4, 2009 # #
+This paper discusses copula constructions in English, German, and Danish and argues that a uniform
+analysis of all copula constructions is inappropriate. I provide evidence from German that there
+should be a raising variant of the copula in addition to an identificational copula. A unary schema
+is provided that maps referential NPs that can be used as arguments onto predicational NPs. Data
+from Danish shows that predicational NPs can be subjects in specificational structures. An account
+for such specificational structures is provided and the different behaviour of predicational and
+specificational structures with regard to question tags is explained. A similar contrast can be
+found in German left dislocation structures, which follows from the assumptions made in this paper.
+<p>
+A modified treatment of complex predicate formation allows for a reduction of selectional features
+(that is abolishing of <span style="font-variant: small-caps;">xcomp</span> or <span style="font-variant: small-caps;">vcomp</span>) and for a uniform treatment of predicational
+phrases in copula constructions and resultative secondary predicates. This yields an account for
+constituent order variants that remained unexplained by earlier analyses. 
+
+Müller, Stefan  & Lipenkova, Janna # Freie Universität Berlin # Serial Verb Constructions in Chinese:<br> A HPSG Account # October 15, 2009 # #
+The present paper gives an account of Serial Verb Constructions (SVCs) in Mandarin Chinese. After a
+typological presentation of the phenomenon, we give an overview of the Chinese data with examples of
+the semantic variations of SVCs. The inventory of SVC types is classified according to causal and
+temporal relations between the components. We also discuss the pragmatic conditions on the use of
+SVCs as well as alternative, semantically equivalent constructions. A HPSG-analysis is proposed for
+marked SVCs, which uses the interaction between aspect marking and the set of possible subordinative
+relations to deduce the extra-lexical meaning of the construction. Particular attention is payed to
+the syntactically peculiar SVC with shared internal arguments, which is accounted for by a
+non-cancellation approach to valence requirements.
+
+Ørsnes, Bjarne # Freie Universität Berlin # Preposed Negation in Danish # October 13, 2009 # #
+In Danish the base position of the negation and negated
+quantifier phrases  is between the subject and
+the finite verb in embedded clauses. However, in embedded clauses
+introduced by a non-veridical complementizer such as <em>hvis</em> (`if')
+or <em>om</em> (`whether') the negation and negated
+quantifier phrases can also
+appear between the complementizer and the subject. This phenomenon is
+referred to as preposed negation. The paper investigates the structure
+and semantics of this construction. It is argued that preposed
+negation is no adjunction structure, but a special construction where
+the negation element is a sister of the complementizer and the filler
+of a filler-gap-structure. It is further argued that preposed negation is associated with negated
+verum-focus of a clause lacking an (aboutness-) topic. The
+negation of a verum predicate explains why preposed negation fails to license strong
+negative polarity items and to rule out positive ones. The lack of a
+topic explains why preposed negation is preferred with
+non-referential subjects and with weak readings of
+indefinite subjects and why preposed negation is incompatible with
+topic-binding particles.The final section presents an HPSG-analysis of preposed
+negation using Minimal Recursion Semantics (MRS).
+
+Poornima, Shakthi  & Koenig, Jean-Pierre # State University of New York at Buffalo # Hindi Aspectual Complex Predicates # October 15 2009 # #
+This paper discusses ergative case assignment in Hindi and its interaction with aspectual verb
+complexes or complex predicate constructions. It is shown that ergative case is assigned by the last
+head in the aspectual verb complex and that ergative case on the subject of intransitive verbs
+denoting bodily-functions is associated with a counter-to-expectation meaning. It is then shown that
+aspect complex predicates in Hindi involve two distinct syntactic structures, which have similar
+semantics. While one syntactic structure involves argument composition, the other involves a
+head-modifier structure. It is argued that the existence of two structures favor approaches to the
+interface between syntax and semantics which do not require a uniform isomorphism between the
+semantics and syntax of aspect.
+
+Richter, Frank  & Sailer, Manfred # University of Tübingen & University of Göttingen # Phraseological Clauses in Constructional HPSG # October 16, 2009 # #
+In this paper we investigate German idioms which contain phraseologically
+fixed clauses (PCl). To provide a comprehensive HPSG theory of PCls we
+extend the idiom theory of Soehn 2006 in such a way that it can
+distinguish different degrees of regularity in idiomatic expressions. An
+in-depth analysis of two characteristic PCls shows how our two-dimensional
+theory of idiomatic expressions can be applied and illustrates the scope
+of  the theory.
+
+Skwarski, Filip # University of Warsaw # Accounting for Underlying Forms in HPSG Phonology # October 4, 2009 # #
+The paper aims to present approach to HPSG phonology which would account for underlying forms of
+phonemes. It shows some of the issues arising in monostratal analyses of phonology, and proposes a
+solution based on a notion of underlying representations. The approach presented, partly inspired by
+Optimality Theory, resolves cases of neutralisation and opacity by formulating constraints which
+either restrict the surface representation or relate it to the underlying form.
+
+// Cognition Langues Langage Ergonomie Équipe de recherche en syntaxe et sémantique
+
+Tseng, Jesse #  CLLE-ERSS UMR 5263 CNRS § University of Toulouse # Phonological change and grammaticalization in HPSG: The case of French final consonants # October 15, 2009 # #
+This paper explores the use of HPSG for modeling historical phonological change and
+grammaticalization, focusing on the evolution of the pronunciation of word-final consonants in
+Modern French. The diachronic evidence is presented in detail, and interpreted as two main
+transitions, first from Old French to Middle French, then from Middle French to the modern
+language. The data show how the loss of final consonants, originally a phonological development in
+Middle French, gave rise to the grammaticalized external sandhi phenomenon known as consonant
+liaison in modern French. The stages of development are analyzed formally as a succession of HPSG
+lexical schemas in which phonological representations are determined by reference to the immediately
+following phonological context.
+
+Van Eynde, Frank # University of Leuven # On the copula: from a Fregean to a Montagovian treatment # October 9, 2009 # #
+The analysis of the copula as a semantically vacuous word in mainstream
+HPSG is appropriate for some of its uses, such as the progressive and
+the passive, but not for its use in clauses with a predicative complement.
+In such clauses the copula denotes a relation
+of coreference between the indices of the subject and the predicative
+complement. 
+
+
+
+
+
+
+
+
+
+

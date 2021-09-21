@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Doug, Arnold: Fused Head Analyses in HPSG?
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Doug, Arnold: Fused Head Analyses in HPSG?
+</h1>
+
+<div class="blurb"
+<p>
+The syntactic representations assumed in <em>The Cambridge Grammar of the English
+Language</em> (Huddleston, Rodney and Pullum, Geoffrey K (eds.). 2002, Cambridge:
+Cambridge University Press) are not always conventional trees.  The analyses of Noun
+Phrases in particular make extensive use of a limited form of multi-dominance, embodied in
+the notion of a <em>fused-head</em> where a single constituent fullfils two grammatical
+functions: the head function, and some other dependent function (e.g. determinative or
+modifier). The approach has considerable intuitive appeal, especially when compared with
+alternative analyses involving empty elements. In this paper, I attempt to formalise the
+approach using the apparatus of HPSG and consider whether it would provide a useful
+addition to the theoretical apparatus. The conclusions are largely negative: though the
+basic idea can be formalised fairly simply, further investigation suggests raises some
+serious formal difficulties. Moreover, a more detailed consideration of the relevant
+phenomena suggests that in general construction based analyses of the kind that are widely
+used in HPSG are preferable.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 24, 2018
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

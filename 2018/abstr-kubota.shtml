@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kubota, Yusuke: The lexical semantics of
+control: A view from Japanese
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kubota, Yusuke: The lexical semantics of
+control: A view from Japanese
+</h1>
+
+<div class="blurb"
+<p>
+It has been
+controversial in the literature of control phenomena whether the
+obligatory control status of the unexpressed subject in the so-called
+'finite control' construction in Japanese is due to syntactic or
+semantic factors (Fujii 2006, Gamerschlag 2007, Wang 2011, Akuzawa
+2018, Akuzawa and Wang 2018). In this talk, I review evidence adduced
+by Akuzawa and Wang (2018) for a semantics analysis of finite control
+in Japanese and sketch a preliminary version of a semantics analysis
+of control verbs in Japanese. Verbs that exhibit finite control in
+Japanese range over what at first sight seem to be heterogeneous
+classes, including aspectual, implicative, direcive and reflexive
+verbs. I argue that the common semantic component of this apparently
+non-uniform classes can be captured by extending the notion of
+'responsibility', first identified by Farkas (1988) as an important
+notion in understanding the lexical meanings of control predicates.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 19, 2018
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Webelhuth, Gert: On c-command constraints in German: A corpus-based
+investigation
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Webelhuth, Gert: On c-command constraints in German: A corpus-based
+investigation
+</h1>
+
+<div class="blurb"
+<p>
+Reinhart (1983) proposed that quantificational binding is
+subject to a surface c-command condition. Her claim has been widely accepted in the literature on
+the syntax-semantics interface. Barker (2012) presented what he claimed to constitute systematic
+counterevidence against the c-command requirement from English. It has been argued, however, that
+the relevant data does not instantiate quantificational binding but mere covariation, which does not
+require c-command.
+<p>
+This talk will address assumed quantificational binding in a number of constructions in German. Corpus data reveals potential counterexamples similar to Barker’s for English. The status of the examples as binding vs. covariation will be examined, among others by inspecting the behavior of other phenomena deemed to be subject to c-command, such as relative quantifier scope and negative polarity.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2020
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,117 @@
+Beermann, Dorothee & Hellan, Lars # NTNU Trondheim # A treatment of directionals in implemented HPSG Grammars # October 2004 # #
+This article proposes a semantics of directional expressions in Norwegian and
+German, regarded as VP modifiers. The analysis uses Minimal Recursion
+Semantics, as an integrated part of Matrix-based HPSG grammars. Directional
+expressions are analyzed as modifying an individual, the 'mover'. Context
+dependent directionals like here receive a decomposed analysis. Telicity values
+reflecting various types of directional and locative expressions are computed.
+
+
+Copestake, Ann # University of Cambridge # Semantics and Generation # October 2004 # no #
+Natural language generation utilising linguistically-motivated, 
+general-purpose, grammars can conveniently be thought of as involving two 
+components. The first component involves constructing some logical form that 
+is accepted by the grammar, while the second (called tactical generation, or 
+now more usually, realisation) involves going from the logical form to a 
+string.    My main interest is in realisation, and in particular, the 
+implications that supporting tractable realisation has for the nature of 
+logical form in computational grammars. I am not concerned here with 
+denotation, but with the form of the semantic representation and with the way 
+that composition operates.
+There are two main considerations. Firstly, we can make the realisation 
+problem more or less difficult, depending on the meaning representation we 
+choose, even though the denotation is the same.  Secondly, structure in the 
+logical form may be exploited to guide realisation, and this may be necessary 
+for realisation to work at all. But structure that reflects the syntax of the 
+language too closely is generally to be avoided, since it can make it 
+impossible for the input to the realiser to be constructed without detailed 
+knowledge of the grammar.
+The Minimal Recursion Semantics (MRS: Copestake et al, in press) approach was 
+designed to be usable for generation.
+<p>
+Robust realisation has three requirements:
+<ol>
+<li> A realisation algorithm that is efficient with minimal guidance from the 
+logical form syntax.
+<li> A formalism that allows sufficient abstraction over syntax that 
+constructing the input to the realiser is doable.
+<li> An interface layer expressing those constraints imposed by the grammar that 
+have to be known to construct the input.
+</ol>
+Carroll et al (1999) describe an approach to chart generation which partially 
+met these conditions.  A paper describing the approach to generation currently 
+implemented in the LKB is in preparation: this will discuss the extent to 
+which we meet these requirements now.
+<p>
+<br>
+<br>
+John Carroll, Ann Copestake, Dan Flickinger and Victor Poznanski (1999)
+`An Efficient Chart Generator for (Semi-)Lexicalist Grammars'
+Proceedings of the 7th European Workshop on Natural Language
+Generation (EWNLG'99), Toulouse, 86-95
+<p>
+Ann Copestake, Dan Flickinger, Ivan Sag and Carl Pollard
+Minimal Recursion Semantics: An introduction
+Research on Language and Computation
+in press
+
+Crysmann, Berthold  # DFKI, Saarland University # Underspecification of Intersective Modifier Attachment: Some Arguments from German # October 2004 # # 
+In this paper, I shall discuss the semantic attachment of intersective
+modifiers in German coherent constructions. I shall show that a purely
+syntactic solution to the observable attachment ambiguity is undesirable for
+reasons of processing e ciency and/or massive spurious ambiguity. Instead, I
+shall follow Egg and Lebeth (1995) and propose an extension to Minimal
+Recursion Semantics, permitting the expression of underspecified semantic
+attachment. This rather trivial move, as we shall see, will not only be
+preferable for processing reasons, but it will also be more in line with the
+spirit of underspecified semantics, e ectively providing a compact
+representation of purely semantic distinctions, instead of unfolding these
+distinctions into a rain forest of tree representations and derivations. I will
+present an implementation of the underspecification approach integrated into
+the German HPSG developed at DFKI and compare its e ciency to an alternative
+implementation where semantic attachment is unfolded by means of retrieval
+rules.
+
+
+Frank, Anette  & Spreyer, Kathrin  & Drożdżyński, Witold  &  Krieger, Hans-Ulrich & Schäfer, Ulrich # DFKI Saarbrücken # Constraint-Based RMRS Construction from Shallow Grammars # October 2004 # #
+We present a constraint-based syntax-semantics interface 
+for the construction of RMRS (Robust Minimal Recursion 
+Semantics) representations from shallow grammars. The 
+architecture is designed to allow modular interfaces to 
+existing shallow grammars of various depth - ranging 
+from chunk grammars to context-free stochastic grammars. 
+We define modular semantics construction principles in 
+a typed feature structure formalism that allow flexible 
+adaptation to alternative grammars and different languages.
+
+
+Haugereid, Petter  # NTNU Trondheim # Linking in Constructions # October 2004 # #
+In this paper I will make an attempt to show how the linking normally done in
+the lexicon also can be done in constructions. The motivation behind this is
+the flexibility it gives the grammar writer in underspecifying lexical
+entries. Being too rigid about linking in the lexicon may lead to unsatisfying
+results such as multiple lexical entries for what one intuitively feels is just
+one lexical entry, or alternatively, lexical rules which are not
+morphologically motivated. The aim is to show that this can be avoided by
+letting constructions introduce the linking information instead.
+
+Penn, Gerald  & Richter, Frank  # University of Toronto & Universität Tübingen # Lexical Resource Semantics: From Theory to Implementation # October 2004 # #
+This paper summarizes the architecture of Lexical Resource Semantics
+(LRS).  It demonstrates how to encode the language of two-sorted
+theory (Ty2; Gallin, 1975) in typed feature logic (TFL), and then
+presents a formal constraint language that can be used to extend
+conventional description logics for TFL to make direct reference to
+Ty2 terms.   A reduction of this extension to Constraint Handling
+Rules (CHR; Fruehwirth & Abdennadher, 1997} for the purposes of
+implementation is also presented.
+
+
+Søgaard, Anders  # Katholieke Universiteit Leuven # A Compound Matrix # October 2004 # #
+This paper presents a suplement to the Grammar Matrix, namely what I call a
+Compound Matrix ; in reality, it is not a matrix, since the type file includes
+a fully specified cross-linguistic inventory of compound types. The idea is
+that the grammar writer can comment out the ungrammatical types for his or her
+own language. The theory behind the typology is presented here in a bottom-up
+fashion, from the basic assumptions to the actual linguistic types.
+
+

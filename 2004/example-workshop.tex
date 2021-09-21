@@ -1,0 +1,93 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%   $RCSfile: example.tex,v $
+%%  $Revision: 1.1 $
+%%      $Date: 2004/08/11 09:52:43 $
+%%     Author: Stefan Mueller (CL Uni Bremen)
+%%    Purpose: Example file for contributions to the HPSG proceedings
+%%   Language: LaTeX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[11pt,a4paper,fleqn]{article}
+\usepackage{times}
+\pagestyle{empty}
+
+\usepackage[sectionbib]{natbib}
+
+
+% If you want to make your paper more usable for readers,
+% insert the following code.
+% It links references to sections, examples, and citations
+% in the document and provides bookmarks for sections and subsections.
+
+%% \usepackage[bookmarks=true,bookmarksopen=true,hyperindex=true,breaklinks=true,draft=false,plainpages=false,hyperfootnotes=false,%
+%% colorlinks=false, pdfborder={0 0 0},%
+%% %pdftex=true]{hyperref}  % use this if you use pdflatex
+%% ps2pdf=true]{hyperref}% use this if you use ps2pdf, i.e. if you use tree-dvips
+
+
+
+
+\title{My Really Interesting Discovery}
+
+\author{Stefan Müller\\
+Univerität Bremen}
+
+\begin{document}
+%\maketitle
+
+\begin{center}
+\Large
+My Really Interesting Discovery\\[\baselineskip]
+
+Author's Name\\[\baselineskip]
+Author's Affiliaton\\[3\baselineskip]
+
+                Proceedings of the HPSG04 Conference\\
+                Workshop on Semantics in Grammar Engineering\\[\baselineskip]
+
+                Center for Computational Linguistics\\
+                Katholieke Universiteit Leuven\\[\baselineskip]
+
+                        Stefan M{\"u}ller (Editor)\\[\baselineskip]
+
+                                2004\\[\baselineskip]
+
+                          CSLI Publications\\[\baselineskip]
+
+              http://csli-publications.stanford.edu/
+
+\end{center}
+
+\newpage
+
+\begin{abstract}
+I made a really important discovery that will change linguistics.
+\end{abstract}
+
+\setcounter{footnote}{2}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\footnotetext{
+I thank X and Y.}
+\renewcommand{\thefootnote}{\arabic{footnote}}
+\setcounter{footnote}{0}
+
+
+\section{Introduction}
+
+
+\section{Conclusion}
+
+\citet{ps,ps2} were right.
+
+\bibliographystyle{natbib.fullname} 
+\bibliography{biblio}
+
+
+
+\end{document}
+
+% Local variables:
+% mode: font-lock
+% End:
+

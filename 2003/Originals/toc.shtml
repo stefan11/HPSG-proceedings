@@ -1,0 +1,288 @@
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+      <!-- This site generated using MacPerl, BBEdit, Adobe Illustrator, and Adobe Photoshop on MacOS-->
+<head>
+<title>HPSG '03 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta NAME="keywords" CONTENT=", , ">
+
+
+<script language ="JavaScript">
+var name = null;
+cold_index = new Image();
+cold_order = new Image();
+cold_contact = new Image();
+cold_site_index = new Image();
+cold_backlist = new Image();
+cold_authors = new Image();
+cold_search = new Image();
+cold_new_books = new Image();
+hot_index = new Image();
+hot_order = new Image();
+hot_contact = new Image();
+hot_site_index = new Image();
+hot_backlist = new Image();
+hot_authors = new Image();
+hot_search = new Image();
+hot_new_books = new Image();
+cold_index.src = "../../gif/indexButton.gif";
+cold_order.src = "../../gif/orderButton.gif";
+cold_contact.src = "../../gif/contactButton.gif";
+cold_site_index.src = "../../gif/site_indexButton.gif";
+cold_backlist.src = "../../gif/backlistButton.gif";
+cold_authors.src = "../../gif/authorsButton.gif";
+cold_search.src = "../../gif/searchButton.gif";
+cold_new_books.src = "../../gif/new_booksButton.gif";
+hot_index.src = "../../gif/index_hotButton.gif";
+hot_order.src = "../../gif/order_hotButton.gif";
+hot_contact.src = "../../gif/contact_hotButton.gif";
+hot_site_index.src = "../../gif/site_index_hotButton.gif";
+hot_backlist.src = "../../gif/backlist_hotButton.gif";
+hot_authors.src = "../../gif/authors_hotButton.gif";
+hot_search.src = "../../gif/search_hotButton.gif";
+hot_new_books.src = "../../gif/new_books_hotButton.gif";
+    
+
+function hotLHS(imageName) {
+    if (document.images) {
+        hotText = eval("hot_" + imageName + ".src");
+        document [imageName].src = hotText;
+}}
+
+function coldLHS(imageName) {
+    if (document.images) {
+        coldText = eval("cold_" + imageName + ".src");
+        document [imageName].src = coldText;
+}}
+
+</script> </head>
+<body BGCOLOR=FFFFFF>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/index.html><img ALT="CSLI Publications logo" SRC=../../gif/logo.gif BORDER=0 HEIGHT=68 WIDTH=180></a></td><td><img SRC=../../gif/backlistTitle.gif HEIGHT=68 WIDTH=468></td></tr></table></tr></td><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0 VALIGN=top><tr><td HEIGHT=276 WIDTH=87 VALIGN=top BACKGROUND=../../gif/left.gif>
+
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/new_books.html onMouseover="hotLHS('new_books')" onMouseout="coldLHS('new_books')"><img BORDER=0 SRC=../../gif/new_booksButton.gif NAME=new_books HEIGHT=20 WIDTH=87 ALT=new_books></a></td></tr><tr><td><a HREF=../../site/backlist.html onMouseover="hotLHS('backlist')" onMouseout="coldLHS('backlist')"><img BORDER=0 SRC=../../gif/backlistButton.gif NAME=backlist HEIGHT=20 WIDTH=87 ALT=backlist></a></td></tr><tr><td><a HREF=../../site/site_index.html onMouseover="hotLHS('site_index')" onMouseout="coldLHS('site_index')"><img BORDER=0 SRC=../../gif/site_indexButton.gif NAME=site_index HEIGHT=20 WIDTH=87 ALT=site_index></a></td></tr><tr><td><img SRC="../../gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/contact.html onMouseover="hotLHS('contact')" onMouseout="coldLHS('contact')"><img BORDER=0 SRC=../../gif/contactButton.gif NAME=contact HEIGHT=20 WIDTH=87 ALT=contact></a></td></tr><tr><td><a HREF=../../site/authors.html onMouseover="hotLHS('authors')" onMouseout="coldLHS('authors')"><img BORDER=0 SRC=../../gif/authorsButton.gif NAME=authors HEIGHT=20 WIDTH=87 ALT=authors></a></td></tr><tr><td><img SRC="../../gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/order.html onMouseover="hotLHS('order')" onMouseout="coldLHS('order')"><img BORDER=0 SRC=../../gif/orderButton.gif NAME=order HEIGHT=20 WIDTH=87 ALT=order></a></td></tr><tr><td><img SRC="../../gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/search.html onMouseover="hotLHS('search')" onMouseout="coldLHS('search')"><img BORDER=0 SRC=../../gif/searchButton.gif NAME=search HEIGHT=20 WIDTH=87 ALT=search></a></td></tr></table></td>
+<td HEIGHT=276 WIDTH=474 VALIGN=top BGCOLOR=FFFFFF>
+<table BORDER=0 CELLPADDING=7 CELLSPACING=0><tr><td>
+<tr><td>
+<font face="Arial,helvetica" size="+2">
+Proceedings of the 10th International Conference on Head-Driven Phrase Structure Grammar
+</font><p>
+<font face="Arial,helvetica" size="+1">Table of Contents</font>
+<font face="Arial,helvetica" size="0">
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg03.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg03.pdf"-->).
+<br><br>
+<li><a href=http://www.llf.cnrs.fr/fr/Abeille/>Anne Abeillé</a> (Universite Paris 7)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">A Lexicon- and Construction-Based Approach to Coordinations
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-abeille.shtml>abstract</a>,
+<a href=abeille.pdf>pages 5 - 25</a>
+<p>
+
+<li><a href=http://www.llf.cnrs.fr/fr/Abeille/>Anne Abeillé</a> and <a href=http://www.llf.cnrs.fr/fr/Godard/>Danièle Godard</a> (Universite Paris 7)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">The Syntactic Flexibility of Adverbs: French Degree Adverbs
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-ag.shtml>abstract</a>,
+<a href=abeille-godard.pdf>pages 26 - 46</a>
+<p>
+
+<li><a href=http://www-csli.stanford.edu/~jbeavers/>John Beavers</a> (Stanford University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">More Heads and Less Categories: A New Look at Noun Phrase Structure
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-beavers.shtml>abstract</a>,
+<a href=beavers.pdf>pages 47 - 67</a>  (<a href=beavers.ps>ps</a>)
+<p>
+
+<li><a href=http://www.llf.cnrs.fr/fr/Bonami/>Olivier Bonami</a> (Universite Rennes 2) and <a href=http://www.llf.cnrs.fr/fr/Godard/>Daniele Godard</a> (Universite Paris 7)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Incidental Adjuncts: An Overlooked Type of Adjunction
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-bg.shtml>abstract</a>, paper not submitted
+<p>
+
+<li><a href=http://www.let.rug.nl/~gosse/>Gosse Bouma</a> (Rijskuniversiteit Groningen)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Word Order and Scope of Adjuncts in Dutch
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-bouma.shtml>abstract and information about the paper</a>
+<p>
+
+<li><a href=http://ccwf.cc.utexas.edu/~incheol/>Incheol Choi</a> and <a href=http://uts.cc.utexas.edu/~wechsler/>Stephen Wechsler</a> (University of Texas at Austin)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">The Korean Dative
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-cw.shtml>abstract</a>, paper not submitted
+<p>
+
+<li><a href=http://www.dongseo.ac.kr/eng_dsu/Academic/Foreignlang/English/Faculty/chungchan.shtml>Chan Chung</a> (Dongseo University) and <a href=http://web.kyunghee.ac.kr/~jongbok/>Jong-Bok Kim</a> (Kyung Hee University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Capturing Word Order Asymmetries in English
+Left-Peripheral Constructions: A Domain-Based Approach
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-ck.shtml>abstract</a>,
+<a href=chung-kim.pdf>pages 68 - 87</a>
+<p>
+
+<li><a href=http://www.ling.ohio-state.edu/~kdk/>Kordula De Kuthy</a> and <a href=http://www.ling.ohio-state.edu/~dm/>W. Detmar Meurers</a> (Ohio State University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Dealing with Optional Complements in HPSG-Based Grammar Implementations 
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-dkm-o.shtml>abstract</a>,
+<a href=dekuthy-meurers-optionality.pdf>pages 88 - 96</a>
+<p>
+
+<li><a href=http://www.ling.ohio-state.edu/~kdk/>Kordula De Kuthy</a> and <a href=http://www.ling.ohio-state.edu/~dm/>W. Detmar Meurers</a> (Ohio State University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">The Secret Life of Focus Exponents, and What it Tells Us about Fronted Verbal Projections
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-dkm-f.shtml>abstract</a>,
+<a href=dekuthy-meurers-focus.pdf>pages 97 - 110</a>
+<p>
+
+
+
+<li><a href=http://lingo.stanford.edu/dan/>Dan Flickinger</a> (Stanford University) and <a href=http://www.kecl.ntt.co.jp/icl/mtg/members/bond/>Francis Bond</a> (NTT Communication Science Labs)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">A Two-Rule Analysis of Measure Noun Phrases
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-fb.shtml>abstract</a>,
+<a href=flickinger-bond.pdf>pages 111 - 121</a>
+<p>
+
+<li><a href=http://www.iles.umn.edu/jeanette_gundel.htm>Jeanette Gundel</a> (University of Minnesota)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Information Structure and Referential Givenness/Newness: How Much Belongs in the Grammar? (invited talk)
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-gundel.shtml>abstract</a>,
+<a href=gundel.pdf>pages 122 - 142</a>
+<p>
+
+<li><a href=http://www.chass.utoronto.ca/~mhaji/>Mohammad Haji-Abdolhosseini</a> (University of Toronto)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">A Constraint-Based Approach to Information Structure and Prosody Correspondence
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-haji.shtml>abstract</a>,
+<a href=haji-abdolhosseini.pdf>pages 143 - 162</a>
+<p>
+
+<li><a href=http://www.cl.uni-heidelberg.de/~holler/>Anke Holler</a> (University of Heidelberg and TEMIS Deutschland)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">An HPSG Analysis of the Non-Integrated Wh-Relative Clauses in German
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-holler.shtml>abstract</a>,
+<a href=holler.pdf>pages 163 - 180</a>
+<p>
+
+<li><a href=http://www.stanford.edu/~tiflo/>Florian Jaeger</a> (Stanford University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Topics First! In- and Outside of Bulgarian Wh-Interrogatives
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-jaeger.shtml>abstract</a>,
+<a href=jaeger.pdf>pages 181 - 202</a>  (<a href=jaeger.ps>ps</a>)
+<p>
+
+<li><a href=http://www.linguistics.berkeley.edu/~kathol/>Andreas Kathol</a> (University of California Berkeley)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Cooperating Constructions in Lai <Q>Lexical Insertion</Q>
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-kathol.shtml>abstract</a>,
+<a href=kathol.pdf>pages 203 - 221</a>
+<p>
+
+<li><a href=http://linguistics.buffalo.edu/people/faculty/koenig/koenig.shtml>Jean-Pierre Koenig</a> (University at Buffalo, SUNY) and <a href=http://www-csli.stanford.edu/~tdavis/>Anthony Davis</a> (Streamsage, Inc)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Semantically Transparent Linking in HPSG
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-kd.shtml>abstract</a>,
+<a href=koenig-davis.pdf>pages 222 - 235</a>
+<p>
+
+<li><a href=http://www.ling.ohio-state.edu/~levine/>Robert D. Levine</a> (Ohio State University) and <a href=http://www-csli.stanford.edu/~sag/>Ivan A. Sag</a> (Stanford University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Some Empirical Issues in the Grammar of Extraction
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-ls.shtml>abstract</a>,
+<a href=levine-sag.pdf>pages 236 - 256</a>
+<p>
+
+<li><a href=http://www.stanford.edu/~rog/>Roger Levy</a> and <a href=http://www.stanford.edu/~davidyo/>David Yoshikazu Oshima</a> (Stanford University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Non-Transitive Information Flow in Japanese Noun-Classifier Matching
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-lo.shtml>abstract</a>,
+<a href=levy-oshima.pdf>pages 257 - 277</a>
+<p>
+
+<li><a href=http://www-rohan.sdsu.edu/~malouf/>Robert Malouf</a> (San Diego State University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">A Quantitative Look at Mixed Category Constructions (invited talk)
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-malouf.shtml>abstract</a>, paper not submitted
+<p>
+
+<li><a href=http://www.ling.ohio-state.edu/~vmetcalf/>Vanessa Metcalf</a> (Ohio State University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">A linearization account of Spanish obligatory subject NP inversion
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;">abstract and paper not submitted
+<p>
+
+<li><a name=stmue><a href=http://www.cl.uni-bremen.de/~stefan/>Stefan Müller</a></a> (University of Bremen)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Object-to-Subject-Raising and Lexical Rule: An Analysis of the German Passive
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-mueller.shtml>abstract</a>,
+<a href=mueller.pdf>pages 278 - 297</a>
+<p>
+
+<li><a href=mailto:sabadell@csc.albany.edu>Luis Paris</a> (University at Albany, SUNY) and <a href=http://linguistics.buffalo.edu/people/faculty/koenig/koenig.shtml>Jean-Pierre Koenig</a> (University at Buffalo, SUNY)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">What Does It Mean to Be a Complement?
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-pk.shtml>abstract</a>,
+<a href=paris-koenig.pdf>pages 298 - 317</a>
+<p>
+
+<li><a href=http://www.cs.toronto.edu/~gpenn/>Gerald Penn</a> and <a href=http://www.cs.toronto.edu/~hoetmer/>Kenneth Hoetmer</a> (University of Toronto)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">In Search of Epistemic Primitives in the English Resource Grammar (or Why HPSG Can't Live without Higher-Order Datatypes)
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-ph.shtml>abstract</a>,
+<a href=penn-hoetmer.pdf>pages 318 - 337</a><p>
+
+<li><a href=http://www.dcs.kcl.ac.uk/pg/purver/>Matthew Purver</a> and <a href=http://www.dcs.kcl.ac.uk/staff/ginzburg/>Jonathan Ginzburg</a> (King's College London)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Clarifying Noun Phrase Semantics in HPSG
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-pg.shtml>abstract</a>,
+<a href=purver-ginzburg.pdf>pages 338 - 358</a>
+<p>
+
+<li><a href=http://www.ling.rochester.edu/faculty/runner.shtml>Jeffrey T. Runner</a> (University of Rochester) and <a href=mailto:raranovich@ucdavis.edu>Raul Aranovich</a> (University of California Davis)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Noun Incorporation and Rule Interaction in the Lexicon
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-ra.shtml>abstract</a>,
+<a href=runner-aranovich.pdf>pages 359 - 379</a>
+<p>
+
+<li><a href=http://www.iccs.informatics.ed.ac.uk/~das/>David Schlangen</a> and <a href=http://www.cogsci.ed.ac.uk/~alex/>Alex Lascarides</a> (University of Edinburgh)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">A Compositional and Constraint-Based Approach to Non-Sentential Utterances
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-sl.shtml>abstract</a>,
+<a href=schlangen-lascarides.pdf>pages 380 - 390</a>
+<p>
+
+<li><a href=http://www.stanford.edu/~sells/>Peter Sells</a> (Stanford University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Negatives of imperatives
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-sells.shtml>abstract and information about the paper</a>
+<p>
+
+<li><a href=http://www.bcs.rochester.edu/people/mtan/mtan.shtml>Michael K. Tanenhaus</a> (University of Rochester)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Interactions with Context in Language Comprehension: Implications and Challenges (invited talk)
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-tanenhaus.shtml>abstract</a>, paper not submitted
+<p>
+
+<li><a href=http://www.ccl.kuleuven.ac.be/~frank/>Frank Van Eynde</a> (K.U.Leuven)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">On the Notion `Determiner'
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-ve.shtml>abstract</a>,
+<a href=van-eynde.pdf>pages 391 - 396</a>
+<p>
+
+<li><a href=mailto:ejyoo@snu.ac.kr>Eun-Jung Yoo</a> (Seoul National University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Specificational Pseudoclefts in English
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-yoo.shtml>abstract</a>,
+<a href=yoo.pdf>pages 397 - 416</a>
+<p>
+
+
+<li><a href=mailto:kei@intcul.tohoku.ac.jp>Kei Yoshimoto</a> and <a href=http://www005.upp.so-net.ne.jp/mkoba/>Masahiro Kobayashi</a> (Tohoku University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Floating Quantifiers in Japanese as Non-Floating Anaphora
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-yk.shtml>abstract</a>, paper not submitted
+<p>
+
+</ul>
+</font>
+
+<p style="line-height:150%;"><hr>
+
+<font FACE="arial, helvetica" SIZE=-1><i>
+Maintained by <a href="http://www.cl.uni-bremen.de/~stefan/">Stefan M&uuml;ller</a></address> 
+
+<br>Created: October 2003
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"--></i></i>
+
+</font>
+
+
+
+
+
+
+
+
+
+
+
+<font FACE="arial, helvetica" SIZE=-1><p></font><font FACE="arial, helvetica" SIZE=-1><i><p></i></font><font FACE="arial, helvetica" SIZE=-1><i><p></i></font></td></tr><tr HEIGHT=30><td valign=bottom></a></a></td></tr></table></td>
+
+<td valign=top><img SRC="/gif/CSINRight.gif" WIDTH=89 HEIGHT=1 BORDER=0></td>
+</font></tr></td></table></td><td VALIGN=top><img SRC=/gif/backlistRight.gif HEIGHT=276 WIDTH=87></td></tr></table></tr></td>
+<tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td HEIGHT=68 WIDTH=268>
+
+<table BORDER=0 CELLPADDING=5 CELLSPACING=0 BACKGROUND=/gif/bottom.gif><tr><td HEIGHT=68 WIDTH=268 VALIGN=bottom ALIGN=right>
+<font FACE="arial, helvetica" SIZE=-1 COLOR=000055><a HREF=mailto:pubs@roslin.stanford.edu>pubs@roslin.stanford.edu</a>
+</font></td></tr></table></td>
+<td><img SRC=/gif/logo_bottom.gif HEIGHT=68 WIDTH=380></td></tr></table></tr></td></table></body></html>

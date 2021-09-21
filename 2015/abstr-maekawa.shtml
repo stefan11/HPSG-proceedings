@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Maekawa, Takafumi: `Agreement mismatch' between sort/kind/type and the determiner
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="`Agreement mismatch' between sort/kind/type and the determiner">
+<meta name="citation_author"           content="Maekawa, Takafumi">
+<meta name="citation_conference_title" content="Proceedings of the 22nd International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="136">
+<meta name="citation_lastpage"         content="156">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2015/maekawa.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Maekawa, Takafumi: `Agreement mismatch' between sort/kind/type and the determiner
+</h1>
+
+<div class="blurb"
+<p>
+A singular countable noun 
+in English normally needs a determiner and they should agree in number. However, there is a type of noun phrase, such as ‘these sort of skills’, which
+ does not conform to this generalisation. As a singular countable common noun, the noun ‘sort’ requires a determiner, but there is an agreement mismat
+ch here: ‘sort’ is singular but the determiner is plural. Rather, the determiner agrees with the NP after the preposition ‘of’. There are several po
+ssible analyses that might be proposed, but the best analysis is the one in which ‘sort’ and the preposition ‘of’ are ‘functors’, non-heads selecting heads.
+  
+<P>
+<ul>
+<li><a href="maekawa.pdf">download PDF</a>
+<li><a href="maekawa.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 15 October 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

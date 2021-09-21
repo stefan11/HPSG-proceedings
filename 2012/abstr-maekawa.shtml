@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Maekawa, Takafumi: Negative Inversion Constructions in HPSG
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Maekawa, Takafumi: Negative Inversion Constructions in HPSG
+</h1>
+
+<div class="blurb"
+<p>
+The major analyses of the negative inversion (NI) constructions in the
+Minimalist/Principles-and-Parameters theory claim that the initial negative expression occupies
+[Spec,FocP]. In this paper, I argue that there is a body of data which are problematic for the
+Minimalist/Principles-and-Parameters analyses but that HPSG can provide a fairly straightforward
+account of the facts. The use of hierarchically organised network of clausal types allows us to
+accommodate not just the construction-specific properties of NI sentences but also the regularities
+that they share with other constructions with subject-auxiliary inversion.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

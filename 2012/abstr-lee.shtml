@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Lee, Juwon: The Direct Evidential <em>-te</em> in Korean:  Its Interaction with Person and Experiencer Predicates
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="The Direct Evidential <em>-te</em> in Korean:  Its Interaction with Person and Experiencer Predicates">
+<meta name="citation_author"           content="Lee, Juwon">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="251">
+<meta name="citation_lastpage"         content="271">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/lee.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Lee, Juwon: The Direct Evidential <em>-te</em> in Korean:  Its Interaction with Person and Experiencer Predicates
+</h1>
+
+<div class="blurb"
+<p>
+This paper discusses the complex relations among the direct evidential <em>-te</em>, person, and experiencer
+predicates in Korean. The questions of the paper are: (i) how the three components are related with
+each other in the evidential sentences, and (ii) how the interactions of the three components can be
+formally analyzed to correctly license only the well-formed evidential sentences. I show that in
+direct evidential construction with a non-private predicate (e.g. <em>pwutulep-</em> ‘soft’), the
+asserter/epistemic authority (i.e. the speaker <em>na</em> ‘I’ in declarative or the addressee <em>ne</em> ‘you’ in
+question) must be the experiencer of the predicate, but there is no such constraint in direct
+evidential construction with a private predicate (e.g. <em>aphu-</em> ‘sick’). I also show that the direct
+evidential construction with a non-private predicate is an instance of self-ascription. Then I
+propose an analysis of the experiencer predicates and associated lexical rules in the Minimal
+Recursion Semantics (MRS) (Copestake, et al., 2005) of Head-driven Phrase Structure Grammar (HPSG)
+(Pollard and Sag, 1994; Sag, et al., 2003).
+  
+<P>
+<ul>
+<li><a href="lee.pdf">download PDF</a>
+<li><a href="lee.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 18
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

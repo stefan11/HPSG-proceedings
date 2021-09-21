@@ -1,0 +1,159 @@
+<html>
+<head>
+<title>The Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+
+<script language ="JavaScript">
+var name = null;
+cold_index = new Image();
+cold_order = new Image();
+cold_contact = new Image();
+cold_site_index = new Image();
+cold_backlist = new Image();
+cold_authors = new Image();
+cold_search = new Image();
+cold_new_books = new Image();
+hot_index = new Image();
+hot_order = new Image();
+hot_contact = new Image();
+hot_site_index = new Image();
+hot_backlist = new Image();
+hot_authors = new Image();
+hot_search = new Image();
+hot_new_books = new Image();
+cold_index.src = "/gif/indexButton.gif";
+cold_order.src = "/gif/orderButton.gif";
+cold_contact.src = "/gif/contactButton.gif";
+cold_site_index.src = "/gif/site_indexButton.gif";
+cold_backlist.src = "/gif/backlistButton.gif";
+cold_authors.src = "/gif/authorsButton.gif";
+cold_search.src = "/gif/searchButton.gif";
+cold_new_books.src = "/gif/new_booksButton.gif";
+hot_index.src = "/gif/index_hotButton.gif";
+hot_order.src = "/gif/order_hotButton.gif";
+hot_contact.src = "/gif/contact_hotButton.gif";
+hot_site_index.src = "/gif/site_index_hotButton.gif";
+hot_backlist.src = "/gif/backlist_hotButton.gif";
+hot_authors.src = "/gif/authors_hotButton.gif";
+hot_search.src = "/gif/search_hotButton.gif";
+hot_new_books.src = "/gif/new_books_hotButton.gif";
+    
+
+function hotLHS(imageName) {
+    if (document.images) {
+        hotText = eval("hot_" + imageName + ".src");
+        document [imageName].src = hotText;
+}}
+
+function coldLHS(imageName) {
+    if (document.images) {
+        coldText = eval("cold_" + imageName + ".src");
+        document [imageName].src = coldText;
+}}
+
+</script></head>
+<body BGCOLOR=FFFFFF>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=/site/index.html><img ALT="CSLI Publications logo" SRC=/gif/logo.gif BORDER=0 HEIGHT=68 WIDTH=180></a></td><td><img SRC=/gif/backlistTitle.gif HEIGHT=68 WIDTH=468></td></tr></table></tr></td><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0 VALIGN=top><tr><td HEIGHT=276 WIDTH=87 VALIGN=top BACKGROUND=/gif/left.gif>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=/site/new_books.html onMouseover="hotLHS('new_books')" onMouseout="coldLHS('new_books')"><img BORDER=0 SRC=/gif/new_booksButton.gif NAME=new_books HEIGHT=20 WIDTH=87 ALT=new_books></a></td></tr><tr><td><a HREF=/site/backlist.html onMouseover="hotLHS('backlist')" onMouseout="coldLHS('backlist')"><img BORDER=0 SRC=/gif/backlistButton.gif NAME=backlist HEIGHT=20 WIDTH=87 ALT=backlist></a></td></tr><tr><td><a HREF=/site/site_index.html onMouseover="hotLHS('site_index')" onMouseout="coldLHS('site_index')"><img BORDER=0 SRC=/gif/site_indexButton.gif NAME=site_index HEIGHT=20 WIDTH=87 ALT=site_index></a></td></tr><tr><td><img SRC="/gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=/site/contact.html onMouseover="hotLHS('contact')" onMouseout="coldLHS('contact')"><img BORDER=0 SRC=/gif/contactButton.gif NAME=contact HEIGHT=20 WIDTH=87 ALT=contact></a></td></tr><tr><td><a HREF=/site/authors.html onMouseover="hotLHS('authors')" onMouseout="coldLHS('authors')"><img BORDER=0 SRC=/gif/authorsButton.gif NAME=authors HEIGHT=20 WIDTH=87 ALT=authors></a></td></tr><tr><td><img SRC="/gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=/site/order.html onMouseover="hotLHS('order')" onMouseout="coldLHS('order')"><img BORDER=0 SRC=/gif/orderButton.gif NAME=order HEIGHT=20 WIDTH=87 ALT=order></a></td></tr><tr><td><img SRC="/gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=/site/search.html onMouseover="hotLHS('search')" onMouseout="coldLHS('search')"><img BORDER=0 SRC=/gif/searchButton.gif NAME=search HEIGHT=20 WIDTH=87 ALT=search></a></td></tr></table></td>
+
+<td HEIGHT=276 WIDTH=474 VALIGN=top BGCOLOR=FFFFFF>
+<table BORDER=0 CELLPADDING=7 CELLSPACING=0><tr><td>
+
+
+
+
+
+
+
+
+
+
+<font face="arial, helvetica" size=+2>
+The Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar 
+</font>
+
+<font face="arial, helvetica" size=+1>
+
+<p>Center for Computational Linguistics, Katholieke Universiteit Leuven<br>
+August 03-06, 2004<p>
+
+</font>
+
+<font face="arial, helvetica" size=0>
+Editor: <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan M&uuml;ller</a><br>
+2004 &copy; <a href="http://cslipublications.stanford.edu/index.html">CSLI Publications</a><br>
+ISSN 1535-1793<p>
+
+<a href="toc.shtml">Table of Contents</a>
+</font>
+
+<hr> 
+
+<font face="arial, helvetica" size=0>
+Editor's Note
+</font><p>
+<FONT FACE="arial, helvetica" SIZE=0>
+The 11th International Conference on Head-Driven Phrase Structure Grammar (2004) was held at
+the Center for Computational Linguistics, Katholieke Universiteit Leuven in Belgium.
+<p>
+The conference featured 3 invited talks, 20 papers, and 1 alternate paper,
+selected by the program committee (Gosse Bouma, chair, Jonathan Ginzburg, Jong-Bok Kim, Tibor Kiss, Kordula de Kuthy, Bob Levine, Rob Malouf, Philip Miller, Paola Monachesi, Stefan Müller, John Nerbonne, Ivan Sag, Manfred Sailer, Frank Van Eynde, Eun-Jung Yoo, Kei Yoshimoto). 
+A workshop was attached to the conference. It featured one invited talk
+and 7 papers, selected by the workshop program committee (Dorothee Beermann, Ash Asudeh, Mary Dalrymple, Markus Egg, Lars Hellan, Jean-Pierre Koenig, Valia Kordoni, Manfred Sailer).
+
+In total there were 32 submissions to the main conference and 7 submissions to the
+workshop. <!--, which gives an acceptance rate of %.-->
+We want to thank the respective program committees for putting this nice program together.
+<p>
+Thanks go to Frank van Eynde, who was in charge of local arrangements.
+<p>
+As in the past years the contributions to the conference proceedings are based on the five page abstract
+that was reviewed by the respective program committees, but there is no additional reviewing of the
+longer contribution to the proceedings.
+To ensure easy access and fast publication we have chosen an electronic format.
+<P>
+The proceedings include all the papers except those by  Farrell Ackerman, Irina Nikolaeva, and Rob Malouf,
+Ann Copestake, Liv Ellingsen, Jonathan Ginzburg, Tibor Kiss, and Adam Przepiórkowski and Alexandr Rosen.
+
+<p>
+The <a href="toc.shtml">table of contents</a> lists all the
+papers presented at the conference. Some papers were not submitted to
+the proceedings. For these papers, we suggest contacting the authors
+directly via the e-mail addresses also provided as part of the table
+of contents.
+<p>
+A <a href=hpsg04.bib>list of BibTeX-Entries</a> containing bibliographic
+information is also available.
+</font>
+<p>
+<hr>
+<font FACE="arial, helvetica" SIZE=-1><i>
+<address>
+
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan M&uuml;ller</a></address> 
+
+<br>Created: August 08, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"--></i>
+</font>
+
+
+
+
+
+
+
+
+<font FACE="arial, helvetica" SIZE=-1><p></font><font FACE="arial, helvetica" SIZE=-1><i><p></i></font><font FACE="arial, helvetica" SIZE=-1><i><p></i></font></td></tr><tr HEIGHT=30><td valign=bottom></a></a></td></tr></table></td>
+
+<td valign=top><img SRC="/gif/CSINRight.gif" WIDTH=89 HEIGHT=1 BORDER=0></td>
+</font></tr></td></table></td><td VALIGN=top><img SRC=/gif/backlistRight.gif HEIGHT=276 WIDTH=87></td></tr></table></tr></td>
+<tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td HEIGHT=68 WIDTH=268>
+<table BORDER=0 CELLPADDING=5 CELLSPACING=0 BACKGROUND=/gif/bottom.gif><tr><td HEIGHT=68 WIDTH=268 VALIGN=bottom ALIGN=right>
+<font FACE="arial, helvetica" SIZE=-1 COLOR=000055><a HREF=mailto:pubs@roslin.stanford.edu>pubs@roslin.stanford.edu</a>
+
+</font></td></tr></table></td>
+<td><img SRC=/gif/logo_bottom.gif HEIGHT=68 WIDTH=380></td></tr></table></tr></td></table></body></html>
+

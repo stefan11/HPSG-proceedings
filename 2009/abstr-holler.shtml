@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Holler, Anke: Towards an analysis of the adverbial use of German interrogative <em>was</em>
+(`what')
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Towards an analysis of the adverbial use of German interrogative <em>was</em>
+(`what')">
+<meta name="citation_author"           content="Holler, Anke">
+<meta name="citation_conference_title" content="Proceedings of the 16th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2009">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="131">
+<meta name="citation_lastpage"         content="149">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2009/holler.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Holler, Anke: Towards an analysis of the adverbial use of German interrogative <em>was</em>
+(`what')
+</h1>
+
+<div class="blurb"
+<p>
+The paper discusses the so-called adverbial use of the <em>wh</em>-pronoun
+<em>was</em> (`what'), which establishes a non-standard interrogative
+construction type in German.  It argues that the adverbial use of <em>was</em>
+(`what') is based on the lexical properties of a categorically deficient
+pronoun <em>was</em> (`what'), which bears a causal meaning. In addition,
+adverbial <em>was</em> (`what') differs from canonical argument <em>was</em>
+(`what')  as it is analyzed as a functor which is generated in
+clause-initial position.
+<p>
+By means of empirical facts mainly provided by d'Avis (2001) it is shown
+that <em>was</em> (`what') behaves ambivalently regarding the
+<em>wh</em>-property: On the one hand, <em>was</em> (`what') can introduce an
+interrogative clause, but on the other hand it cannot license
+<em>wh</em>-phrases in situ. While formally analyzing the data against the
+background of existing accounts on <em>wh</em>-interrogatives couched in the
+framework of Head-driven Phrase Structure Grammar, an analysis is developed
+that separates two pieces of information to keep track of the
+<em>wh</em>-information percolating in an interrogative clause. Whereas the
+WH-value models <em>wh</em>-fronting and pied-piping phenomena, the QUE value
+links syntactic and semantic information and thus keeps track of
+<em>wh</em>-phrases in-situ.
+  
+<P>
+<ul>
+<li><a href="holler.pdf">download PDF</a>
+<li><a href="holler.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2009
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

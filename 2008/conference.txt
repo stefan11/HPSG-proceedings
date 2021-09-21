@@ -1,0 +1,217 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+Bender, Emily M. # University of Washington # Radical Non-Configurationality without Shuffle Operators: An Analysis of Wambaya # October 16, 2008 # #
+The word order facts of radically non-configurational languages pose a challenge to HPSG
+approaches which assume both that the surface order of words is the yield of the (tectogrammatical)
+tree and standard HPSG-style cancellation of valence lists. These languages allow discontinuous noun
+phrases, in which modifiers appear separated from their head nouns by arbitrarily many other words
+from the same clause. In this paper, I explore an analysis which preserves
+tectogrammatical-phenogrammatical equivalence, and accounts for the word order facts of Wambaya with
+an analysis based on non-cancellation. This analysis is contrasted with other approaches to
+discontinuous constituents and analyses of other phenomena based on non-cancellation. Finally, I
+explore the implications for current models of semantic compositionality.
+
+Bîlbîie, Gabriela # University Paris 7 # A Syntactic Account of Romanian Correlative Coordination from a Romance Perspective# October 18, 2008 # #
+This paper examines the syntactic behaviour of two omnisyndetic coordinations (also called
+correlative coordinations), i.e. the disjunctive and the conjunctive types in Romanian, by
+explaining its data in a Romance perspective. Major issue has been whether these structures have
+symmetric or asymmetric structures. If all these Romance languages share a symmetric analysis for
+the disjunctive type Conj ... Conj, it is not the case for the conjunctive type. Our aim is to show that
+the postulation of a conjunctional status for the Romanian structure şi ... şi ('both ... and'), which is
+the most widespread view in Romanian grammars, is inadequate for the Romanian data.
+
+Bjerre, Anne  & Bjerre, Tavs # University of Southern Denmark & Aarhus University # <em>There</em>-constructions with transitive verbs # October 14, 2008 # #
+In this paper we address the question of which transitive verbs
+allow there-insertion in Danish. We propose that two constraints
+have to be met in order for verbs to appear in Danish
+there-constructions. Firstly, as have been noted by others, an empty
+direct object position must be available. This constraint is not
+sufficient for restricting the set of verbs in there-constructions.
+We further propose a <q>locative</q> constraint. The transitive verbs allowing
+there-insertion will be shown to coincide with verbs that allow a
+locative analysis.
+
+Drellishak, Scott # University of Washington # Complex Case Phenomena in the Grammar Matrix # October 16, 2008 # #
+This paper describes a number of verbal argument marking patterns found in the world's languages and
+provides HPSG analyses for them.  In addition to commonly-occurring variations of morphosyntactic
+alignment (e.g. nominative-accusative, ergative-absolutive), this paper also presents analyses of
+more complex phenomena, including ergativity splits, Austronesian-style focus-case systems, and
+direct-inverse systems and their interaction with case.
+
+Flickinger, Dan # CSLI, Stanford University # Transparent Heads # October 29, 2008 # #
+Head-complement structures in HPSG identify most properties of the phrase with those of the head
+daughter, except for that valence property (e.g. SUBCAT or COMPS) whose constraints are met by the
+non-head daughter(s) in the phrase.  In this paper I present several phenomena in English syntax
+where idiosyncratic properties of a non-head daughter in a phrase must remain visible on the phrasal
+node, in order to preserve the strong version of the principle of locality in subcategorization. I
+propose a general formal mechanism to effect this occasional transparency of heads with respect to
+certain properties of their complements.
+
+Ito, Chizuru  & Chaves, Rui P.# Osaka University & Lisbon University # Apparent Non-Constituent Coordination in Japanese # October 16, 2008 # #
+Coordination in Japanese poses various puzzles which defy the standard notion of syntactic
+category. On the one hand, one can conjoin structures which one usually would not expect to form any
+constituent, and on the other hand, there are various conjunction particles that are sensitive to
+the kind of conjuncts that they combine with. In this paper we argue against abandoning the usual
+notion of constituency, and redefining the entire grammar of Japanese. We provide a novel
+construction-based account of the data in which the phenomena result from the interaction of the
+coordination construction, ellipsis, and allomorphy of the conjunction particle.
+
+Kiss, Tibor  # Ruhr-Universität Bochum # Towards a Grammar of Preposition-Noun Combinations # October 19, 2008 # #
+Preposition-noun combinations (PNCs) are compositional and
+productive, but not fully regular. In school grammars and many
+theoretical approaches, PNCs are neglected, but they have recently
+been addressed in an HPSG analysis by Baldwin et al. (2006). After
+discussing some basic properties of PNCs, we show that statistical
+methods can be employed to prove that PNCs are indeed productive
+and compositional, which again implies that PNCs should receive a
+syntactic analysis. Such an analysis, however, is impeded by the
+limited regularity of the construction. We will point out why adding
+semantic conditions to syntactic schemata might be necessary but not
+sufficient and turn then to a framework which allows the derivation of
+syntactic (and semantic) generalizations from linguistic data without
+taking recourse to introspective judgments.
+
+Ko, Kil Soo # University Paris 7 #   Korean Postpositions as Weak Syntactic Heads # October 16, 2008 # #
+This paper deals with Korean postpositions. They are treated as suffixes in recent lexicalist
+works. But they differ syntactically from suffixes and we will propose to treat them as clitics,
+i.e. words combining with a phrase in the syntax and attaching to its last lexical item in the
+phonology. We treat them as weak syntactic heads, taking into account their head properties and the
+syntactic similarity between the mother phrase and the host phrase. They take the latter as
+complement and share most of its syntactic properties. Revising the traditional classification, we
+divide postpositions into three subtypes: marking, oblique and semantic postpositions, based on
+their distributional properties, such as optionality, non-nominal marking and stacking, etc. Finally
+we show how our analysis can be described in the HPSG model.
+
+Laurens, Frédéric # Université Paris 7 # French Predicative Verbless Utterances # October 16, 2008 #
+This paper focuses on a specific type of verbless utterance, labeled PVU, which is defined by two properties: 
+<ul>
+<li>PVUs are not discourse fragments.</li>
+<li>PVUs can host a phrase in their right periphery which is coreferential with their external argument. This phrase is labeled <q>&alpha;-phrase</q>.</li>
+</ul>
+</p>
+<p>PVUs are analyzed as clausal predicative phrases. Although PVUs can have various illocutionary forces, their content type is constrained by their syntactic form.</p>
+<p>As for &alpha;-phrases, they are shown to be right-dislocated phrases. Right-dislocation is analyzed as a local anaphoric phenomenon. This approach is consistent with the anaphoric properties of PVUs' external arguments.
+
+Müller, Stefan # Freie Universität Berlin # Towards an HPSG Analysis of Constituent Order in Maltese # October 6, 2008 # no #
+The conference talk dealt with the constituent order in Maltese. It described the orders that are
+possible, including cases in wich objects are realized both by clitics and by full NPs and provided
+an HPSG analysis.  The analysis is implemented in a computer processable grammar fragment, which is
+described in more detail in the proceedings of the first conference on Maltese Linguistics (<a
+href="http://hpsg.fu-berlin.de/~stefan/Pub/maltese-sketch.html">Maltese paper</a>). The full
+description of the grammar fragment covers several other phenomena in addition to constituent order.
+
+Nakazawa, Tsuneko # University of Tokyo # Resultatives in Japanese as Adjuncts # October 16, 2008 # no #
+This paper investigates resultative phrases in Japanese and
+shows that their behaviors are more consistent with adjuncts
+than with obligatorily controlled complements as proposed by
+some authors. It is shown that, as expected of adjuncts,
+Japanese resultative phrases iterate, and do not always take a
+predetermined argument of the main verb as the semantic
+subject or as the antecedent of a reflexive contained in
+resultative phrases. A lexical rule account is given, which
+analyzes resultative phrases as adverbials and places them on
+the valence list of the main verb.
+
+Sato, Yo  & Tam, Wai Lok # King's College § Queen Mary University of London & Tokyo University # Towards a Unified Account of Adjuncts # October 15, 2008 # #
+We present an analysis of adjuncts which, while based on the
+traditional binary adjunction schema, accommodates the phenomena that
+motivate the alternative Adjunct-as-Complement approach, such as
+adjunct extraction and case marking. The key idea is to enable the
+syntactic head (modifiee) to select for its modifier (adjunct) via the
+new valence feature dedicated for adjuncts, while leaving its values
+underspecified. Thus the selectional property of the modifiee
+percolates as well as that of the modifier, dispensing with the need
+to endow adjuncts a complement-like status.
+
+Steinicke, Karen  & Penn, Gerald # Universität Tübingen & University of Toronto # Memory Management for Unification-based Processing of Typed Feature Structures #  October 29, 2008 # #
+We consider two alternatives for memory management in
+typed-feature-structure-based parsers by identifying structural
+properties of grammar signatures that may be of some predictive
+value in determining the consequences of those alternatives.  We
+define these properties, summarize the results of a number of
+experiments on artificially constructed signatures with respect to
+the relative rank of their asymptotic cost at parse-time, and
+experimentally consider how they impact memory management.
+
+Song, Sanghoun  & Choe, Jae-Woong # Korea University # Automatic Construction of Korean Verbal Type Hierarchy using Treebank # October 16, 2008 # #
+The lexical information of verbal lexemes, such as verbs and adjectives, plays an important role in
+syntactic parsing, because the structure of a sentence mainly hinges on the type of verbal lexemes.
+The question we address in this research is how to acquire the argument structure (henceforth
+ARG-ST) of verbal lexemes in Korean.  It is well known that manual build-up of type hierarchy
+usually cost too much time and resources, so an alternative method, namely automatic collection of
+relevant information is much more preferred.  This paper proposes a procedure to automatically
+collect ARG-ST of Korean verbal lexemes from a Korean Treebank.  Specifically, the system we develop
+in this paper first extracts lexical information of ARG-ST of verbal lexemes from a 0.8 million
+graphic word Korean Treebank in an unsupervised way, checks the hierarchical relationship among
+them, and builds up the type hierarchy automatically.  The result is written in an HPSG-style
+annotation, thus making it possible to readily implement the result in an HPSG-based parser for
+Korean.  Finally, the result is evaluated with reference to two Korean dictionaries and also with
+respect to a manually constructed type hierarchy.
+
+
+Tam, Wai Lok & Sato, Yo # Queen Mary University of London & King's College # An Analysis of Pseudopartitives and Measure Phrases that Say
+No to Extra Rules# October 15, 2008 # #
+Our analysis of pseudopartitives and measure phrases draws on the idea of `of' as a copula in a
+pseudopartitive. The copular analysis allows us to avoid the complications caused by treating either
+the numeral-noun combination before the of-phrase or the of-object as the head of a pseudopartitive
+on agreement, and hence to account for all the agreement patterns without creating any extra
+rule. We also outline how we can extend our analysis to handle measure phrases that do not co-occur
+with of-phrases by treating these measure phrases as anaphoric, an analysis that can adapt to the
+anaphoric constructions in classifier languages. Such an analysis does not only come closer to the
+intuition of native speakers but also have an appeal from the perspective of the universality of
+languages.
+
+Tseng, Jesse # CNRS & University of Toulouse # The representation of syllable structure in HPSG # October 16, 2008 # #
+This paper proposes a representation for syllable structure in HPSG, building on previous work by
+Bird and Klein (1994), Höhle (1999), and Crysmann (2002). Instead of mapping segments into a a
+separate part of the sign where syllables are represented structurally, information about
+syllabification is encoded directly in the list of segments, the core of the PHONOLOGY value. Higher
+level prosodic phenomena can operate on a more abstract representation of the sequence of syllables
+derived from the syllabified segments list. The approach is illustrated with analyses of some
+word-boundary phenomena conditioned by syllable structure in French.
+
+Van Eynde, Frank # University of Leuven # Predicate Complements # October 15, 2008 # #
+This paper presents the canonical HPSG treatment of 
+predicate complements and points out a number of problems 
+with it. Then it proposes an alternative  
+and shows how it avoids or solves the problems with the canonical 
+treatment.
+
+
+
+
+Wechsler, Stephen # University of Texas at Austin # Dualist Syntax # October 21, 2008 # #
+A dualist syntax has two components: (1) the lexicon, a structured set
+of formatives ('words'); and (2) rules for combining those formatives into
+utterances. This paper defends syntactic dualism against three
+'monist' challenges.
+First, evidence for lexical argument structure can be found in deverbal
+nominalization, which preserves that structure systematically. Second,
+words represent the smallest units for idiom formation and contextual polysemy
+effects, which is expected on the dualist view but not if word meanings
+are composed in the syntax. Third, the count/mass properties of nouns suggest
+an interleaving of conceptual and grammatical information in semantic
+composition.
+
+
+Yoo, Eun-Jung # Seoul National University  # Transparent Free Relatives in English # October 14, 2008 # #
+Transparent free relatives (TFRs) are constituents involving a
+WH-gap dependency in which the phrase that is predicated
+of the gap associated with 'what', not the wh-phrase
+itself, functions as the syntactic and semantic "nucleus."
+Previous analyses have either treated TFRs as a construction
+radically different from ordinary FRs, utilizing such mechanisms
+as parenthetical placement or grafts, or assimilated them to
+ordinary FRs, relying on abstract/empty head elements and a vague
+semantic relation holding between the gap and the predicate
+phrase. In this paper, we investigate how the puzzling properties
+of English TFRs can be accounted for in HPSG. The paper shows that
+the transparency effect of TRFs can be handled by feature
+inheritance from the nucleus predicate phrase, together with a
+constructional constraint that deals with the exocentric property
+of TFRs.
+
+
+
+
+

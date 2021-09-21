@@ -1,0 +1,86 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+Francis, Elaine J. # Purdue University # The Role of Default Constructions in the Processing of Mismatch: the Case of Possessive Free Relatives # October 14, 2007 # #
+<p>Townsend and Bever (2001) and Ferreira (2003) argue that simple 
+templates representing the most commonly used orderings of arguments 
+within a clause (e.g., NP-V-NP = Agent-Action-Patient) are used early 
+in sentence comprehension to derive a preliminary interpretation before 
+a full parse is completed.  Sentences which match these templates (e.g., 
+active sentences, subject clefts) are understood quickly and accurately, 
+while sentences which deviate from the templates (e.g. passive sentences, 
+object clefts) require additional processing to arrive at the correct interpretation.  
+The present study extends the idea of canonical templates to the domain of noun phrases. 
+I report on two experiments showing that possessive free relative clauses in English, which 
+involve a non-canonical ordering of the head noun, are more difficult to understand than 
+canonically headed noun phrases.  I propose two reasons for this finding: (1) possessive free 
+relatives deviate from the canonical template for interpreting noun phrases; and (2) the formal 
+cues for interpreting possessive free relatives are relatively subtle. More generally I suggest 
+that canonical templates help constrain mismatch in language by making certain kinds of mismatches 
+costly for language users. Finally, I argue that evidence for canonical templates fits best within a 
+parallel-architecture, constructionist theory of grammar.
+
+Goldberg, Adele  # Princeton University # Argument structure constructions: Lexical or Phrasal? # October 2007 # no #
+This presentation suggested several advantages of constructions as against lexical rules including the following: <ol>
+<li>Implausible verb senses are avoided;
+<li>The possibility of representing a distinction between mismatches and matches of verb and constructional meaning is allowed for;
+<li>The possibility of morphemes that have semantic scope only over the lexical verb is allowed for; 
+<li>Broader generalizations are captured without lexical rules (or derivations);  
+<li>The constructionist approach extends to a natural treatment of idioms.  
+</ol>
+The final point argues additionally that a phrasal account is preferable over a lexical account in general (even assuming the lexical account avoids the pitfalls of lexical rules).  In particular, it was argued, following Fellbaum (2007) that idioms often have meanings and syntactic constraints that are much more complex than those found in simple words.
+<p>
+The presentation additionally addressed several possible concerns that a phrasal constructional account might raise (cf. Kay 2005; <a href="http://hpsg.fu-berlin.de/~stefan/Pub/phrasal.html">Müller 2006</a>). The possible concerns that were countered included the following: 
+<ol>
+<li>there is no reason to assume that linear order be prespecified, which would lead to massive proliferation of constructions; instead linear order is underspecified;
+<li><q>relation changing</q> passive, middle constructions do require additional constructions to capture the relevant linking; however, instead of being a drawback, it was argued that this is motivated because these constructions often involve some non-predictable aspect; 
+<li>Complex predicate behavior is acknowledged, but it was argued that such behavior does not entail that argument structure patterns are lexical; 
+<li>Morphological markers are naturally captured in argument structure constructions by relaxing the constraint of locality (which must, it was argued, be relaxed on the lexical account as well, particularly for the treatment of idioms); 
+<li>while
+linking rules look more general than construction-specific form-function pairings, accurate linking rules turn out to be quite construction specific.
+</ol>
+
+Kim, Jong-Bok  & Sells, Peter # Kyung Hee University & Stanford University # Two Types of Multiple Nominative Construction: A Constructional Approach # October 22, 2007 # #
+Multiple nominative constructions (MNCs) in Korean have two main sub-
+types: possessive and adjunct types. This paper shows that a grammar allow-
+ing the interaction of declarative constraints on types of signs - in particular,
+having constructions (phrases and clauses) - can provide a robust and efficient way of encoding generalizations for two different MNCs. The feasibility of the grammar developed here has been checked with its implementation
+into the LKB (Linguistic Knowledge Building) system
+
+Müller, Stefan # Freie Universität Berlin # Phrasal or Lexical Constructions? Some Comments on Underspecification of Constituent Order, Compositionality, and Control # September 27, 2007 # #
+This paper is a follow up on <a href="http://hpsg.fu-berlin.de/~stefan/Pub/phrasal.html">Müller, 2006</a>. It contains some
+comments on suggestions about the interaction of phrasal Constructions with constituent order that
+Adele Goldberg made at various occasions. In addition the paper discusses various HPSG analyses of
+particle verbs that assume lexical representations including phonologically specified parts of
+particle verb lexical entries. A recent phrasal analysis of resultatives (Haugereid, 2007) is
+discussed as well and it is pointed out that control constructions pose problems for phrasal
+analyses that do not assume empty elements but require that the subject is realized in a phrasal
+configuration.
+
+Sag, Ivan A. # Stanford University # Remarks on Locality # October 22, 2007 # #
+This paper proposes a modification of HPSG theory&mdash;Sign-Based Construction Grammar&mdash;that
+incorporates a strong theory of both selectional and constructional locality. A number of
+empirical phenomena that give the appearance of requiring nonlocal constraints are given a
+principled, localist analysis consistent with this general approach, which incorporates certain
+insights from work in the tradition of Berkeley Construction Grammar, as exemplified by Fillmore
+et al. (1988), Kay and Fillmore (1999), and related work.
+
+Van Eynde, Frank  # University of Leuven # The Big Mess Construction # October 15, 2007 # #
+There is a construction in English, exemplified by 'how long a bridge',
+which is so irregular that it has been named the Big Mess Construction
+(Berman 1974). This paper first sketches its main characteristics 
+ and a treatment of the internal structure of the
+noun phrase which serves as a background for the analysis. It 
+then presents three ways in which the Big Mess Construction  
+can be analysed; two of them are lexicalist and are shown 
+to be implausible; the third is constructivist and is argued to be 
+superior. In a next step, the discussion is extended to
+two other types of constructions. The first concerns the 
+English adnominal reflexives, as in 'the children themselves', 
+and is shown to require a constructivist analysis which is similar but not 
+identical to the one for the Big Mess Construction. 
+The second concerns the combination of 'such' and 'what' with the indefinite 
+article, as in 'such a pleasure'. In spite of its obvious resemblance
+with the Big Mess Construction this combination does not require a
+constructivist analysis; instead, it fits the lexicalist mould of most of
+the rest of HPSG.
+

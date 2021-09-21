@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Song, Sanghoun &amp; Bo, Chen &amp; Sio, Joanna Ut-Seong &amp; Bond, Francis: An HPSG-based Analysis of Resultative Compounds in Chinese
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Song, Sanghoun &amp; Bo, Chen &amp; Sio, Joanna Ut-Seong &amp; Bond, Francis: An HPSG-based Analysis of Resultative Compounds in Chinese
+</h1>
+
+<div class="blurb"
+<p>
+Commonly in the Chinese languages (Cheng et al., 1997), two lexical items (typically verbs and adjectives) can form a compound. The sequence of predicates syntactically behaves as a single unit and semantically involves a resultative interpretation. The first component (henceforth, V1) expresses an event, and the second component (henceforth, V2) conveys a resulting state. With respect to constructing the causal relation, the resultative compounds in Chinese exhibit some intriguing properties. In this paper, we model resultative compounds in Chinese using HPSG (Pollard and Sag, 1994) and MRS (Copestake et al., 2005).
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

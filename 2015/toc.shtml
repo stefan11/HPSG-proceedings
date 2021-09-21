@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>HPSG 2015 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+<meta name="citation_conference_title" content="Proceedings of the 22nd International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_author"           content="MÃ¼ller, Stefan">
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_pdf_url" content="http://cslipublications.stanford.edu/HPSG/2015/hpsg2015.pdf">
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</head>
+
+<body>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 22nd International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+<div class="blurb">
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg2015.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg2015.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+<li>AlQurashi, Issa S. (Taif University)<p class="arttitle">An Analysis of Simple and Construct-State Noun Phrases in Modern Standard Arabic</p><p class="artlinks"><a href="abstr-alqurashi.shtml">abstract</a>, <a href="alqurashi.pdf">pages 6&ndash;26</a></p>
+<li>Arad Greshler, Tali, Herzig Sheinfux, Livnat (University of Haifa), Melnik, Nurit (The Open University of Israel) and Wintner, Shuly (University of Haifa)<p class="arttitle">Development of Maximally Reusable Grammars: Parallel Development of Hebrew and Arabic Grammars</p><p class="artlinks"><a href="abstr-ahmw.shtml">abstract</a>, <a href="ahmw.pdf">pages 27&ndash;40</a></p>
+<li>Arka, I Wayan (Australian National University/Udayana University)<p class="arttitle">Affectedness and Psych Predicates in Marori and beyond</p><p class="artlinks"><a href="abstr-arka.shtml">abstract</a>, paper not submitted</p>
+<li>Arnold, Doug and Spencer, Andrew (University of Essex)<p class="arttitle">A Constructional Analysis for the Skeptical</p><p class="artlinks"><a href="abstr-arnold-spencer.shtml">abstract</a>, <a href="arnold-spencer.pdf">pages 41&ndash;60</a></p>
+<li>Bond, Francis (Nanyang Technological University), Ho, Jia Qian (NanyanUniversity) and Flickinger, Dan (Stanford University)<p class="arttitle">Feeling our way to an analysis of English possessed idioms</p><p class="artlinks"><a href="abstr-bhf.shtml">abstract</a>, <a href="bhf.pdf">pages 61&ndash;74</a></p>
+<li>Emerson, Guy and Copestake, Ann (University of Cambridge)<p class="arttitle">Lacking Integrity: HPSG as a Morphosyntactic Theory</p><p class="artlinks"><a href="abstr-emerson-copestake.shtml">abstract</a>, <a href="emerson-copestake.pdf">pages 75&ndash;95</a></p>
+<li>Fan, Zhenzhen (National University of Singapore), Song, Sanghoun (Incheon National University) and Bond, Francis (Nanyang Technological University)<p class="arttitle">Building Zhong, a Chinese HPSG Shared-Grammar</p><p class="artlinks"><a href="abstr-fsb.shtml">abstract</a>, <a href="fsb.pdf">pages 96&ndash;109</a></p>
+<li>Haugereid, Petter (Bergen University College)<p class="arttitle">Unique lexical entries in a subconstructional grammar</p><p class="artlinks"><a href="abstr-haugereid.shtml">abstract</a>, <a href="haugereid.pdf">pages 110&ndash;121</a></p>
+<li>Herzig Sheinfux, Livnat, Arad Greshler, Tali (University of Haifa), Melnik, Nurit (The Open University of Israel) and Wintner, Shuly (University of Haifa)<p class="arttitle">Hebrew Verbal Multi-Word Expressions</p><p class="artlinks"><a href="abstr-hamw.shtml">abstract</a>, <a href="hamw.pdf">pages 122&ndash;135</a></p>
+<li>Lee, Juwon (Kyung Hee University)<p class="arttitle">Semantic Taxonomies and NP-coordinations</p><p class="artlinks"><a href="abstr-lee.shtml">abstract</a>, paper not submitted</p>
+<li>Maekawa, Takafumi (Ryukoku University)<p class="arttitle">`Agreement mismatch' between sort/kind/type and the determiner</p><p class="artlinks"><a href="abstr-maekawa.shtml">abstract</a>, <a href="maekawa.pdf">pages 136&ndash;156</a></p>
+<li>Oshima, David Y. (Nagoya University)<p class="arttitle">Ellipsis of SAY, THINK, and DO in Japanese subordinate clauses: A constructional analysis</p><p class="artlinks"><a href="abstr-oshima.shtml">abstract</a>, <a href="oshima.pdf">pages 157&ndash;176</a></p>
+<li>Sio, Joanna Ut-Seong (Nanyang Technological University) and Song, Sanghoun (Incheon National University)<p class="arttitle">Divergence in Expressing Definiteness between Mandarin and Cantonese</p><p class="artlinks"><a href="abstr-sio-song.shtml">abstract</a>, <a href="sio-song.pdf">pages 177&ndash;194</a></p>
+<li>Song, Sanghoun (NTU, Singapore), Bo, Chen (Wuhan Univ., China), Sio, Joanna Ut-Seong and Bond, Francis (NTU, Singapore)<p class="arttitle">An HPSG-based Analysis of Resultative Compounds in Chinese</p><p class="artlinks"><a href="abstr-sbsb.shtml">abstract</a>, paper not submitted</p>
+<li>Uszkoreit, Hans (DFKI and Saarland University)<p class="arttitle">Syntax and Semantics in the Automatic Extraction of Relations from Texts</p><p class="artlinks">abstract not submitted, paper not submitted</p>
+<li>Van Eynde, Frank (University of Leuven)<p class="arttitle">Binding, agreement and predicative complements</p><p class="artlinks"><a href="abstr-vaneynde.shtml">abstract</a>, paper not submitted</p>
+<li>Wang, Wenjie (Nanyang Technological University), Song, Sanghoun (Incheon National University) and Bond, Francis (Nanyang Technological University)<p class="arttitle">A Constraint-based Analysis of A-NOT-A Questions in Mandarin Chinese</p><p class="artlinks"><a href="abstr-wsb.shtml">abstract</a>, <a href="wsb.pdf">pages 195&ndash;214</a></p>
+<li>Yatsuhiro, Kazuko (Centre for General Linguistics (ZAS))<p class="arttitle">The Reverse Partitive Construction in Japanese</p><p class="artlinks"><a href="abstr-yatsuhiro.shtml">abstract</a>, paper not submitted</p>
+</ul>
+<li>Contributions to the Workshop
+<ul>
+<li>Gehrke, Berit (CNRS-LLF / Paris Diderot)<p class="arttitle">On GOOD manners</p><p class="artlinks"><a href="abstr-gehrke.shtml">abstract</a>, paper not submitted</p>
+<li>Hollebrandse, Bart (University of Groningen)<p class="arttitle">Distributivity of nouns and verbal semantics</p><p class="artlinks">abstract not submitted, paper not submitted</p>
+<li>Kratochvíl, František and Delpada, Benidiktus (Nanyang Technological University, Singapore)<p class="arttitle">Degrees of affectedness and verbal prefixation in Abui (Papuan)</p><p class="artlinks"><a href="abstr-kratochvil-delpada.shtml">abstract</a>, <a href="kratochvil-delpada.pdf">pages 216&ndash;233</a></p>
+<li>Nagaya, Naonori (Tokyo University of Foreign Studies (東京外国語大学) in Tokyo, Japan)<p class="arttitle">Affectedness and volitionality: the case of Tagalog</p><p class="artlinks"><a href="abstr-nagaya.shtml">abstract</a>, paper not submitted</p>
+<li>Riaño Rufilanchas, Daniel (Departamento de Filología Clásica, Universidad Autónoma de Madrid)<p class="arttitle">The role of affectedness in the verbal case marking of objects in Ancient Greek</p><p class="artlinks"><a href="abstr-rianorufilanchas.shtml">abstract</a>, paper not submitted</p>
+<li>Sauerland, Uli (Zentrum für Allgemeine Sprachwissenschaft, Berlin)<p class="arttitle">Negation: a view from the one-word stage</p><p class="artlinks"><a href="abstr-sauerland.shtml">abstract</a>, paper not submitted</p>
+<li>Sio, Joanna Ut-Seong (Nanyang Technological University)<p class="arttitle">Scalarity and the Cantonese post-verbal
+particle <em>can1</em></p><p class="artlinks"><a href="abstr-sio.shtml">abstract</a>, <a href="sio.pdf">pages 234&ndash;241</a></p>
+<li>Sio, Joanna Ut-Seong and Kratochvíl, František (Nanyang Technological University)<p class="arttitle">Affectedness and scalarity - An update</p><p class="artlinks">abstract not submitted, paper not submitted</p>
+<li>Sybesma, Rint (Leiden University Centre for Linguistics)<p class="arttitle">Layers in the verb phrase - inner aspect and affected arguments</p><p class="artlinks">abstract not submitted, paper not submitted</p>
+<li>van Hout, Angeliek (University of Groningen)<p class="arttitle">Connecting event culmination and affectedness: non-culmination patterns in children's acquisition of aspect</p><p class="artlinks">abstract not submitted, paper not submitted</p>
+<li>Yap, Foong Ha (The Hong Kong Polytechnic University)<p class="arttitle">Valence-reduction and the expression of speaker affectedness in Chinese</p><p class="artlinks"><a href="abstr-yap.shtml">abstract</a>, paper not submitted</p>
+</ul>
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 09.01.2019 (17:41:24)
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

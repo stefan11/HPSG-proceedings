@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Jin, Dawei: Information Structure Constraints and Complex NP Islands in Chinese
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Information Structure Constraints and Complex NP Islands in Chinese">
+<meta name="citation_author"           content="Jin, Dawei">
+<meta name="citation_conference_title" content="Proceedings of the 20th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2013">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="110">
+<meta name="citation_lastpage"         content="120">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2013/jin.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Jin, Dawei: Information Structure Constraints and Complex NP Islands in Chinese
+</h1>
+
+<div class="blurb"
+<p>
+This paper presents an analysis of the complex NP island effects in
+Chinese. I follow Ginzburg & Sag (2000)'s analysis of <em>in situ
+wh</em>-interrogative
+construction and propose that feature percolation from the non-head clause
+daughter to the head daughter is required for a proper treatment of <em>in
+situ wh</em>-relative. A semantic analysis of the idiosyncrasy of
+<em>weishenme</em> 'why' reveals that a definite reading is forced for a
+<em>wh</em>-relative when <em>weishenme</em> stays <em>in situ</em>. This requirement causes
+feature percolation into relative head to fail. In this way I show that
+island effects in Chinese can be independently ruled out in the grammar as
+a case of contradiction.
+  
+<P>
+<ul>
+<li><a href="jin.pdf">download PDF</a>
+<li><a href="jin.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 26, 2013
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

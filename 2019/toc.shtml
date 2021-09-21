@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>HPSG 2019 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+<meta name="citation_conference_title" content="Proceedings of the 26th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_author"           content="MÃ¼ller, Stefan & Osenova, Petya">
+<meta name="citation_publication_date" content="2019">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_pdf_url" content="http://cslipublications.stanford.edu/HPSG/2019/hpsg2019.pdf">
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</head>
+
+<body>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 26th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+<div class="blurb">
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg2019.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg2019.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+<li>Abeillé, Anne (Université de Paris, LLF) and Winckel, Elodie (Humboldt-Universität zu Berlin and Université de Paris, LLF)<p class="arttitle">Subject island in HPSG? A discourse-based approach</p><p class="artlinks"><a href="abstr-abeille-winckel.shtml">abstract</a>, paper not submitted</p>
+<li>Aguila-Multner, Gabriel and Crysmann, Berthold (Université de Paris, Laboratoire de linguistique formelle, CNRS)<p class="arttitle">French clitic climbing as periphrasis</p><p class="artlinks"><a href="abstr-aguila-multner-crysmann.shtml">abstract</a>, paper not submitted</p>
+<li>Borsley, Bob (University of Essex and Bangor University)<p class="arttitle">The complexities of the Welsh copula</p><p class="artlinks"><a href="abstr-borsley.shtml">abstract</a>, <a href="hpsg2019-borsley.pdf">pages 5&ndash;25</a></p>
+<li>Guzmán Naranjo, Matías (Université Paris Diderot)<p class="arttitle">Analogy-based Morphology: The Kasem number system</p><p class="artlinks"><a href="abstr-guzmannaranjo.shtml">abstract</a>, <a href="hpsg2019-guzmannaranjo.pdf">pages 26&ndash;41</a></p>
+<li>Haugereid, Petter (Western Norway University of Applied Sciences)<p class="arttitle">An incremental approach to gapping in Japanese</p><p class="artlinks"><a href="abstr-haugereid.shtml">abstract</a>, <a href="hpsg2019-haugereid.pdf">pages 42&ndash;57</a></p>
+<li>Machicao y Priemer, Antonio and Fritz-Huechante, Paola (Humboldt-Universität zu Berlin)<p class="arttitle">Boundaries at play: The 'se' morpheme in the Spanish psych-domain</p><p class="artlinks"><a href="abstr-machicaoypriemer-fritz-huechante.shtml">abstract</a>, paper not submitted</p>
+<li>Melnik, Nurit (The Open University of Israel) and Nir, Bracha (University of Haifa)<p class="arttitle">Argument Structure and the Cause-Directed-Motion Construction in Hebrew</p><p class="artlinks"><a href="abstr-melnik-nir.shtml">abstract</a>, paper not submitted</p>
+<li>Müller, Stefan (Humboldt-Universität zu Berlin), Kim, Jong-Bok (Kyung Hee
+University, Seoul) and Kihm, Alain (CNRS – Université de Paris)<p class="arttitle">Predicate topicalization in Korean and Yiddish: A construction-based HPSG
+Approach</p><p class="artlinks"><a href="abstr-mkk.shtml">abstract</a>, paper not submitted</p>
+<li>Pullum, Geoffrey K. (University of Edinburgh)<p class="arttitle">What grammars are, or ought to be</p><p class="artlinks"><a href="abstr-pullum.shtml">abstract</a>, <a href="hpsg2019-pullum.pdf">pages 58&ndash;78</a></p>
+<li>Rizea, Monica-Mihaela (Solomon Marcus Center for Computational Linguistics,
+Bucharest) and Sailer, Manfred (Goethe-University Frankfurt)<p class="arttitle">Representing scales: Degree result clauses and emphatic
+negative polarity items in Romanian</p><p class="artlinks"><a href="abstr-rizea-sailer.shtml">abstract</a>, <a href="hpsg2019-rizea-sailer.pdf">pages 79&ndash;99</a></p>
+<li>Van Eynde, Frank (University of Leuven (Belgium))<p class="arttitle">Nominalized infinitives in Dutch</p><p class="artlinks"><a href="abstr-vaneynde.shtml">abstract</a>, paper not submitted</p>
+<li>Webelhuth, Gert (University of Frankfurt) and Bonami, Olivier (Universite de Paris, LLF, CNRS)<p class="arttitle">Syntactic haplology and the Dutch proform "er"</p><p class="artlinks"><a href="abstr-webelhuth-bonami.shtml">abstract</a>, <a href="hpsg2019-webelhuth-bonami.pdf">pages 100&ndash;119</a></p>
+<li>Wechsler, Stephen (University of Texas at Austin)<p class="arttitle">Distributed Lexicalism</p><p class="artlinks"><a href="abstr-wechsler.shtml">abstract</a>, paper not submitted</p>
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 03.05.2021 (08:49:25)
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

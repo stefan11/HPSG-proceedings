@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Koenig, Jean-Pierre &amp; Michelson, Karin: What does being a noun or a verb mean?
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="What does being a noun or a verb mean?">
+<meta name="citation_author"           content="Koenig, Jean-Pierre">
+<meta name="citation_author"           content="Michelson, Karin">
+<meta name="citation_conference_title" content="Proceedings of the 27th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2020">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="106">
+<meta name="citation_lastpage"         content="126">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2020/hpsg2020-koenig-michelson.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Koenig, Jean-Pierre &amp; Michelson, Karin: What does being a noun or a verb mean?
+</h1>
+
+<div class="blurb"
+<p>
+The indigenous languages of North America have played a critical role in discussions of the universality of part-of-speech distinctions. In this paper, we show that Oneida does not include a grammatical distinction between nouns and verbs. Rather, Oneida inflecting lexical items are subject to two cross-cutting semantic classifications, one that concerns the sort of entities they describe, the other the sort of semantic relation they include in their content. Labels such as ‘noun' and ‘verb' can still be used for cross-linguistic comparison, as the semantic partition of lexical items corresponds to canonical nouns and verbs according to morphologists and some typologists. But the meta-grammatical status of these labels is quite distinct from the status of corresponding labels in Indo-European languages like English.
+  
+<P>
+<ul>
+<li><a href="hpsg2020-koenig-michelson.pdf">download PDF</a>
+<li><a href="koenig-michelson.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 3, 2020
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

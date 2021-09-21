@@ -1,0 +1,127 @@
+<html>
+<head>
+<title>Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</HEAD>
+
+
+<BODY>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+
+<p class="author">
+Stanford Department of Linguistics and CSLI's LinGO Lab<br>
+July 20&ndash;22, 2007</p>
+
+<p class="author">
+Editor: Stefan Müller<br>
+2007 &copy; <a href="http://cslipublications.stanford.edu/">CSLI Publications</a><br>
+ISSN 15351793
+</p>
+
+<div class="blurb"
+<p>
+
+<a href="toc.shtml">Table of Contents</a>
+
+
+<hr> 
+
+<h2>
+Editor's Note
+</h2>
+<p>
+The 14th International Conference on Head-Driven Phrase Structure Grammar (2007) was held in Stanford
+and organized by the Stanford Department of Linguistics and CSLI's LinGO Lab.
+<p>
+The conference featured 2 invited talks and 18 papers
+selected by the program committee 
+(Doug Arnold,      
+Emily M. Bender,	
+Olivier Bonami,	
+Ann Copestake,	
+Berthold Crysmann,
+Dan Flickinger,	
+Tibor Kiss,	
+Jong-Bok Kim,	
+Robert Levine,	
+Tsuneko Nakazawa,
+Stefan Müller (chair),
+Gerald Penn,	
+Adam Przepiorkowski,
+Ivan Sag,	
+Jesse Tseng,	
+Detmar Meurers,	  
+Frank Van Eynde,
+Gertjan van Noord,
+Gert Webelhuth,	
+Stephen Wechsler).
+<p>
+A workshop about <em>Constructions and Grammatical Theory</em>
+was attached to the conference. It featured three invited talks
+and 4 papers, selected by the program committee.
+<p>
+In total there were 38 submissions to the main conference and to the
+workshop. 
+We want to thank the respective program committee for putting this nice program together.
+<p>
+<p>
+<p>
+Thanks go to Ivan Sag, who was in charge of local arrangements.
+<p>
+<p>
+As in the past years the contributions to the conference proceedings are based on the five page abstract
+that was reviewed by the respective program committees, but there is no additional reviewing of the
+longer contribution to the proceedings.
+To ensure easy access and fast publication we have chosen an electronic format.
+<p>
+<p>
+The proceedings include all the papers except those by Adele Goldberg and Christopher Manning.
+<p>
+
+The <a href="toc.shtml">table of contents</a> lists all the
+papers presented at the conference. Some papers were not submitted to
+the proceedings. For these papers, we suggest contacting the authors
+directly.
+
+<p>
+
+A <a href="hpsg2007.bib">list of BibTeX-Entries</a> containing bibliographic
+information is also available.
+
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 09.01.2019 (21:28:47)
+</address> 
+</div>
+</td>
+
+<!--#include virtual="../Includes/hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../Includes/HPSG-body-bottom" --> 
+
+
+</body></html>

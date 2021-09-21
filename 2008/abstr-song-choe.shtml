@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Song, Sanghoun &amp; Choe, Jae-Woong: Automatic Construction of Korean Verbal Type Hierarchy using Treebank
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Automatic Construction of Korean Verbal Type Hierarchy using Treebank">
+<meta name="citation_author"           content="Song, Sanghoun">
+<meta name="citation_author"           content="Choe, Jae-Woong">
+<meta name="citation_conference_title" content="Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2008">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="204">
+<meta name="citation_lastpage"         content="221">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2008/song-choe.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Song, Sanghoun &amp; Choe, Jae-Woong: Automatic Construction of Korean Verbal Type Hierarchy using Treebank
+</h1>
+
+<div class="blurb"
+<p>
+The lexical information of verbal lexemes, such as verbs and adjectives, plays an important role in
+syntactic parsing, because the structure of a sentence mainly hinges on the type of verbal lexemes.
+The question we address in this research is how to acquire the argument structure (henceforth
+ARG-ST) of verbal lexemes in Korean.  It is well known that manual build-up of type hierarchy
+usually cost too much time and resources, so an alternative method, namely automatic collection of
+relevant information is much more preferred.  This paper proposes a procedure to automatically
+collect ARG-ST of Korean verbal lexemes from a Korean Treebank.  Specifically, the system we develop
+in this paper first extracts lexical information of ARG-ST of verbal lexemes from a 0.8 million
+graphic word Korean Treebank in an unsupervised way, checks the hierarchical relationship among
+them, and builds up the type hierarchy automatically.  The result is written in an HPSG-style
+annotation, thus making it possible to readily implement the result in an HPSG-based parser for
+Korean.  Finally, the result is evaluated with reference to two Korean dictionaries and also with
+respect to a manually constructed type hierarchy.
+  
+<P>
+<ul>
+<li><a href="song-choe.pdf">download PDF</a>
+<li><a href="song-choe.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2008
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

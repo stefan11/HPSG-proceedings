@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Chaves, Rui P.: On the Syntax and Semantics of <em>vice versa</em>
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="On the Syntax and Semantics of <em>vice versa</em>">
+<meta name="citation_author"           content="Chaves, Rui P.">
+<meta name="citation_conference_title" content="Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2010">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="101">
+<meta name="citation_lastpage"         content="121">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2010/chaves.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Chaves, Rui P.: On the Syntax and Semantics of <em>vice versa</em>
+</h1>
+
+<div class="blurb"
+<p>
+This work focuses on the syntax and semantics of the expression <em>vice
+versa</em>, and shows that its syntactic distribution is much more flexible than
+semantically related expressions. Although <em>vice versa</em> usually appears in
+clausal coordinate environments, it can in principle occur in any other type
+of construction. Second, it can occur as an embedded verb phrase or even
+as a noun phrase, rather than as an adjunct. This suggests that <em>vice versa</em>
+is a propositional anaphor that corresponds to a converse of a propositional
+antecedent. Finally, although the predicates singled out to be interchanged
+are usually nominal, they can in fact be of virtually any part of speech. I
+argue that a possible account of the interpretation of <em>vice versa</em> lies at the
+interface between logical form (with rich decompositional lexical semantics
+along the lines of Pustejovsky (1995)), and pragmatics (drawing from independent
+work by Hobbs (1990) and Kehler (2002)).
+  
+<P>
+<ul>
+<li><a href="chaves.pdf">download PDF</a>
+<li><a href="chaves.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2010
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

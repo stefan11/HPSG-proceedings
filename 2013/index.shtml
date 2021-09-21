@@ -1,0 +1,137 @@
+<html>
+<head>
+<title>Proceedings of the 20th International Conference on Head-Driven Phrase Structure Grammar</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</HEAD>
+
+
+<BODY>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 20th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+
+<p class="author">
+Freie Universität Berlin<br>
+August 26&ndash;29, 2013</p>
+
+<p class="author">
+Editor: Stefan Müller<br>
+2013 &copy; <a href="http://cslipublications.stanford.edu/">CSLI Publications</a><br>
+ISSN 15351793
+</p>
+
+<div class="blurb"
+<p>
+
+<a href="toc.shtml">Table of Contents</a>
+
+
+<hr> 
+
+<h2>
+Editor's Note
+</h2>
+<p>
+The 20th International Conference on Head-Driven Phrase Structure Grammar (2013) was held at the
+Freie Universität Berlin.
+<p>
+The conference featured 2 invited talks and 15 papers selected by the program committee 
+(Emily M. Bender,
+    Olivier Bonami,
+    Bob Borsley,
+    Rui Chaves,
+    Berthold Crysmann,
+    Kordula De Kuthy,
+    Elisabet Engdahl,
+    Daniel Flickinger,
+    Jong-Bok Kim,
+    Jean-Pierre Koenig,
+    Valia Kordoni,
+    Anna Kupsc,
+    Robert Levine,
+    Nurit Melnik,
+    Stefan Müller,
+    Tsuneko Nakazawa,
+    Gerald Penn,
+    Adam Przepiórkowski,
+    Frank Richter,
+    Louisa Sadler,
+    Ivan Sag,
+    Manfred Sailer,
+    Jesse Tseng (chair),
+    Frank Van Eynde,
+    Gert Webelhuth,
+    Stephen Wechsler,
+    Shuichi Yatabe,
+    Eun-Jung Yoo).
+<p>
+A tutorial <em>Linguistic Research with Large Annotated Web Corpora</em> by Felix Bildhauer
+and Roland Schäfer and a workshop about <em>Progress in Linguistics</em>
+were attached to the conference. The workshop program was put together by Stefan Müller and consisted of
+invited talks only.
+<p>
+<p>
+<p>
+We want to thank the respective program committees for putting this nice program together.
+<p>
+Thanks go to Stefan Müller (chair), Viola Auermann, Lea Helmers, and Jakob Maché, who were
+in charge of local arrangements.
+<p>
+The conference was supported by a grant from the Deutsche Forschungsgemeinschaft to Stefan Müller (MU 2822/7-1).
+<p>
+As in the past years the contributions to the conference proceedings are based on the five page abstract
+that was reviewed by the respective program committees, but there is no additional reviewing of the
+longer contribution to the proceedings.
+To ensure easy access and fast publication we have chosen an electronic format.
+<p>
+The proceedings include all the papers except those by  Farell Ackerman, Rob Malouf, and John Moore,
+Tibor Kiss, Takafumi Maekawa, Gereon Müller, Stefan Müller (workshop), Andreas Pankau, Frank
+Richter, Anatol Stefanowitsch, and Nigel Vincent.
+<p>
+<p>
+
+The <a href="toc.shtml">table of contents</a> lists all the
+papers presented at the conference. Some papers were not submitted to
+the proceedings. For these papers, we suggest contacting the authors
+directly.
+
+<p>
+
+A <a href="hpsg2013.bib">list of BibTeX-Entries</a> containing bibliographic
+information is also available.
+
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 09.01.2019 (17:38:50)
+</address> 
+</div>
+</td>
+
+<!--#include virtual="../Includes/hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../Includes/HPSG-body-bottom" --> 
+
+
+</body></html>

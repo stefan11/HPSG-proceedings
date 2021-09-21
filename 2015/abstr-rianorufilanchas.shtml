@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Riaño Rufilanchas, Daniel: The role of affectedness in the verbal case marking of objects in Ancient Greek
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Riaño Rufilanchas, Daniel: The role of affectedness in the verbal case marking of objects in Ancient Greek
+</h1>
+
+<div class="blurb"
+<p>
+Case marking of verbal arguments in Ancient Greek is very complex. Direct objects are usually marked with the accusative case, but there is a long list of verbs with objects that fulfil the same admitting or demanding the dative or the genitive case. Extension to core is usually marked with the dative or the genitive, but accusative case is also very frequent in this function. Alternation of case marking is common both for the direct object and extensions to core.
+We present a semantically motivated proposal that explains an important number of features of this
+system of case marking. We propose that, in order to explain the variation and alternation of case
+marking in Ancient Greek, the most relevant parameter from the scale of transitivity is object
+affectedness. We present a semantically based “scale of affectedness” that allows to place all the
+predicative verbs according to the affectedness of its objects. This scale of affectedness we are
+proposing is a language-specific implementation of the general scale of affectedness. The placement
+of any given verb along this scale allows explaining certain properties of the case marking of its
+arguments, mainly the following two:
+<ol>
+<li> The probability that a given verb admits a non-accusative object depends upon its position along the scale of affectedness.
+<li> The possibility of admitting the “double accusative” construction depends on the placement of
+both arguments along the scale: this construction is not possible if the two objects belong to the
+same “field” or “square” of the table, or if both belong to any of the divisions of the “upper” part
+of the table (the “effected” objects”).
+</ol>
+For the test of this scale of affectedness we used a corpus of fully analysed 100.000 words of several authors spanning from the 5th century BC to the first century AD, in addition to data from the regular grammars (Kuhner-Gerth; Schwyzer and Smith).
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 21st, 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

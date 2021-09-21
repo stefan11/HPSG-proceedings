@@ -1,0 +1,104 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%   $RCSfile: example.tex,v $
+%%  $Revision: 1.1 $
+%%      $Date: 2004/08/11 09:52:43 $
+%%     Author: Stefan Mueller (CL Uni Bremen)
+%%    Purpose: Example file for contributions to the HPSG proceedings
+%%   Language: LaTeX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% use this to check the margins
+\documentclass[11pt,a4paper,fleqn,draft]{article}
+
+% use the following once there are no problems with the margins
+%\documentclass[11pt,a4paper,fleqn]{article}
+
+\usepackage[latin1,utf8x]{inputenc}
+
+\usepackage{times}
+
+\pagestyle{empty}
+
+\usepackage[sectionbib]{natbib}
+
+
+% german.sty has nice hyphenation support
+%\usepackage{german}
+%\selectlanguage{USenglish}
+
+% this package supports scaling for instance if your AVMs do not fit the page
+%\usepackage{graphicx}
+%\resizebox{\linewidth}{!}{%
+%\ms{
+%      synsem & \onems{ loc$|$cat$|$subcat {\rm del(\ibox{2},\ibox{1})}\\
+%                     }\\
+%      head-dtr & \onems{ synsem$|$loc$|$cat$|$subcat \ibox{1} \\
+%                       }\\
+%      non-head-dtrs & \sliste{\onems{ synsem \ibox{2}  \\ }}\\[2mm]
+%}}
+
+% includes page numbers for references
+%\usepackage{varioref}
+
+% If you want to make your paper more usable for readers,
+% insert the following code.
+% It links references to sections, examples, and citations
+% in the document and provides bookmarks for sections and subsections.
+
+% For URLs load the style file url.sty , You may then type \url{http://hpsg.fu-berlin.de/~stefan/}
+% without any hassle regarding the `~'. 
+\usepackage[hyphens]{url}
+\urlstyle{same}
+
+\usepackage[bookmarks=true,bookmarksopen=true,hyperindex=true,breaklinks=true,draft=false,plainpages=false,hyperfootnotes=false,%
+colorlinks=false, pdfborder={0 0 0}%
+%,pdftex=true]{hyperref}  % use this if you use pdflatex
+%,ps2pdf=true
+]{hyperref}% use this if you use ps2pdf, i.e. if you use tree-dvips
+\hypersetup{colorlinks=false, pdfborder={0 0 0}}
+
+
+
+\title{My Really Interesting Discovery}
+
+\author{Stefan M{\"u}ller\\
+Freie Universit{\"a}t Berlin}
+
+\begin{document}
+
+\begin{abstract}
+Put the abstract here.
+\end{abstract}
+
+\setcounter{footnote}{2}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\footnotetext{
+I thank X and Y.}
+\renewcommand{\thefootnote}{\arabic{footnote}}
+\setcounter{footnote}{0}
+
+
+\section{Introduction}
+
+I want to show how phenomenon X can be dealt with within the framework of HPSG
+\citep{PS87a,PS94a}.
+
+\section{Conclusion}
+
+Some conclusions.
+
+
+Compare also: \url{http://very-long-url.url-home-for-very-long-urls.com/~long/yes-indeed-very/long/}
+
+
+\bibliographystyle{unified} 
+\bibliography{example}
+
+
+
+\end{document}
+
+% Local variables:
+% mode: font-lock
+% End:
+

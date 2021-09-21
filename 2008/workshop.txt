@@ -1,0 +1,109 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+Abeillé, Anne  & Godard,  Danièle  & Sabio, Frédéric # University of Paris 7 & CNRS, France & University of Paris 7 & CNRS, France & University of Provence, Aix, France # Two types of NP preposing in French # October 16, 2008 # #
+We contrast two types of sentences with a preposed NP in French in a construction
+based HPSG grammar. They differ with respect to different grammatical aspects
+(syntax, semantics, pragmatics and phonology), which cluster uniquely into
+constructions. Both are colloquial, a reason why they have been recognized only
+recently (see Zribi-Hertz 1986, 1996, Sabio 1995, 2006). Accordingly, we rely for
+the data on spoken corpora (Corpaix, CFRP) as well as on our intuitions. Both
+constructions involve a partitioned semantics but this mode of composition is
+associated with different effects. One construction is characterized semantically: the
+preposed NP is the theme of a categorical proposition. The other construction is
+characterized pragmatically: it is associated with an independent declarative clause, a
+typical use of which is to signal a break in the interaction.
+
+Arnold, Doug  & Borsley, Robert D # University of Essex # Non-restrictive Relative Clauses, Ellipsis and Anaphora # October 16, 2008 # #
+Non-restrictive relative clauses (NRRCs) can modify constituents which undergo
+`pragmatic enrichment' when they appear in answers to questions.  For example,
+in an interchange like: `A: What did Jo think? B: That you should say nothing,
+which is surprising.'  What B says is surprising is that `Jo thinks ...' On the
+face of it, this might seem problematic for approaches to NRRCs which assume
+`syntactic integration' and to support an `orphan' analysis, where NRRCs are
+combined with purely conceptual representations.  In this paper we examine a
+range of elliptical and anaphoric phenomena, and show that this conclusion is
+misplaced. In fact, the phenomena argue strongly in favour of a syntactically
+integrated analysis.
+
+Bildhauer, Felix  # Freie Universität Berlin # Clitic left dislocation and focus projection in Spanish # October 16, 2008 # #
+The information-structural status of clitic left dislocated arguments in
+Spanish has been argued to depend crucially on their thematic role.
+Earlier HPSG analyses of related phenomena in other languages do not
+take into account this sort of information. A formalization will be
+presented which can handle differences in information-structure arising
+from different thematic roles of clitic left dislocated phrases.
+
+Bonami, Olivier  & Godard, Danièle # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # On the syntax of direct quotation in French # October 6, 2008 # #
+Direct quotation raises three major problems for grammatical modelling: (i) the variety of quoted
+material (which can be a non linguistic behavior, or a sign in a different language), (ii) the
+embedding of an utterance inside another one, (iii) a special denotation, the content of the
+quotation being the utterance itself. We propose a unary rule, which turns the quoted material into
+a linguistic sign whose content is itself a behavior, which entertains a resemblance relation to the
+behavior demonstrated by the speaker. Syntactically, direct quotation comes in two varieties: it can
+be the complement of a quotative verb, or constitutes a head sentence, modified by an adjunct
+containing a quotative verb whose complement is extracted and identified with its local features.
+
+Henri, Fabiola  & Abeillé, Anne # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # Verb Form Alternations in Mauritian # October 6, 2008 # #
+This paper presents a constraint-based account of verb form alternations (Short and Long Forms)
+in Mauritian which, basically, is syntactically driven: Short Forms appear with Canonical
+complements while Long Forms are expected with no realized complements. However, in
+specific contexts, Long Forms are unexpectedly authorized in declaratives with canonical
+complements and expresses Verum Focus.
+
+Imai, Mutsumi # Keio University # Children's use of argument structure, meta-knowledge of the lexicon, and extra-linguistic contextual cues in inferring meanings of novel verbs # October 16, 2008 # #
+Verbs are the centerpiece of the sentence, and understanding of verb meanings is essential for
+language acquisition. Yet verb learning is said to be more challenging than noun learning for young
+children for several reasons. First, while nouns tend
+to denote concrete objects, which are perceptually
+stable over time, verbs tend to refer to action events,
+which are temporally ephemeral, and the beginning
+and the end of the action referred to by the verb are
+not clearly specified. Second, a verb takes nouns as
+arguments, and the meaning of a verb is determined
+as the relation between the arguments. To infer the
+meaning of a verb, children need to attend to the
+relation between the objects in the event rather than
+the objects themselves. In so doing, children make
+use of a variety of cues such as argument structure,
+meta-knowledge of the lexicon, and extra-linguistic
+contextual cues. In this paper, I present two lines of
+my recent research concerning young children's
+novel verb learning. Specifically, I first report a
+cross-linguistic study (Imai et al., 2008) examining
+how Japanese-, English-, and Chinese-speaking
+children utilize structural and non-structural,
+extra-linguistic cues when inferring novel verb
+meanings. Second, I present another study examining
+how young children utilize sound-meaning correlates
+(sound symbolism) in their inference of novel verb
+meanings. In the end, I evaluate the relative
+importance of structural cues among different cues
+children use in verb learning.
+
+Kubota, Yusuke & Lee, Jungmee # The Ohio State University # Reconsidering the Coordinate Structure Constraint in Japanese and Korean: Syntactic constraint or pragmatic principle? # October 15, 2008 # #
+Whether the Coordinate Structure Constraint (CSC) (Ross, 1967) is a
+syntactic constraint has been discussed much in the literature.  This
+paper reconsiders this issue by drawing on evidence from Japanese and
+Korean.  Our examination of the CSC patterns in relative clauses in
+the two languages reveals that a pragmatically-based approach along
+the lines of Kehler (2002) predicts the relevant empirical patterns
+straightforwardly whereas alternative syntactic approaches run into
+many problems.  We take these results to provide strong support for
+the view that the CSC is a pragmatic principle rather than a syntactic
+constraint.
+
+Marandin, Jean-Marie # CNRS, Université Paris 7 # The Exclamative Clause Type in French # October 16, 2008 # #
+My objective in this paper is to integrate scalar exclamatives into an HPSG grammar of
+French. First, a procedure to sort out scalar exclamatives from declaratives and interrogatives is
+proposed. Then, the main semantic and dialogical properties of exclamatives are presented:
+veridicity, ego-evidentiality, illocutionary double life and scalarity. Finally, assuming Ginzburg &amp;
+Sag 2000, the exclamative clause type is defined.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Van Eynde, Frank &amp; Augustinus, Liesbeth: Why and How to Differentiate Complement Raising from Subject Raising in Dutch
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Why and How to Differentiate Complement Raising from Subject Raising in Dutch">
+<meta name="citation_author"           content="Van Eynde, Frank">
+<meta name="citation_author"           content="Augustinus, Liesbeth">
+<meta name="citation_conference_title" content="Proceedings of the 20th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2013">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="222">
+<meta name="citation_lastpage"         content="242">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2013/vaneynde-augustinus.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Van Eynde, Frank &amp; Augustinus, Liesbeth: Why and How to Differentiate Complement Raising from Subject Raising in Dutch
+</h1>
+
+<div class="blurb"
+<p>
+In Dutch V-final clauses the verbs tend to form a cluster in which the main verb is separated from
+its syntactic arguments by one or more other verbs.  In HPSG the link between the main verb and its
+arguments is canonically modeled in terms of <i>argument inheritance</i>, also known as <i>argument
+composition</i> or <i>generalized raising</i>.  When applied to Dutch, this treatment yields a
+number of problems, making incorrect predictions about the interaction with the binding principles
+and the passive lexical rule. To repair them this paper proposes an alternative, in which subject
+raising and complement raising are modeled in terms of different devices. More specifically, while
+subject raising is modeled in terms of lexical constraints, as for English, complement raising is
+modeled in terms of a more general constraint on headed phrases. This new constraint not only
+accounts for complement raising out of verbal complements, it also deals with complement raising out
+of adjectival and adpositional complements, as well as with complement raising out of PP adjuncts
+and subject NPs. It is, hence, a rather powerful device. To prevent overgeneration we add a number
+of constraints. For Dutch, the relevant constraints block complement raising out of CPs, V-initial
+VPs and P-initial PPs. For English, the Empty COMPS Constraint is sufficient to block complement
+raising entirely.
+  
+<P>
+<ul>
+<li><a href="vaneynde-augustinus.pdf">download PDF</a>
+<li><a href="vaneynde-augustinus.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2013
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

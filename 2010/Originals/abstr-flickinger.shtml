@@ -1,0 +1,181 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Dan Flickinger: Prescription and Explanation &ndash;
+   Using an HPSG implementation to teach writing skills
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG), , ">
+<link rel="stylesheet" 
+type="text/css" href="hpsg-style.css">
+
+<script type="text/javascript">
+var name = null;
+cold_index = new Image();
+cold_order = new Image();
+cold_contact = new Image();
+cold_site_index = new Image();
+cold_backlist = new Image();
+cold_authors = new Image();
+cold_search = new Image();
+cold_new_books = new Image();
+hot_index = new Image();
+hot_order = new Image();
+hot_contact = new Image();
+hot_site_index = new Image();
+hot_backlist = new Image();
+hot_authors = new Image();
+hot_search = new Image();
+hot_new_books = new Image();
+cold_index.src = "/gif/indexButton.gif";
+cold_order.src = "/gif/orderButton.gif";
+cold_contact.src = "/gif/contactButton.gif";
+cold_site_index.src = "/gif/site_indexButton.gif";
+cold_backlist.src = "/gif/backlistButton.gif";
+cold_authors.src = "/gif/authorsButton.gif";
+cold_search.src = "/gif/searchButton.gif";
+cold_new_books.src = "/gif/new_booksButton.gif";
+hot_index.src = "/gif/index_hotButton.gif";
+hot_order.src = "/gif/order_hotButton.gif";
+hot_contact.src = "/gif/contact_hotButton.gif";
+hot_site_index.src = "/gif/site_index_hotButton.gif";
+hot_backlist.src = "/gif/backlist_hotButton.gif";
+hot_authors.src = "/gif/authors_hotButton.gif";
+hot_search.src = "/gif/search_hotButton.gif";
+hot_new_books.src = "/gif/new_books_hotButton.gif";
+    
+
+function hotLHS(imageName) {
+    if (document.images) {
+        hotText = eval("hot_" + imageName + ".src");
+        document [imageName].src = hotText;
+}}
+
+function coldLHS(imageName) {
+    if (document.images) {
+        coldText = eval("cold_" + imageName + ".src");
+        document [imageName].src = coldText;
+}}
+
+</script></head>
+<body BGCOLOR=#FFFFFF>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><table BORDER=0
+CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/index.html><img
+ALT="CSLI Publications logo" SRC=/gif/logo.gif BORDER=0 HEIGHT=68 WIDTH=180></a></td><td><img SRC=/gif/backlistTitle.gif ALT="" HEIGHT=68 WIDTH=468></td></tr></table></td></tr><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0 VALIGN=top><tr><td HEIGHT=276 WIDTH=87 VALIGN=top BACKGROUND=/gif/left.gif>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/new_books.html onMouseover="hotLHS('new_books')" onMouseout="coldLHS('new_books')"><img BORDER=0 SRC=/gif/new_booksButton.gif NAME=new_books HEIGHT=20 WIDTH=87 ALT=new_books></a></td></tr><tr><td><a HREF=../../site/backlist.html onMouseover="hotLHS('backlist')" onMouseout="coldLHS('backlist')"><img BORDER=0 SRC=/gif/backlistButton.gif NAME=backlist HEIGHT=20 WIDTH=87 ALT=backlist></a></td></tr><tr><td><a HREF=../../site/site_index.html onMouseover="hotLHS('site_index')" onMouseout="coldLHS('site_index')"><img BORDER=0 SRC=/gif/site_indexButton.gif NAME=site_index HEIGHT=20 WIDTH=87 ALT=site_index></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/contact.html onMouseover="hotLHS('contact')" onMouseout="coldLHS('contact')"><img BORDER=0 SRC=/gif/contactButton.gif NAME=contact HEIGHT=20 WIDTH=87 ALT=contact></a></td></tr><tr><td><a HREF=../../site/authors.html onMouseover="hotLHS('authors')" onMouseout="coldLHS('authors')"><img BORDER=0 SRC=/gif/authorsButton.gif NAME=authors HEIGHT=20 WIDTH=87 ALT=authors></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/order.html onMouseover="hotLHS('order')" onMouseout="coldLHS('order')"><img BORDER=0 SRC=/gif/orderButton.gif NAME=order HEIGHT=20 WIDTH=87 ALT=order></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/search.html onMouseover="hotLHS('search')" onMouseout="coldLHS('search')"><img BORDER=0 SRC=/gif/searchButton.gif NAME=search HEIGHT=20 WIDTH=87 ALT=search></a></td></tr></table></td>
+
+<td HEIGHT=276 WIDTH=474 VALIGN=top BGCOLOR=#FFFFFF>
+<table BORDER=0 CELLPADDING=7 CELLSPACING=0><tr><td>
+
+
+
+<!-- Heading -->
+<h1>Dan Flickinger: Prescription and Explanation &ndash;
+   Using an HPSG implementation to teach writing skills
+</h1>
+
+Computational linguists who develop grammar implementations often begin
+with the motivation to encode their hypotheses about the particular
+structures and the general principles which illuminate the analysis of a
+given language.  Often these hypotheses are tested either on naturally
+occurring text corpora, or on systematically constructed test suites
+illustrating the range of linguistic phenomena under study, including both
+well-formed and ill-formed example sentences.  Since many applications
+that make use of grammar implementations emphasize robustness of analysis
+over precision, it is nice for the grammarian to encounter an application
+where precision is demanded.  
+<P>
+
+One such application can be found in online education courses designed to
+teach basic writing skills, where students are given exercises in which
+they construct sentences whose grammaticality is then judged by the system.
+In order to provide accurate and detailed automatic analysis of students' 
+errors in composing sentences, a linguistically informed grammar (and
+parser) can be useful, and perhaps even essential as the complexity of
+the sentences increases.  Of course, a grammar designed to analyze only
+well-formed utterances needs to be augmented for this kind of application
+to include rules or mechanisms that also accommodate certain ill-formed 
+inputs, since students' errors are exactly what present opportunities for
+learning.
+<P>
+
+In this talk I draw on current work incorporating the English Resource
+Grammar (Flickinger 2002) into an existing online course for teaching
+sentence composition to elementary school students.  Adaptation of this
+HPSG grammar has involved both extensions via so-called mal-rules
+(Schneider and McCoy 1998, Bender et al. 2004), as well as reductions in
+the grammar's coverage via <em>masking</em> to avoid unwanted ambiguity,
+given the restricted vocabulary made available to the students for each
+exercise.  While the present implementation has focused only on judging
+syntactic well-formedness, we are also adding support for identifying
+semantic errors, by testing the equivalence of the semantic representation
+that the grammar assigns to the student's sentence with that of a set of
+correct answers supplied for that exercise.  To accommodate systematic
+mismatches in this equivalence due to errors in the student's sentence,
+we employ a paraphrase mechanism analogous to the semantic transfer
+approaches to machine translation. 
+<P>
+
+Our goal in this work is to provide accurate and detailed instruction to
+students in response to each sentence that they write while taking these
+online courses.  We are using (and abusing) the fine-grained knowledge of
+English encoded in the ERG together with its mal-rule extensions, to
+identify characteristic properties of student sentences which we can
+associate with error types, anchored in the type hierarchies of the
+lexicon and the syntactic constructions defined in the ERG.  One of the
+central tensions we confront in this teaching application is in balancing
+the need for a consistent view of grammaticality with a more nuanced
+approach to good writing style.  Since the ERG, like many linguistically
+motivated grammar implementations, is designed to be descriptively
+comprehensive, adapting it to the service of prescriptive instruction is
+not a straightforward task, though an interesting one.  A second
+continuing challenge is to maintain a good balance between the flexibility
+of the grammar and high accuracy in disambiguating to choose the one
+intended analysis for each student sentence, so we can make the right
+diagnosis of errors as the basis for explanations to the students.
+
+<h2>References</h2>
+
+<ul>
+<li>Bender, E. M., D. Flickinger, S. Oepen and A. Walsh (2004). "Arboretum:
+Using a precision grammar for grammar checking in CALL," in Proceedings
+of the InSTIL/ICALL Symposium 2004, Venice, Italy.
+
+<li>Flickinger, D. (2002). "On building a more efficient grammar by
+exploiting types," in S. Oepen, D. Flickinger, J. Tsujii and H. Uszkoreit 
+(eds.) Collaborative Language Engineering, Stanford: CSLI Publications, 
+pp. 1-17.
+
+<li>Schneider, D. and K. McCoy (1998). "Recognizing Syntactic Errors in the 
+Writing of Second Language Learners," in Proceedings of Coling-ACL, pp.
+1198-1204.  Montreal.
+</ul>
+
+
+<P>
+<a href="toc.shtml">Toc of the proceedings</a>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan M&uuml;ller</a>
+
+<br>
+<br>Created: October 21, 2010
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+
+</td></tr><tr HEIGHT=30><td valign=bottom></td></tr></table></td>
+
+<td valign=top><img SRC="/gif/CSINRight.gif" ALT="" WIDTH=89 HEIGHT=1 BORDER=0></td>
+</tr></table></td><td VALIGN=top><img SRC=/gif/backlistRight.gif ALT="" HEIGHT=276 WIDTH=87></td></tr>
+<tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td HEIGHT=68 WIDTH=268>
+<table BORDER=0 CELLPADDING=5 CELLSPACING=0 BACKGROUND=/gif/bottom.gif><tr><td HEIGHT=68 WIDTH=268 VALIGN=bottom ALIGN=right>
+<font FACE="arial, helvetica" SIZE=-1 COLOR=#000055><a HREF="mailto:pubs@roslin.stanford.edu">pubs@roslin.stanford.edu</a>
+
+</font></td></tr></table></td>
+<td><img SRC=/gif/logo_bottom.gif ALT="" HEIGHT=68 WIDTH=380></td></tr></table></td></tr></table></body></html>

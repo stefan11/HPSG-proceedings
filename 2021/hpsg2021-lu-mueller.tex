@@ -1,0 +1,83 @@
+\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
+                    % For some reasons some old HPSG proceedings have pdf 1.6
+\documentclass[a4paper,11pt]{article}
+\usepackage{times}
+\usepackage{ogonek} % Dąbkowski
+\hyphenation{Acad-e-my}
+\usepackage{pdfpages}
+\pdfinclusioncopyfonts=1
+\usepackage[utf8]{inputenc}
+        \usepackage{hyperref}
+        \hypersetup{colorlinks=false, pdfborder={0 0 0}}
+        \setcounter{page}{47}
+\usepackage{orcidlink}
+
+        \begin{document}
+
+\newcommand\formatauthor[2]{\begin{tabular}[t]{@{}c@{}}
+  {\LARGE#1\strut}\\
+  {\small#2\strut}\\
+  \rule{\dimexpr0.5\linewidth-1em}{0pt}
+  \end{tabular}\xhfill\ignorespaces}
+\newcommand\xhfill{\hspace{1em plus 1fill}}
+\thispagestyle{empty}
+
+\begin{center}
+  {\huge\bfseries Verbal reduplication in Mandarin Chinese: An HPSG account\par}
+
+  \bigskip
+
+~\\
+\begingroup
+\setlength{\leftskip}{0pt plus 1fill}
+\setlength{\rightskip}{0pt plus 1fill}
+\setlength{\parindent}{0pt}
+\setlength{\parfillskip}{0pt}
+  \formatauthor{Yanru Lu}{\begin{tabular}{@{}c@{}}Humboldt-Universität zu Berlin\end{tabular}}
+\formatauthor{Stefan Müller\,\orcidlink{0000-0003-4413-5313}}{\begin{tabular}{@{}c@{}}Humboldt-Universität zu Berlin\end{tabular}}
+
+\par\endgroup
+
+  \vspace*{8ex}
+
+  Proceedings of the 28th International Conference on\par Head-Driven Phrase Structure Grammar
+
+  \bigskip
+
+  Online (Frankfurt)
+
+  \medskip
+
+  Stefan  Müller, Nurit Melnik (Editors)
+
+  \medskip
+
+  2021
+
+  \medskip
+
+%  CSLI Publications
+
+  \medskip
+
+  pages 47--67
+
+  \medskip
+
+%  \url{http://csli-publications.stanford.edu/HPSG/2021}
+\end{center}
+\vfill
+
+\noindent
+Keywords: Chinese, HPSG, reduplication
+
+
+\vfill
+\noindent
+% APA Style
+Lu, Yanru, \& Müller, Stefan. 2021. Verbal reduplication in Mandarin Chinese: An HPSG account. In Müller, Stefan, \& Melnik, Nurit (Eds.), \emph{{Proceedings of the 28th International Conference on Head-Driven Phrase Structure Grammar, Online (Frankfurt)}},
+47--67. DOI: \href{http://doi.org/10.21248/hpsg.2021.3}{10.21248/hpsg.2021.3}. \hfill\href{http://creativecommons.org/licenses/by/4.0/}{\includegraphics[height=.75em]{Includes/ccby-eps-converted-to.pdf}}
+
+\newpage
+\includepdf[pages=-,pagecommand=\thispagestyle{plain}]{Includes/lu-mueller.pdf}
+        \end{document}

@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Crysmann, Berthold: Resumption and case: A new take on Modern Standard Arabic
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Resumption and case: A new take on Modern Standard Arabic">
+<meta name="citation_author"           content="Crysmann, Berthold">
+<meta name="citation_conference_title" content="Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2017">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="120">
+<meta name="citation_lastpage"         content="140">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2017/hpsg2017-crysmann.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Crysmann, Berthold: Resumption and case: A new take on Modern Standard Arabic
+</h1>
+
+<div class="blurb"
+<p>
+Over the past few years, there has been renewed interest in the treatment of resumption in HPSG: despite areas of convergence, e.g. the recognition of
+resumptive dependencies as dependencies, as motivated by Across-the-Board (ATB) extraction, there is no unified theory to date, with differences
+pertaining, e.g., to the exact formulation of amalgamation (Ginzburg and Sag, 2000), or the place of island constraints in grammar. While Borsley (2010) and Alotaibi and Borsley (2013) relegate the difference in locality of gap and resumptive dependencies to the performance system, Crysmann (2012, 2016) captures insensitivity to strong islands as part of the grammar. Harmonising existing proposals becomes even more acute, if we consider the
+cross-linguistic similarity of the phenomenon, in particular, if we compare languages like Hausa and Arabic, which both feature island insensitivity to some
+degree, as well as bound pronominal resumptive objects and zero pronominal resumptive subjects, to name just a few of the parallels.
+In this paper, I shall reexamine resumption (and extraction) in Modern Standard Arabic (henceforth: MSA) and propose a reanalysis that improves
+on Alotaibi and Borsley (2013) in several areas: first, I shall argue that controlling the distribution of gaps and resumptives by means of case is not only
+empirically under-motivated but also leads to counter-intuitive constraint specifications in the majority of cases. Second, I shall show that the case-based account of Alotaibi and Borsley (2013) can be straightforwardly supplanted with the weight-based account I proposed in Crysmann (2016): in doing this, one
+does not only get a better alignment of case assignment constraints with overtly observable manifestations of case, but such an account is also general enough
+to scale from case languages, such as MSA, to languages without case, such as 
+Hausa, or many Arabic vernaculars. Finally, I shall address case in ATB extraction and propose a refinement of the Coordination Constraint of Pollard and
+Sag (1994) that accounts for exactly the kind of mismatch observed in mixed
+gap/resumptive ATB extraction
+  
+<P>
+<ul>
+<li><a href="hpsg2017-crysmann.pdf">download PDF</a>
+<li><a href="crysmann.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 18/10/2017
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

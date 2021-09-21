@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Bildhauer, Felix: Clitic left dislocation and focus projection in Spanish
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Clitic left dislocation and focus projection in Spanish">
+<meta name="citation_author"           content="Bildhauer, Felix">
+<meta name="citation_conference_title" content="Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2008">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="346">
+<meta name="citation_lastpage"         content="357">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2008/bildhauer.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Bildhauer, Felix: Clitic left dislocation and focus projection in Spanish
+</h1>
+
+<div class="blurb"
+<p>
+The information-structural status of clitic left dislocated arguments in
+Spanish has been argued to depend crucially on their thematic role.
+Earlier HPSG analyses of related phenomena in other languages do not
+take into account this sort of information. A formalization will be
+presented which can handle differences in information-structure arising
+from different thematic roles of clitic left dislocated phrases.
+  
+<P>
+<ul>
+<li><a href="bildhauer.pdf">download PDF</a>
+<li><a href="bildhauer.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2008
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

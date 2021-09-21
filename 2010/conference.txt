@@ -1,0 +1,251 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+Alahverdzhieva, Katya  & Lascarides, Alex # UNiversity of Edinburgh # Analysing Speech and Co-Speech Gesture in Constraint-based Grammars # October 13, 2010 # #
+This paper addresses the form-meaning relation of multimodal communicative actions by means of a
+grammar that combines verbal input with hand gestures. Unlike speech, gesture signals are
+interpretable only through their semantic relation to the synchronous speech content. This relation
+serves to resolve the incomplete meaning that is revealed by gestural form alone. We demonstrate
+that by using standard linguistic methods, speech and gesture can be integrated in a constrained way
+into a single derivation tree which maps to a uniform meaning representation.
+
+
+Assmann, Anke &  Heck, Fabian & Hein, Johannes & Keine, Stefan  & Müller,  Gereon # Universität Leipzig # Does Chain Hybridization in Irish Support Movement-Based Approaches to Long-Distance Dependencies? # October 15, 2010 # #
+Huybregts (2009) makes the claim that hybrid A'-chains in Irish favor
+derivational theories of syntax over representational ones such as HPSG. In
+this paper, we subject this assertion to closer scrutiny. Based on a new technical proposal, we will reach the conclusion that, in principle, both derivational
+and representational accounts can accomodate hybrid dependencies. Thus, no
+argument against either approach can be made on the basis of the Irish data,
+disconfirming Huybregts's (2009) claim.
+
+Arnold, Doug  & Borsley, Robert D. # University of Essex # Auxiliary-Stranding Relative Clauses # October 14, 2010 # #
+A little discussed feature of English are non-restrictive relative clauses in which the antecedent
+is normally not an NP and the gap follows an auxiliary, as in <em>Kim will sing, which Lee won't</em>. These
+relative clauses resemble clauses with auxiliary complement ellipsis or fronting. There are a
+variety of analyses that might be proposed, but there are reasons for thinking that the best
+analysis is one where <em>which</em> is a nominal filler associated with a gap which is generally
+non-nominal: a filler-gap mismatch analysis in other words.
+
+
+Bildhauer, Felix  & Cook, Philippa # Freie Universität Berlin# German Multiple Fronting and Expected Topic-Hood # October 13, 2010 # #
+This papers addresses information-structural restrictions on the occurrence of what is known as
+"multiple fronting" in German. Multiple fronting involves the realization of (what appears to be)
+more than one constituent in the first position of main clause declaratives, a clause type that
+otherwise respects the verb-second constraint of German. Relying on a large body of naturally
+occurring instances of multiple fronting with the surrounding discourse context, we show that in
+certain contexts, multiple fronting is fully grammatical in German, in contrast to what has
+sometimes been claimed previously. Examination of this data reveals two different patterns, which we
+analyze in terms of two distinct constructions, each instantiating a specific pairing of form,
+meaning and contextual appropriateness.
+
+
+Borsley, Robert D # University of Essex # An HPSG Approach to Welsh Unbounded Dependencies # October 13, 2010 # #
+Welsh is a language in which unbounded dependency constructions involve both gaps and resumptive
+pronouns (RPs). Gaps and RPs appear in disjoint sets of environments. Otherwise, however, they are
+quite similar. This suggests that they involve the same mechanism, and in HPSG that they involve the
+SLASH feature. It is possible to provide an analysis in which RPs are associated with the SLASH
+feature but are also the ordinary pronouns which they appear to be.
+
+
+Chaves, Rui P. # University at Buffalo # On the Syntax and Semantics of <em>vice versa</em> # October 16, 2010 # #
+This work focuses on the syntax and semantics of the expression <em>vice
+versa</em>, and shows that its syntactic distribution is much more flexible than
+semantically related expressions. Although <em>vice versa</em> usually appears in
+clausal coordinate environments, it can in principle occur in any other type
+of construction. Second, it can occur as an embedded verb phrase or even
+as a noun phrase, rather than as an adjunct. This suggests that <em>vice versa</em>
+is a propositional anaphor that corresponds to a converse of a propositional
+antecedent. Finally, although the predicates singled out to be interchanged
+are usually nominal, they can in fact be of virtually any part of speech. I
+argue that a possible account of the interpretation of <em>vice versa</em> lies at the
+interface between logical form (with rich decompositional lexical semantics
+along the lines of Pustejovsky (1995)), and pragmatics (drawing from independent
+work by Hobbs (1990) and Kehler (2002)).
+
+
+Cook, Philippa & Ørsnes, Bjarne # Freie Universität Berlin # Coherence with adjectives in German # October 13, 2010 # #
+Coherence generally refers to a kind of predicate formation
+where a verb forms a complex predicate with the head of its
+infinitival complement. Adjectives taking infinitival complements have
+also been shown to allow coherence, but the exact conditions for
+coherence with adjectives appear not to have been addressed in the
+literature. Based on a corpus-study (supplemented with
+grammaticality judgements by native speakers) we show that adjectives
+fall into three semantically and syntactically defined classes
+correlating with their ability to construct coherently. Non-factive and 
+non-gradable adjectives allow coherence, factive and gradable adjectives
+do not allow coherence and non-factive and gradable adjectives are
+tolerated with coherence. On the basis of previous work on coherence in
+German we argue that coherence  allows the infinitival complement of a
+verb or an adjective to be "split-up", so that the head and a dependent of this head
+are associated with different information structural functions. In
+this respect coherence patterns with extraction structures where the
+extracted constituent has an information structural function different
+from the constituent from which it is extracted. Following
+literature on the information structural basis of extraction islands,
+we show how the lack of coherence with factive adjectives follows from
+their complements' being information structurally backgrounded, while the infinitival
+complements of non-factive adjectives tend to a higher fusion with the
+matrix clause. We also show that coherence is observed with
+attributive adjectives as well, arguing that coherence is not a distinct
+verbal property. Finally we provide an analysis of 
+coherence with adjectives within HPSG.
+
+
+Flickinger, Dan # Stanford University # Prescription and Explanation &ndash;
+Using an HPSG implementation to teach writing skills # October 21, 2010 # no #
+Computational linguists who develop grammar implementations often begin
+with the motivation to encode their hypotheses about the particular
+structures and the general principles which illuminate the analysis of a
+given language.  Often these hypotheses are tested either on naturally
+occurring text corpora, or on systematically constructed test suites
+illustrating the range of linguistic phenomena under study, including both
+well-formed and ill-formed example sentences.  Since many applications
+that make use of grammar implementations emphasize robustness of analysis
+over precision, it is nice for the grammarian to encounter an application
+where precision is demanded.  
+<P>
+One such application can be found in online education courses designed to
+teach basic writing skills, where students are given exercises in which
+they construct sentences whose grammaticality is then judged by the system.
+In order to provide accurate and detailed automatic analysis of students' 
+errors in composing sentences, a linguistically informed grammar (and
+parser) can be useful, and perhaps even essential as the complexity of
+the sentences increases.  Of course, a grammar designed to analyze only
+well-formed utterances needs to be augmented for this kind of application
+to include rules or mechanisms that also accommodate certain ill-formed 
+inputs, since students' errors are exactly what present opportunities for
+learning.
+<P>
+In this talk I draw on current work incorporating the English Resource
+Grammar (Flickinger 2002) into an existing online course for teaching
+sentence composition to elementary school students.  Adaptation of this
+HPSG grammar has involved both extensions via so-called mal-rules
+(Schneider and McCoy 1998, Bender et al. 2004), as well as reductions in
+the grammar's coverage via <em>masking</em> to avoid unwanted ambiguity,
+given the restricted vocabulary made available to the students for each
+exercise.  While the present implementation has focused only on judging
+syntactic well-formedness, we are also adding support for identifying
+semantic errors, by testing the equivalence of the semantic representation
+that the grammar assigns to the student's sentence with that of a set of
+correct answers supplied for that exercise.  To accommodate systematic
+mismatches in this equivalence due to errors in the student's sentence,
+we employ a paraphrase mechanism analogous to the semantic transfer
+approaches to machine translation. 
+<P>
+Our goal in this work is to provide accurate and detailed instruction to
+students in response to each sentence that they write while taking these
+online courses.  We are using (and abusing) the fine-grained knowledge of
+English encoded in the ERG together with its mal-rule extensions, to
+identify characteristic properties of student sentences which we can
+associate with error types, anchored in the type hierarchies of the
+lexicon and the syntactic constructions defined in the ERG.  One of the
+central tensions we confront in this teaching application is in balancing
+the need for a consistent view of grammaticality with a more nuanced
+approach to good writing style.  Since the ERG, like many linguistically
+motivated grammar implementations, is designed to be descriptively
+comprehensive, adapting it to the service of prescriptive instruction is
+not a straightforward task, though an interesting one.  A second
+continuing challenge is to maintain a good balance between the flexibility
+of the grammar and high accuracy in disambiguating to choose the one
+intended analysis for each student sentence, so we can make the right
+diagnosis of errors as the basis for explanations to the students.
+<h2>References</h2>
+<ul>
+<li>Bender, E. M., D. Flickinger, S. Oepen and A. Walsh (2004). "Arboretum:
+Using a precision grammar for grammar checking in CALL," in Proceedings
+of the InSTIL/ICALL Symposium 2004, Venice, Italy.
+<li>Flickinger, D. (2002). "On building a more efficient grammar by
+exploiting types," in S. Oepen, D. Flickinger, J. Tsujii and H. Uszkoreit 
+(eds.) Collaborative Language Engineering, Stanford: CSLI Publications, 
+pp. 1-17.
+<li>Schneider, D. and K. McCoy (1998). "Recognizing Syntactic Errors in the 
+Writing of Second Language Learners," in Proceedings of Coling-ACL, pp.
+1198-1204.  Montreal.
+
+
+Hemforth, Barbara & Fayol, Michel & Pacton, Sébastien # LPNCog, CNRS, IUPPD-Université Paris-Descartes & LAPSCO, CNRS, Université Blaise Pascal, Clermont-Ferrand & LPNCog, CNRS, IUPPD-Université Paris-Descartes  # Usage-based Preferences in Written Sentence
+ Production: The Role of Local and Global Statistics # October 20, 2010 # #
+In this paper, we will discuss the role of different levels of frequency distributions in sentence
+processing and in written production, looking at French homophones. A comparison of experimental
+data and corpus statistics will demonstrate that lexical frequencies as well as local and global
+coherences have to be taken into account to fully explain the empirically established patterns.
+
+
+Islam, Md. Sadiqul & Masum, Mahmudul Hasan & Bhuyan, Md. Shariful Islam  & Ahmed, Reaz # Bangladesh University of Engineering and Technology, Dhaka # Arabic Nominals in HPSG: A Verbal Noun Perspective # October 18, 2010 # #
+Semitic languages exhibit rich nonconcatenative morphological operations, which can generate a myriad of 
+derived lexemes. Especially, the feature rich, root-driven morphology in the Arabic language demonstrates the 
+construction of several verb-derived nominals (verbal nouns) such as gerunds, active participles, passive 
+participles, locative participles, etc. Although HPSG is a successful syntactic theory, it lacks the 
+representation of complex nonconcatenative morphology. In this paper, we propose a novel HPSG representation for 
+Arabic nominals and various verb-derived nouns. We also present the lexical type hierarchy and derivational rules 
+for generating these verb-derived nominals using the HPSG framework.
+
+
+Kim, Jong-Bok & Yang, Jaehyung & Song, Sanghoun # Kyung Hee & Kangnam & University of Washington  # Korean Comparative Constructions: A Constraint-Based Approach and Computational Implementation # October 25, 2010 # # 
+The complexity of comparative constructions in each language has given challenges to both
+theoretical and computational analyses. This paper first identifies types of comparative
+constructions in Korean and discusses their main grammatical properties. It then builds a syntactic
+parser couched upon the typed feature structure grammar, HPSG and proposes a context-dependent
+interpretation for the comparison. To check the feasibility of the proposed analysis, we have
+implemented the grammar into the existing Korean Resource Grammar. The results show us that the
+grammar we have developed here is feasible enough to parse Korean comparative sentences and yield
+proper semantic representations though further development is needed for a finer model for
+contextual information.
+
+
+Koenig, Jean-Piere & Michelson, Karin # Buffalo University # Invariance in argument realization: The case of Iroquoian # # no #
+
+
+Levine, Robert # Ohio State University # Polarity and auxiliaryhood (pseudo)entanglement: the ellipsis pattern of modal need # # no #
+
+
+Maché, Jacob # Freie Universität Berlin # Towards a compositional analysis of verbless directives in German # October 13, 2010 # no # 
+This talk dealt with verbless directives in German consisting of a directive PP and a 'mit'-PP ('with'). The main claim was that a compositional analysis would be possible: first of all, the  PP+'mit'+NP pattern is not restricted to directive meaning, it can be found with 'wh'-morphology and embedded under a small class of predicates. The impossibility of declarative illocutionary force is due to the lack of finiteness. Second, it turned out that directive PPs are indeed predicates and therefore PP+'mit'+NP pattern are part of a more general phenomenon particular to all types of non-finite predicates.
+Third, it seems that the 'mit'-PP could be analysed as a manifestation of the THEME argument with structural case in the distribution of a directive phrase.
+paper not submitted, since it will appear elsewhere
+
+
+Melnik, Nurit # Oranim AC # Modal Predicates in Modern Hebrew # October 26, 2010 # no # 
+Modern Hebrew has different types of modal expressions whose syntactic
+category is subject to ongoing debates. This study focuses on a subset:
+predicative expressions which appear with infinitival VPs. The analysis
+distinguishes between Class I predicates, which are associated with deontic
+modality, and Class II predicates, which are epistemic. Moreover, it is
+proposed that this semantic distinction has syntactic corollaries. Class I
+predicates are amenable to a 'standard' control analysis. Class II
+predicates, on the other hand, resemble raising constructions. Nevertheless,
+closer scrutiny reveals a non-standard relationship between the Class II
+modal predicate and the lower infinitival verbs with regards to word order
+and agreement patterns, as well as evidence for a flat constituent
+structure, thus motivating a complex predicate analysis.
+ 
+
+Sailer, Manfred # Univesity of Göttingen # The Family of English Cognate Object Constructions # October 16, 2010 # #
+In the Cognate Object Construction (COC) a typically intransitive verb
+combines with a postverbal noun phrase whose head noun is morphologically
+or semantically cognate to the verb. I will argue that English has a
+family of COCs which consists of four different types. The COCs
+share common core properties but differ with respect to some of their
+syntactic and semantic properties. I will capture the ``cognateness''
+between the verb and the noun in all COCs by token identities at the level
+of their lexical semantic contribution. I will use an inheritance
+hierarchy on lexical rule sorts to model the family relations among the
+different COC types.
+
+
+Samvelian, Pollet  & Tseng, Jesse # Université de Paris 3 & CNRS & Université de Toulouse 2 # Persian Object Clitics and the Syntax-Morphology Interface # October 18, 2010 # #
+This paper presents a descriptive overview and formal analysis of the use of pronominal clitics for
+realizing various types of arguments in Persian, with particular emphasis on object clitics in the
+verbal domain. We argue that pronominal clitics behave more like suffixes than independent syntactic
+elements; in cases where they take syntactic scope over an NP or a PP, they must be phrasal
+affixes. We propose an HPSG analysis to account for the morphosyntactic aspects of verbal
+suffixation of object clitics, possessive clitics, preverbal object clitics, and clitic doubling
+constructions. Finally, we explore extensions of the analysis to periphrastic verb forms, and we
+compare our proposals for Persian to previous HPSG work on clitic phenomena in other languages.
+ 
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Van Eynde, Frank &amp; Kim, Jong-Bok: Pseudo-partitives in
+English
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Van Eynde, Frank &amp; Kim, Jong-Bok: Pseudo-partitives in
+English
+</h1>
+
+<div class="blurb"
+<p>
+Pseudo-partitives are [N1&ndash;of&ndash;N2] sequences in which N1 denotes 
+a quantity or measure and in which N2 is a bare plural or a singular mass noun, 
+as in <em>a lot of things</em>, <em>a liter of water</em> and <em>a group of volunteers</em>. 
+In terms of agreement, there are two types of such sequences:  
+those which share the number value of N1, and those which share the number value of N2. 
+The analysis of the first type is straightforward, but the second type 
+raises issues about the status of N1 and the preposition <em>of</em>. We show how 
+they can be dealt with if one adopts the functor treatment of the noun phrase.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

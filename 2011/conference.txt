@@ -1,0 +1,316 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+
+Alahverdzhieva, Katya  & Lascarides, Alex # University of Edinburgh # An HPSG Approach to Synchronous Speech and Deixis # November 16, 2011 # # 
+The use of hand gestures to point at objects and individuals, or to navigate through landmarks on a
+virtually created map is ubiquitous in face-to-face conversation. We take this observation as a
+starting point, and we demonstrate that deictic gestures can be analysed on a par with speech by
+using standard methods from constraint-based grammars such as HPSG. In particular, we use the form
+of the deictic signal, the form of the speech signal (including its prosodic marking) and their
+relative temporal performance to derive an integrated multimodal tree that maps to an integrated
+multimodal meaning. The integration process is constrained via construction rules that rule out
+ill-formed input. These rules are driven from an empirical corporal study which sheds light on the
+interaction between speech and deictic gesture.
+
+Ball, Douglas # Truman State University # Morphology in the `Wrong' Place: The Curious Case of Coast Tsimshian Connectives # November 16, 2011 # #
+This paper examines the apparently odd location of case-marking
+formatives found in the Pacific Northwest language, Coast Tsimshian.
+It first argues that the case-marking formatives are actually affixes
+on the preceding words, not prosodically-dependent words. Given this
+morphological analysis, a syntactic analysis is proposed that utilizes
+the  'informationally-rich' syntactic structure of HPSG. In
+particular, the analysis proposed uses EDGE features and chained
+identities between adjacent phrasal sisters to license the clause.
+This enables a simple analysis of  the clausal syntax of Coast
+Tsimshian while still accounting for the wide array of facts
+surrounding the connectives.
+
+Crowgey, Joshua & Bender, Emily M. # University of Washington # Analyzing Interacting Phenomena: Word Order and Negation in Basque # November 16, 2011 # #
+We explore the interaction of sentential negation and word order in Basque using a small
+experimental implemented grammar based on the Grammar Matrix (Bender et al., 2002, 2010) to test the
+analyses. We find that the analysis of free word order (Fokkens, 2010) provided by the Grammar
+Matrix customization system can be adapted to handle the Basque facts, and that the constructional
+approach taken in that analysis supports the integration of negation.
+
+Hahn, Michael # University of Tübingen # Null Conjuncts and Bound Pronouns in Arabic # November 15, 2011 # #
+This paper presents a descriptive overview and a formal analysis of the
+syntax of pronominal arguments, pronominal conjuncts and bound pronouns
+in Arabic. I argue that Arabic allows first conjuncts to be null and that this
+is an instance of a more general pattern of zero anaphora that may affect
+pronominal arguments or their first conjuncts. First Conjunct Agreement
+and constraints on the distribution of zero anaphora are accounted for by a
+new feature sharing mechanism which allows a uniform treatment without
+appeal to the internal structure of argument NPs. I then argue that Arabic
+bound pronouns should be analyzed as affixes and present an analysis of
+their relation to argument structure and coordination. Finally, it is shown how
+constraints on case marking in Arabic coordination can be formalized. The
+analysis is part of an Arabic grammar fragment implemented in the TRALE
+system.
+
+Hasegawa, Akio & Koenig,  Jean-Pierre # University at Buffalo # Focus particles, secondary meanings, and Lexical Resource Semantics:<br> The case of Japanese <em>shika</em> # November 16, 2011 # # 
+Japanese has two exclusive particles `shika' and `dake'. Although traditionally, both particles were
+considered to be exclusive particles like `only', a recent proposal claims that `shika' is an
+exceptive particle like `everyone except' to account for the necessary co-occurrence of the negative
+suffix `na' and `shika'. We show that this negative suffix lacks two critical semantic properties of
+ordinary logical negation: It is not downward entailing, nor does it license negative polarity
+items. We show that both `shika' and `dake' are exclusive particles, but that `shika' encodes an
+additional secondary meaning. The negative suffix only contributes to the sentence's secondary
+meaning when it co-occurs with `shika'. We present an HPSG and LRS analysis that models the
+co-occurrence of `shika' and the negative suffix `na', and their contribution to the sentence's
+secondary meaning.
+
+Kim, Jong-Bok  & Sells, Peter # Kyung Hee University & University of York # The English Binominal NP Construction: A Construction-Based Perspective # November 17, 2011 # #  
+English Binominal NPs (BNP) (e.g., a hell of a problem) are of empirical and
+theoretical interest due to their complex syntactic and semantic properties. In
+this paper, we review some basic properties of the BNP construction, focusing
+on its headedness, semantic relations, and the role of the preposition of.
+We argue that these properties suggest an account in the spirit of construction
+grammar. In particular, we show that English BNP is a nominal juxtaposition
+construction whose special syntactic constraints are linked to semantic
+relations like a subject-predicate relation.
+
+Krieger, Hans-Ulrich  & Kiefer, Bernd # DFKI, Saarbrücken # Converting CCGs into Typed Feature Structure Grammars # November 11, 2011 # #
+In this paper, we report on a transformation scheme that turns a Categorial
+Grammar, more specifically, a Combinatory Categorial Grammar (CCG; see
+Baldridge, 2002) into a derivation- and meaning-preserving typed feature
+structure (TFS) grammar.
+<p>
+We describe the main idea which can be traced back at least to work by
+Karttunen (1986), Uszkoreit (1986), Bouma (1988), and Calder et al. (1988).
+We then show how a typed representation of complex categories can be extended
+by other constraints, such as modes, and indicate how the Lambda semantics of
+combinators is mapped into a TFS representation, using unification to perform
+perform alpha-conversion and beta-reduction (Barendregt, 1984).
+We also present first findings concerning runtime measurements, showing
+that the PET system, originally developed for the HPSG grammar framework,
+outperforms the OpenCCG parser by a factor of 8&ndash;10 in the time domain and a
+factor of 4&ndash;5 in the space domain.
+
+Levine, Robert # Ohio State University # Linearization and its discontents # November 21, 2011 # #
+Much recent work on coordination in the HPSG
+framework seeks to deal with some of the most intractable issues this
+phenomenon poses for a constraint-based phrase structure architecture
+by appealing to the linearization mechanism introduced in
+Reape 1993. The research in question utilizes the mismatch between
+linear phonological sequences on the one hand and phrasal
+configuration on the other to underwrite a particular interpretation
+of ellipsis in which multiple structural objects with identical or
+near-identical descriptions are mapped to a single {\it dom-object}
+token. This mapping apparently allows a variety of problematic cases,
+such as right node raising, dependent cluster coordination, and unlike
+category coordination to be reinterpreted as instances of ordinary
+coordination in which structurally present elements receive no
+prosodic expression, creating the impression that strings which do not
+correspond to constituents of the same category have nonetheless been
+conjoined or disjoined. I argue in this paper that such
+linearization-based ellipsis (LBE) analyses, though plausible when
+confined to a narrow class of simplest-case data, prove untenable in
+the face of data sets in which the LBE approach must account for the
+interaction of nonconstituent coordination and quantification or
+symmetric predication, symmetrical modification of nominal heads, and
+a large and varied class of unlike category coordinations that do not
+admit of any ellipsis-based solutions. I show in addition that various
+objections offered in the LBE literature to categorial grammar
+treatments of the problems posed by noncanonical coordinations do not
+take into account techical resources available to CG which permit
+straightforward and unproblematic solutions to these problems. One
+must conclude that despite the general poplularity of LBE accounts of
+conjunction, there is at the moment no satisfactory HPSG treatment of
+noncanonical coordinations.
+
+Lipenkova, Janna # Freie Universität Berlin # Reanalysis of semantically required dependents as complements in the Chinese <em>ba</em>-construction # November 15, 2011 # #
+The paper aims at a formulation of semantic constraints on the produc-
+tivity of the Chinese <em>ba</em>-construction and their representation at the
+syntax-semantics interface. It builds on the observation that requirements
+on the surface form of the construction may be altered by the choice of
+the verb. I propose that the semantics of the <em>ba</em>-construction can be
+treated in terms of a scalar constraint: a <em>ba</em>-sentence must come with a
+scale and a difference value that holds of the described event. The
+satisfaction of this constraint largely relies on the lexical semantics of
+the sentence. Not all verbs are inherently associated with scalar
+relations; those that are not must combine with an additional dependent
+which satisfies the scale requirement. Due to the obligatory presence of
+the additional dependent for some verbs, it is reanalyzed as a complement
+of <em>ba</em>: being optional on their level of combination with the verb, it
+becomes obligatory once the verb is used in the <em>ba</em>-construction.
+
+Müller, Stefan & Ørsnes,  Bjarne # Freie Universität Berlin # Positional Expletives in Danish, German, and Yiddish # November 4, 2011 # #
+This paper deals with expletives that are inserted into clauses for structural reasons. We will
+focus on the Germanic languages Danish, German, and Yiddish. In Danish and Yiddish expletives are
+inserted in preverbal position in certain <em>wh</em>-clauses: In Danish such an insertion is
+observed when the subject is locally extracted from an SVO configuration in non-assertive
+clauses. In Yiddish <em>wh</em>-clauses are formed from a <em>wh</em>-phrase and a V2 clause. If no
+element would be fronted in the embedded V2 clause, an expletive is inserted in non-assertive
+clauses in order to meet the V3 requirement for embedded clauses. In
+addition to embedded <em>wh</em>-clauses,
+declarative V2 clauses also allow the insertion of an expletive. In Danish the expletive fills the
+subject position and is not necessarily fronted. In German and Yiddish the expletive has to occur in
+fronted position. In contrast to Danish and Yiddish, German does not
+insert expletives into embedded <em>wh</em>-clauses. They are
+inserted only into declarative V2 clauses in order to fulfill the V2 requirement without having to
+front another constituent. In this paper we try to provide an account that captures the
+commonalities between the three languages while being able to account for the differences.
+
+Sag, Ivan A.  & Nykiel, Joanna # Stanford University & University of Silesia # Remarks on Sluicing # November 19, 2011 # #
+Sluicing is widely regarded as requiring an analysis via deletion
+operations, a potentially problematic conclusion for
+non-transformational frameworks like \HPSG. We examine critically and
+reassess the motivation for a deletion analysis of Sluicing, offering
+cross-linguistic and language-internal evidence in support of a
+fundamentally semantic constructional alternative like the
+one proposed by Ginzburg and Sag (2000).
+
+Thuilier, Juliette # Univ Paris Diderot, Sorbonne Paris Cité, ALPAGE, UMR-I 001 INRIA # Case Suffixes and Postpositions in Hungarian # November 16, 2011 # # 
+This paper examines the morpho-syntactic puzzle of case suffixes and postpositions that Hungarian
+displays. Although these two categories show distributional similarities, they are distinguishable
+from a morphological and a syntactic point of view. Moreover, this language has defective
+postpositions which are in complementary distribution with case suffixes. I argue that there is no
+real argument for lumping case suffixes together with postpositions into the same syntactic
+category, as has been suggested in recent linguistics studies (Trommer, 2008; Asbury, 2007).  I
+rather propose to treat case suffixes and postpositions as two different objects: case suffixes are
+inflectional material on nominal heads and postpositions as well as defective postpositions are
+independent words subcategorizing an NP. This distinction straightforwardly accounts for
+morphological and syntactic differences. Finally, the shared distributional properties between case
+suffixes, postpositions and defective postpositions are captured by means of the use of the MARKING
+feature.
+
+Walker, Heike # University of Frankfurt am Main # Adjuncts and the HPSG Binding Theory # November 15, 2011 # #
+The HPSG binding theory in Pollard and Sag (1994) cannot account for the binding-theoretic
+interaction between main clause and adjunct-internal elements. Following Hukari and Levine (1995), I
+claim that structural configurations must be taken into account. In this article, I present a
+revised version of Hukari and Levine's configurational relation called v(alence-based)-c-command and
+propose that Principle C must involve this relation in addition to the obliqueness-based relation of
+o-command. New data are provided that strongly support the proposed revision of the HPSG binding
+theory. Finally, I argue that Principle C is syntactic rather than pragmatic in nature.
+
+Wasow, Thomas & Clausen, David # Stanford University # Weak Cross-over and Informativity # November 15, 2011 # no #
+Wasow (1972) introduced the distinction between weak and strong
+cross-over, illustrated in (1) because examples like (1a) seem
+possible in appropriate contexts, whereas the indicated coreference in
+(1b) is totally impossible.  
+<pre>  
+(1) a.  ??Who<sub>i</sub> did you talk to the boy she<sub>i</sub> liked about?  
+    b.  *I know who<sub>i</sub> Charlie think he<sub>i</sub> hurt.
+</pre>
+Following a suggestion of Culicover's, Wasow proposed that the gaps in
+long-distance dependencies contain traces coindexed with the fillers.
+Under this analysis, the low acceptability of an example like (1a) is
+related to the low acceptability of cataphora with indefinite
+antecedents: 
+<pre>
+(2) ??I talked to the boy she<sub>i</sub> liked about a girl<sub>i</sub>.
+</pre>
+Work by Hofmeister, Sag, Clausen and others has shown that at least
+some island phenomena can be explained in terms of factors that cause
+processing difficulty.  They have shown that the graded nature and
+context sensitivity of many island phenomena are better explained in
+terms of demands on memory during processing than through appeals to
+universal grammatical constraints.
+This talk explored the possibility of explaining weak-crossover (WCO)
+in similar terms.  It reported on three studies in which participants
+identified the referent of a pronoun and then rated sentences on a
+seven-point Likert scale.  The test sentences were embedded in a
+context designed to favor the intended interpretation of the pronoun.
+Each study contained examples with short (uninformative) antecedents
+for the pronoun as well as examples with longer (informative)
+antecedents.  The three studies investigated WCO in questions, WCO in
+relative clauses, and cataphora.  Each study also contained controls
+without the phenomenon under study, as well as both grammatical and
+ungrammatical fillers.  Sample stimuli are given in (3)-(5).
+<pre>
+(3) WCO in Questions: 
+The hiring committee was presented with only a subset of the
+applicants. Some had been eliminated because their files were
+incomplete, but the committee chair dropped one applicant because of
+negative comments from colleagues who knew that applicant well.  THE
+REST OF THE COMMITTEE WAS NOT TOLD WHO/WHICH JOB APPLICANT PEOPLE THAT
+KNEW HIM WELL HAD CRITICIZED
+</pre>
+<pre>
+(4) WCO in Relative Clauses
+In the bottom of the fourth inning, a questionable call elicited jeers
+from the visitors' dugout. One of the umpires evidently heard
+something sufficiently offensive to stick his head into the dugout and
+issue a warning.  THE RADIO ANNOUNCER COULDN'T SEE THE PERSON/VISITING
+PLAYER WHO THE UMPIRE HE HAD OFFENDED HAD WARNED.
+</pre>
+<pre>
+(5) Cataphora
+The news media are already beginning to cover the race for the 2012
+Republican presidential nomination.  At a recent convention of GOP
+bigwigs, many potential candidates were soliciting endorsements.
+EVERYONE HE SOLICITED HAD PURPORTEDLY AGREED TO ENDORSE ONE
+PERSON/POTENTIAL CANDIDATE
+</pre>
+Our expectations of these experiments included the following: 
+<ul>
+<li> In all three studies, we expected the controls (non-WCO or anaphora)
+  to be judged better than the test sentences (WCO or cataphora).
+<li> In all studies, we expected informative antecedents to be judged
+  better than the uninformative antecedents.
+<li> We expected WCOs to be judged better than the ungrammatical fillers.
+<li> We expected the embedded question WCOs to be judged worse than the
+  relative clause WCOs.
+<li> We expected the cataphora examples to be judged better than the
+  WCOs.
+</ul>
+Our studies collected 1111 ratings of embedded question WCOs, 1447
+relative clause WCOs, and 1220 ratings of cataphora examples, from a
+total 361 participants.  The results confirmed some of our
+expectations but not others.  Specifically:
+<ul>
+<li> As expected the controls (non-WCO or anaphora) were judged better
+    than the test sentences (WCO or cataphora).
+<li> As expected, informative antecedents were generally judged better
+    than the uninformative antecedents, but not in embedded question
+    WCOs or in RC controls. This difference is a mystery to us.
+<li> Contrary to our expectations, the embedded question WCOs were judged
+    slightly better than the relative clause WCOs.
+<li> As expected, the cataphora examples were judged better than the
+    WCOs.
+<li> Even informative WCOs received low acceptability scores, but were
+    rated higher than ungrammatical fillers.
+</ul>
+We tentatively concluded that processing factors play a role in the
+low acceptability of WCO.  In particular:
+<ul>
+<li> The processing cost of filler-gap dependencies makes WCO hard.
+<li> The processing cost of establishing pronoun-antecedent pairings
+   makes WCO hard.
+<li> WCO involves the same extra processing cost as cataphora.
+<li> Informative antecedents mitigate the processing costs, at least
+   sometimes.
+<li> Whether the cumulative processing costs are sufficient to account
+   for the low acceptability of WCO examples remains unclear.
+</ul>
+The question of whether weak cross-over effects can be fully explained
+in terms of constraints on processing remains unresolved but deserves
+further study.
+<h2>References</h2>
+<ul>
+<li> Clausen, David R. (2010) <em>Processing Factors Influencing Acceptability
+in Extractions from Complex Subjects</em>. Unpublished ms., Stanford
+University
+ 
+<li> Hofmeister, Philip (2011) <em>Representational Complexity and Memory
+Retrieval in Language Comprehension</em>.  Language and Cognitive
+Processes, Volume 26.
+<li> Hofmeister, Philip, and Ivan A. Sag (2010) <em>Cognitive Constraints and
+Island Effects</em>. Language, Volume 86.
+<li> Wasow, Thomas (1972) Anaphoric Relations in English.  MIT dissertation
+</ul>
+
+Wetta, Andrew C.# University at Buffalo # A Construction-based Cross-linguistic Analysis of V2 Word Order # November 15, 2011 # #
+Verb second (V2) word order is determined by considering the absolute position of clausal
+constituents.  Previous accounts of such word order in HPSG have been developed for individual V2
+languages (predominantly German) but are often not cross-linguistically applicable.  I propose a
+set of generalized mechanisms in linearization-based SBCG which accounts for cross-linguistic V2
+data by use of: (1) a simple two-valued feature rather than many-typed topological domains, (2)
+domain compaction, and (3) constructionally-determined domain positions.  Not only does this
+analysis account for V2 placement, but it can also model verb third (V3) placement and other
+positionally-stipulated word orders.
+
+
+
+
+

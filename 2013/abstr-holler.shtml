@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Holler, Anke: Reanalyzing German Correlative <em>es</em>
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Reanalyzing German Correlative <em>es</em>">
+<meta name="citation_author"           content="Holler, Anke">
+<meta name="citation_conference_title" content="Proceedings of the 20th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2013">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="90">
+<meta name="citation_lastpage"         content="109">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2013/holler.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Holler, Anke: Reanalyzing German Correlative <em>es</em>
+</h1>
+
+<div class="blurb"
+<p>
+The present article discusses several aspects of the
+so-called correlate-<em>es</em> construction in German. This complex clausal
+construction can be identified by a correlative nominal element <em>es</em>
+('it’) occuring in the matrix clause and a right-peripheral full clausal
+argument linked to <em>es</em>. The article supports the hypothesis that
+correlative <em>es</em> has a janus-faced nature between an expletive and a
+referential meaning. This is the reason why existing approaches are not
+sufficient to capture the properties of the discussed construction in its
+entirety. The first part of the article sums up the common view on
+correlative <em>es</em> including the empirical properties of the
+construction as well as a brief survey of the relevant previous approaches
+trying to account for correlative <em>es</em>. Based on new empirical data,
+the second part of the article shows that none of these accounts is able
+to capture all relevant facts of the correlate-<em>es</em> construction
+because existing approaches usually ignore that the realization of
+correlative <em>es</em> is verb-class dependent. Hence, a new
+constraint-based analysis is developed that takes both empirical
+observations into account, the verb-class dependence and the janus-faced
+nature.
+  
+<P>
+<ul>
+<li><a href="holler.pdf">download PDF</a>
+<li><a href="holler.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2013
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

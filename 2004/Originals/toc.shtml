@@ -1,0 +1,308 @@
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+      <!-- This site generated using MacPerl, BBEdit, Adobe Illustrator, and Adobe Photoshop on MacOS-->
+<head>
+<title>HPSG '04 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta NAME="keywords" CONTENT="">
+
+
+<script language ="JavaScript">
+var name = null;
+cold_index = new Image();
+cold_order = new Image();
+cold_contact = new Image();
+cold_site_index = new Image();
+cold_backlist = new Image();
+cold_authors = new Image();
+cold_search = new Image();
+cold_new_books = new Image();
+hot_index = new Image();
+hot_order = new Image();
+hot_contact = new Image();
+hot_site_index = new Image();
+hot_backlist = new Image();
+hot_authors = new Image();
+hot_search = new Image();
+hot_new_books = new Image();
+cold_index.src = "../../gif/indexButton.gif";
+cold_order.src = "../../gif/orderButton.gif";
+cold_contact.src = "../../gif/contactButton.gif";
+cold_site_index.src = "../../gif/site_indexButton.gif";
+cold_backlist.src = "../../gif/backlistButton.gif";
+cold_authors.src = "../../gif/authorsButton.gif";
+cold_search.src = "../../gif/searchButton.gif";
+cold_new_books.src = "../../gif/new_booksButton.gif";
+hot_index.src = "../../gif/index_hotButton.gif";
+hot_order.src = "../../gif/order_hotButton.gif";
+hot_contact.src = "../../gif/contact_hotButton.gif";
+hot_site_index.src = "../../gif/site_index_hotButton.gif";
+hot_backlist.src = "../../gif/backlist_hotButton.gif";
+hot_authors.src = "../../gif/authors_hotButton.gif";
+hot_search.src = "../../gif/search_hotButton.gif";
+hot_new_books.src = "../../gif/new_books_hotButton.gif";
+    
+
+function hotLHS(imageName) {
+    if (document.images) {
+        hotText = eval("hot_" + imageName + ".src");
+        document [imageName].src = hotText;
+}}
+
+function coldLHS(imageName) {
+    if (document.images) {
+        coldText = eval("cold_" + imageName + ".src");
+        document [imageName].src = coldText;
+}}
+
+</script> </head>
+<body BGCOLOR=FFFFFF>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/index.html><img ALT="CSLI Publications logo" SRC=../../gif/logo.gif BORDER=0 HEIGHT=68 WIDTH=180></a></td><td><img SRC=../../gif/backlistTitle.gif HEIGHT=68 WIDTH=468></td></tr></table></tr></td><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0 VALIGN=top><tr><td HEIGHT=276 WIDTH=87 VALIGN=top BACKGROUND=../../gif/left.gif>
+
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/new_books.html onMouseover="hotLHS('new_books')" onMouseout="coldLHS('new_books')"><img BORDER=0 SRC=../../gif/new_booksButton.gif NAME=new_books HEIGHT=20 WIDTH=87 ALT=new_books></a></td></tr><tr><td><a HREF=../../site/backlist.html onMouseover="hotLHS('backlist')" onMouseout="coldLHS('backlist')"><img BORDER=0 SRC=../../gif/backlistButton.gif NAME=backlist HEIGHT=20 WIDTH=87 ALT=backlist></a></td></tr><tr><td><a HREF=../../site/site_index.html onMouseover="hotLHS('site_index')" onMouseout="coldLHS('site_index')"><img BORDER=0 SRC=../../gif/site_indexButton.gif NAME=site_index HEIGHT=20 WIDTH=87 ALT=site_index></a></td></tr><tr><td><img SRC="../../gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/contact.html onMouseover="hotLHS('contact')" onMouseout="coldLHS('contact')"><img BORDER=0 SRC=../../gif/contactButton.gif NAME=contact HEIGHT=20 WIDTH=87 ALT=contact></a></td></tr><tr><td><a HREF=../../site/authors.html onMouseover="hotLHS('authors')" onMouseout="coldLHS('authors')"><img BORDER=0 SRC=../../gif/authorsButton.gif NAME=authors HEIGHT=20 WIDTH=87 ALT=authors></a></td></tr><tr><td><img SRC="../../gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/order.html onMouseover="hotLHS('order')" onMouseout="coldLHS('order')"><img BORDER=0 SRC=../../gif/orderButton.gif NAME=order HEIGHT=20 WIDTH=87 ALT=order></a></td></tr><tr><td><img SRC="../../gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/search.html onMouseover="hotLHS('search')" onMouseout="coldLHS('search')"><img BORDER=0 SRC=../../gif/searchButton.gif NAME=search HEIGHT=20 WIDTH=87 ALT=search></a></td></tr></table></td>
+<td HEIGHT=276 WIDTH=474 VALIGN=top BGCOLOR=FFFFFF>
+<table BORDER=0 CELLPADDING=7 CELLSPACING=0><tr><td>
+<tr><td>
+<font face="Arial,helvetica" size="+2">
+Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar
+</font><p>
+<font face="Arial,helvetica" size="+1">Table of Contents</font>
+<font face="Arial,helvetica" size="0">
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg04.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg04.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+<li>Anne Abeillé (LLF UMR 7110) and Olivier Bonami (Université Paris 7) and Danièle Godard (Université Paris 7) and Jesse Tseng (Loria UMR 7503)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">The Syntax of French de-N' Phrases
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-abgt.shtml>abstract</a>,
+<a href=abgt.pdf>pages 6-26</a>
+<p>
+
+
+<li>Farrell Ackerman (University of California at San Diego), Irina Nikolaeva (King's College London) and Rob Malouf (San Diego State University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Possessive Relatives and Cooperating Constructions
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-anm.shtml>abstract</a>, paper not submitted
+<P>
+<li>Doug Arnold (University of Essex)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Non-Restrictive Relative Clauses in Construction-Based HPSG
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-arnold.shtml>abstract</a>,
+<a href=arnold.pdf>pages 27-47</a>
+<p>
+
+<li>John Beavers and Ivan A. Sag (Stanford University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Coordinate Ellipsis and Apparent Non-Constituent Coordination
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-bs.shtml>abstract</a>,
+<a href=beavers-sag.pdf>pages 48-69</a>
+<p>
+
+
+<li>Robert D. Borsley (University of Essex)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">An Approach to English Comparative Correlatives
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-borsley.shtml>abstract</a>,
+<a href=borsley.pdf>pages 70-92</a>
+<p>
+
+<li>Mike Daniels and Detmar Meurers (Ohio State University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">GIDLP: A Grammar Format for Linearization-Based HPSG
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-dm.shtml>abstract</a>,
+<a href=daniels-meurers.pdf>pages 93-111</a>
+<p>
+
+<li>Henriette de Swart (University of Utrecht)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">A Typology of Negation in a Constraint-Based Framework of Syntax and Semantics (invited talk)
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-de-swart.shtml>abstract</a>,
+<a href=deswart.pdf>pages 112-118</a>
+<p>
+
+<li>Markus Egg (Saarland University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Mismatches at the Syntax-Semantics Interface
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-egg.shtml>abstract</a>,
+<a href=egg.pdf>pages 119-139</a>
+<p>
+
+<li>Liv Ellingsen (University of Oslo)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Norwegian Word Order in HPSG
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;">abstract and paper not submitted
+<p>
+
+<li>Jonathan Ginzburg (King's College, London)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">HPSG in Constructive Type Theory (invited talk)
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-ginzburg.shtml>abstract</a>, paper not submitted
+<P>
+
+<li>Tibor Kiss (Ruhr-Uni Bochum)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Exempt Reflexives and Psych Verbs
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;">abstract and paper not submitted
+<p>
+<li>Jean-Pierre Koenig (University at Buffalo) and Tony Davis (Streamsage Inc.)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Raising Doubts about Russian Impersonals
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-kd.shtml>abstract</a>,
+<a href=koenig-davis.pdf>pages 140-150</a>
+<p>
+
+<li>Valia Kordoni (Saarland University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Between Shifts and Alternations: Ditransitive Constructions
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-kordoni.shtml>abstract</a>,
+<a href=kordoni.pdf>pages 151-167</a>
+<p>
+
+<li>Takafumi Maekawa (University of Essex)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Constituency, Word Order and Focus Projection
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-maekawa.shtml>abstract</a>,
+<a href=maekawa.pdf>pages 168-188</a>
+<p>
+
+<li>Ian Marshall and Eva Safar (University of East Anglia, Norwich)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Sign Language Generation in an ALE HPSG (invited talk)
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-ms.shtml>abstract</a>,
+<a href=marshall-safar.pdf>pages 189-201</a>
+<p>
+
+
+<li><a name=stmue>Stefan Müller</a> (Bremen University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">An Analysis of Depictive Secondary Predicates in German without Discontinuous Constituents
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-mueller.shtml>abstract</a>,
+<a href=mueller.pdf>pages 202-222</a>
+<p>
+
+<li>Adam Przepiórkowski (Polish Academy of Sciences) and Alexandr Rosen (Charles University, Prague)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Obligatory, Optional and Impossible Case Transmission in Control Constructions
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-pr.shtml>abstract</a>, paper not submitted, but <a href=http://dach.ipipan.waw.pl/~adamp/Papers/2004-control-czech-polish/>downloadable elsewhere</a>
+<P>
+<li>Manfred Sailer (University of Tübingen)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Propositional Relative Clauses in German
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-sailer.shtml>abstract</a>,
+<a href=sailer.pdf>pages 223-243</a>
+<p>
+
+<li>Melanie Siegel (Saarland University) and Emily M. Bender (University of Washington)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Head-Initial Constructions in Japanese
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-sb.shtml>abstract</a>,
+<a href=siegel-bender.pdf>pages 244-260</a>
+<p>
+
+<li>Jan-Philipp Söhn (University of Jena)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">License to Coll: How to Bind Bound Words and Readings to their Contexts
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-soehn.shtml>abstract</a>,
+<a href=soehn.pdf>pages 261-273</a>
+<p>
+
+
+<li>Mehran Taghvaipour (University of Essex)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">An HPSG Analysis of Persian Relative Clauses
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-taghvaipour.shtml>abstract</a>,
+<a href=taghvaipour.pdf>pages 274-293</a>
+<p>
+
+
+
+<li>Beata Trawinski (University of Tübingen)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Towards Licensing of Adverbial Noun Phrases in HPSG
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-trawinski.shtml>abstract</a>,
+<a href=trawinski.pdf>pages 294-312</a>
+<p>
+
+
+
+<li>Frank Van Eynde (University of Leuven)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Pied piping is a Local Dependency
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-vanEynde.shtml>abstract</a>,
+<a href=vanEynde.pdf>pages 313-334</a>
+<p>
+
+<li>Shuichi Yatabe (University of Tokyo)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">A Comprehensive Theory of Coordination of Unlikes
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-yatabe.shtml>abstract</a>,
+<a href=yatabe.pdf>pages 335-355</a>
+<p>
+</ul>
+
+
+<br><br>
+<li>Workshop Contributions
+<ul>
+<li>Dorothee Beermann and Lars Hellan (NTNU Trondheim)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Semantic Decomposition in a Computational HPSG Grammar: A Treatment of Aspect and Context-Dependent Directionals
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-bh.shtml>abstract</a>,
+<a href=beermann-hellan.pdf>pages 357-377</a>
+<p>
+
+<li>Ann Copestake (University of Cambridge Computer Laboratory)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Semantics and Generation (invited talk)
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-copestake.shtml>abstract</a>, paper not submitted
+<P>
+
+<li><a name=crysmann>Berthold Crysmann</a>
+(DFKI Saarbrücken and Saarland University)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Underspecification of Intersective Modifier Attachment: Some Arguments from German
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-crysmann.shtml>abstract</a>,
+<a href=crysmann.pdf>pages 378-392</a>
+<p>
+
+<li>Dan Flickinger (CSLI, Stanford) and Emily Bender (Univerity of Washington)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Semantic Selection in a Cross-Linguistic Framework
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-fb.shtml>abstract</a>, paper not submitted
+<P>
+
+<li>Anette Frank, Kathrin Spreyer, Witold Drozdzynski, Hans-Ulrich Krieger, and Ulrich Schäfer (DFKI Saarbrücken)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Constraint-based RMRS Construction from Shallow Grammars
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-fsdks.shtml>abstract</a>,
+<a href=frank-spreyer-drozdzynski-krieger-schaefer.pdf>pages 393-413</a>
+<p>
+
+<li>Petter Haugereid (NTNU Trondheim)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Linking in Constructions
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-haugereid.shtml>abstract</a>,
+<a href=haugereid.pdf>pages 414-422</a>
+<p>
+
+<li>Gerald Penn (University of Toronto) and Frank Richter (University of Tübingen)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Lexical Resource Semantics: From Theory to Implementation
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-penn-richter.shtml>abstract</a>,
+<a href=penn-richter.pdf>pages 423-443</a>
+<p>
+
+<li>Anders Søgaard
+(Center for Computational Modelling of Language, Copenhagen)
+<p align="left" style="line-height:100%; margin-top:4; margin-bottom:4; margin-left:15;">Danish Compounds in the Grammar Matrix
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0; margin-left:15;"><a href=abstr-sogaard.shtml>abstract</a>,
+<a href=sogaard.pdf>pages 444-456</a>
+<p>
+
+
+</ul>
+</ul>
+</font>
+
+<p style="line-height:150%;"><hr>
+
+<font FACE="arial, helvetica" SIZE=-1><i>
+Maintained by <a href="http://www.cl.uni-bremen.de/~stefan/">Stefan M&uuml;ller</a></address> 
+
+<br>Created: August 08, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"--></i></i>
+
+</font>
+
+
+
+
+
+
+
+
+
+
+
+<font FACE="arial, helvetica" SIZE=-1><p></font><font FACE="arial, helvetica" SIZE=-1><i><p></i></font><font FACE="arial, helvetica" SIZE=-1><i><p></i></font></td></tr><tr HEIGHT=30><td valign=bottom></a></a></td></tr></table></td>
+
+<td valign=top><img SRC="/gif/CSINRight.gif" WIDTH=89 HEIGHT=1 BORDER=0></td>
+</font></tr></td></table></td><td VALIGN=top><img SRC=/gif/backlistRight.gif HEIGHT=276 WIDTH=87></td></tr></table></tr></td>
+<tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td HEIGHT=68 WIDTH=268>
+
+<table BORDER=0 CELLPADDING=5 CELLSPACING=0 BACKGROUND=/gif/bottom.gif><tr><td HEIGHT=68 WIDTH=268 VALIGN=bottom ALIGN=right>
+<font FACE="arial, helvetica" SIZE=-1 COLOR=000055><a HREF=mailto:pubs@roslin.stanford.edu>pubs@roslin.stanford.edu</a>
+</font></td></tr></table></td>
+<td><img SRC=/gif/logo_bottom.gif HEIGHT=68 WIDTH=380></td></tr></table></tr></td></table></body></html>

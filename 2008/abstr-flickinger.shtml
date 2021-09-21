@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Flickinger, Dan: Transparent Heads
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Transparent Heads">
+<meta name="citation_author"           content="Flickinger, Dan">
+<meta name="citation_conference_title" content="Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2008">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="87">
+<meta name="citation_lastpage"         content="94">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2008/flickinger.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Flickinger, Dan: Transparent Heads
+</h1>
+
+<div class="blurb"
+<p>
+Head-complement structures in HPSG identify most properties of the phrase with those of the head
+daughter, except for that valence property (e.g. SUBCAT or COMPS) whose constraints are met by the
+non-head daughter(s) in the phrase.  In this paper I present several phenomena in English syntax
+where idiosyncratic properties of a non-head daughter in a phrase must remain visible on the phrasal
+node, in order to preserve the strong version of the principle of locality in subcategorization. I
+propose a general formal mechanism to effect this occasional transparency of heads with respect to
+certain properties of their complements.
+  
+<P>
+<ul>
+<li><a href="flickinger.pdf">download PDF</a>
+<li><a href="flickinger.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 29, 2008
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

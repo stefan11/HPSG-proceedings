@@ -1,0 +1,238 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+      <!-- This site generated using MacPerl, BBEdit, Adobe Illustrator, and Adobe Photoshop on MacOS-->
+<head>
+<title>HPSG '07 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta NAME="keywords" CONTENT="">
+<link rel="stylesheet" 
+type="text/css" href="hpsg-style.css">
+
+<script type="text/javascript">
+var name = null;
+cold_index = new Image();
+cold_order = new Image();
+cold_contact = new Image();
+cold_site_index = new Image();
+cold_backlist = new Image();
+cold_authors = new Image();
+cold_search = new Image();
+cold_new_books = new Image();
+hot_index = new Image();
+hot_order = new Image();
+hot_contact = new Image();
+hot_site_index = new Image();
+hot_backlist = new Image();
+hot_authors = new Image();
+hot_search = new Image();
+hot_new_books = new Image();
+cold_index.src = "/gif/indexButton.gif";
+cold_order.src = "/gif/orderButton.gif";
+cold_contact.src = "/gif/contactButton.gif";
+cold_site_index.src = "/gif/site_indexButton.gif";
+cold_backlist.src = "/gif/backlistButton.gif";
+cold_authors.src = "/gif/authorsButton.gif";
+cold_search.src = "/gif/searchButton.gif";
+cold_new_books.src = "/gif/new_booksButton.gif";
+hot_index.src = "/gif/index_hotButton.gif";
+hot_order.src = "/gif/order_hotButton.gif";
+hot_contact.src = "/gif/contact_hotButton.gif";
+hot_site_index.src = "/gif/site_index_hotButton.gif";
+hot_backlist.src = "/gif/backlist_hotButton.gif";
+hot_authors.src = "/gif/authors_hotButton.gif";
+hot_search.src = "/gif/search_hotButton.gif";
+hot_new_books.src = "/gif/new_books_hotButton.gif";
+    
+
+function hotLHS(imageName) {
+    if (document.images) {
+        hotText = eval("hot_" + imageName + ".src");
+        document [imageName].src = hotText;
+}}
+
+function coldLHS(imageName) {
+    if (document.images) {
+        coldText = eval("cold_" + imageName + ".src");
+        document [imageName].src = coldText;
+}}
+
+</script>
+</head>
+<body BGCOLOR=#FFFFFF>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><table BORDER=0
+CELLPADDING=0 CELLSPACING=0><tr><td><a HREF="../../site/index.html"><img
+ALT="CSLI Publications logo" SRC=/gif/logo.gif BORDER=0 HEIGHT=68 WIDTH=180></a></td><td><img SRC="/gif/backlistTitle.gif" ALT="" HEIGHT=68 WIDTH=468></td></tr></table></td></tr><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0 VALIGN=top><tr><td HEIGHT=276 WIDTH=87 VALIGN=top BACKGROUND="/gif/left.gif">
+
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/new_books.html onMouseover="hotLHS('new_books')" onMouseout="coldLHS('new_books')"><img BORDER=0 SRC="/gif/new_booksButton.gif" NAME=new_books HEIGHT=20 WIDTH=87 ALT="new_books"></a></td></tr><tr><td><a HREF=../../site/backlist.html onMouseover="hotLHS('backlist')" onMouseout="coldLHS('backlist')"><img BORDER=0 SRC="/gif/backlistButton.gif" NAME=backlist HEIGHT=20 WIDTH=87 ALT="backlist"></a></td></tr><tr><td><a HREF=../../site/site_index.html onMouseover="hotLHS('site_index')" onMouseout="coldLHS('site_index')"><img BORDER=0 SRC="/gif/site_indexButton.gif" NAME=site_index HEIGHT=20 WIDTH=87 ALT="site_index"></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/contact.html onMouseover="hotLHS('contact')" onMouseout="coldLHS('contact')"><img BORDER=0 SRC="/gif/contactButton.gif" NAME=contact HEIGHT=20 WIDTH=87 ALT="contact"></a></td></tr><tr><td><a HREF=../../site/authors.html onMouseover="hotLHS('authors')" onMouseout="coldLHS('authors')"><img BORDER=0 SRC="/gif/authorsButton.gif" NAME=authors HEIGHT=20 WIDTH=87 ALT="authors"></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/order.html onMouseover="hotLHS('order')" onMouseout="coldLHS('order')"><img BORDER=0 SRC=/gif/orderButton.gif NAME=order HEIGHT=20 WIDTH=87 ALT=order></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/search.html onMouseover="hotLHS('search')" onMouseout="coldLHS('search')"><img BORDER=0 SRC=/gif/searchButton.gif NAME=search HEIGHT=20 WIDTH=87 ALT=search></a></td></tr></table></td>
+<td HEIGHT=276 WIDTH=474 VALIGN=top BGCOLOR=#FFFFFF>
+<table BORDER=0 CELLPADDING=7 CELLSPACING=0><tr><td>
+<tr><td>
+<h1>
+Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg07.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg07.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+<li>Anne Bjerre (University of Southern Denmark) and Tavs Bjerre (Aarhus University, Denmark)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Pseudocoordination in Danish 
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-bb.shtml">abstract</a>, <a href="bjerre-bjerre.pdf">pages 6&#8211;24</a>
+
+<li>Olivier Bonami (Université Paris-Sorbonne &amp; LLF) and Danièle Godard (CNRS &amp; U. Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Integrating Linguistic Dimensions: The Scope of Adverbs
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-bg.shtml">abstract</a>, <a href="bonami-godard.pdf">pages 25&#8211;45</a>
+
+
+
+<li>Rui P. Chaves (University of Lisbon) and Denis Paperno (Lomonosov Moscow State University) 
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">On The Russian Hybrid Coordination Construction
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-cp.shtml">abstract</a>, <a href="chaves-paperno.pdf">pages 46&#8211;64</a>
+
+<li>Lori Coulter (University of Illinois at Urbana Champaign)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">A Semantic Interpretation of Modality in Counterfactual Conditionals
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-coulter.shtml">abstract</a>, <a href="coulter.pdf">pages 65&#8211;82</a>
+
+
+<li>Berthold Crysmann  (German Research Centre for Artificial Intelligence (DFKI)/Universität des Saarlandes/Universität Bonn)
+                              and
+                    Philipp von Böselager (Universität zu Köln)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Using an HPSG Grammar for the Generation of Prosody
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-cb.shtml">abstract</a>, <a href="crysmann-boeselager.pdf">pages 83&#8211;98</a>
+
+
+<li> Mary Esther Kropp Dakubu (University of Ghana), Lars Hellan (NTNU, Trondheim) and Dorothee Beermann (NTNU, Trondheim)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Verb Sequencing Constraints in Ga:
+Serial Verb Constructions and the Extended Verb Complex
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-dhb.shtml">abstract</a>, <a href="dakubu-hellan-beermann.pdf">pages 99&#8211;119</a>
+
+
+<li>Petter Haugereid (NTNU Trondheim)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Decomposed Phrasal Constructions
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-haugereid.shtml">abstract</a>, <a href="haugereid.pdf">pages 120&#8211;129</a>
+
+
+<li>Fabiola Henri and Anne Abeillé (University Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">The Syntax of Copular Constructions in Mauritian 
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ha.shtml">abstract</a>, <a href="henri-abeille.pdf">pages 130&#8211;149</a>
+
+
+<li>Tobias Kaufmann and Beat Pfister (ETH Zurich)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Applying Licenser Rules to a Grammar with Continuous Constituents
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-kp.shtml">abstract</a>, <a href="kaufmann-pfister.pdf">pages 150&#8211;162</a>
+
+
+<li>Jong-Bok Kim (Kyung Hee University) and Jaehyung Yang (Kangnam University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Syntax and Semantics of Korean Numeral Classifier Constructions
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ky.shtml">abstract</a>, <a href="kim-yang.pdf">pages 163&#8211;172</a>
+
+<li>Christopher Manning (Stanford University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Linguistic Strip Mining Meets Deep Linguistic Processing
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;">abstract and paper not submitted
+
+<li>Nurit Melnik (University of Haifa & Oranim Academic College)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Extending Partial Pro-drop in Modern Hebrew: A Comprehensive Analysis
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-melnik.shtml">abstract</a>, <a href="melnik.pdf">pages 173&#8211;193</a>
+
+
+<li>Elisabeth Norcliffe (Stanford University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Constructing Spanish Complex Predicates
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-norcliffe.shtml">abstract</a>, <a href="norcliffe.pdf">pages 194&#8211;213</a>
+
+
+<li>Manfred Sailer (Universität Göttingen)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">NPI Licensing, Intervention and Discourse Representation Structures in HPSG
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-sailer.shtml">abstract</a>, <a href="sailer.pdf">pages 214&#8211;234</a>
+
+
+<li>Pollet Samvelian (Universitéde Paris 3 &amp; CNRS)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">A Lexical Account of Sorani Kurdish Prepositions
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-samvelian.shtml">abstract</a>, <a href="samvelian.pdf">pages 235&#8211;249</a>
+
+<li>Sanghoun Song and Jae-Woong Choe (Korea University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Type Hierarchies for Passive Forms in Korean
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-sc.shtml">abstract</a>, <a href="song-choe.pdf">pages 250&#8211;270</a>
+
+
+<li>Jesse Tseng (CNRS &amp; Université de Toulouse II)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">English Prepositional Passive Constructions
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-tseng.shtml">abstract</a>, <a href="tseng.pdf">pages 271&#8211;286</a>
+
+<li>Wang Lulu and Liu Haitao (Communication University of China)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">A Description of Chinese NPs using Head-Driven Phrase Structure Grammar
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-wl.shtml">abstract</a>, <a href="wang-liu.pdf">pages 287&#8211;305</a>
+
+<li>Gert Webelhuth (University of Göttingen)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Complex Topic-Comment Structures in HPSG
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-webelhuth.shtml">abstract</a>, <a href="webelhuth.pdf">pages 306&#8211;322</a>
+
+<li>Sh&#251;ichi Yatabe (University of Tokyo)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Evidence for the Linearization-Based Theory of Semantic Composition
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-yatabe.shtml">abstract</a>, <a href="yatabe.pdf">pages 323&#8211;343</a>
+
+</ul>
+
+
+<br><br>
+<li>Workshop Contributions
+
+<ul>
+<li>Elaine J. Francis (Purdue University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;"> The Role of Default Constructions in the Processing of Mismatch: the Case of Possessive Free Relatives
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-francis.shtml">abstract</a>, <a href="francis.pdf">pages 345&#8211;363</a>
+
+<li>Adele E. Goldberg (Princeton University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Argument Structure: Lexical or Phrasal?
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-goldberg.shtml">abstract</a>, paper not submitted
+
+<li>Jong-Bok Kim (Kyung Hee University) and Peter Sells (Stanford University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Two Types of Multiple Nominative Construction: A Constructional Approach
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ks.shtml">abstract</a>, <a href="kim-sells.pdf">pages 364&#8211;372 </a></p>
+
+<li>Stefan Müller (Freie Universität Berlin)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Phrasal or Lexical Constructions? Some Comments on Underspecification of Constituent Order, Compositionality, and Control
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-mueller.shtml">abstract</a>, <a href="mueller.pdf">pages 373&#8211;393 </a></p>
+
+
+
+<li>Ivan A. Sag (Stanford University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Remarks on Locality
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-sag.shtml">abstract</a>, <a href="sag.pdf">pages 394&#8211;414</a>
+
+
+<li>Frank Van Eynde (University of Leuven)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">The Big Mess Construction
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-vaneynde.shtml">abstract</a>, <a href="vaneynde.pdf">pages 415&#8211;433</a>
+
+</ul>
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Created: September 27, 2007
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+
+</td></tr><tr HEIGHT=30><td valign=bottom></td></tr></table></td>
+
+<td valign=top><img SRC="/gif/CSINRight.gif" ALT="" WIDTH=89 HEIGHT=1 BORDER=0></td>
+</table></td><td VALIGN=top><img SRC="/gif/backlistRight.gif" ALT="" HEIGHT=276 WIDTH=87></td></tr>
+<tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td HEIGHT=68 WIDTH=268>
+
+<table BORDER=0 CELLPADDING=5 CELLSPACING=0 BACKGROUND=/gif/bottom.gif><tr><td HEIGHT=68 WIDTH=268 VALIGN=bottom ALIGN=right>
+<font FACE="arial, helvetica" SIZE=-1 COLOR=#000055><a HREF=mailto:pubs@roslin.stanford.edu>pubs@roslin.stanford.edu</a>
+</font></td></tr></table></td>
+<td><img SRC="/gif/logo_bottom.gif" ALT="" HEIGHT=68 WIDTH=380></td></tr></table></td></tr></table></body></html>

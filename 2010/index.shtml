@@ -1,0 +1,135 @@
+<html>
+<head>
+<title>Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</HEAD>
+
+
+<BODY>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+
+<p class="author">
+Université Paris Diderot, Paris 7, France<br>
+July 09&ndash;10, 2010</p>
+
+<p class="author">
+Editor: Stefan Müller<br>
+2010 &copy; <a href="http://cslipublications.stanford.edu/">CSLI Publications</a><br>
+ISSN 15351793
+</p>
+
+<div class="blurb"
+<p>
+
+<a href="toc.shtml">Table of Contents</a>
+
+
+<hr> 
+
+<h2>
+Editor's Note
+</h2>
+<p>
+The 17th International Conference on Head-Driven Phrase Structure Grammar (2010) was held at Université Paris Diderot, Paris 7.
+<p>
+The conference featured 2 invited talks and 19 papers, and 5 posters selected by the program committee (Doug Arnold,
+Emily M. Bender, Philippe Blache, Olivier Bonami (chair), Bob Borsley, Gosse Bouma, Rui Chaves, Ann
+Copestake,
+Berthold Crysmann, Kordula De Kuthy, Dan Flickinger, Daniele Godard, Anke Holler, Jean-Pierre
+Koenig, Valia Kordoni, Anna Kupsc, Bob Levine, Rob Malouf, Nurit Melnik, Philip Miller, Stefan
+Müller, Gerald Penn, Frank Richter, Ivan Sag, Manfred Sailer, Jesse Tseng, Frank Van Eynde, Gert
+Webelhuth, Shuichi Yatabe, Eun-Jung Yoo).
+<p>
+A workshop about <em>Morphology and Formal Grammar</em>
+was attached to the conference. It featured one invited talk and 10 papers and three posters, selected by the program
+committee of this workshop (Farrell Ackerman,
+Emily Bender,
+James Blevins,
+Olivier Bonami (chair),
+Dunstan Brown,
+Gilles Boyé,
+Berthold Crysmann,
+Bernard Fradin,
+Rob Malouf,
+Stefan Müller,
+Louisa Sadler,
+Pollet Samvelian,
+Andrew Spencer,
+Jesse Tseng,
+Gert Webelhuth).
+<p>
+<p>
+In total there were 29  submissions to the conference and 24 submissions to the workshop.
+We want to thank the respective program committees for putting this nice program together.
+<p>
+<p>
+<p>
+Thanks go to Anne Abeillé (chair), Gabriela Bilbîie, Olivier Bonami, Marianne Desmets, Danièle Godard,
+Fabiola Henri,
+Frédéric Laurens,
+Philip Miller,
+François Mouret,
+Clément Plancq,
+Jana Strnadová,
+Delphine Tribout,
+Géraldine Walter,
+Grégoire Winterstein, who were in charge of local arrangements.
+<p>
+<p>
+As in the past years the contributions to the conference proceedings are based on the five page abstract
+that was reviewed by the respective program committees, but there is no additional reviewing of the
+longer contribution to the proceedings.
+To ensure easy access and fast publication we have chosen an electronic format.
+<p>
+<p>
+The proceedings include all the papers except those by Farrell Ackerman and Rob Malouf, Dan Flickinger, Jean-Pierre Koenig and Karin
+Michelson, Robert Levine, Jakob Maché, Nurit Melnik, and Gregory Stump.
+<p>
+
+The <a href="toc.shtml">table of contents</a> lists all the
+papers presented at the conference. Some papers were not submitted to
+the proceedings. For these papers, we suggest contacting the authors
+directly.
+
+<p>
+
+A <a href="hpsg2010.bib">list of BibTeX-Entries</a> containing bibliographic
+information is also available.
+
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 09.01.2019 (21:06:07)
+</address> 
+</div>
+</td>
+
+<!--#include virtual="../Includes/hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../Includes/HPSG-body-bottom" --> 
+
+
+</body></html>

@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Abeillé, Anne &amp; Bonami, Olivier &amp; Godard, Danièle &amp; Tseng, Jesse: The Syntax of French N′ Phrases
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="The Syntax of French N′ Phrases">
+<meta name="citation_author"           content="Abeillé, Anne">
+<meta name="citation_author"           content="Bonami, Olivier">
+<meta name="citation_author"           content="Godard, Danièle">
+<meta name="citation_author"           content="Tseng, Jesse">
+<meta name="citation_conference_title" content="Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2004">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="6">
+<meta name="citation_lastpage"         content="26">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2004/abgt.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Abeillé, Anne &amp; Bonami, Olivier &amp; Godard, Danièle &amp; Tseng, Jesse: The Syntax of French N′ Phrases
+</h1>
+
+<div class="blurb"
+<p>
+Of all French functional elements, the form <em>de</em> has without question the widest
+variety of uses, and presents the greatest challenge for linguistic description
+and analysis.  Historically a preposition, it still has a number of
+prepositional uses in modern French, but in many contexts it calls for an
+altogether different treatment.  We begin by outlining a general distinction
+between <q>oblique</q> and <q>non-oblique</q> uses of <em>de</em>.  We then develop a detailed
+account of constructions where <em>de</em> combines with an N'.  We provide a unitary
+analysis of <em>de</em> in three constructions (quantifier extraction, "quantification
+at a distance", and negative contexts) which have been not been considered to be
+related in previous accounts.
+  
+<P>
+<ul>
+<li><a href="abgt.pdf">download PDF</a>
+<li><a href="abgt.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 14, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

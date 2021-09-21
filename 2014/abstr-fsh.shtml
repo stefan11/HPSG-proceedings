@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Faghiri, Pegah &amp; Samvelian, Pollet &amp; Hemforth, Barbara: Accessibility and Word Order: The Case of Ditransitive Constructions in Persian
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Accessibility and Word Order: The Case of Ditransitive Constructions in Persian">
+<meta name="citation_author"           content="Faghiri, Pegah">
+<meta name="citation_author"           content="Samvelian, Pollet">
+<meta name="citation_author"           content="Hemforth, Barbara">
+<meta name="citation_conference_title" content="Proceedings of the 21st International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="217">
+<meta name="citation_lastpage"         content="237">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2014/fsh.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Faghiri, Pegah &amp; Samvelian, Pollet &amp; Hemforth, Barbara: Accessibility and Word Order: The Case of Ditransitive Constructions in Persian
+</h1>
+
+<div class="blurb"
+<p>
+In a most recent corpus study on Persian, Faghiri & Samvelian (2014) found a significant effect of relative length in the ordering preferences between the direct and indirect objects in the preverbal domain corresponding to "long-before-short". They furthermore showed that the position of the direct object mainly depends on its degree of determination, and put into question the broadly accepted dual view based solely on differential object marking. In this paper, we provide experimental evidence in support of these corpus findings and further propose a unified account of ordering preferences between the two objects on the basis of conceptual accessibility.
+  
+<P>
+<ul>
+<li><a href="fsh.pdf">download PDF</a>
+<li><a href="fsh.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 17, 2014
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

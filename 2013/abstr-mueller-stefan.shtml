@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Müller, Stefan: Some Remarks on the State of the Field and on Ways to Ensure Progress: Description, Analysis, Formalization, Implementation
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Müller, Stefan: Some Remarks on the State of the Field and on Ways to Ensure Progress: Description, Analysis, Formalization, Implementation
+</h1>
+
+<div class="blurb"
+<p>
+One problem of current theorizing in mainstream generative grammar (MGG) is the impressionistic use
+of data (Fanselow, 2009). Another problem is that constructs that are manifested in one language or
+a language class are taken as evidence for invisible structures in other languages (Chinque, 1999;
+Meinunger, 2000).
+<p>
+Another problem of the post GB era is the explosion of theoretical variants that make incompatible
+basic assumtions. This makes it very hard to get a coherent picture of where we are and of how to
+combine insights from different authors/schools.
+<p>
+In my talk I will briefly comment on the Poverty of the Stimulus argument (Chomsky, 1971, p. 29–33;
+2013, p. 39) and show that many of the claims that have been made in the past 60 years cannot be
+upheld any longer in the light of results from input-based approaches to language acquisition
+(e.g. Bod, 2009; Freudenthal, et. al., 2006, 2009). The consequence of this is that gramars for
+particular languages have to be motivated solely by evidence from the language under
+consideration. I will then discuss the approach taken in
+the <a href="/Projects/CoreGram.html">CoreGram project</a>, in which crosslinguistic generalizations
+are derived in a bottom-up way from grammars that are acquirable in an input-driven way.
+<p>
+I will compare this method to the method used in MGG and address Croft's criticism of the MGG
+methodology. I will show that the bottom-up approach makes predictions and how Cinque's insights
+could be integrated into HPSG grammars without stipulating irrelevant empty nodes in all languages
+of the world.
+<p>
+As a way out of the crises I will suggest a return to the empirical basis (compare the quote
+of <a href="http://ling50.mit.edu/replies/haj-ross">von Neumann's text on the state of the art in
+mathematics</a>) and I consider results from corpus research, psycholinguistic/neurolinguistic
+experiments relevant in this respect. I will suggest that every (book) publication should come with
+a list of covered data so that it becomes possible to see whether more data is covered than in
+earlier proposals. This would make results comparable and would be a strong incentive not to fall
+behind what was understood already. As an example I will use again the grammars of
+the <a href="/Projects/CoreGram.html">CoreGram project</a>, which are backed up by
+implementations, which ensures the consistency of the formalization and yields new insights and
+discoveries which would not be possible without thorough formalization and implementation. The every
+growing lists of covered phenomena ensures progress and helps with systematic testing. Although
+computer implementations are very helpful in veryfying complex theories, this approach does not
+require it and can be used for non-computational work as well.
+<h2>References</h2>
+<ul class="pub">
+<li>Bod, Rens. 2009. From Exemplar to Grammar: Integrating Analogy and Probability in Language Learning. Cognitive Science 33(4), 752–793.
+<li>Chomsky, Noam. 1971. Problems of Knowledge and Freedom. London: Fontana.
+<li>Chomsky, Noam. 2013. Problems of Projection. Lingua 130, 33–49. 
+<li>Cinque, Guglielmo. 1999. Adverbs and Functional Heads. A Cross-Linguistic Perspective. New York, Oxford: Oxford University Press.
+<li>Cinque, Guglielmo und Rizzi, Luigi. 2010. The Cartography of Syntactic Structures. In Bernd
+  Heine und Heiko Narrog (Eds), The Oxford Handbook of Linguistic Analysis, pages 51–65, Oxford:
+  Oxford University Press.
+<li>Croft, William. 2009. Methods for Finding Language Universals in Syntax. In Sergio Scalise, Elisabetta Magni and Antonietta Bisetto (eds.), Universals of Language Today, volume 76 of Studies in Natural Language and Linguistic Theory , pages 145–164, Springer Netherlands. 
+<li>Fanselow, Gisbert. 2009. Die (generative) Syntax in den Zeiten der Empiriediskussion. Zeitschrift
+  für Sprachwissenschaft 28(1), 133–139.
+<li>Freudenthal, Daniel, Pine, Julian M. and Gobet, Fernand. 2006. Modeling
+the Development of Children’s Use of Optional Infinitives in Dutch and English Using MOSAIC. Cognitive Science 30(2), 277–310.
+<li>Freudenthal, Daniel, Pine, Julian M. and Gobet, Fernand. 2009. Simulating the Referential Properties of Dutch, German, and English Root Infinitives in MOSAIC. Language Learning and Development 5(1), 1–29.
+<li>Meinunger, André (2000), Syntactic Aspects of Topic and Comment, Amsterdam/Philadelphia: John
+Benjamins Publishing Co., volume 38 of Linguistik Aktuell/Linguistics Today.
+<li>Müller, Stefan. 2013a. <a href="/~stefan/Pub/coregram-brief.html">The CoreGram Project: A Brief Overview and
+    Motivation</a>. In Denys Duchier and Yannick Parmentier (Eds): Proceedings of the Workshop on High-level Methodologies for Grammar Engineering (HMGE 2013), Düsseldorf.
+<li>Müller, Stefan. 2013b. <a href="/~stefan/Pub/coregram.html">The CoreGram Project: Theoretical Linguistics,
+    Theory Development and Verification</a>. Ms FU Berlin.
+<li>Ross, John Robert. 2011. Letter to the MIT Linguistics Department for its 50th Anniversary. <a href="http://ling50.mit.edu/replies/haj-ross">http://ling50.mit.edu/replies/haj-ross</a>, 26.08.2013.
+</ul>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2013
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

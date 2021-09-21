@@ -1,0 +1,97 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+
+Bjerre, Anne # University of Southern Denmark # Topic and focus in local subject extractions in Danish # November 16, 2011 # #
+The present paper proposes an analysis of the asymmetrical distribution of der, 'there', in embedded
+interrogative and relative clauses, respectively, in standard Danish. The analysis sets itself apart
+from previous analyses in integrating information structural constraints. We will show that the
+discourse function of the extracted subject in the clauses in question determines whether der
+insertion takes place in standard Danish. The analysis will further be shown to support the position
+that der in interrogative and relative clauses is an expletive subject filler, and that from an
+information structural point of view, the der in existential, presentational, passives and relative
+clauses is indeed the same der.
+
+De Kuthy, Kordula  & Meurers, Detmar # Universität Tübingen # Integrating GIVENness into a structured meaning approach in HPSG # November 16, 2011 # #
+In this article we show how the HPSG approach to information structure of De Kuthy (2002) and De Kuthy and Meurers (2003)
+can be extended to capture givenness (Schwarzschild, 1999) and make the right predictions for so-called deaccenting of given information,
+a widespread phenomenon not previously dealt with in HPSG.
+
+Gazdik, Anna # Université Paris Diderot-Paris 7, LLF #On the Syntax-Discourse Interface in Hungarian # November 16, 2011 # no #
+In this paper, I investigate the syntax-discourse interface in Hungarian and propose the first steps
+of its formalization in the framework of Lexical-Functional Grammar. Concerning the syntax, I
+propose a flat structure in Hungarian, in which the preverbal domain is determined by the
+information structure. I examine the distribution of elements in the topic field and the Prominent
+Preverbal Position (PPP), and point out that they can be filled differently depending on the
+discourse context of the utterance. I also observe that the information structure used in the
+mainstream LFG literature is not general enough to accommodate two important discourse functions:
+the contrastive topic and the hocus. This is why a new architecture is put forth, building on the
+common features and not the discourse functions themselves, that can account for the Hungarian data
+more adequately. The syntax-discourse interface is then exposed via the mappings between the
+constituent and information structures.
+
+
+Kim, Jong-Bok # Kyung Hee University # Floating Numeral Classifiers in Korean: A Thematic-Structure Perspective # November 17, 2011 # # 
+The syntactic and semantic complexity of the so-called numeral classifier
+(NUM-CL) constructions in languages like Korean (Japanese and Chinese as
+well) has much challenged theoretical as well as computational approaches.
+Among several types of the NUM-CL constructions, the most complicated
+type includes the so-called FQ (floated numeral classifier/quantifier) construction
+where the NUM-CL `floats' away from its antecedent. This paper,
+couched upon the non-derivational VP-modifier view, shows that in addition
+to the grammatical function of the host NP and types of the main predicate,
+properties of the intervening expression between the FQ and its host NP also
+play an important role in licensing the FQ's distribution. In particular, we
+show that the FQ introduces new information in discourse and as default sets
+off rheme in the thematic structure. This functional analysis can provide an
+answer to several puzzling contrasts we observe in the distribution of the FQ.
+
+Light, Caitlin # University of Pennsylvania # The information structure of subject extraposition in Early New High German # November 16, 2011 # # 
+This paper investigates the information-structural characteristics of extraposed subjects in Early
+New High German (ENHG). Based on new quantitative data from a parsed corpus of ENHG, I will argue
+that unlike objects, subjects in ENHG have two motivations for extraposing. First, subjects may
+extrapose in order to receive narrow focus, which is the pattern Bies (1996) has shown for object
+extraposition in ENHG. Secondly, however, subjects may extrapose in order to receive a default
+sentence accent, which is most visible in the case of presentational constructions. This motivation
+does not affect objects, which may achieve the same prosodic goal without having to extrapose. The
+study has two major consequences: (1) subject extraposition in ENHG demonstrates that there is not
+necessarily a one-to-one correspondence between syntactic structure and information structural
+effect (cf. Féry 2007); and (2) the overall phenomenon of DP extraposition in ENHG fits into a
+broader set of crosslinguistic focus phenomena which demonstrate a subject-object asymmetry
+(cf. Hartmann and Zimmermann 2007, Skopeteas and Fanselow 2010), raising important questions about
+the relationship between argument structure and information structural notions.
+
+Marandin, Jean-Marie # CNRS, Université Paris Diderot # Subject Inversion in French. The Limits of Information Structure # November 16, 2011 # #
+My objective here is to assess the relevance of information structural notions for analyzing subject 
+inversion in French. Subject inversion is not a unified phenomenon. In fact, there are three distinct 
+constructions featuring an inverted subject. I show that the sentences do not have the same informational 
+potential (the type of focus-ground articulation they are compatible with) depending on the construction 
+they abide by. I propose a contextual factor &ndash; the informational solidarity between the verb and its first 
+argument &ndash; to account for those differences. Then, I show that the three constructions share a common 
+feature that pertains to a completely different dimension: the perspective chosen to describe the situation. I 
+adopt Langacker's notion of absolute construal to characterize it. Finally, I present another common 
+feature: the blocking of the referential anchoring of the referent of indefinite and partitive NPs.
+
+Song, Sanghoun  & Bender, Emily M. # University of Washington # Using Information Structure to Improve Transfer-based MT # November 16, 2011 # #
+This paper hypothesizes that transfer-based machine translation systems can be improved by encoding
+information structure in both the source and target grammars, and preserving information structure
+in the transfer stage. We explore how information structure can be represented within the HPSG/MRS
+formalism (Pollard and Sag, 1994; Copestake et al., 2005) and how it can help refine multilingual
+MT. Building upon that framework, we provide a sample translation between English and Japanese and
+check the feasibility of the proposals in small-scale translation systems built with the
+HPSG/MRS-based LOGON MT infrastructure (Oepen et al., 2007). Our experiment shows the information
+structure-based MT system that we propose in this paper reduces the number of translations 75.71%
+for Japanese and 80.23% for Korean. The dramatic reductions in the number of translations is
+expected to make a contribution to our HPSG/MRS-based MT in terms of latency as well as accuracy.
+
+Stevens, Jon  # University of Pennsylvania # Information Structure as Parallel Tree Building # November 16 2011 # #
+This paper presents a Synchronous Tree Adjoining Grammar (STAG) account of Information Structure,
+whereby Givenness-marking requires a link between nodes on a syntactic tree and LF nodes whose
+interpretation is supplied by a contextually determined set of Given semantic objects.  By
+hypothesis, the interpretation of linked nodes bypasses a default interpretation principle that
+requires pragmatic reasoning to disambiguate elements and enrich semantic material.  Thus,
+interpreting Given elements requires less cognitive effort than Focused elements.  This, combined
+with some established insights from Game-theoretic pragmatics, yields empirical advantages over
+more traditional semantic/pragmatic analyses of equal simplicity.
+
+
+

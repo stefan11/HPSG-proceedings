@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Wechsler, Stephen: Distributed Lexicalism
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Wechsler, Stephen: Distributed Lexicalism
+</h1>
+
+<div class="blurb"
+<p>
+In lexical approaches to argument structure, verb alternations (e.g.
+<em>load the truck</em> ~ <em>load the hay</em>)  have been analyzed by relating the
+alternative complement patterns of a verb by means of lexical rules,
+lexical mapping theories, type inheritance hierarchies, and argument
+structure constructions.  But such theories lack a principled account
+of the fact that the modulation in verb meaning is syntactically
+localized, affecting some argument roles while leaving others
+unchanged.  In contrast, certain constructional approaches, such as
+those where semantic roles are assigned by null functional heads to
+their specifiers (Marantz 1997, Harley 2012, i.a.), capture that
+syntactic localization, but they are problematic for familiar reasons
+related to lexicalism (Müller and Wechsler 2014) and the case against
+neodavidsonian event semantics (Dowty 1989, Wechsler 2005).  This talk
+resolves this dilemma with a revision of lexical theory called
+<em>distributed lexicalism</em> with two new proposals.  First, a verb's
+meaning is broken down and distributed across components of its
+valence structure.  Second, thematic patterning of verbs, including
+verb alternations, are explained not by grammar rules or intermediate
+argument structures but by the fact that new verbs are assimilated to
+the existing lexicon.  The resulting grammar goes beyond the
+lexicalist assumption that verbs have valence structures, to a
+''hyperlexicalist'' theory in which the patterning of those valence
+structures follows from the emergent structure of the lexicon.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

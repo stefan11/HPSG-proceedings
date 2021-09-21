@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Lee, Hanjung &amp; Kim, Nayoun: Non-Canonical Word Order and Subject-Object Asymmetry in Korean Case Ellipsis
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Non-Canonical Word Order and Subject-Object Asymmetry in Korean Case Ellipsis">
+<meta name="citation_author"           content="Lee, Hanjung">
+<meta name="citation_author"           content="Kim, Nayoun">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="427">
+<meta name="citation_lastpage"         content="442">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/lee-kim.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Lee, Hanjung &amp; Kim, Nayoun: Non-Canonical Word Order and Subject-Object Asymmetry in Korean Case Ellipsis
+</h1>
+
+<div class="blurb"
+<p>
+The dispreference for subject case ellipsis in OSV sentences has been analyzed as resulting from a
+violation of a structural requirement on the position of bare subject NPs (Ahn and Cho 2006a, 2006b,
+2007). In this study, we present evidence from an acceptability rating experiment demonstrating that
+OSV sentences containing a case-ellipsed subject exhibit acceptability patterns different from
+ungrammatical sentences violating a core syntactic principle on case assignment and that these
+sentences are judged acceptable when the subject refers to expected, predictable information in
+context. This evidence supports the conclusion that the dispreference for subject case ellipsis in
+OSV sentences is due to violations of probabilistic constraints that favor case marking for rare
+types of subjects and such violations can be remedied by non-syntactic information.
+  
+<P>
+<ul>
+<li><a href="lee-kim.pdf">download PDF</a>
+<li><a href="lee-kim.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 12, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

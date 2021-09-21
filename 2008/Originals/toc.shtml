@@ -1,0 +1,236 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+      <!-- This site generated using MacPerl, BBEdit, Adobe Illustrator, and Adobe Photoshop on MacOS-->
+<head>
+<title>HPSG '08 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta NAME="keywords" CONTENT="">
+<link rel="stylesheet" 
+type="text/css" href="hpsg-style.css">
+
+<script type="text/javascript">
+var name = null;
+cold_index = new Image();
+cold_order = new Image();
+cold_contact = new Image();
+cold_site_index = new Image();
+cold_backlist = new Image();
+cold_authors = new Image();
+cold_search = new Image();
+cold_new_books = new Image();
+hot_index = new Image();
+hot_order = new Image();
+hot_contact = new Image();
+hot_site_index = new Image();
+hot_backlist = new Image();
+hot_authors = new Image();
+hot_search = new Image();
+hot_new_books = new Image();
+cold_index.src = "/gif/indexButton.gif";
+cold_order.src = "/gif/orderButton.gif";
+cold_contact.src = "/gif/contactButton.gif";
+cold_site_index.src = "/gif/site_indexButton.gif";
+cold_backlist.src = "/gif/backlistButton.gif";
+cold_authors.src = "/gif/authorsButton.gif";
+cold_search.src = "/gif/searchButton.gif";
+cold_new_books.src = "/gif/new_booksButton.gif";
+hot_index.src = "/gif/index_hotButton.gif";
+hot_order.src = "/gif/order_hotButton.gif";
+hot_contact.src = "/gif/contact_hotButton.gif";
+hot_site_index.src = "/gif/site_index_hotButton.gif";
+hot_backlist.src = "/gif/backlist_hotButton.gif";
+hot_authors.src = "/gif/authors_hotButton.gif";
+hot_search.src = "/gif/search_hotButton.gif";
+hot_new_books.src = "/gif/new_books_hotButton.gif";
+    
+
+function hotLHS(imageName) {
+    if (document.images) {
+        hotText = eval("hot_" + imageName + ".src");
+        document [imageName].src = hotText;
+}}
+
+function coldLHS(imageName) {
+    if (document.images) {
+        coldText = eval("cold_" + imageName + ".src");
+        document [imageName].src = coldText;
+}}
+
+</script>
+</head>
+<body BGCOLOR=#FFFFFF>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><table BORDER=0
+CELLPADDING=0 CELLSPACING=0><tr><td><a HREF="../../site/index.html"><img
+ALT="CSLI Publications logo" SRC=/gif/logo.gif BORDER=0 HEIGHT=68 WIDTH=180></a></td><td><img SRC="/gif/backlistTitle.gif" ALT="" HEIGHT=68 WIDTH=468></td></tr></table></td></tr><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0 VALIGN=top><tr><td HEIGHT=276 WIDTH=87 VALIGN=top BACKGROUND="/gif/left.gif">
+
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/new_books.html onMouseover="hotLHS('new_books')" onMouseout="coldLHS('new_books')"><img BORDER=0 SRC="/gif/new_booksButton.gif" NAME=new_books HEIGHT=20 WIDTH=87 ALT="new_books"></a></td></tr><tr><td><a HREF=../../site/backlist.html onMouseover="hotLHS('backlist')" onMouseout="coldLHS('backlist')"><img BORDER=0 SRC="/gif/backlistButton.gif" NAME=backlist HEIGHT=20 WIDTH=87 ALT="backlist"></a></td></tr><tr><td><a HREF=../../site/site_index.html onMouseover="hotLHS('site_index')" onMouseout="coldLHS('site_index')"><img BORDER=0 SRC="/gif/site_indexButton.gif" NAME=site_index HEIGHT=20 WIDTH=87 ALT="site_index"></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/contact.html onMouseover="hotLHS('contact')" onMouseout="coldLHS('contact')"><img BORDER=0 SRC="/gif/contactButton.gif" NAME=contact HEIGHT=20 WIDTH=87 ALT="contact"></a></td></tr><tr><td><a HREF=../../site/authors.html onMouseover="hotLHS('authors')" onMouseout="coldLHS('authors')"><img BORDER=0 SRC="/gif/authorsButton.gif" NAME=authors HEIGHT=20 WIDTH=87 ALT="authors"></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/order.html onMouseover="hotLHS('order')" onMouseout="coldLHS('order')"><img BORDER=0 SRC=/gif/orderButton.gif NAME=order HEIGHT=20 WIDTH=87 ALT=order></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/search.html onMouseover="hotLHS('search')" onMouseout="coldLHS('search')"><img BORDER=0 SRC=/gif/searchButton.gif NAME=search HEIGHT=20 WIDTH=87 ALT=search></a></td></tr></table></td>
+<td HEIGHT=276 WIDTH=474 VALIGN=top BGCOLOR=#FFFFFF>
+<table BORDER=0 CELLPADDING=7 CELLSPACING=0><tr><td>
+<tr><td>
+<h1>
+Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg08.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg08.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+
+<li>Emily M. Bender (University of Washington)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Radical Non-Configurationality without Shuffle Operators: An Analysis of Wambaya
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-bender.shtml">abstract</a>, <a href="bender.pdf">pages 6&#8211;24</a>
+
+<li>Gabriela Bîlbîie (University Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">A Syntactic Account of Romanian Correlative Coordination from a Romance Perspective
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-bilbiie.shtml">abstract</a>, <a href="bilbiie.pdf">pages 25&#8211;45</a>
+
+<li>Anne Bjerre (University of Southern Denmark) and Tavs Bjerre (Aarhus University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">There-constructions with transitive verbs
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-bjerre.shtml">abstract</a>, <a href="bjerre.pdf">pages 46&#8211;66</a>
+
+
+
+<li>Scott Drellishak (University of Washington)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Complex Case Phenomena in the Grammar Matrix
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-drellishak.shtml">abstract</a>, <a href="drellishak.pdf">pages 67&#8211;86</a>
+
+<li> Dan Flickinger (CSLI, Stanford University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Transparent Heads
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-flickinger.shtml">abstract</a>, <a href="flickinger.pdf">pages 87&#8211;94</a>
+
+<li> Chizuru Ito (Osaka University) and Rui P. Chaves (Lisbon University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Apparent Non-Constituent Coordination in Japanese
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ic.shtml">abstract</a>, <a href="ito-chaves.pdf">pages 95&#8211;115</a>
+
+<li>Tibor Kiss (Ruhr-Universität Bochum)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Towards a Grammar of Preposition-Noun  Combinations
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-kiss.shtml">abstract</a>, <a href="kiss.pdf">pages 116&#8211;130</a>
+
+<li>Kil Soo Ko (University Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Korean Postpositions as Weak Syntactic Heads
+
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ko.shtml">abstract</a>, <a href="ko.pdf">pages 131&#8211;151</a>
+
+<li>Frédéric Laurens (Université Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">French Predicative Verbless Utterances
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-laurens.shtml">abstract</a>, <a href="laurens.pdf">pages 152&#8211;172</a>
+
+<li>Stefan Müller (Freie Universität Berlin)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Towards an HPSG Analysis of Constituent Order in Maltese
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-mueller.shtml">abstract</a>, paper not submitted, since it will appear elsewhere (<a href="http://hpsg.fu-berlin.de/~stefan/Pub/maltese-sketch.html">Maltese</a> paper)
+
+<li>Tsuneko Nakazawa (University of Tokyo)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Resultatives in Japanese as Adjuncts
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-nakazawa.shtml">abstract</a>
+
+<li>Yo Sato (King's College/Queen Mary University of London) and Wai Lok Tam (Tokyo University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Towards a Unified Account of Adjuncts
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-st.shtml">abstract</a>, <a href="sato-tam.pdf">pages 173&#8211;188</a>
+
+<li>Karen Steinicke (Universität Tübingen) and Gerald Penn (University of Toronto)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Memory Management for Unification-based Processing of Typed Feature Structures
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-sp.shtml">abstract</a>, <a href="steinicke-penn.pdf">pages 189&#8211;203</a>
+
+
+<li> Sanghoun Song and Jae-Woong Choe (Korea University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Automatic Construction of Korean Verbal
+    Type Hierarchy using Treebank
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-sc.shtml">abstract</a>, <a href="song-choe.pdf">pages 204&#8211;221</a>
+
+
+<li> Wai Lok Tam (Tokyo University) and Yo Sato (King's College/Queen Mary University of London)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">An Analysis of Pseudopartitives and Measure Phrases that Say
+                    No to Extra Rules
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ts.shtml">abstract</a>, <a href="tam-sato.pdf">pages 222&#8211;233</a>
+
+<li>Jesse Tseng (CNRS & University of Toulouse)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">The representation of syllable structure in HPSG
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-tseng.shtml">abstract</a>, <a href="tseng.pdf">pages 234&#8211;252</a>
+
+<li>Frank Van Eynde (University of Leuven)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Predicate Complements
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-vaneynde.shtml">abstract</a>, <a href="vaneynde.pdf">pages 253&#8211;273</a>
+
+
+<li>Eun-Jung Yoo (Seoul National University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Transparent Free Relatives in English
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-yoo.shtml">abstract</a>, <a href="yoo.pdf">pages 274&#8211;293</a>
+<li>Stephen Wechsler (University of Texas at Austin)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Dualist Syntax
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-wechsler.shtml">abstract</a>, <a href="wechsler.pdf">pages 294&#8211;304</a>
+
+
+</ul>
+<br><br>
+<li>Workshop Contributions
+
+<ul>
+<li>Anne Abeillé (University of Paris 7 &amp; CNRS, France), Danièle Godard (University of Paris 7 &amp; CNRS, France) and Frédéric Sabio (University of Provence, Aix, France)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Two types of NP preposing in French
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ags.shtml">abstract</a>, <a href="abeille-godard-sabio.pdf">pages 306&#8211;324</a>
+
+<li>Doug Arnold and Robert D. Borsley (University of Essex)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Non-restrictive Relative Clauses, Ellipsis and Anaphora
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ab.shtml">abstract</a>, <a href="arnold-borsley.pdf">pages 325&#8211;345</a>
+
+
+<li>Felix Bildhauer (Freie Universität Berlin)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Clitic left dislocation and focus projection in Spanish
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-bildhauer.shtml">abstract</a>, <a href="bildhauer.pdf">pages 346&#8211;357</a>
+
+<li>Olivier Bonami (Université Paris-Sorbonne &amp; LLF) and Danièle Godard (CNRS &amp; U. Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">On the Syntax of Direct Quotation in French
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-bg.shtml">abstract</a>, <a href="bonami-godard.pdf">pages 358&#8211;377</a>
+
+<li>Fabiola Henri & Anne Abeillé (Université Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Verb Form Alternations in Mauritian
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ha.shtml">abstract</a>, <a href="henri-abeille.pdf">pages 378&#8211;398</a>
+
+
+<li>Yusuke Kubota and Jungmee Lee (The Ohio State University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Reconsidering the Coordinate Structure Constraint in Japanese
+  and Korean: Syntactic constraint or pragmatic principle?
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-kl.shtml">abstract</a>, <a href="kubota-lee.pdf">pages 399&#8211;416</a>
+
+<li>Mutsumi Imai (Keio University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Children's use of argument structure, meta-knowledge of the lexicon, and extra-linguistic contextual cues in inferring meanings of novel verbs
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-imai.shtml">abstract</a>, <a href="imai.pdf">pages 417&#8211;435</a>
+
+<li>Jean-Marie Marandin (CNRS, Université Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">The Exclamative Clause Type in French
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-marandin.shtml">abstract</a>, <a href="marandin.pdf">pages 436&#8211;456</a>
+
+
+
+</ul>
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Created: October 06, 2008
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+
+</td></tr><tr HEIGHT=30><td valign=bottom></td></tr></table></td>
+
+<td valign=top><img SRC="/gif/CSINRight.gif" ALT="" WIDTH=89 HEIGHT=1 BORDER=0></td>
+</table></td><td VALIGN=top><img SRC="/gif/backlistRight.gif" ALT="" HEIGHT=276 WIDTH=87></td></tr>
+<tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td HEIGHT=68 WIDTH=268>
+
+<table BORDER=0 CELLPADDING=5 CELLSPACING=0 BACKGROUND=/gif/bottom.gif><tr><td HEIGHT=68 WIDTH=268 VALIGN=bottom ALIGN=right>
+<font FACE="arial, helvetica" SIZE=-1 COLOR=#000055><a HREF=mailto:pubs@roslin.stanford.edu>pubs@roslin.stanford.edu</a>
+</font></td></tr></table></td>
+<td><img SRC="/gif/logo_bottom.gif" ALT="" HEIGHT=68 WIDTH=380></td></tr></table></td></tr></table></body></html>

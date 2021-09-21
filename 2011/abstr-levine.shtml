@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Levine, Robert: Linearization and its discontents
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Linearization and its discontents">
+<meta name="citation_author"           content="Levine, Robert">
+<meta name="citation_conference_title" content="Proceedings of the 18th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2011">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="126">
+<meta name="citation_lastpage"         content="146">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2011/levine.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Levine, Robert: Linearization and its discontents
+</h1>
+
+<div class="blurb"
+<p>
+Much recent work on coordination in the HPSG
+framework seeks to deal with some of the most intractable issues this
+phenomenon poses for a constraint-based phrase structure architecture
+by appealing to the linearization mechanism introduced in
+Reape 1993. The research in question utilizes the mismatch between
+linear phonological sequences on the one hand and phrasal
+configuration on the other to underwrite a particular interpretation
+of ellipsis in which multiple structural objects with identical or
+near-identical descriptions are mapped to a single {\it dom-object}
+token. This mapping apparently allows a variety of problematic cases,
+such as right node raising, dependent cluster coordination, and unlike
+category coordination to be reinterpreted as instances of ordinary
+coordination in which structurally present elements receive no
+prosodic expression, creating the impression that strings which do not
+correspond to constituents of the same category have nonetheless been
+conjoined or disjoined. I argue in this paper that such
+linearization-based ellipsis (LBE) analyses, though plausible when
+confined to a narrow class of simplest-case data, prove untenable in
+the face of data sets in which the LBE approach must account for the
+interaction of nonconstituent coordination and quantification or
+symmetric predication, symmetrical modification of nominal heads, and
+a large and varied class of unlike category coordinations that do not
+admit of any ellipsis-based solutions. I show in addition that various
+objections offered in the LBE literature to categorial grammar
+treatments of the problems posed by noncanonical coordinations do not
+take into account techical resources available to CG which permit
+straightforward and unproblematic solutions to these problems. One
+must conclude that despite the general poplularity of LBE accounts of
+conjunction, there is at the moment no satisfactory HPSG treatment of
+noncanonical coordinations.
+  
+<P>
+<ul>
+<li><a href="levine.pdf">download PDF</a>
+<li><a href="levine.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: November 21, 2011
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

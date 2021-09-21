@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Choi, Incheol: Sentential Specifiers in the Korean Clause Structure
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Sentential Specifiers in the Korean Clause Structure">
+<meta name="citation_author"           content="Choi, Incheol">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="75">
+<meta name="citation_lastpage"         content="85">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/choi.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Choi, Incheol: Sentential Specifiers in the Korean Clause Structure
+</h1>
+
+<div class="blurb"
+<p>
+The Korean double nominative construction exhibits various properties distinguished not only from
+ordinary subject-object clauses but also from nominative complement constructions. Particularly, the
+second NP, not the initial NP, triggers the honorific agreement with the verb. I argue that the
+first NP of the construction is identified as a sentential specifier which exists in addition to the
+subject (cf. Major subject in Yoon 2004). The sentential specifier can be justified as the
+characteristic of the topic-prominent language in the sense of Li and Thompson (1976). Specifically
+I claim that any elements that satisfy the aboutness condition can be the sentential
+specifier. Finally, I show that HPSG's valence value and an optional lexical rule provides an
+elegant treatment of the construction; SPR list in a sentence level can be utilized for the
+sentential specifier (cf. Kim et al. 2007).
+  
+<P>
+<ul>
+<li><a href="choi.pdf">download PDF</a>
+<li><a href="choi.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 11, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

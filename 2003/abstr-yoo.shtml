@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Yoo, Eun-Jung: Specificational Pseudoclefts in English
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Specificational Pseudoclefts in English">
+<meta name="citation_author"           content="Yoo, Eun-Jung">
+<meta name="citation_conference_title" content="Proceedings of the 10th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2003">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="397">
+<meta name="citation_lastpage"         content="416">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2003/yoo.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Yoo, Eun-Jung: Specificational Pseudoclefts in English
+</h1>
+
+<div class="blurb"
+<p>
+Specificational pseudoclefts (SPCs) have been a great challenge for a syntactic theory, 
+because, despite the surface division between the pre- and post-copular elements, 
+the post-copular `pivot' behaves as if it occupied the gap position in the precopular 
+<em>wh</em>-clause. This paper argues that movement-based or deletion-based syntactic approaches 
+and purely semantic approaches have problems in dealing with syntactic properties 
+and connectivity problems of SPCs in English. Observing the parallelism between 
+SPC pivots and short answers to questions, it proposes an HPSG account based on 
+a non-deletion-based QDT (Question-in-disguise theory) approach and on the 
+equative analysis of the specificational copular sentences. The paper shows that 
+SPCs must be handled by an integrated account of the syntactic, semantic, and 
+pragmatic properties of the construction, and argues that the connectivity problems 
+should be approached from such an integrated view.
+  
+<P>
+<ul>
+<li><a href="yoo.pdf">download PDF</a>
+<li><a href="yoo.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 2003
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

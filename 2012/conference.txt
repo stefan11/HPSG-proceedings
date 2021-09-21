@@ -1,0 +1,243 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+Alqurashi, Abdulrahman # University of Essex & King Abdulaziz University # An HPSG Approach to Free Relatives in Arabic # October 10, 2012 #        # 
+This paper describes free relative constructions in Modern Standard Arabic (henceforth, MSA) and
+aims to provide an HPSG analysis for them. MSA has two types of free relative constructions. One,
+which is introduced by the complementizer ʔallaði, looks just like a relative clause. The other,
+which is introduced by the elements man and maa, which also appear to be complementizers, does not
+look like a relative clause. Both types can be analysed in term of unary-branching structures (as
+NPs consisting just of a CP). In ʔallaði free relatives, the NP and the value of SLASH can be
+coindexed via the value of MOD on the CP. In man and maa free relatives, the NP and the value of
+SLASH must be coindexed directly.  
+
+
+Alqurashi, Abdulrahman & Borsley, Robert D.  # King Abdulaziz University, University of Essex & University of Essex # Arabic Relative Clauses in HPSG # October 14, 2012 # # 
+In HPSG relative clauses have been analyzed in terms of phonologically empty heads in Pollard and
+Sag (1994) and in terms of a complex system of phrase types in Sag (1997). Modern Standard Arabic
+has a distinction between relative clauses with a definite antecedent, which are introduced by a
+special complementizer, and relative clauses with an indefinite antecedent, which are ‘bare’
+clauses. Analyses eschewing empty heads and assuming a complex system of phrase types face a number
+of problems. An analysis in which relatives with an indefinite antecedent are headed by a
+phonologically empty complementizer is more satisfactory. Thus, in the case of Arabic, the approach
+of Pollard and Sag (1994) seems preferable to the approach of Sag (1997). 
+
+
+Bjerre, Anne # University of Southern Denmark # An Analysis of Danish Free Relatives # October 12, 2012 # #
+This paper presents an analysis of Danish free relative constructions. Fol- lowing Bresnan and
+Grimshaw (1978) we will adopt a wh-head (in Danish hv-head) analysis where the hv-phrase is the head
+of an NP. Also following Bresnan and Grimshaw (1978) we will propose an analysis which does not
+involve a filler-gap dependency between the hv-phrase and the gap in the sis- ter clause. Instead we
+will propose that the gap in the sister clause is bound off by a constructional constraint. In this
+way the analysis will be shown to differ from previous HPSG wh-head analyses of free relatives. 
+
+Cho, Sae-Youn & Ku, Na-Hyun # Kangwon National University # Verbal Suffix-Repetition Construction in Korean: A Constraint- and Construction-based Approach # October 19, 2012 #  # 
+There are various
+Verbal Suffix-Repetition (VSR) constructions in Korean, where suffixes such as <em>-kena/tun(ci)/tun(ka)</em> are attached to the repeated verbs. Calling the VSR Choice-denying Repeated Verbs
+construction, Lee (2011) claims that the following verb of the VSR, which can be replaced with mal-,
+should contain a negative but the preceding verb should be affirmative in the VSR construction which
+disallows any NPI within it. Unlike Lee (2011), we claim that the verbs in the VSR can freely occur
+either in the preceding position or in the following one regardless of their Neg value so long as
+they share the same verbal suffix forms such as <em>-tun(ka)</em>. Furthermore, NPIs may occur within the VSR
+construction if they occur with a negative predicate within the same clause. To implement the
+findings above into HPSG, we have proposed the two lexical entries for mal-, the VSR Construction
+Rule, and the NPI Clause-mate Constraint. These tools enable us to account for the idiosyncratic
+properties of the VSR constructions under this constraint- and construction-based approach.  
+
+
+Choi, Incheol # Kyungpook National University # Sentential Specifiers in the Korean Clause Structure # October 11, 2012 # #
+The Korean double nominative construction exhibits various properties distinguished not only from
+ordinary subject-object clauses but also from nominative complement constructions. Particularly, the
+second NP, not the initial NP, triggers the honorific agreement with the verb. I argue that the
+first NP of the construction is identified as a sentential specifier which exists in addition to the
+subject (cf. Major subject in Yoon 2004). The sentential specifier can be justified as the
+characteristic of the topic-prominent language in the sense of Li and Thompson (1976). Specifically
+I claim that any elements that satisfy the aboutness condition can be the sentential
+specifier. Finally, I show that HPSG's valence value and an optional lexical rule provides an
+elegant treatment of the construction; SPR list in a sentence level can be utilized for the
+sentential specifier (cf. Kim et al. 2007). 
+
+Costa, Francisco  & Branco, António # University of Lisbon # Backshift and Tense Decomposition # October 15, 2012 # #
+Backshift is a phenomenon affecting verb tense that is visible as a mismatch
+between some specific embedded contexts and other environments.  For instance,
+the indirect speech equivalent of a sentence like 'Kim likes reading', with
+a present tense verb, may show the same verb in a past tense form, as in 'Sandy said Kim liked
+reading'.  We present a general analysis of backshift, pooling data from English and Romance
+languages.  Our analysis acknowledges that tense morphology is ambiguous between different temporal
+meanings, explicitly models the role of the speech time and the event times involved and takes the
+aspectual constraints of tenses into consideration.   
+
+
+Crowgey, Joshua  # University of Washington # An a priori Typology of Sentential Negation from an HPSG Perspective # October 15, 2012 # # 
+In this paper I explore the logical range of sentential negation types predicted by the theory of
+HPSG. I find that typological surveys confirm that attested simple negation strategies neatly line
+up with the types of lexical material given by assuming Lexical Integrity and standard Phrase
+Structure Grammar dependencies. I then extend the methodology to bipartite negation and derive a
+space of predicted sentential negation types. I present details of the analysis for each type and
+relevant examples where possible.  
+
+Crowgey, Joshua # University of Washington # What's a Morpheme? The Zero Dravidian Negative and Typological Universals # October 18, 2012 # no # 
+In this poster, I draw attention to a putative
+typological universal, the <q>morphemic</q> realization of negation and a potential counterexample
+found in Old Kannada.  I explore the relationship by casting the problem within the ontology
+provided by an implementation of the construction in a grammar from the LinGO Grammar Matrix.  
+
+Crysmann, Berthold & Bonami, Olivier # Laboratoire de Linguistique Formelle, Université Paris Diderot and CNRS &  Université Paris-Sorbonne, Institut Universitaire de France, Laboratoire de Linguistique Formelle # Establishing Order in Type-Based Realisational Morphology # October 11, 2012 # # 
+Recent years have witnessed a renewal of interest in variable morph ordering, the situation where
+the position of a morph in the word is not constant. These situations present a challenge to extant
+inferential-realisational approaches to morphology (Stump, 2001), insofar as these adopt implicitly
+or explicitly an a-morphous approach to morphological composition (Anderson, 1992). In this paper we
+will first review the typology of known variable morph ordering phenomena in inflection. We then
+argue that the challenges can be met by making a distinction between paradigmatic opposition classes
+and syntagmatic position classes, and show that this distinction can readily be implemented in HPSG
+while keeping the amorphous assumption. 
+
+
+Hahn, Michael  # University of Tübingen # Arabic Relativization Patterns:<br> A Unified HPSG Analysis # October 15, 2012 # #
+Classical Arabic and Modern Standard Arabic have several relativization patterns, including relative clauses with and without relativizers and adjectival modification patterns. Previous generative work has targeted several phenomena, but there is no analysis which covers all relativization patterns in any generative framework. We present an HPSG analysis that covers these phenomena in a uniform manner. Based on Doron and Reintges (2005), we show that the crosslinguistically unusual syntax of adjectival modifiers is a language-internally expected variant of participial modifiers as found in English. We also present the first HPSG analysis of Arabic broad subjects and argue that they are selected as specifiers, accounting for the similarities between broad subjects and ordinary subjects.
+
+
+Haugereid, Petter  # Nanyang Technological University, Singapore and University of Haifa, Israel # The Adverb Argument Intersection Field in a Left-Branching Grammar of Norwegian # October 15, 2012 # #
+This paper presents an account of the position of sentence adverbials
+in Norwegian within a left-branching HPSG-like grammar design. The
+assumed left-branching structures open for a treatment of Object Shift
+in Norwegian as part of a wider phenomenon referred to as the Adverb
+Argument Intersection Field. The approach is compared to the standard
+P&P analysis of Object Shift and it is shown that the two approaches
+make similar predictions regarding basic clause structures with full
+NP arguments. However, while one in P&P is forced to assume a
+secondary phonological movement in order to account for the position
+of unstressed pronoun objects with regard to sentence adverbials, no
+extra assumptions need to be made in the proposed account.
+
+
+Haugereid, Petter & Morey, Mathieu # Nanyang Technological University, Singapore and University of Haifa, Israel & Aix-Marseille Université, France # A Left-Branching Grammar Design for Incremental Parsing # October 15, 2012 # #
+This paper presents a left-branching constructionalist grammar design
+where the phrase structure tree does not correspond to the
+conventional constituent structure. The constituent structure is
+rather reflected by embeddings on a feature STACK. The design is
+compatible with incremental processing, as words are combined from
+left to right, one by one, and it gives a simple account of long
+distance dependencies, where the extracted element is assumed to be
+dominated by the extraction site. It is motivated by psycholinguistic
+findings.
+
+Ionescu, Emil # University of Bucharest # A Hybrid Type of Ellipsis in Romanian # October 14, 2012 # # 
+The paper presents a type of ellipsis similar to stripping and split conjuncts, yet irreducible to
+either of them. One aim of the analysis is to document the existence of this distinct ellipsis type
+within the class of constructions where the elided constituent is a verb or a verb phrase. It is
+argued that the main generative strategies, namely, deletion and null anaphora cannot be applied to
+this ellipsis type in order to account for it. Instead, the study shows that an approach which takes
+the asymmetry syntax-semantics of this construction as basic is much more successful in explaining
+the nature of this type of ellipsis. This alternative approach is the one offered by the HPSG
+framework.
+
+Kim, Mija # Kyung Hee University # Syntactic Types of <em>as</em>-Parentheticals in Korean # October 15,2012 # #
+This paper is intended to investigate the linguistic behaviors of the Korean <em>as</em>-parenthetical
+constructions with the aim of devoting to distinguishing universal properties of
+<em>as</em>-parentheticals. This paper shows three prominent behaviors in Korean <em>as</em>-parenthetical
+constructions. First, the Korean <em>as</em>-clause displays that the syntactic gap in <em>as</em>-clauses must be
+realized as CP, through the variations on case marker. Secondly, the Korean <em>as</em>-parentheticals tend
+to have two types of <em>as</em>-clauses; CP or VP <em>as</em>-clause types. In addition, they are sensitive to the
+syntactic restrictions which can be noticed in <em>as</em>-parenthetical constructions: the sisterhood
+restriction and the Island boundary. Thirdly, the Korean <em>as</em>-parenthetical constructions reveal that
+they would require some pragmatic information which is combined with semantic meaning, in the
+process of getting the interpretation of <em>as</em>-clauses. 
+
+Koga, Hiroki # Saga University # Past Affix' Selection of Verbal Stems # October 15, 2012 # #
+We will observe which stem allomorph the affixes, the so-called `non-past' affix, the past affix,
+the imperative affix, the negative affix and the voice affix-like verbs, select between the longer
+and the shorter in Japanese-Yanagawa dialect on the assumption that verbal lexemes may be associated
+with more than one stem. Observing the phenomenon more closely, we found that the verbal stem forms
+entertain default implicative relations in the stem dependency hierarchy. We will propose i) an
+implemented analysis of the past affix and ii) an implementation of the allomorph selections by the
+`non-past' affix in Koga and Ono, 2010 as two examples. 
+
+Lee, Juwon # University of Texas at Austin # The Direct Evidential <em>-te</em> in Korean:<br> Its Interaction with Person and Experiencer Predicates # October 18 #  #
+This paper discusses the complex relations among the direct evidential <em>-te</em>, person, and experiencer
+predicates in Korean. The questions of the paper are: (i) how the three components are related with
+each other in the evidential sentences, and (ii) how the interactions of the three components can be
+formally analyzed to correctly license only the well-formed evidential sentences. I show that in
+direct evidential construction with a non-private predicate (e.g. <em>pwutulep-</em> ‘soft’), the
+asserter/epistemic authority (i.e. the speaker <em>na</em> ‘I’ in declarative or the addressee <em>ne</em> ‘you’ in
+question) must be the experiencer of the predicate, but there is no such constraint in direct
+evidential construction with a private predicate (e.g. <em>aphu-</em> ‘sick’). I also show that the direct
+evidential construction with a non-private predicate is an instance of self-ascription. Then I
+propose an analysis of the experiencer predicates and associated lexical rules in the Minimal
+Recursion Semantics (MRS) (Copestake, et al., 2005) of Head-driven Phrase Structure Grammar (HPSG)
+(Pollard and Sag, 1994; Sag, et al., 2003).     
+
+Lee, Yong-hun # Chungnam National University # A Unified Approach to VP-ellipsis and VP-anaphora # October 15, 2012 # #
+It is known that VP-ellipsis and VP-anaphora are typologically different phenomena. English has
+VP-ellipses whereas Korean has VP-anaphora. The goals of this paper are (i) to develop a unified
+algorithm which can analyze these two different phenomena and (ii) to explain them using the
+developed resolution algorithm. In order to analyze these phenomena, this paper incorporates
+Jager's anaphora resolution mechanism (2010) into the typed feature structure formalism of
+Head-driven Phrase Structure Grammar (HPSG). In this paper, VP-ellipsis and VP-anaphora are analyzed
+as follows. First, English do and Korean kuleha-ta are introduced with the Geach value, and this
+value is changed with a slash-elimination rule. Then, one constituent combines with another by
+ordinary syntactic rules, while the information on the target predicate is percolated up. When a
+potential source appears, a slash-introduction rule is applied. Then, the source predicate activates
+the VP-resolution rule, and the target predicate is connected with the source in the semantic
+representations. 
+
+
+Maekawa, Takafumi  # Hokusei Gakuen University Junior College # Negative Inversion Constructions in HPSG # October 15, 2012 # no #
+The major analyses of the negative inversion (NI) constructions in the
+Minimalist/Principles-and-Parameters theory claim that the initial negative expression occupies
+[Spec,FocP]. In this paper, I argue that there is a body of data which are problematic for the
+Minimalist/Principles-and-Parameters analyses but that HPSG can provide a fairly straightforward
+account of the facts. The use of hierarchically organised network of clausal types allows us to
+accommodate not just the construction-specific properties of NI sentences but also the regularities
+that they share with other constructions with subject-auxiliary inversion.
+
+
+Oshima, David Y. # Nagoya University # On the Semantics of the Japanese Infinitive/Gerund-Clause Constructions: Polysemy and Temporal Constraints # October 12, 2012 # #
+The Japanese infinitive-clause construction (InfCx) and gerund-clause construction (GerCx), which
+are the most basic subordination structures (considered as coordination structures by some) in the
+language, may convey a wide range of interclausal semantic relations, including ‘temporal sequence’,
+‘cause’, and ‘manner’, largely due to pragmatic enrichment. This work addresses the question of what
+the core meaning(s) of the  two constructions is (are), and demonstrates (i) that the InfCx and GerCx 
+indicate either that the first-clause eventuality precedes or temporally subsumes the second-clause
+eventuality or that the two clauses stand in the  rhetorical relation of <em>contrast</em>, and (ii)
+that the GerCx has a distinct sense that the InfCx lacks, which gives rise to the ‘resulting state’ interpretation.
+
+
+Park, Dong-woo # Seoul National University # An HPSG Approach to English Comparative Inversion # October 19, 2012 # # 
+It has been analyzed that the word order of English comparative inversion is analogous to that of
+other subject-auxiliary inversions in that only a finite auxiliary verb can be followed by the
+subject. However, English comparative inversion should be distinguished from other inversions
+because the subject can be located between a cluster of auxiliary verbs and the non-auxiliary verb
+phrase in English comparative inversion. Existing analyses on subject-auxiliary inversion cannot
+account for this special kind of inversion. This paper proposes a new phrase type for English
+comparative inversion within the construction-based HPSG. In addition, I suggest that constraints on
+properties of lexemes participating in the new phrase type are governed by the construction-based
+approach, while the word order of English comparative inversion is determined by rules that the word
+order domain approach adopts. Also, it will be shown that these proposals can capture the word order
+of nor-inversion, as-inversion, and so-inversion as well as that of comparative inversion.  
+
+Song, Sanghoun & Bender, Emily M. # University of Washington & University of Washington # Individual Constraints for Information Structure # October 16, 2012 # #
+This paper, in the context of multilingual MT, proposes the use of ICONS
+(Individual CONstraintS) to add a representation of information structure to
+MRS. The value of ICONS is a list of objects of type info-str, each of which
+has the features CLAUSE and TARGET. The subtypes of info-str indicate
+which information structural role is played by the TARGET with respect
+to the CLAUSE. This proposal is designed to support both the calculation
+of focus projection from underspecified representations and the handling of
+multiclausal sentences.
+
+
+Van Eynde, Frank # Centre for Computational Linguistics Department of Linguistics University of Leuven # On the Agreement between Predicative Complements and their Target # October 15, 2012 # #
+Predicative complements canonically show number and/or gender agreement with their target. The most
+detailed proposal on how to model it in HPSG is provided in Kathol (1999). This proposal, though,
+chiefly deals with the predicative adjectives of the Romance languages, and turns out to be
+inappropriate for dealing with predicate nominals. There is an obvious way to repair it, but it
+cannot be fitted in the canonical HPSG treatment of clauses with a predicative complement. It can be
+fitted, though, in a treatment of such clauses that was proposed in Van Eynde (2009).  Adopting that
+treatment, the agreement is modeled in terms of a constraint on the lexemes which select a
+predicative complement.
+
+
+
+
+
+

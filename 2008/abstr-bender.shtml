@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Bender, Emily M.: Radical Non-Configurationality without Shuffle Operators: An Analysis of Wambaya
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Radical Non-Configurationality without Shuffle Operators: An Analysis of Wambaya">
+<meta name="citation_author"           content="Bender, Emily M.">
+<meta name="citation_conference_title" content="Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2008">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="6">
+<meta name="citation_lastpage"         content="24">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2008/bender.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Bender, Emily M.: Radical Non-Configurationality without Shuffle Operators: An Analysis of Wambaya
+</h1>
+
+<div class="blurb"
+<p>
+The word order facts of radically non-configurational languages pose a challenge to HPSG
+approaches which assume both that the surface order of words is the yield of the (tectogrammatical)
+tree and standard HPSG-style cancellation of valence lists. These languages allow discontinuous noun
+phrases, in which modifiers appear separated from their head nouns by arbitrarily many other words
+from the same clause. In this paper, I explore an analysis which preserves
+tectogrammatical-phenogrammatical equivalence, and accounts for the word order facts of Wambaya with
+an analysis based on non-cancellation. This analysis is contrasted with other approaches to
+discontinuous constituents and analyses of other phenomena based on non-cancellation. Finally, I
+explore the implications for current models of semantic compositionality.
+  
+<P>
+<ul>
+<li><a href="bender.pdf">download PDF</a>
+<li><a href="bender.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2008
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,29 @@
+// Author1 & Author 2 # ORCID1 & ORCID2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # abstract # keywords
+
+
+
+Aguila-Multner, Gabriel & Crysmann, Berthold # # Université de Paris, Laboratoire de linguistique formelle, CNRS # An inside-out approach to
+French causatives # 2020-10-15# # In this paper, we provide a
+novel account of French causatives that crucially derives the core
+properties of the construction inside-out from the downstairs lexical
+verb to the causative verb, rather than outside-in, as is commonly
+assumed by argument composition (Miller & Sag, 1997; Abeillé & Godard,
+1997; Abeillé et al., 1998).  We shall argue on the basis of clitic
+trapping (Miller & Sag, 1997), as well as marking of the downstairs
+subject (Koenig, 1998) that the downstairs verb assumes a more active
+role than what is suggested by an argument composition approach and,
+conversely, we shall show that argument composition leads to problems
+with coordination and with en-cliticisation. The analysis we are going
+to propose combines an inversion analysis of the downstairs subject as
+a downstairs complement, accounting for scrambling and case marking,
+with an analysis of clitic climbing in terms of inflectional
+periphrasis (Aguila-Multner & Crysmann 2020). # Clitic climbing,
+French, HPSG, causative, faire, periphrasis, VP structure
+
+Sailer, Manfred & Dörner, Annika # # Goethe-University Frankfurt a.M. & University of Erfurt # A
+Smurf-based Approach to Placeholder Expressions # 2020-10-15 # # The Smurf comics series is, among others, famous for the so-called "smurf language", in which words or parts of words can be replaced by "smurf". We will argue that this "smurfing" has the properties of placeholding. Based on data from German translations of Smurf comics, we will provide a formalization of smurfing in German which can be generalized to a theory of placeholder expressions. # German, HPSG, morphology, placeholder expression, smurfing
+
+Lu, Yanru & Müller, Stefan # & 0000-0003-4413-5313 # Humboldt-Universität zu Berlin # Verbal reduplication in Mandarin Chinese: An HPSG account # 2021-09-18 # #
+The current study presents an HPSG analysis for verbal reduplication in Mandarin Chinese. After discussing its interaction with Aktionsarten and aspect markers, we argue that it is a morphological rather than syntactic process. We put forward a lexical rule for verbal reduplication in Mandarin Chinese and the different forms of reduplication are captured in an inheritance hierarchy. The interaction between verbal reduplication and aspect marking is handled by multiple inheritance. This analysis covers all forms of verbal reduplication in Mandarin Chinese and has none of the shortcomings of the previous analyses.
+# Chinese, HPSG, reduplication
+

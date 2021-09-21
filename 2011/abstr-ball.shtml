@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Ball, Douglas: Morphology in the `Wrong' Place: The Curious Case of Coast Tsimshian Connectives
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Morphology in the `Wrong' Place: The Curious Case of Coast Tsimshian Connectives">
+<meta name="citation_author"           content="Ball, Douglas">
+<meta name="citation_conference_title" content="Proceedings of the 18th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2011">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="25">
+<meta name="citation_lastpage"         content="45">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2011/ball.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Ball, Douglas: Morphology in the `Wrong' Place: The Curious Case of Coast Tsimshian Connectives
+</h1>
+
+<div class="blurb"
+<p>
+This paper examines the apparently odd location of case-marking
+formatives found in the Pacific Northwest language, Coast Tsimshian.
+It first argues that the case-marking formatives are actually affixes
+on the preceding words, not prosodically-dependent words. Given this
+morphological analysis, a syntactic analysis is proposed that utilizes
+the  'informationally-rich' syntactic structure of HPSG. In
+particular, the analysis proposed uses EDGE features and chained
+identities between adjacent phrasal sisters to license the clause.
+This enables a simple analysis of  the clausal syntax of Coast
+Tsimshian while still accounting for the wide array of facts
+surrounding the connectives.
+  
+<P>
+<ul>
+<li><a href="ball.pdf">download PDF</a>
+<li><a href="ball.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: November 16, 2011
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

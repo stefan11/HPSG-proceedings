@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Bonami, Olivier &amp; Samvelian, Pollet: Inflectional periphrasis in Persian
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Inflectional periphrasis in Persian">
+<meta name="citation_author"           content="Bonami, Olivier">
+<meta name="citation_author"           content="Samvelian, Pollet">
+<meta name="citation_conference_title" content="Proceedings of the 16th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2009">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="26">
+<meta name="citation_lastpage"         content="46">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2009/bonami-samvelian.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Bonami, Olivier &amp; Samvelian, Pollet: Inflectional periphrasis in Persian
+</h1>
+
+<div class="blurb"
+<p>
+Modern Persian conjugation makes use of five periphrastic constructions. We contrast the properties
+of these five constructions and argue that they call for different analyses. We propose contrasting
+analyses relying on the combination of an HPSG approach to feature geometry and syntactic
+combination, and an approach to paradigm organization and morphological exponence based on Paradigm
+Function Morphology. This combination of analytic tools allows us to treat the whole array of
+periphrastic constructions as lexical in origin&mdash;no phrasal construction or multi-word lexical
+entry of any kind is required.
+  
+<P>
+<ul>
+<li><a href="bonami-samvelian.pdf">download PDF</a>
+<li><a href="bonami-samvelian.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2009
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kropp Dakubu, Mary Esther &amp; Hellan,  Lars &amp; Beermann, Dorothee: Verb Sequencing Constraints in Ga:
+Serial Verb Constructions and the Extended Verb Complex
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Verb Sequencing Constraints in Ga:
+Serial Verb Constructions and the Extended Verb Complex">
+<meta name="citation_author"           content="Kropp Dakubu, Mary Esther">
+<meta name="citation_author"           content="Hellan,  Lars">
+<meta name="citation_author"           content="Beermann, Dorothee">
+<meta name="citation_conference_title" content="Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2007">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="99">
+<meta name="citation_lastpage"         content="119">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2007/khb.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kropp Dakubu, Mary Esther &amp; Hellan,  Lars &amp; Beermann, Dorothee: Verb Sequencing Constraints in Ga:
+Serial Verb Constructions and the Extended Verb Complex
+</h1>
+
+<div class="blurb"
+<p>
+The paper examines two verb sequencing constructions in Ga: the Serial
+Verb Construction (SVC) and the Extended Verb Complex (EVC). The former
+is an instance of a commonly recognized construction, the latter is
+typically found in the Volta Basin area of West Africa. EVCs are
+sequences of verbs functioning as single verb units relative to the
+syntax, but with an internal structure much like syntactic
+complementation. Both constructions show agreement of aspect and mood
+marking throughout the sequence, but with differences in exponence: in
+an SVC all Vs expose such marking, in an EVC only a limited (down to
+one) number of verbs, depending on the inflectional category. The paper
+presents the basic facts, based on works by Dakubu (2002, 2004, to
+appear), and gives an HPSG account of their morphology, syntax and
+semantics. The analysis is sustained by a grammar of the phenomena
+implemented with the 'Linguistic Knowledge Builder' (LKB), an
+engineering platform for natural language processing.
+  
+<P>
+<ul>
+<li><a href="khb.pdf">download PDF</a>
+<li><a href="khb.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: September 27, 2007
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

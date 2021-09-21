@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Henri, Fabiola &amp; Abeillé, Anne: The Syntax of Copular Constructions in Mauritian
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="The Syntax of Copular Constructions in Mauritian">
+<meta name="citation_author"           content="Henri, Fabiola">
+<meta name="citation_author"           content="Abeillé, Anne">
+<meta name="citation_conference_title" content="Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2007">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="130">
+<meta name="citation_lastpage"         content="149">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2007/henri-abeille.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Henri, Fabiola &amp; Abeillé, Anne: The Syntax of Copular Constructions in Mauritian
+</h1>
+
+<div class="blurb"
+<p>
+<p>
+This paper examines the syntactic behavior of the Mauritian copula in predicative
+and extracted sentences. As it is the case in many languages, the Mauritian
+copula ete is absent in certain constructions: It only appears in extraction contexts.
+Our aim is to show that the postulation of a null copula, which has been proposed
+in various analyses, is inadequate for the Mauritian data. The phenomenon, as
+it is argued, rather lends itself to a strictly construction-based analysis within the
+framework of HPSG and is based on the distribution of weak pronouns and TAM
+markers.
+  
+<P>
+<ul>
+<li><a href="henri-abeille.pdf">download PDF</a>
+<li><a href="henri-abeille.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2007
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

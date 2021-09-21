@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Canac-Marquis, Réjean: Phases and Binding of Reflexives and Pronouns in English
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Phases and Binding of Reflexives and Pronouns in English">
+<meta name="citation_author"           content="Canac-Marquis, Réjean">
+<meta name="citation_conference_title" content="Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2005">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="482">
+<meta name="citation_lastpage"         content="502">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/canac-marquis.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Canac-Marquis, Réjean: Phases and Binding of Reflexives and Pronouns in English
+</h1>
+
+<div class="blurb"
+<p>
+This paper proposes a distinct approach to local binding effects for reflexives
+and pronominals in English whereby the nature of local binding domains is a
+by-product of the incremental interpretation of syntactic derivations
+(Uriageraka 1999, Chomsky 2000, 2001), emphasizing the role of the
+Conceptual /Intentional interface and the computational system (i.e. bare
+output conditions) in shaping general principles of grammars. A significant
+development of the Minimalist framework is the proposal that derivations
+operate through phases or multiple spell outs, which allows to reduce the
+strict cyclicity of derivations, and related locality effects of movement, to
+interface (bare output) conditions and economy conditions. In this paper I
+propose that incremental interpretation can further capture local binding
+domains effects of conditions A and B of Chomsky's (1981, 1986) Binding
+Theory. Basically, local binding domains are shown to correspond to
+<q>accessible phase domains</q>. Our proposal hence contrasts with standard
+analyses (e.g. Reinhart and Reuland 1993, Pollard and Sag 1992) that define
+co-argumenthood as the core factor from which binding conditions are
+developed. Our proposal also provides a new perspective on the core
+contrasts between A-chain and A-bar chain w.r.t. binding and scope
+reconstruction effects and argues that checking of the uninterpretable feature
+Case is what defines potential phase domains.
+  
+<P>
+<ul>
+<li><a href="canac-marquis.pdf">download PDF</a>
+<li><a href="canac-marquis.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Song, Sanghoun &amp; Bender, Emily M.: Individual Constraints for Information Structure
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Individual Constraints for Information Structure">
+<meta name="citation_author"           content="Song, Sanghoun">
+<meta name="citation_author"           content="Bender, Emily M.">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="330">
+<meta name="citation_lastpage"         content="348">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/song-bender.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Song, Sanghoun &amp; Bender, Emily M.: Individual Constraints for Information Structure
+</h1>
+
+<div class="blurb"
+<p>
+This paper, in the context of multilingual MT, proposes the use of ICONS
+(Individual CONstraintS) to add a representation of information structure to
+MRS. The value of ICONS is a list of objects of type info-str, each of which
+has the features CLAUSE and TARGET. The subtypes of info-str indicate
+which information structural role is played by the TARGET with respect
+to the CLAUSE. This proposal is designed to support both the calculation
+of focus projection from underspecified representations and the handling of
+multiclausal sentences.
+  
+<P>
+<ul>
+<li><a href="song-bender.pdf">download PDF</a>
+<li><a href="song-bender.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

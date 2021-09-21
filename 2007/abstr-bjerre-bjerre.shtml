@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Bjerre, Anne &amp; Bjerre,  Tavs: Pseudocoordination in Danish
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Pseudocoordination in Danish">
+<meta name="citation_author"           content="Bjerre, Anne">
+<meta name="citation_author"           content="Bjerre,  Tavs">
+<meta name="citation_conference_title" content="Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2007">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="6">
+<meta name="citation_lastpage"         content="24">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2007/bjerre-bjerre.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Bjerre, Anne &amp; Bjerre,  Tavs: Pseudocoordination in Danish
+</h1>
+
+<div class="blurb"
+<p>
+In this paper we propose an analysis of Danish pseudocoordination constructions. The analysis is
+based on a hybrid phrase hierarchy where phrase types are assumed to be subtypes of types that cut
+across the traditional division of phrasal types, allowing the phrase type of pseudocoordinations to
+be a subtype of both coordinate phrases and headed phrases, and consequently inherit properties from
+both types. The analysis is linearization-based. We further develop a set of constraints on the
+phrasal types in the hierarchy.
+<p>
+The hybrid phrase hierarchy and the set of constraints on the various types in the hierarchy explain
+why, on the one hand, pseudocoordinations contain conjunctions and the conjuncts must have the same
+form and tense, and on the other, have a fixed order, allow extraction out of the second conjunct,
+do not allow overt subjects in the second conjunct and allow transitive verbs to appear in
+there-constructions.
+  
+<P>
+<ul>
+<li><a href="bjerre-bjerre.pdf">download PDF</a>
+<li><a href="bjerre-bjerre.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2007
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

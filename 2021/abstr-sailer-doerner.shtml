@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Sailer, Manfred &amp; Dörner, Annika: Goethe-University Frankfurt a.M.&University of Erfurt
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Goethe-University Frankfurt a.M.&University of Erfurt">
+<meta name="citation_author"           content="Sailer, Manfred">
+<meta name="citation_author"           content="Dörner, Annika">
+<meta name="citation_conference_title" content="Proceedings of the 28th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2021">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="26">
+<meta name="citation_lastpage"         content="46">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2021/hpsg2021-sailer-doerner.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Sailer, Manfred &amp; Dörner, Annika: Goethe-University Frankfurt a.M.&University of Erfurt
+</h1>
+
+<div class="blurb"
+<p>
+
+  
+<P>
+<ul>
+<li><a href="hpsg2021-sailer-doerner.pdf">download PDF</a>
+<li><a href="sailer-doerner.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: A
+Smurf-based Approach to Placeholder Expressions
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

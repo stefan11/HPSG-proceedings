@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Park, Dong-woo: An HPSG Approach to English Comparative Inversion
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="An HPSG Approach to English Comparative Inversion">
+<meta name="citation_author"           content="Park, Dong-woo">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="310">
+<meta name="citation_lastpage"         content="329">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/park.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Park, Dong-woo: An HPSG Approach to English Comparative Inversion
+</h1>
+
+<div class="blurb"
+<p>
+It has been analyzed that the word order of English comparative inversion is analogous to that of
+other subject-auxiliary inversions in that only a finite auxiliary verb can be followed by the
+subject. However, English comparative inversion should be distinguished from other inversions
+because the subject can be located between a cluster of auxiliary verbs and the non-auxiliary verb
+phrase in English comparative inversion. Existing analyses on subject-auxiliary inversion cannot
+account for this special kind of inversion. This paper proposes a new phrase type for English
+comparative inversion within the construction-based HPSG. In addition, I suggest that constraints on
+properties of lexemes participating in the new phrase type are governed by the construction-based
+approach, while the word order of English comparative inversion is determined by rules that the word
+order domain approach adopts. Also, it will be shown that these proposals can capture the word order
+of nor-inversion, as-inversion, and so-inversion as well as that of comparative inversion.
+  
+<P>
+<ul>
+<li><a href="park.pdf">download PDF</a>
+<li><a href="park.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 19, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

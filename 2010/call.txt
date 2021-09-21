@@ -1,0 +1,78 @@
+FIRST CALL FOR PAPERS
+
+Abstracts are solicited for presentations which address linguistic, foundational, or computational issues relating to the framework of Head-Driven Phrase Structure Grammar.
+
+INVITED SPEAKERS
+
+The two invited speakers are:
+
+Daniel Flickinger (Stanford University)
+Barbara Hemforth (Université Paris Descartes)
+
+CONFERENCE FORMAT
+
+There will be two sessions: a main session, with 30 minute presentations, and a poster session. The poster session is intended as a means of encouraging the presentation of work that is not yet fully mature.
+
+Prospective speakers may submit either a 5 page abstract for the main session, or a 2 page abstract for the poster session. Abstracts submitted initially for the main session may be accepted, at the discretion of the program committee, for presentation in the poster session instead.
+
+RELATED EVENTS
+
+The HPSG Conference will take place on July 9-10. It will be preceded by a day of tutorials on July 7, and a workshop on Morphology and Formal Grammar on July 8. The two tutorials are:
+
+The LinGO Grammar Matrix: Rapid Grammar Development for Hypothesis Testing (presented by Emily Bender and Antske Fokkens)
+
+Prosody and Information Structure in Grammar: Evidence from French (presented by Claire Beyssade, Jean-Marie Marandin and Cristel Portes)
+
+The workshop on Morphology and Formal Grammar has a separate program committee and submission procedure. Details can be found at:
+http://hpsg2010.linguist.univ-paris-diderot.fr/workshop
+
+SUBMISSIONS
+
+We will use an online submission system. All abstracts should be submitted via:
+http://www.easychair.org/conferences/?conf=hpsg2010
+
+Abstracts should be in PDF format.
+
+Please direct any questions to the Program Committee Chair:
+hpsg2010@easychair.org
+
+All abstracts will be reviewed anonymously by at least two reviewers. Abstracts should not include the authors' names, and authors are asked to avoid self-references.
+
+IMPORTANT DATES
+
+Abstract submission deadline: February 28, 2010
+Notification of acceptance: April 14, 2010
+Conference: July 7-10, 2010
+
+PUBLICATION
+
+The conference proceedings will be published online by CSLI
+
+Publications. Only papers presented in the main session will be included in the proceedings.
+
+A call for contributions to the proceedings will be issued after the conference. Proceedings of previous conferences are available at:
+http://csli-publications.stanford.edu/HPSG/.
+
+The final deadline for receipt of written versions of conference papers is October 15, 2010.
+
+PROGRAM COMMITTEE
+
+Doug Arnold, Emily Bender, Philippe Blache, Olivier Bonami (chair), Bob Borsley, Gosse Bouma, Rui Chaves, Ann Copestake, Berthold Crysmann, Kordula De Kuthy, Dan Flickinger, Daniele Godard, Anke Holler, Jean-Pierre Koenig, Valia Kordoni, Anna Kupsc, Bob Levine, Rob Malouf, Nurit Melnik, Philip Miller, Stefan Müller, Gerald Penn, Frank Richter, Ivan Sag, Manfred Sailer, Jesse Tseng, Frank Van Eynde, Gert Webelhuth, Shuichi Yatabe, Eun-Jung Yoo
+
+CONFERENCE WEB SITE
+
+http://hpsg2010.linguist.univ-paris-diderot.fr/
+
+LOCAL ORGANIZING COMMITTEE
+
+Anne Abeillé (chair), Olivier Bonami, Elisabeth Delais-Roussarie, Marianne Desmets, Danièle Godard, Jean-Marie Marandin, Philip Miller.
+
+LINKS
+
+For more information about HPSG, see, for example:
+http://hpsg.stanford.edu/
+http://www.ling.ohio-state.edu/research/hpsg/
+
+For more information on HPSG conferences:
+http://www.essex.ac.uk/linguistics/external/HPSG/
+

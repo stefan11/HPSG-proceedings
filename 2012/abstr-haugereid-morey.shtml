@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Haugereid, Petter &amp; Morey, Mathieu: A Left-Branching Grammar Design for Incremental Parsing
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="A Left-Branching Grammar Design for Incremental Parsing">
+<meta name="citation_author"           content="Haugereid, Petter">
+<meta name="citation_author"           content="Morey, Mathieu">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="181">
+<meta name="citation_lastpage"         content="194">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/haugereid-morey.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Haugereid, Petter &amp; Morey, Mathieu: A Left-Branching Grammar Design for Incremental Parsing
+</h1>
+
+<div class="blurb"
+<p>
+This paper presents a left-branching constructionalist grammar design
+where the phrase structure tree does not correspond to the
+conventional constituent structure. The constituent structure is
+rather reflected by embeddings on a feature STACK. The design is
+compatible with incremental processing, as words are combined from
+left to right, one by one, and it gives a simple account of long
+distance dependencies, where the extracted element is assumed to be
+dominated by the extraction site. It is motivated by psycholinguistic
+findings.
+  
+<P>
+<ul>
+<li><a href="haugereid-morey.pdf">download PDF</a>
+<li><a href="haugereid-morey.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

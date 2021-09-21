@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Drellishak, Scott: Complex Case Phenomena in the Grammar Matrix
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Complex Case Phenomena in the Grammar Matrix">
+<meta name="citation_author"           content="Drellishak, Scott">
+<meta name="citation_conference_title" content="Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2008">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="67">
+<meta name="citation_lastpage"         content="86">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2008/drellishak.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Drellishak, Scott: Complex Case Phenomena in the Grammar Matrix
+</h1>
+
+<div class="blurb"
+<p>
+This paper describes a number of verbal argument marking patterns found in the world's languages and
+provides HPSG analyses for them.  In addition to commonly-occurring variations of morphosyntactic
+alignment (e.g. nominative-accusative, ergative-absolutive), this paper also presents analyses of
+more complex phenomena, including ergativity splits, Austronesian-style focus-case systems, and
+direct-inverse systems and their interaction with case.
+  
+<P>
+<ul>
+<li><a href="drellishak.pdf">download PDF</a>
+<li><a href="drellishak.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2008
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

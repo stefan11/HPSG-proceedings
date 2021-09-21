@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Oshima, David Y.: On the Semantics of the Japanese Infinitive/Gerund-Clause Constructions: Polysemy and Temporal Constraints
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="On the Semantics of the Japanese Infinitive/Gerund-Clause Constructions: Polysemy and Temporal Constraints">
+<meta name="citation_author"           content="Oshima, David Y.">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="292">
+<meta name="citation_lastpage"         content="309">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/oshima.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Oshima, David Y.: On the Semantics of the Japanese Infinitive/Gerund-Clause Constructions: Polysemy and Temporal Constraints
+</h1>
+
+<div class="blurb"
+<p>
+The Japanese infinitive-clause construction (InfCx) and gerund-clause construction (GerCx), which
+are the most basic subordination structures (considered as coordination structures by some) in the
+language, may convey a wide range of interclausal semantic relations, including ‘temporal sequence’,
+‘cause’, and ‘manner’, largely due to pragmatic enrichment. This work addresses the question of what
+the core meaning(s) of the  two constructions is (are), and demonstrates (i) that the InfCx and GerCx 
+indicate either that the first-clause eventuality precedes or temporally subsumes the second-clause
+eventuality or that the two clauses stand in the  rhetorical relation of <em>contrast</em>, and (ii)
+that the GerCx has a distinct sense that the InfCx lacks, which gives rise to the ‘resulting state’ interpretation.
+  
+<P>
+<ul>
+<li><a href="oshima.pdf">download PDF</a>
+<li><a href="oshima.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 12, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Michaelis, Laura &amp; Kay, Paul: Partial Inversion in English
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Partial Inversion in English">
+<meta name="citation_author"           content="Michaelis, Laura">
+<meta name="citation_author"           content="Kay, Paul">
+<meta name="citation_conference_title" content="Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2017">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="243">
+<meta name="citation_lastpage"         content="247">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2017/hpsg2017-michaelis-kay.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Michaelis, Laura &amp; Kay, Paul: Partial Inversion in English
+</h1>
+
+<div class="blurb"
+<p>
+A typical
+finite clause in English has a single constituent that serves as subject.  This constituent precedes
+the finite verb in non-inverted clauses like simple declarative clauses, follows the finite verb in
+inverted clauses like polar questions, agrees in person and number with the finite verb and with a
+tag subject when a tag is present, undergoes subject raising, and so on (Postal 2004).  Five
+constructions violate these generalizations and in the literature have called into question the
+identity of the subject constituent. In each of these five constructions the finite verb agrees with
+a following constituent in a declarative clause despite the fact, among others, that the constituent
+preceding the verb exhibits subject behaviors of the kind identified by Keenan (1976). To the
+authors’ knowledge, despite intensive analysis of several of these patterns, the group as a whole
+has not been subject to prior study. The constructions are: Presentational Inversion (e.g., <em>On the
+porch stood marble pillars</em>), Presentational <em>there</em> (e.g., <em>The earth was now dry</em>, and <em>there grew a
+tree in the middle of the earth</em>, Deictic <em>there</em> (e.g., <em>Here comes the bus</em>), Existential <em>there</em> (e.g.,
+<em>There’s a big problem here</em>) and Reversed Specificational <em>be</em> (e.g., <em>The only thing we’ve taken back
+recently are plants</em>). The approach of Sign-Based Construction Grammar (Sag 2012) enables us to
+establish precisely what all five patterns have in common and what is particular to each, revealing
+that a constructional, constraint-based approach can extract the correct grammatical
+generalizations, not only in ‘core’ areas of a grammar, but also in the hard cases, where concepts
+such as <em>subject</em>, which readily handle the more tractable facts, fail to fit the facts at hand.  We
+see further that the five split-subject patterns, sometimes identified as clausal, yield to a
+strictly lexical analysis.
+  
+<P>
+<ul>
+<li><a href="hpsg2017-michaelis-kay.pdf">download PDF</a>
+<li><a href="michaelis-kay.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: November, 1st, 2017
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

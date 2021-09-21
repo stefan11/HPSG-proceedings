@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Costa, Francisco &amp; Branco, António: Backshift and Tense Decomposition
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Backshift and Tense Decomposition">
+<meta name="citation_author"           content="Costa, Francisco">
+<meta name="citation_author"           content="Branco, António">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="86">
+<meta name="citation_lastpage"         content="106">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/costa-branco.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Costa, Francisco &amp; Branco, António: Backshift and Tense Decomposition
+</h1>
+
+<div class="blurb"
+<p>
+Backshift is a phenomenon affecting verb tense that is visible as a mismatch
+between some specific embedded contexts and other environments.  For instance,
+the indirect speech equivalent of a sentence like 'Kim likes reading', with
+a present tense verb, may show the same verb in a past tense form, as in 'Sandy said Kim liked
+reading'.  We present a general analysis of backshift, pooling data from English and Romance
+languages.  Our analysis acknowledges that tense morphology is ambiguous between different temporal
+meanings, explicitly models the role of the speech time and the event times involved and takes the
+aspectual constraints of tenses into consideration.
+  
+<P>
+<ul>
+<li><a href="costa-branco.pdf">download PDF</a>
+<li><a href="costa-branco.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

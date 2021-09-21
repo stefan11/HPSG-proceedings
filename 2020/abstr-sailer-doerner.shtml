@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Sailer, Manfred &amp; Dörner, Annika: A
+Smurf-based Approach to Placeholder Expressions
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="A
+Smurf-based Approach to Placeholder Expressions">
+<meta name="citation_author"           content="Sailer, Manfred">
+<meta name="citation_author"           content="Dörner, Annika">
+<meta name="citation_conference_title" content="Proceedings of the 27th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2020">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="136">
+<meta name="citation_lastpage"         content="156">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2020/hpsg2020-sailer-doerner.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Sailer, Manfred &amp; Dörner, Annika: A
+Smurf-based Approach to Placeholder Expressions
+</h1>
+
+<div class="blurb"
+<p>
+The Smurf comics series is, among others, famous for the so-called "smurf language", in which words or parts of words can be replaced by "smurf". We will argue that this "smurfing" has the properties of placeholding. Based on data from German translations of Smurf comics, we will provide a formalization of smurfing in German which can be generalized to a theory of placeholder expressions.
+  
+<P>
+<ul>
+<li><a href="hpsg2020-sailer-doerner.pdf">download PDF</a>
+<li><a href="sailer-doerner.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2020
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

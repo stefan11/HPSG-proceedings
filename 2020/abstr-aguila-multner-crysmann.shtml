@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Aguila-Multner, Gabriel &amp; Crysmann, Berthold: An inside-out approach to
+French causatives
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="An inside-out approach to
+French causatives">
+<meta name="citation_author"           content="Aguila-Multner, Gabriel">
+<meta name="citation_author"           content="Crysmann, Berthold">
+<meta name="citation_conference_title" content="Proceedings of the 27th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2020">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="5">
+<meta name="citation_lastpage"         content="25">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2020/hpsg2020-aguila-multner-crysmann.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Aguila-Multner, Gabriel &amp; Crysmann, Berthold: An inside-out approach to
+French causatives
+</h1>
+
+<div class="blurb"
+<p>
+In this paper, we provide a
+novel account of French causatives that crucially derives the core
+properties of the construction inside-out from the downstairs lexical
+verb to the causative verb, rather than outside-in, as is commonly
+assumed by argument composition (Miller & Sag, 1997; Abeillé & Godard,
+1997; Abeillé et al., 1998).  We shall argue on the basis of clitic
+trapping (Miller & Sag, 1997), as well as marking of the downstairs
+subject (Koenig, 1998) that the downstairs verb assumes a more active
+role than what is suggested by an argument composition approach and,
+conversely, we shall show that argument composition leads to problems
+with coordination and with en-cliticisation. The analysis we are going
+to propose combines an inversion analysis of the downstairs subject as
+a downstairs complement, accounting for scrambling and case marking,
+with an analysis of clitic climbing in terms of inflectional
+periphrasis (Aguila-Multner & Crysmann 2020).
+  
+<P>
+<ul>
+<li><a href="hpsg2020-aguila-multner-crysmann.pdf">download PDF</a>
+<li><a href="aguila-multner-crysmann.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15 2020
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,81 @@
+\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
+                    % For some reasons some old HPSG proceedings have pdf 1.6
+\documentclass[a4paper,11pt]{article}
+\usepackage{times}
+\usepackage{ogonek} % Dąbkowski
+\hyphenation{Acad-e-my}
+\usepackage{pdfpages}
+\pdfinclusioncopyfonts=1
+\usepackage[utf8]{inputenc}
+        \usepackage{hyperref}
+        \hypersetup{colorlinks=false, pdfborder={0 0 0}}
+        \setcounter{page}{153}
+        \begin{document}
+
+\newcommand\formatauthor[2]{\begin{tabular}[t]{@{}c@{}}
+  {\LARGE#1\strut}\\
+  {\small#2\strut}\\
+  \rule{\dimexpr0.5\linewidth-1em}{0pt}
+  \end{tabular}\xhfill\ignorespaces}
+\newcommand\xhfill{\hspace{1em plus 1fill}}
+\thispagestyle{empty}
+
+\begin{center}
+  {\huge\bfseries Korean and Spanish psych-verbs: Interaction of case, theta-roles, linearization, and event structure in HPSG\par}
+
+  \bigskip
+
+~\\
+\begingroup
+\setlength{\leftskip}{0pt plus 1fill}
+\setlength{\rightskip}{0pt plus 1fill}
+\setlength{\parindent}{0pt}
+\setlength{\parfillskip}{0pt}
+  \formatauthor{Antonio Machicao y Priemer}{\begin{tabular}{@{}c@{}}Humboldt-Universität zu Berlin\end{tabular}}
+\formatauthor{Paola Fritz-Huechante}{\begin{tabular}{@{}c@{}}Humboldt-Universität zu Berlin\end{tabular}}
+
+\par\endgroup
+
+  \vspace*{8ex}
+
+  Proceedings of the 25th International Conference on\par Head-Driven Phrase Structure Grammar
+
+  \bigskip
+
+  University of Tokyo
+
+  \medskip
+
+  Stefan  Müller, Frank Richter (Editors)
+
+  \medskip
+
+  2018
+
+  \medskip
+
+  CSLI Publications
+
+  \medskip
+
+  pages 153--173
+
+  \medskip
+
+  \url{http://csli-publications.stanford.edu/HPSG/2018}
+\end{center}
+\vfill
+
+\noindent
+Keywords: Spanish, Korean, Psych-Verbs, Theta-Roles, Neo-Davidsonian, Linking
+
+
+\vfill
+\noindent
+% APA Style
+Machicao y Priemer, Antonio, \& Fritz-Huechante, Paola. 2018. Korean and Spanish psych-verbs: Interaction of case, theta-roles, linearization, and event structure in HPSG. In Müller, Stefan, \& Richter, Frank (Eds.), \emph{{Proceedings of the 25th International Conference on Head-Driven Phrase Structure Grammar, University of Tokyo}}, 153--173. Stanford,
+CA: CSLI Publications. \hfill\href{http://creativecommons.org/licenses/by/4.0/}{\includegraphics[height=.75em]{Includes/ccby-eps-converted-to.pdf}}
+
+\newpage
+\includepdf[pages=-,pagecommand=\thispagestyle{plain}]{Includes/machicaoypriemer-fritz-huechante.pdf}
+        \end{document}

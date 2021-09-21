@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kim, Jong-Bok &amp; Sag, Ivan A.: English Object Extraposition:  A Constraint-Based Approach
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="English Object Extraposition:  A Constraint-Based Approach">
+<meta name="citation_author"           content="Kim, Jong-Bok">
+<meta name="citation_author"           content="Sag, Ivan A.">
+<meta name="citation_conference_title" content="Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2005">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="192">
+<meta name="citation_lastpage"         content="212">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/kim-sag.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kim, Jong-Bok &amp; Sag, Ivan A.: English Object Extraposition:  A Constraint-Based Approach
+</h1>
+
+<div class="blurb"
+<p>
+According to the Projection Principle (Chomsky 1981), expletives have
+no semantic content and thus cannot occur in theta-marked positions. However, 
+there are many examples where expletive <em>it</em> appears as a direct object, 
+in violation of the Projection Principle. The various attempts that have
+been made to account for such cases (e.g. the case-based analysis of Authier
+(1991), the predication analysis of Rothstein (1995), and the Specifier analysis 
+of Stroik (1991, 1996)) all posit movement of the expletive from a non-theta 
+marked position to direct object position. However, these analyses have
+so far been unsuccessful in capturing several important contrasts, e.g. 
+variable optionality of the expletive <em>it</em>. This paper argues that such contrasts (and
+the complex behavior of expletive <em>it</em> more generally) follow straightforwardly
+from a lexicalist, constraint-based analysis in which lexical information and
+independently motivated constraints interact in subtle ways.
+  
+<P>
+<ul>
+<li><a href="kim-sag.pdf">download PDF</a>
+<li><a href="kim-sag.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 26, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

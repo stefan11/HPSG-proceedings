@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Spencer, Andrew: Lexical Relatedness and the Lexical Entry &ndash; a Formal Unification
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Lexical Relatedness and the Lexical Entry &ndash; a Formal Unification">
+<meta name="citation_author"           content="Spencer, Andrew">
+<meta name="citation_conference_title" content="Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2010">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="322">
+<meta name="citation_lastpage"         content="340">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2010/spencer.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Spencer, Andrew: Lexical Relatedness and the Lexical Entry &ndash; a Formal Unification
+</h1>
+
+<div class="blurb"
+<p>
+Based on the notion of a lexicon with default inheritance, I address the problem of how to provide a
+template for lexical representations that allows us to capture the relatedness between inflected
+word forms and canonically derived lexemes within a broadly realizational-inferential model of
+morphology. To achieve this we need to be able to represent a whole host of intermediate types of
+lexical relatedness that are much less frequently discussed in the literature. These include
+transpositions such as deverbal participles, in which a word's morphosyntactic class changes
+(e.g. verb ⇒ adjective) but no semantic predicate is added to the semantic representation and the
+derived word remains, in an important sense, a "form" of the base lexeme (e.g. the 'present
+participle form of the verb'). I propose a model in which morphological properties are inherited by
+default from syntactic properties and syntactic properties are inherited from semantic properties,
+such as ontological category (the Default Cascade). Relatedness is defined in terms of a Generalized
+Paradigm Function (perhaps in reality a relation), a generalization of the Paradigm Function of
+Paradigm Function Morphology (Stump 2001). The GPF has four components which deliver respectively
+specifications of a morphological form, syntactic properties, semantic representation and a lexemic
+index (LI) unique to each individuated lexeme in the lexicon. In principle, therefore, the same
+function delivers derived lexemes as inflected forms. In order to ensure that a newly derived lexeme
+of a distinct word class can be inflected I assume two additional principles. First, I assume an
+Inflectional Specifiability Principle, which states that the form component of the GPF (which
+defines inflected word forms of a lexeme) is dependent on the specification of the lexeme's
+morpholexical signature, a declaration of the properties that the lexeme is obliged to inflect for
+(defined by default on the basis of morpholexical class). I then propose a Category Erasure
+Principle, which states that 'lower' attributes are erased when the GPF introduces a non-trivial
+change to a 'higher' attribute (e.g. a change to the semantic representation entails erasure of
+syntactic and morphological information). The required information is then provided by the Default
+Cascade, unless overridden by specific declarations in the GPF. I show how this model can account
+for a variety of intermediate types of relatedness which cannot easily be treated as either
+inflection or derivation, and conclude with a detailed illustration of how the system applies to a
+particularly interesting type of transposition in the Samoyedic language Sel'kup, in which a noun is
+transposed to a similitudinal adjective whose form is in paradigmatic opposition to case-marked noun
+forms, and which is therefore a kind of inflection.
+  
+<P>
+<ul>
+<li><a href="spencer.pdf">download PDF</a>
+<li><a href="spencer.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 13, 2010
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

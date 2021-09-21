@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Hellan, Lars: Implementing Norwegian Reflexives in an HPSG Grammar
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Implementing Norwegian Reflexives in an HPSG Grammar">
+<meta name="citation_author"           content="Hellan, Lars">
+<meta name="citation_conference_title" content="Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2005">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="519">
+<meta name="citation_lastpage"         content="539">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/hellan.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Hellan, Lars: Implementing Norwegian Reflexives in an HPSG Grammar
+</h1>
+
+<div class="blurb"
+<p>
+The paper reviews basic patterns of reflexive binding in Norwegian, and
+explores a possible implementation of them in an HPSG grammar using the
+LKB platform. Norwegian has two reflexive elements, with distinct
+constraints and corresponding 'anti-binding' effects; they can cooccur
+but also occur independently. As over-all strategy for resolving
+reflexive binding we use one resembling the 'slash' procedure for
+wh-dependencies. Binding constraints are imposed partly through lexical
+specification, partly through phrasal combination rules. Challenges are
+noted residing in the possibility for sentences to contain an unbounded
+number of reflexives.
+  
+<P>
+<ul>
+<li><a href="hellan.pdf">download PDF</a>
+<li><a href="hellan.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 14, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

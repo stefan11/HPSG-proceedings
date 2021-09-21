@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Sells, Peter: Negatives of imperatives
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Sells, Peter: Negatives of imperatives
+</h1>
+
+<div class="blurb"
+<p>
+In this paper I investigate some empirical and theoretical issues
+regarding the presence of negation in imperatives, focussing on
+Korean.  Korean has a special form of negation which appears in
+imperative clauses, and I argue that the conditions governing the
+choice of regular negation or imperative negation are purely semantic
+in nature.  In particular, I argue that imperative negation constrains
+the denotation of its clause to be of type OUTCOME in the system of
+Ginzburg and Sag (2000), as opposed to regular negation which appears
+with PROPOSITIONS or QUESTIONS.  OUTCOMEs are built from irrealis soas
+(i-soa) while the others are built from realis soas (r-soa).  The
+partitioning of the two negations must go along these high-level
+semantic lines.  As in other languages with polite or honorific
+morphology, clause-type distinctions that Korean makes morphologically
+are typically neutralized in the presence of honorific morphology, and
+in such cases, using one negation or other disambiguates an example to
+just those clause denotations built out of an i-soa or an r-soa.
+I also compare a lexically-based HPSG analysis with a derivational
+account treating imperative negation as the spell-out of a combination
+of abstract functional heads.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 2003
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

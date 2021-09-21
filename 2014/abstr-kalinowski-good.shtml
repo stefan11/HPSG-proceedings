@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kalinowski, Cristin &amp; Good, Jeff: Focus as a grammatical relation: Evidence from Africa
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kalinowski, Cristin &amp; Good, Jeff: Focus as a grammatical relation: Evidence from Africa
+</h1>
+
+<div class="blurb"
+<p>
+Current research into the typology of the encoding
+of grammatical relations recognizes the importance of both
+relational roles and referential properties of arguments (Bickel 2011).
+Relational roles, in this context, refer to those
+deriving from the semantic relationship between the verb and its
+arguments, of the sort often discussed under the
+rubric of thematic roles. Referential properties, on the other hand,
+refer to concepts such as animacy, specificity, and
+definiteness, which are also known to influence the encoding of
+grammatical relations. While relational roles have
+seen the bulk of the attention devoted to modeling notions such as
+subject and object, further research is needed with
+respect to the range of referential properties relevant to understanding
+the nature of grammatical relations.
+<p>
+Bickel’s recent survey suggests that information structure should be
+considered as a potentially important referential
+property, for instance in Mayan languages (Bickel 2011:431), where the
+choice of focus constructions depends on
+whether the focused element is the subject of a transitive verb versus
+the single argument of an intransitive verb or a
+transitive object (i.e., the constructions show ergative alignment). In
+languages of Africa, the significance of information
+structure for understanding the morphosyntactic properties of clauses
+has long been clear (Hyman & Watters
+1984), yet this is an area that remains understudied from the
+perspective of grammatical relations. Focus-sensitive
+grammatical relations in these languages, in particular, often
+superficially resemble strategies associated with the encoding
+of thematic relations in other languages with respect to their formal
+properties—involving, for instance, rigid
+patterns of word order, special types of case marking, or verbal
+argument agreement. This can cause their differences
+from grammatical relations more closely connected to thematic roles to
+be underappreciated.
+<p>
+A recently conducted typological survey of over 130 African languages
+suggests that focus is, in fact, one of the
+primary properties that needs to be considered in coming to an
+understanding of grammatical relations in languages of
+the continent and indicates that it should be set alongside better
+studied properties such as thematic roles and animacy
+when considering grammatical relations typology more generally. This
+paper reports on the results of the survey of
+most relevance to this issue.
+<p>
+While the specifics of these focus encoding strategies differ, their
+formal properties resemble constructions otherwise
+associated with relational roles of the sort connected to thematic
+relations. This is despite the fact that a property
+like focus is more in line with referential properties than relational
+ones. The description of such constructions is
+not new here. However, they are typically discussed purely in terms of
+topic and focus encoding (see, for example,
+van der Wal 2009), rather than being seen as parallel to grammatical
+relations in other languages. The present survey,
+however, suggests that we may be dealing with an under-recognized class
+of grammatical relations driven by
+information-structure considerations, rather than better understood
+notions such as thematic roles or animacy.
+<h2>References</h2>
+<ul>
+<li>Bickel, Balthasar. 2011. Grammatical relations typology. In Jae Jung Song (ed.), The Oxford handbook of linguistic typology, 399–444. Oxford: Oxford University Press.
+<li>Hyman, Larry M. & John R. Watters. 1984. Auxiliary focus. Studies in African Linguistics 15(3). 233–273.
+<li>van der Wal, Jenneke. 2009. Word order and information structure in Makhuwa-Enahara. Leiden: Universiteit Leiden Ph.D. dissertation. 
+</ul>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 25, 2014
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

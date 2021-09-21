@@ -1,0 +1,268 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+Bjerre, Anne  & Bjerre,  Tavs  # University of Southern Denmark & Aarhus University, Denmark # Pseudocoordination in Danish # October 15, 2007 # #
+In this paper we propose an analysis of Danish pseudocoordination constructions. The analysis is
+based on a hybrid phrase hierarchy where phrase types are assumed to be subtypes of types that cut
+across the traditional division of phrasal types, allowing the phrase type of pseudocoordinations to
+be a subtype of both coordinate phrases and headed phrases, and consequently inherit properties from
+both types. The analysis is linearization-based. We further develop a set of constraints on the
+phrasal types in the hierarchy.
+<p>
+The hybrid phrase hierarchy and the set of constraints on the various types in the hierarchy explain
+why, on the one hand, pseudocoordinations contain conjunctions and the conjuncts must have the same
+form and tense, and on the other, have a fixed order, allow extraction out of the second conjunct,
+do not allow overt subjects in the second conjunct and allow transitive verbs to appear in
+there-constructions.
+
+Bonami, Olivier & Godard,  Danièle # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # Integrating Linguistic Dimensions:<br> The Scope of Adverbs # October 20, 2007 # #
+Three distinctions seem relevant for the scope properties of adverbs: their function (adjuncts
+or complements), their prosody (incidental or integrated) and their lexical semantics (parenthetical
+or non parenthetical). We propose an analysis in which the scope of French adverbs is aligned with
+their syntactic properties, relying on a view of adjuncts as loci for quantification, a
+linearization approach to the word order, and an explicit modelling of dialogue.
+
+Chaves, Rui P. & Paperno, Denis  # University of Lisbon & Lomonosov Moscow State University # On The Russian Hybrid Coordination Construction # October 16, 2007 # #
+This paper discusses a non-constituent coordination construction that occurs
+in Russian in which constituents with different syntactic functions
+and different thematic roles are conjoined.
+These conjuncts are co-arguments of the same head and are subject
+to a number of idiosyncrasies.
+<p>
+We consider several alternative analysis of the phenomena, and conclude
+that these are unable to account for the full range of the facts. Thus,
+even though these  conjuncts do not form a semantic unit, there
+is evidence that they do form a kind of coordination structure.
+The  phenomena are challenging for any theory of grammar,
+but the syntax-semantics account that we provide involves
+minimal changes to standard HPSG architecture.
+
+Coulter, Lori  # University of Illinois at Urbana Champaign # A Semantic Interpretation of Modality in Counterfactual Conditionals # October 22, 2007 # #
+This paper provides a background on the role of world knowledge in disambiguating modals and
+proposes treating the disambiguation of counterfactuals as a slightly more tractable sub-case of the
+general problem. Using a model theoretic possible worlds approach, counterfactuals are disambiguated
+with respect to a world of evaluation resembling classic Formal Semantic treatments (e.g., Kratzer
+1977, 1981, 1989; Lewis 1973; Veltman 2005). The world, which provides a context of evaluation, is
+located through the interaction of the antecedent and consequent propositions with world knowledge
+axioms. This approach to modal disambiguation provides a connection between a grammar and the type
+of inferences typically handled in Knowledge Representation Systems (e.g., Hobbs et al. 1990) in a
+limited domain. The model theoretic semantics are linked with typed feature structures in an HPSG
+syntax (Pollard and Sag 1994). This grammar is implemented in TRALE, Penn's (2004) Prolog-based
+framework for typed feature structure grammar development. The compositional semantics in TRALE is
+specified in Penn and Richters' (2004, 2005) Constraint Language for Lexical Resource Semantics
+(CLLRS). This semantic component provides a semantic parse in which heads and arguments are combined
+systematically and the scope of negation or quantification can be accurately reflected. In the case
+of counterfactuals, the CLLRS semantic parse is passed to a model-theoretic interpreter. The mapping
+between the CLLRS semantic parse and the well-formed formulas of the model is defined by checking
+the parseability of the formula in the compositional semantics. Sets of possible worlds interact
+with constraints on world knowledge and constraints defining counterfactual validity. The truth
+value for a counterfactual is returned to the grammar relative to a context of evaluation. The
+results of counterfactual evaluation are returned in a form consistent with the grammar's internal
+compositional semantics. By the method described above, the interpreter provides a grammar-external
+component in which inferences involving world knowledge have the potential to be more efficiently
+evaluated. Through the development of model-checking techniques, for instance, it could be shown
+whether or not well-formed formulas and constraints hold in larger models and move towards capturing
+more fine-grained modal inferences in a larger domain.
+
+
+Crysmann, Berthold  & von Böselager, Philipp  # DFKI, Universität des Saarlandes, Universität Bonn & Universität zu Köln # Using an HPSG Grammar for the Generation of Prosody # October 16, 2007 # #
+<p>In this paper, we report on an experiment showing how
+the introduction of prosodic information from detailed syntactic
+structures into synthetic speech leads to better disambiguation of
+structurally ambiguous sentences. Using modifier attachment (MA)
+ambiguities and subject/object fronting (OF) in German as test cases,
+we show that prosody which is automatically generated from deep
+syntactic information provided by an HPSG generator can lead to
+considerable disambiguation effects, and can even override a strong
+semantics-driven bias. The architecture used in the experiment,
+consisting of the LKB generator running a large-scale grammar for
+German, a syntax-prosody interface module, and the speech synthesis
+system MARY is shown to be a valuable platform for testing hypotheses
+in intonation studies.
+
+Kropp Dakubu, Mary Esther  & Hellan,  Lars  & Beermann, Dorothee  # University of Ghana & NTNU, Trondheim & NTNU, Trondheim # Verb Sequencing Constraints in Ga:
+Serial Verb Constructions and the Extended Verb Complex # September 27, 2007 # #
+The paper examines two verb sequencing constructions in Ga: the Serial
+Verb Construction (SVC) and the Extended Verb Complex (EVC). The former
+is an instance of a commonly recognized construction, the latter is
+typically found in the Volta Basin area of West Africa. EVCs are
+sequences of verbs functioning as single verb units relative to the
+syntax, but with an internal structure much like syntactic
+complementation. Both constructions show agreement of aspect and mood
+marking throughout the sequence, but with differences in exponence: in
+an SVC all Vs expose such marking, in an EVC only a limited (down to
+one) number of verbs, depending on the inflectional category. The paper
+presents the basic facts, based on works by Dakubu (2002, 2004, to
+appear), and gives an HPSG account of their morphology, syntax and
+semantics. The analysis is sustained by a grammar of the phenomena
+implemented with the 'Linguistic Knowledge Builder' (LKB), an
+engineering platform for natural language processing.
+
+Haugereid, Petter  # NTNU Trondheim # Decomposed Phrasal Constructions # October 16, 2007 # #
+<p>
+In this paper I suggest an interface level of semantic representations, that on the one hand
+corresponds to morpho-syntactic entities such as phrase structure rules, function words and
+inflections, and that on the other hand can be mapped to lexical semantic representations that one
+ultimately needs in order to give good predictions about argument frames of lexical items. This
+interface level consists of basic constructions that can be decomposed into five sub-constructions
+(arg1-role, arg2-role ... arg5-role). I argue in favour of phrasal constructions
+in order to account for altering argument frames and maybe also coercion without having to use
+lexical rules or multiple lexical entries.
+
+Henri, Fabiola & Abeillé, Anne # University Paris 7 # The Syntax of Copular Constructions in Mauritian # October 16, 2007 # # 
+<p>
+This paper examines the syntactic behavior of the Mauritian copula in predicative
+and extracted sentences. As it is the case in many languages, the Mauritian
+copula ete is absent in certain constructions: It only appears in extraction contexts.
+Our aim is to show that the postulation of a null copula, which has been proposed
+in various analyses, is inadequate for the Mauritian data. The phenomenon, as
+it is argued, rather lends itself to a strictly construction-based analysis within the
+framework of HPSG and is based on the distribution of weak pronouns and TAM
+markers.
+
+
+Kaufmann, Tobias  & Pfister, Beat  # ETH Zürich # Applying Licenser Rules to a Grammar with Continuous Constituents # October 16, 2007 # #
+Licenser rules have originally been introduced in Müller (1999) as
+a part of a grammar based on discontinuous constituents. We propose
+licenser rules as a means to avoid underspecified empty elements in
+grammars with continuous constituents. We applied them to a verb
+movement analysis of the German main clause with right sentence
+bracket and to complement extraposition. To reduce the number of
+unnecessary hypotheses, we extended the licenser rule concept with a
+licenser binding technique. We compared the licenser rule approach to
+an approach based on underspecified traces with respect to processing
+performance. In our experiment, the use of licenser rules reduced the
+parse time by a factor of 13.5.
+
+Kim, Jong-Bok  & Yang,  Jaehyung  # Kyung Hee University & Kangnam University # Syntax and Semantics of Korean Numeral Classifier Constructions # October 22, 2007 # #
+The so-called floating quantifier constructions in languages like
+Korean display intriguing properties whose successful processing can
+prove the robustness of a parsing system. This paper shows that a
+constraint-based analysis, in particular couched upon the framework
+of HPSG, can offer us an efficient way of analyzing these
+constructions together with proper semantic representations. It also
+shows how the analysis has been successfully implemented in the LKB
+(Linguistic Knowledge Building) system.
+
+Manning, Christopher # Stanford University# Linguistic Strip Mining Meets Deep Linguistic Processing # # no #
+
+
+Melnik, Nurit # University of Haifa # Extending Partial Pro-drop in Modern Hebrew: A Comprehensive Analysis # October 16, 2007 # #
+Modern Hebrew is considered to be a 'partial pro-drop language'. Traditionally, the distinction
+between cases where pro-drop is licensed and those in which it is prohibited, was based on the
+person and tense features of the verb: 1st and 2nd person pronominal subjects may be omitted in
+past and future tense. This generalization, however, was found to be false in a number of papers,
+each discussing a subset of the data. Thus, contrary to conventional wisdom, dropped 3rd person
+pronouns subjects do occur in the language in particular contexts.
+<p>
+Identifying these contexts by way of a corpus-based survey is the initial step taken in this study.
+Subsequently, a careful syntactic analysis of the data reveals broad generalizations which have not
+been made to date. Thus, what was initially assumed to be a uniform phenomenon of 3rd person
+pro-drop turns out to be manifested in three distinct types of constructions. Finally, the proposed
+HPSG-based analysis incorporates insights concerning locality, correlations between finite and non-finite
+control, non-canonical elements, and binding.
+
+Norcliffe, Elisabeth  # Stanford University # Constructing Spanish Complex Predicates # October 17, 2007 # #
+Abeillé and Godard (2007) describe a variety of Spanish whose complex predicates differ structurally
+from the more familiar flat VP type of complex predicate common to other varieties of Spanish and
+Romance. I present a verb cluster analysis of this variety which both captures these structural
+differences, and at the same time preserves those features that are common across both construction
+types. Coupled with a simple morphological treatment of affixation, this analysis predicts the range
+of 'clitic climbing' facts. The parsimony of the affixation analysis is afforded by an alternative
+approach to the constraints on reflexive affix distribution in Spanish complex predicates. I depart
+radically from previous morpho-lexical approaches to the phenomenon, instead showing how the
+constraints follow from independently motivated binding principles. This approach not only handles
+more of the Spanish data, but also has the potential to provide a unified account of the phenomenon
+across Romance.
+
+Sailer, Manfred # Universität Göttingen # NPI Licensing, Intervention and Discourse Representation Structures in HPSG # October 16, 2007 # #
+Negative Polarity Items (NPI) are expressions such as English 'ever'
+and 'lift a finger' that only occur in sentences that are somehow
+<q>negative</q>.  NPIs have puzzled linguists working in syntax,
+semantics and pragmatics, but no final conclusion as to which module
+of the grammar should be responsible for the licensing has been
+reached.  Within HPSG interest in NPI has developed only relatively
+recently and is mainly inspired by the entailment-based approach of
+Ladusaw 1980 and Zwarts 1997.  Since HPSG's CONTENT value is a
+semantic representation, the integration of such a denotational theory
+cannot be done directly.  Adopting Discourse Representation Theory
+(DRT, Kamp and Reyle 1993, von Genabith et al. 2004) I show that it is
+possible to formulate a theory of NPI licensing that uses purely
+representational notions.  In contrast to most other frameworks in
+semantics, DRT attributes theoretical significance to the
+representation of meaning, i.e. to a <q>logical form</q>, and not only to
+the denotation itself.  This makes DRT particularly well-suited to my
+purpose.
+
+Samvelian, Pollet # Université de Paris 3 & CNRS # A Lexical Account of Sorani Kurdish Prepositions # October 15, 2007 # #
+In Sorani Kurdish dialects, the complement of a preposition can generally be realized either as a
+syntactic item (NP, independent pronoun or PP) or a bound personal morpheme (clitic/affix). However,
+the affixal realization of the complement gives rise to a range of specific phenomena. First, some
+prepositions display two different phonological forms depending on the realization of their
+complement: the variant combining with a syntactic item is referred to as `simple', while the
+variant combining with an affixal complement is called `absolute'. Furthermore, unlike syntactic
+complements, which are always realized locally, the affixal complement of an absolute preposition
+can have a non-local realization, attaching to a host with which it has no morphosyntactic
+relations. In order to deal with these facts, this paper proposes a classification of Sorani
+prepositions along two lines: the affixal versus non-affixal realization of the complement on the
+one hand and its local versus non-local realization on the other hand. All cases of non-local
+realization receive a lexical account, either in terms of argument composition or in terms of
+linearization constraints on domain objects.
+
+Song, Sanghoun  & Choe, Jae-Woong  # Korea University  # Type Hierarchies for Passive Forms in Korean # October 15, 2007 # #
+This paper aims to provide type hierarchies for Korean passive constructions on the basis of their
+forms within the HPSG framework. The type hierarchies proposed in this paper are based on the
+classification of Korean passives; suffixal passives, auxiliary passives, inherent passives, and
+passive light verb constructions. Verbs are divided into five subtypes in accordance with the
+possibility of passivization. We also provide type hierarchies for verbal nouns and passive light
+verbs.
+
+Tseng, Jesse # CNRS & Université de Toulouse II # English Prepositional Passive Constructions # October 15, 2007 # #
+An empirical overview of the properties of English prepositional
+passives is presented, followed by a discussion of formal approaches
+to the analysis of the various types of prepositional passives in
+HPSG. While a lexical treatment is available, the significant number
+of technical and conceptual difficulties encountered point to an
+alternative approach relying on constructional constraints. The
+constructional approach is argued to be the best option for
+prepositional passives involving adjunct PPs, and this analysis can be
+extended to create a hierarchy of constructions accommodating all
+types of prepositional passives in English, and the ordinary NP
+passive.
+
+Wang, Lulu & Liu, Haitao  # Communication University of China # A Description of Chinese NPs using Head-Driven Phrase Structure Grammar # October 15, 2007 # #
+This paper aims at making a general description of Chinese NPs using Head-Driven Phrase Structure
+Grammar. The paper introduces the basic and complex structures of Chinese NPs and then shed light on
+the noun-classifier matching problem when implemented in HPSG. To solve this problem, the paper
+tries to establish a basic grammar of Chinese NPs in the framework of HPSG, which is implemented in
+the LKB system. The implementation shows, although the matching problem between noun and classifier
+can be described in HPSG, especially by the MRS, it is still difficult to efficiently represent the
+semantic constrains in the LKB system.
+
+Webelhuth, Gert # University of Göttingen # Complex Topic-Comment Structures in HPSG # October 14, 2007 # #
+Based on Krifka (1992) and de Kuthy (2000), this paper develops an
+architecture for complex topic-comment structures in HPSG and applies it to
+predicate fronting in English with the goal of capturing the insights of Ward
+(1988) on this construction. We argue that predicate fronting is a distributed
+constructional form consisting of an auxiliary occurring in a predicate preposing
+phrase. The use of predicate preposing is a function of a combination of
+simultaneous constraints on its theme structure, its background-focus distribution,
+and its presuppositional structure. It is shown that these constraints
+can be made explicit within the HPSG architecture developed here.
+
+Yatabe, Shûichi # University of Tokyo # Evidence for the Linearization-Based Theory of Semantic Composition # October 15, 2007 # #
+The result of questionnaire studies are presented which shows
+(i) that conjuncts are scope islands in Japanese and (ii) that left-node
+raising can nullify such scope islands.  This finding confirms the theory
+advanced in Yatabe (2001), in which semantic composition is
+almost entirely carried out within order domains, and arguably contradicts
+the theory proposed in Beavers and Sag (2004), which introduces a mechanism
+called Optional Quantifier Merger to deal with the fact that right-node raising
+and left-node raising can have semantic effects.
+
+
+
+
+
+
+ 
+

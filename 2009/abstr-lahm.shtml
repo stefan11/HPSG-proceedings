@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Lahm, David: An Alternative to the HPSG Raising Principle on the Description-Level
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="An Alternative to the HPSG Raising Principle on the Description-Level">
+<meta name="citation_author"           content="Lahm, David">
+<meta name="citation_conference_title" content="Proceedings of the 16th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2009">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="192">
+<meta name="citation_lastpage"         content="212">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2009/lahm.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Lahm, David: An Alternative to the HPSG Raising Principle on the Description-Level
+</h1>
+
+<div class="blurb"
+<p>
+I reconsider the HPSG Raising Principle which is introduced in Pollard & Sag (1994) to constrain the
+way in which lexical entries describe the SUBCAT lists of the words they license. On the basis of
+whether a complement is assigned a semantic role in a lexical entry or not, this entry may not or
+must describe this complement as structure-shared with the unrealised subject of some other
+(non-subject) complement. The formal status of this principle is still unclear, as it is formulated
+as a 'meta principle' that does not talk about linguistic objects directly but rather about the
+lexical entries that license them. I show that, although its meaning cannot be expressed faithfully
+by the usual kind of constraints employed in HPSG, the Raising Principle can nevertheless be
+replaced by two such constraints which make largely the same predictions. Most importantly, these
+constraints interact with the output values of description-level lexical rules in the style of
+Meurers (2001) in a way that makes predictions available that Pollard & Sag (1994) intended the
+Raising Principle to make but that it cannot possibly make if description-level lexical rules are
+employed.
+  
+<P>
+<ul>
+<li><a href="lahm.pdf">download PDF</a>
+<li><a href="lahm.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2009
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Sio, Joanna Ut-Seong &amp; Song, Sanghoun: Divergence in Expressing Definiteness between Mandarin and Cantonese
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Divergence in Expressing Definiteness between Mandarin and Cantonese">
+<meta name="citation_author"           content="Sio, Joanna Ut-Seong">
+<meta name="citation_author"           content="Song, Sanghoun">
+<meta name="citation_conference_title" content="Proceedings of the 22nd International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="177">
+<meta name="citation_lastpage"         content="194">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2015/sio-song.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Sio, Joanna Ut-Seong &amp; Song, Sanghoun: Divergence in Expressing Definiteness between Mandarin and Cantonese
+</h1>
+
+<div class="blurb"
+<p>
+In this paper, we model the dialectal variation in the expression of definiteness in Mandarin and Cantonese adopting the Head-Driven Phrase Structure Grammar (HPSG) framework (Pollard & Sag, 1994) and Minimal Recursion Semantics (MRS) (Copestake et al., 2005).
+  
+<P>
+<ul>
+<li><a href="sio-song.pdf">download PDF</a>
+<li><a href="sio-song.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

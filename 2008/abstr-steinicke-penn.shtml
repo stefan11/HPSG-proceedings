@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Steinicke, Karen &amp; Penn, Gerald: Memory Management for Unification-based Processing of Typed Feature Structures
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Memory Management for Unification-based Processing of Typed Feature Structures">
+<meta name="citation_author"           content="Steinicke, Karen">
+<meta name="citation_author"           content="Penn, Gerald">
+<meta name="citation_conference_title" content="Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2008">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="189">
+<meta name="citation_lastpage"         content="203">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2008/steinicke-penn.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Steinicke, Karen &amp; Penn, Gerald: Memory Management for Unification-based Processing of Typed Feature Structures
+</h1>
+
+<div class="blurb"
+<p>
+We consider two alternatives for memory management in
+typed-feature-structure-based parsers by identifying structural
+properties of grammar signatures that may be of some predictive
+value in determining the consequences of those alternatives.  We
+define these properties, summarize the results of a number of
+experiments on artificially constructed signatures with respect to
+the relative rank of their asymptotic cost at parse-time, and
+experimentally consider how they impact memory management.
+  
+<P>
+<ul>
+<li><a href="steinicke-penn.pdf">download PDF</a>
+<li><a href="steinicke-penn.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 29, 2008
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

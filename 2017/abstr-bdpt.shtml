@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Bai, Justin &amp; Dąbkowski, Maksymilian &amp; Pride, Kalinda &amp; Tomlin, Nicholas: Yucatec Maya in SBCG: A Fragment
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Bai, Justin &amp; Dąbkowski, Maksymilian &amp; Pride, Kalinda &amp; Tomlin, Nicholas: Yucatec Maya in SBCG: A Fragment
+</h1>
+
+<div class="blurb"
+<p>
+Yucatec Maya is a Mesoamerican language spoken by about a million speakers primarily in the Yucatan Peninsula. We present parts of a grammatical fragment with particular emphasis on the pronominal system, verbal morphosyntax, focus, deictic clitics and topicalization through the lens of Sign-Based Construction Grammar (SBCG) (Boas & Sag 2012). We adapt the analysis of Yucatecan headedness and constituency from Bohnemeyer (1998) and Bohnemeyer (2002), in which sentences are VOS-ordered and must be headed by a predicate, but not by the verb.  We show that the combination of SBCG with the predicate-head analysis allows a parsimonious account of disparate constructions that have shared characteristics.<p>
+<a href="https://hpsg.uky.edu/sites/default/files/abstracts/yucatec-fragment-slides.pdf">Handout</a>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 21, 2017
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

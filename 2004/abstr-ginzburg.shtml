@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Ginzburg, Jonathan: HPSG in Constructive Type Theory
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Ginzburg, Jonathan: HPSG in Constructive Type Theory
+</h1>
+
+<div class="blurb"
+<p>
+In the talk I propose, following the lead of some recent work by Robin Cooper
+(Cooper (2005a,b)), that constructive type theory (CTT, Ranta (1994), see also
+Constable (2002) for a elementary introduction) is an attractive framework to underpin HPSG.
+<P>
+    HPSG is a framework in which detailed and explicit analysis of a wide range of
+linguistic phenomena in several languages have been carried out. One of the virtues
+of the framework is that it allows for a transparent computational implementation
+of many of its theoretical analyses. Moreover, certain features of HPSG's architecture 
+make it an attractive choice for underpinning one of the early 21st century's
+growth areas for theoretical and applied linguistic research, namely language use
+in dialogue.
+<P>
+    And yet, HPSG is at present saddled with a number of problematic theoretical 
+entities and mechanisms which hinder this development. Chief among these, I
+will suggest, are the use of typed feature structures (TFSs) as the basic representational 
+entity of the linguistic ontology and unification as the combinatorial glue of
+TFSs. Briefly, the problem with using unification is that it often involves postulating
+semantic identity between a daughter&mdash;the head daughter typically&mdash;and its
+mother, an assumption I demonstrate is untenable. TFSs are problematic, at least
+for semantic analysis, on a number of grounds: they simulate rather than directly
+constitute semantic entities; given this, building and manipulating functions in the
+semantic domain&mdash;the bread and butter of much semantic analysis&mdash;is difficult to
+accomplish. Moreover, for certain analytic purposes I discuss one needs to have
+available entities both at the level of types and the actual domain (including utterance)
+tokens. Existing formalizations of HPSG, with one exception I am aware of,
+are formulated either in terms of tokens O R, more recently, types, and so do not
+make both readily available.
+<p>
+    In this talk, which surveys work from Ginzburg (2005a,b), I sketch an alternative 
+foundation for HPSG, which avoids problems such as the ones hinted above,
+and which can serve as a source for fruitful synthesis of a number of research programs. 
+There has been a fair amount of interest in using constructive type theory
+as a foundation for NL semantics (see e.g. Fernando (2001); Krahmer and Piwek
+(1999)). It offers theoretically elegant accounts of anaphora and quantificational
+phenomena on which much semantic work has been invested in frameworks such
+as Discourse Representation Theory and Dynamic Semantics. In the paper referenced 
+above, Robin Cooper has shown that CTT can serve as a unifying framework
+for Montague Semantics, Discourse Representation Theory, Situation Semantics,
+and HPSG.
+<p>
+     After introducing the basics of CTT, I discuss three main application areas:
+ontology, grammatical description, and dialogue processing.
+<ul>
+<li>       Ontology: I show that CTT allows us to recast the semantic ontology developed in Ginzburg and Sag (2000). In the latter work, non-well-founded set
+       theory (using tools developed by Seligman and Moss (1997)) was employed
+       as logical framework. CTT, arguably, provides a simpler, more 
+       `independently motivated' formulation.
+<li>   Grammatical Description: I discuss data from ellipsis in dialogue that
+       favours using -abstraction and application as tools for semantic compo-
+       sition over (head-driven) unification.
+<li>       Dialogue Processing: I argue that HPSG<sub>CCT</sub> is well equipped to serve as
+       a theory of utterance processing in dialogue. In particular, it allows for
+       a straightforward formulation of partial understanding and clarification requests.                                                    
+</ul>
+<p>
+<br>
+<br>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

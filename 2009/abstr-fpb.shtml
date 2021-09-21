@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Fokkens, Antske &amp; Poulson, Laurie &amp; Bender, Emily M.: Inflectional Morphology in Turkish VP Coordination
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Inflectional Morphology in Turkish VP Coordination">
+<meta name="citation_author"           content="Fokkens, Antske">
+<meta name="citation_author"           content="Poulson, Laurie">
+<meta name="citation_author"           content="Bender, Emily M.">
+<meta name="citation_conference_title" content="Proceedings of the 16th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2009">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="110">
+<meta name="citation_lastpage"         content="130">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2009/fpb.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Fokkens, Antske &amp; Poulson, Laurie &amp; Bender, Emily M.: Inflectional Morphology in Turkish VP Coordination
+</h1>
+
+<div class="blurb"
+<p>
+We address three properties of Turkish morphology and
+ VP coordination: the identification of tense and aspect values
+ across conjuncts, the optional omission of affixes on non-final
+ conjuncts coordinated with the word <i>ve</i> and the obligatory
+ sharing of scopal modals across conjuncts in coordination structures
+ with the affix <i>-ip</i>.  For the modals in an <i>-ip</i>
+ structure, we propose an analysis that uses syntactic features to
+ trigger the application of a construction at the level of the
+ coordinated VP introducing the scopal predications.  Our analysis is
+ implemented in a small HPSG grammar and tested against datasets
+ confirming the functionality and consistency of the analysis.
+  
+<P>
+<ul>
+<li><a href="fpb.pdf">download PDF</a>
+<li><a href="fpb.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2009
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

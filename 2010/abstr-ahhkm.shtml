@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Assmann, Anke &amp; Heck, Fabian &amp; Hein, Johannes &amp; Keine, Stefan &amp; Müller,  Gereon: Does Chain Hybridization in Irish Support Movement-Based Approaches to Long-Distance Dependencies?
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Does Chain Hybridization in Irish Support Movement-Based Approaches to Long-Distance Dependencies?">
+<meta name="citation_author"           content="Assmann, Anke">
+<meta name="citation_author"           content="Heck, Fabian">
+<meta name="citation_author"           content="Hein, Johannes">
+<meta name="citation_author"           content="Keine, Stefan">
+<meta name="citation_author"           content="Müller,  Gereon">
+<meta name="citation_conference_title" content="Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2010">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="27">
+<meta name="citation_lastpage"         content="46">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2010/ahhkm.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Assmann, Anke &amp; Heck, Fabian &amp; Hein, Johannes &amp; Keine, Stefan &amp; Müller,  Gereon: Does Chain Hybridization in Irish Support Movement-Based Approaches to Long-Distance Dependencies?
+</h1>
+
+<div class="blurb"
+<p>
+Huybregts (2009) makes the claim that hybrid A'-chains in Irish favor
+derivational theories of syntax over representational ones such as HPSG. In
+this paper, we subject this assertion to closer scrutiny. Based on a new technical proposal, we will reach the conclusion that, in principle, both derivational
+and representational accounts can accomodate hybrid dependencies. Thus, no
+argument against either approach can be made on the basis of the Irish data,
+disconfirming Huybregts's (2009) claim.
+  
+<P>
+<ul>
+<li><a href="ahhkm.pdf">download PDF</a>
+<li><a href="ahhkm.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2010
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

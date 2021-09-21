@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Trawinski, Beata: Towards Licensing of Adverbial Noun Phrases in HPSG
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Towards Licensing of Adverbial Noun Phrases in HPSG">
+<meta name="citation_author"           content="Trawinski, Beata">
+<meta name="citation_conference_title" content="Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2004">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="294">
+<meta name="citation_lastpage"         content="312">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2004/trawinski.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Trawinski, Beata: Towards Licensing of Adverbial Noun Phrases in HPSG
+</h1>
+
+<div class="blurb"
+<p>
+This paper focuses on aspects of the licensing of adverbial noun phrases
+(AdvNPs) in the HPSG grammar framework. In the first part, empirical issues
+will be discussed. A number of AdvNPs will be examined with respect to various
+linguistic phenomena in order to find out to what extent AdvNPs share syntactic
+and semantic properties with non-adverbial NPs.Based on empirical
+generalizations, a lexical constraint for licensing both AdvNPs and
+non-adverbial NPs will be provided. Further on, problems of structural
+licensing of phrases containing AdvNPs that arise within the standard HPSG
+framework of Pollard and Sag (1994) will be pointed out, and a possible
+solution will be proposed. The objective is to provide a constraint-based
+treatment of NPs which describes non-redundantly both their adverbial and
+non-adverbial usages. The analysis proposed in this paper applies lexical and
+phrasal implicational constraints and does not require any radical
+modifications or extensions of the standard HPSG geometry of Pollard and Sag
+(1994).
+  
+<P>
+<ul>
+<li><a href="trawinski.pdf">download PDF</a>
+<li><a href="trawinski.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

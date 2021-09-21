@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Chaves, Rui P. &amp; Paperno, Denis: On The Russian Hybrid Coordination Construction
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="On The Russian Hybrid Coordination Construction">
+<meta name="citation_author"           content="Chaves, Rui P.">
+<meta name="citation_author"           content="Paperno, Denis">
+<meta name="citation_conference_title" content="Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2007">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="46">
+<meta name="citation_lastpage"         content="64">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2007/chaves-paperno.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Chaves, Rui P. &amp; Paperno, Denis: On The Russian Hybrid Coordination Construction
+</h1>
+
+<div class="blurb"
+<p>
+This paper discusses a non-constituent coordination construction that occurs
+in Russian in which constituents with different syntactic functions
+and different thematic roles are conjoined.
+These conjuncts are co-arguments of the same head and are subject
+to a number of idiosyncrasies.
+<p>
+We consider several alternative analysis of the phenomena, and conclude
+that these are unable to account for the full range of the facts. Thus,
+even though these  conjuncts do not form a semantic unit, there
+is evidence that they do form a kind of coordination structure.
+The  phenomena are challenging for any theory of grammar,
+but the syntax-semantics account that we provide involves
+minimal changes to standard HPSG architecture.
+  
+<P>
+<ul>
+<li><a href="chaves-paperno.pdf">download PDF</a>
+<li><a href="chaves-paperno.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2007
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

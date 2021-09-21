@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Stuckardt, Roland: Verifying Binding Constraints for Anaphor Resolution
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Verifying Binding Constraints for Anaphor Resolution">
+<meta name="citation_author"           content="Stuckardt, Roland">
+<meta name="citation_conference_title" content="Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2005">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="614">
+<meta name="citation_lastpage"         content="634">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/stuckardt.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Stuckardt, Roland: Verifying Binding Constraints for Anaphor Resolution
+</h1>
+
+<div class="blurb"
+<p>
+Algorithmic approaches to anaphor resolution are known to benefit
+substantially from syntactic disjoint reference filters.
+Typically, however, there is a considerable gap between the scope of the
+formal model of grammar employed for deriving referential evidence and its
+implementation. While accounting for many subtleties of language,
+such formal models at most partially address the algorithmic aspects
+of referential processing. This paper investigates the issue of implementing
+syntactic disjoint reference for robust anaphor resolution. An algorithmic
+account of binding condition verification will be developed that, on one hand,
+captures the theoretical subtleties, and, on the other hand, exhibits
+computational efficiency and fulfils the robustness requirements. Taking
+as input the potentially fragmentary parses of a robust state-of-the-art
+parser, the practical performance of this algorithm will be evaluated with
+respect to the task of anaphor resolution and shown to be nearly optimal.
+  
+<P>
+<ul>
+<li><a href="stuckardt.pdf">download PDF</a>
+<li><a href="stuckardt.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 7, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

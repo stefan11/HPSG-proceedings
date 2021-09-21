@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Malouf, Robert: A Quantitative Look at Mixed Category Constructions
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Malouf, Robert: A Quantitative Look at Mixed Category Constructions
+</h1>
+
+<div class="blurb"
+<p>
+Generative approaches to grammar take an Aristotelean view of syntactic
+categories.  Expressions are either a member of a category or they are
+not, and every member of a category has the same status. Mixed category
+constructions, which show evidence of being a member of more than one
+syntactic category at the same time, can raise serious problems for this
+viewpoint.  For example, the word <Q>near</Q> behaves in many respects like a
+typical English adjective, yet also shows many properties typical of
+prepositions.  This leads Ross (1972) and others to argue for a
+categorical continuum, with typical adjectives standing at one end,
+typical prepositions at the other, and words like <Q>near</Q> somewhere in
+the middle. On the other hand, Newmeyer (1998) argues instead that there
+are in fact (at least) two words <Q>near</Q> in English - one an adjective
+and one a preposition - and there is no need for gradient category
+membership. In this talk, we present the results of quantitative
+experiments designed to test Newmeyer's hypothesis on the basis of a
+large collection of English text.  We find that there is indeed a strong
+association among adjectival properties and a strong association among
+prepositional properties. That is, as Newmeyer would predict, individual
+occurrences of <Q>near</Q> tend to either be adjectival or prepositional, but
+not both. However, this is only a tendency.  Intermediate forms, which
+show a mixture of prepositional and adjectival properties, are well
+attested, and in fact are not even particularly rare.  On the basis of
+this evidence, it appears that neither Ross's nor Newmeyer's analyses
+are fully consistent with the facts.  Instead, it seems that there is a
+need for some notion of a categorial prototype which represents a
+preference for canonical forms while still allowing occurrences of mixed
+forms.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 2003
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

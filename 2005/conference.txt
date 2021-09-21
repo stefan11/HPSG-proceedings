@@ -1,0 +1,364 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+Ball, Douglas  # Stanford University # Tongan Noun Incorporation: Lexical Sharing or Argument Inheritance # October 14, 2005 # # 
+As has been shown in other Polynesian languages, in Tongan, adnominal elements
+can modify incorporated nouns in the noun incorporation construction. Two
+analysis are considered in this paper for understanding this construction
+within HPSG. The first, lexical sharing (Kim and Sells, this volume), views the
+verbs that include incorporated nouns as being single words corresponding to
+two syntactic atoms. However, this analysis makes incorrect predictions on the
+transitivity of incorporation clauses. A second analysis, extending Malouf
+(1999), views these words as verbs, but with some of the combinatorial
+properties of nouns. This offers both a better account of the data, and
+preserves the more restrictive theory of the morphology-syntax interface.
+
+Beavers, John  # CSLI, Stanford University # Towards A Semantic Analysis of Argument/Oblique Alternations in HPSG # October 15, 2005 # #
+    I examine the semantic contrasts exhibited by argument/oblique alternations 
+(argument realization alternations where one or more participants may
+be realized either as a direct argument or an oblique). Previous HPSG accounts 
+of these have proposed that alternating verbs are ambiguous, where
+each variant has a structured semantics that makes different participants more
+or less structurally prominent in the semantic representation. I argue that
+such accounts fail to capture the full richness of the contrasts exhibited by
+such alternations, and propose instead a model that derives alternations from
+the lexical entailments each verb associates with the alternating participant.
+
+Bertomeu, Núria  & Kordoni, Valia # Saarland University # Integrating Pragmatic Information in  Grammar. An Analysis of Intersentential Ellipsis # October 17, 2005 # #
+In this paper we present a proposal to integrate pragmatic
+information, both from the preceding discourse and the
+extra-linguistic context, in the grammar. We provide an analysis of
+elliptical fragments according to how they are anchored to the
+context and the kind of resolution they require. We also present an
+alternative view about the syntax of fragments.
+
+Creissels, Denis  & Godard, Danièle # Université Lyon 2 & CNRS et U. Paris 7 # The Tswana Infinitive as a Mixed Category # October 14, 2005 # #
+After studying the morphological and syntactic properties of Tswana
+infinitives in some detail, we argue that a mixed category approach is
+more adequate than a phrasal approach to account for the combination of
+their common properties with the two different uses they are found in.
+
+Crysmann, Berthold  #  Universität des Saarlandes # Syncretism in German: A Unified Approach to Underspecification, Indeterminacy, and Likeness of Case # October 20, 2005 # #
+In this paper I address the phenomenon of syncretism in German and
+show how Flickinger (2000)'s approach to related issues in English can be
+adapted to provide a compact, disjunction-free representation of German
+nominal paradigms by means of combined case/number/gender type hierarchies. 
+In particular, I will discuss the issue of case identity constraints in
+German coordinate structures, which has so far prevented successful application 
+of Flickinger's proposal to German, and show how likeness constraints
+targetting individual inflectional dimensions of a combined type hierarchy
+can be expressed by means of typed lists that abstract out the relevant dimension.
+<p>
+I further show that current type-based approaches to feature neutrality
+are unable to combine the treatment of this phenomenon with the virtues of
+underspecification. I will then propose a revised organisation of the 
+inflectional type hierarchies suggested by Daniels (2001), drawing on a systematic
+distinction between inherent and external (case) requirements.
+
+Drellishak, Scott  & Bender, Emily M.  # University of Washington # A Coordination Module for a Crosslinguistic Grammar Resource # October 16, 2005 # #
+The <a href="http://www.delph-in.net/matrix/">Grammar Matrix</a> is a resource for linguists writing grammars of natural
+languages; however, up to this point it has not included support for
+coordination. In this paper, we survey the typological range of coordination
+phenomena in the world's languages, then detail the support, both syntactic and
+semantic, for those phenomena in the Grammar Matrix. Furthermore, we describe
+the concept of a Matrix <q>module</q> and our software that enables grammar writers
+to easily produce an extensible starter grammar.
+
+Flickinger, Dan  & Koller, Alexander  & Thater, Stafan # Stanford University & Universität des Saarlands & Universität des Saarlands # A New Well-Formedness Criterion for Semantics Debugging # October 17, 2005 # #
+We present a novel well-formedness condition for underspecified semantic
+representations which requires that every correct MRS representation must be a
+net. We argue that (almost) all correct MRS representations are indeed nets,
+and apply this condition to identify a set of eleven rules in the <a href="http://www.delph-in.net/erg/">English
+Resource Grammar (ERG)</a> with bugs in their semantics component. Thus we
+demonstrate that the net test is useful in grammar debugging.
+
+Hashimoto, Chikara  & Bond, Francis  # Kyoto University & NTT Communication Science Laboratories # A Computational Treatment of V-V Compounds in Japanese # October 14, 2005 # #
+We examine how a large-scale computational grammar can account for the
+complex nature of Japanese verbal compounds. Previous computational
+Japanese grammars have tried to avoid the problem by simple solutions
+such as enumerating as many verbal compounds in the lexicon as
+possible. In contrast, we develop the analysis that is linguistically
+adequate and computationally tractable and thus meets the
+requirement of a syntactically and semantically precise natural
+language processing of Japanese like Bond et al. (2005). Our analysis
+distinguishes between two kinds of verbal compounds: syntactic
+compounds, which are fully productive; and lexical compounds, which
+are of varying productivity.
+
+Holler, Anke  # University of Heidelberg# On Non-Canonical Clause Linkage # October 10 2005 # #
+The present paper investigates a certain subset of clause linkage
+phenomena and develops a constraint-based account to the empirical
+fact that clauses need to be distinguished with respect to their degree of
+integratedness into a potential matrix clause. Considering as example
+German, it is shown that the generally assumed twofold distinction
+between main and subordinate clauses (or root and embedded clauses)
+does not suffice to deal with the presented data. It is argued that
+the discussed linkage phenomena originate from syntactic, semantic and
+pragmatic properties of the clauses involved, and should hence be
+encoded in grammar.
+
+Keller, Frank  & Alexopoulou,  Theodora # University of Edinburgh & University of Cambridge # Gradience and Parametric Variation # October 09 2005 # no #
+Gradient grammaticality has received renewed attention in recent
+years, which is partly due to the introduction of the magnitude
+estimation paradigm that allows the elicitation of reliable gradient
+judgments. In the present contribution, we apply this methodology to
+the study of crosslinguistic variation. We present a series of
+experiments that investigate the interaction of resumption and island
+violations in English, German, and Greek. The results demonstrate that
+resumptive pronouns (contrary to claims in the literature) cannot
+remedy island violations. Also, we find that embedding reduces
+acceptability, even in constructions thought to be fully acceptable in
+the literature. On the other hand, resumption can counteract the
+effect of embedding in certain cases. On a more general level, we find
+that crosslinguistic variation in resumption is confined to
+quantitative differences in the magnitude of otherwise identical
+principles. This poses an important challenge for a parametric
+approach to variation, which does not predict existence of such
+quantitative difference between languages. We propose that this type
+of variation can be accounted for naturally in a weighted grammar
+model such as Linear Optimality Theory, were a distinction between
+hard and soft constraints is possible.
+
+Kennedy, Christopher  & McNally,  Louise # University of Chicago & Universitat Pompeu Fabra # The Syntax and Semantics of Multiple Degree Modification in English# October 15, 2005 # #
+Focusing on the examples of multiple degree modification, this paper
+argues that the class of degree expressions in English is syntactically
+and semantically diverse, subdivided both according to the semantic
+effects of its members and according to the extent to which they permit,
+and participate in, multiple layers of modification.  We argue that
+these two factors are linked, and result in (at least) a three-way
+distinction between `true degree morphemes', which map gradable
+adjectives to properties of individuals and combine with their arguments
+in a Head-Specifier structure; `intensifiers', which are syntactic and
+semantic modifiers of properties constructed out of gradable adjectives;
+and `scale modifiers', which are also syntactic and semantic modifiers,
+but which combine with `bare' gradable adjectives (relations between
+individuals and degrees) rather than properties formed out of gradable
+adjectives.
+
+Kim, Jong-Bok  & Sag, Ivan A.  # Kyung Hee University & Stanford University # English Object Extraposition:<br> A Constraint-Based Approach # October 26, 2005 # #
+According to the Projection Principle (Chomsky 1981), expletives have
+no semantic content and thus cannot occur in theta-marked positions. However, 
+there are many examples where expletive <em>it</em> appears as a direct object, 
+in violation of the Projection Principle. The various attempts that have
+been made to account for such cases (e.g. the case-based analysis of Authier
+(1991), the predication analysis of Rothstein (1995), and the Specifier analysis 
+of Stroik (1991, 1996)) all posit movement of the expletive from a non-theta 
+marked position to direct object position. However, these analyses have
+so far been unsuccessful in capturing several important contrasts, e.g. 
+variable optionality of the expletive <em>it</em>. This paper argues that such contrasts (and
+the complex behavior of expletive <em>it</em> more generally) follow straightforwardly
+from a lexicalist, constraint-based analysis in which lexical information and
+independently motivated constraints interact in subtle ways.
+
+Kim, Jong-Bok  & Sells, Peter  # Kyung Hee University & Stanford University # Copy Constructions and their Interaction with the Copula in Korean # October 16 2005 # #
+We argue here for a lexicalist analysis of the Korean copula
+(following Kim, Sells and Wescoat (2004)), on the basis of different
+properties of sequences of noun-plus-copula, which shows word-like
+behavior, in contrast to noun and negative copula, which are
+independent syntactic units.  The interactions of these items with
+various copy constructions brings out their clear differences.  The
+analysis is formalized in HPSG using Lexical Sharing, from Wescoat
+(2002).
+
+Kubota, Yusuke # Ohio State University #  Toward a Unified Analysis of the Scope Interpretation of Complex # October 16, 2005 # #
+Predicates in Japanese: Evidence from the Light Verb Construction 
+In this paper, I first make an observation that there is a certain
+parallelism in the scope interpretation possibilities of adverbs and
+quantifiers with respect to different types complex predicates in
+Japanese, drawing on a comparison of the light verb construction and
+the causative construction. I will then argue that previous approaches
+to complex predicates in Japanese in the lexicalist tradition
+(Matsumoto 1996; Manning et al. 1999) fail to capture this
+generalization successfully. Finally, building on a novel approach to
+syntax/semantics interface in HPSG by Cipollone (2001), I develop an
+analysis of the semantic structure of complex predicates that accounts
+for the empirical observation straightforwardly.
+
+Kupść, Anna  & Tseng, Jesse  # Polish Academy of Sciences and CNRS, Loria & CNRS, Loria  #A New HPSG Approach to Polish Auxiliary Constructions # October 18, 2005 # #
+This paper presents an analysis of constructions involving the
+l-form of the verb in Polish, including primarily the past
+tense, the conditional mood, and the future tense. Previous approaches
+have attempted to treat these uniformly as auxiliary verb
+constructions. We argue against a unified treatment, however, in light
+of synchronic and diachronic evidence that indicates that only the
+future tense and the conditional still involve auxiliaries in
+modern Polish.  We show that the past tense is now a simple tense,
+although the l-forms appear in combination with agreement
+affixes that can appear in different places in the sentence. We
+provide an account of the common linearization properties of the past
+tense markings and the conditional auxiliary. We present a detailed
+HPSG analysis of the past tense construction that relies on the
+introduction of two interacting agreement features. We then discuss
+the consequences of our proposals for the analysis of the conditional
+and future auxiliary constructions, and finally, we offer a treatment
+of constructions involving inflected complementizers in Polish.
+
+
+Lee, Sun-Hee # Wellesley College # A Trace Analysis of Korean UDCs# October 18, 2005 # #
+In this paper, we claim that the filler-gap linkage in Korean UDCs
+needs to be handled at the level of syntax and that unbounded
+dependencies represented by traces, resumptive pronouns, and
+resumptive reflexives in Korean can be simply captured &ndash; without
+posing any extra mechanisms &#8211; in the traditional HPSG analysis of
+UDCs following Pollard and Sag (1994). It is because in HPSG traces 
+are not all required to have the same feature, unlike in other
+movement-based approaches including the minimalist program and GB
+theory. In addition, we argue that the three kinds of Korean UDC
+elements appearing in gap positions do not form separate categories
+from their corresponding forms appearing in non-UDCs based on the
+same semantic and pragmatic properties such as logophoricity and
+contrastiveness. We also investigate some controversial issues of
+island constraints and strong crossover with respect to filler-gap
+linkage in Korean UDCs.
+
+Maekawa, Takafumi  # University of Essex # An HPSG Approach to the <em>who</em>/<em>whom</em> Puzzle # October 17, 2005 # #
+Order domains were originally proposed to deal with constituent order, but
+have recently been concerned with more than just linearization.  This paper
+seeks to contribute to this discussion by considering the possibility of
+analysing word forms in terms of order domains.  We focus on the
+distribution of the English relative and interrogative pronouns who and
+whom.  It is shown that a small number of constraints can accommodate the
+seemingly complex body of data.  In particular, a linearization-based
+constraint can provide a straightforward account for the quite puzzling
+distribution which who and whom show in one of the register types.
+
+Melnik, Nurit # Haifa University # From <q>Hand-Written</q> to Computationally Implemented HPSG Theories # October 19, 2005 # #
+The process of turning a <q>hand-written</q> HPSG theory into a working computational grammar requires
+complex considerations. Two leading platforms are available for implementing HPSG grammars: 
+The <a href="http://wiki.delph-in.net/moin/LkbTop">LKB</a> and
+<a href="http://www.sfs.uni-tuebingen.de/hpsg/archive/projects/trale/">TRALE</a>. 
+These platforms are based on different approaches, distinct in their underlying logics and
+implementation details. This paper adopts the perspective of a computational linguist whose goal is
+to implement an HPSG theory. It focuses on ten different dimensions, relevant to HPSG grammar
+implementation, and examines, compares, and evaluates the different means which the two approaches
+provide for implementing them. The paper concludes that the approaches occupy opposite positions on
+two axes: faithfulness to the <q>hand-written</q> theory and computational accessibility. The choice
+between them depends largely on the grammar writer's preferences regarding those properties.
+
+Müller, Stefan  # University of Bremen # Phrasal or Lexical Resultative Constructions? # October 21, 2005 # no #
+Starting in the nineties more and more linguistic articles were published
+in the framework of Construction Grammar. Although Kay and Fillmore (1999, p.&nbsp;19) made it clear
+that Constructions are not necessarily phrasal, most of the authors suggest
+phrasal Constructions. This is especially apparent in Construction Grammar-inspired
+work in the framework of HPSG.
+<P>
+In this paper, I show that the difference between phrasal approaches and
+lexical approaches is not as big as it is sometimes claimed,
+but that the decision for one of the approaches nevertheless may have serious
+consequences. The discussion focuses on resultative
+constructions, a phenomenon for which both phrasal and lexical analyses
+were suggested. I show that an enormous amount of different Constructions
+is needed to account for all patterns that may arise because of reordering of
+constituents or realization of the resultative construction in connection
+with valence changing processes. It will be shown that adjuncts,
+predicate complexes, and derivational morphology pose considerable
+problems for the phrasal approach, while they are unproblematic for
+lexical rule-based approaches.
+
+Runner, Jeffrey T.  # University of Rochester # Conferential and Bound Variable Interpretations: An Experimental Investigation # # no #
+
+Sag, Ivan A.  # Stanford University # Adverb Extraction and Coordination:<br> a Reply to Levine # October 26, 2005 # #
+HPSG accounts of filler-gap dependencies hold considerable
+potential for explaining the cross-linguistic variation in
+unbounded dependency constructions (UDCs), specifically filler-gap
+dependencies. This potential comes from the SLASH
+specifications that are posited in all nodes along the extraction
+path (the path between filler and gap).  However, as Hukari and
+Levine (1994, 1995, 1996) have observed, the HPSG analysis
+presented by Pollard and Sag (1994) fails to embody the
+generalizations required in order to explain key universal
+properties of UDCs, in particular the `registration' of such
+dependencies in cases of subject- and adverb-extraction. This
+demonstration led Bouma et al. (2001) to propose a revised UDC
+analysis that avoids these difficulties by `threading' the SLASH
+specfications through all heads within an extraction
+domain. However, Levine (2002) points out that this analysis
+encounters a new difficulty concerning the interaction of
+extraction and coordination. This paper revisits these issues,
+arguing that a small modification of the BMS analysis provides a
+solution to the important problem observed by Levine.
+
+Soehn, Jan-Philipp # University Tübingen # Selectional Restrictions in HPSG:<br><em>I'll eat my hat!</em># October 6, 2005 # #
+This contribution is concerned with integrating the phenomenon of selectional
+restrictions in HPSG. Firstly, the question of treating selectional
+restrictions purely in the semantic module is tackled, as there are some
+contextual (or pragmatic) influences, which can repair the ill-formedness of
+violated selectional restrictions. Secondly, we present existing approaches to
+selectional restrictions within the framework and, lastly, make our own
+proposal which describes the subject as part of the semantics-pragmatics
+interface. In particular, we show how a semantic ontology can be integrated.
+
+Spreyer, Kathrin  & Frank, Anette  # Saarland University and DFKI & DFKI, Saarbrücken #  Projecting RMRS from TIGER Dependencies # October 21, 2005 # #
+We present a method for automatic RMRS semantics construction from dependency
+structures, following the semantic algebra of Copestake et al. (2001).
+We have applied this method to a subset of the TIGER Dependency Bank
+for German (Forst et al., 2004) to obtain a semantic treebank for (HPSG)
+parser evaluation. We describe the semantics construction mechanism and
+give evaluation figures from manual validation of the treebank. These indicate
+high precision of the automatic RMRS construction process.
+
+Taghvaipour, Mehran A # University of Essex # Persian Free Relatives # October 15, 2005 # #
+Free relatives (FRs) in Persian are Unbounded Dependency Constructions,
+containing gaps or resumptive pronouns (RPs). In some positions only gaps are
+allowed, and in some other positions only RPs. The structure of Persian FRs is
+bipartite, containing two constituents: a phrasal part and a
+sentential. Persian FRs are sensitive to the matching effect and show distinct
+properties from noun phrases, ordinary relative clauses, and interrogative
+complements. This paper proposes a unified HPSG account which assumes that the
+phrasal part of a FR is the head and the filler at the same time. The propped
+approach is presented in two versions (with and without traces) and can take
+care of the dependency between the gap or the RP and the licencing constituent
+with a truly single mechanism.
+
+Trawinski, Beata  # University of Tübingen # Plural Comitative Constructions in Polish # October 15 2005 # #
+This paper provides a treatment of Polish Plural Comitative Constructions
+in the paradigm of HPSG in the tradition of Pollard and Sag (1994).
+Plural Comitative Constructions (PCCs) have previously been treated in terms of 
+coordination, complementation and adjunction. The objective of this paper is to show 
+that PCCs are neither instances of typical coordinate structures nor of typical complement or 
+adjunct structures. It thus appears difficult to properly describe them by means of the
+standard principles of syntax and semantics. The analysis proposed in this paper accounts for the
+syntactic and semantic properties of PCCs in Polish by assuming an adjunction-based syntactic 
+structure for PCCs, and by treating the indexical information provided by PCCs not as subject to
+any inheritance or composition,  but as a result of applying a set of principles on number, gender and
+person resolution that also hold for ordinary coordinate structures.
+
+Van Eynde, Frank # University of Leuven # A Head-Driven Treatment of Asymmetric Coordination and Apposition # October 15, 2005 # #
+In Pollard & Sag (1994) and in Ginzburg & Sag (2000) 
+phrases are either headed or non-headed, and if they are
+headed, there is a relation of selection between the daughters: 
+either the head daughter selects
+its non-head sister(s), as in the phrases of type `head-complements', 
+or the non-head daughter selects its head
+sister, as in the phrases of type `head-adjunct'. 
+In the non-headed phrases, by contrast, there is no
+selection; in a coordinate structure, for instance, there is no relation of
+selection, neither between the conjuncts nor between the conjunction and 
+the conjuncts. The central claim of this paper is that there
+are also phrases which are headed but in which neither daughter
+selects the other. 
+To model such phrases I propose a new type, called
+`head-independent'. Its properties are spelled out and its range
+of application is illustrated with various examples, 
+including asymmetric coordination and apposition.
+
+van Noord, Gertjan  & Kordoni,  Valia  # University of Groningen  & Saarland University # A Raising Analysis of the Dutch Passive # October 17, 2005 # #
+This paper focuses on passive constructions in Dutch. Specifically, we focus on
+<i>worden</i>, as well as <i>krijgen</i> passives in Dutch, for which we
+propose a uniform, raising analysis in HPSG. We also show that such an analysis
+can be carried over to account for passives cross-linguistically. Specifically,
+we look at corresponding structures in German and show that there is no need
+for a dual raising and control analysis for the German ``agentive''
+(<i>werden</i>) and the German ``dative'' (<i>kriegen</i>) passives,
+respectively, as has been proposed in <a href="http://hpsg.fu-berlin.de/~stefan/Pub/complex.html">Müller (2002)</a> 
+and <a href="http://hpsg.fu-berlin.de/~stefan/Pub/passiv-da.html">Müller (2003)</a>.
+
+Villavicencio, Aline  & Sadler, Louisa  & Arnold, Doug # Universidade Federal do Rio Grande do Sul, Brazil & University of Essex & University of Essex # An HPSG Account of Closest Conjunct Agreement in NP Coordination in Portuguese # October 15, 2005 # #
+This paper discusses the NP-internal agreement strategies observed in an
+empirical (corpus based) study of Portuguese, and proposes an analysis
+which is formalized in the framework of Head-Driven Phrase Structure
+Grammar (HPSG). The empirical study suggests that what were previously thought to
+be rare or non-existent strategies occur with surprising frequency.
+Capturing these strategies poses problems for many standard
+approaches to agreement.  The formalization shows how they can be captured
+with a relatively conservative extension of the existing HPSG theory of agreement.
+  

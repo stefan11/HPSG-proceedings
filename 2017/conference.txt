@@ -1,0 +1,95 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title # date                 # status # abstract #keywords
+
+Alsulami, Abeer & Arnold, Doug  & Borsley, Robert D.  # King Saud University, Riyadh & University of Essex & University of Essex # Simple and Complex Comparatives in Modern Standard Arabic # October 9, 2017 ## Modern Standard Arabic (MSA) has simple and complex comparatives, which look rather like their counterparts in many other languages. MSA simple comparatives are indeed like those of other languages, but MSA complex comparatives are quite different. They involve an adjective with a nominal complement, which may be an adjectival noun or an ordinary noun, and are rather like so-called `adjectival constructs'. Simple comparatives, complex comparatives, and adjectival constructs can all be analysed with lexical rules within HPSG. # Modern Standard Arabic, complex comparatives, adjectival constructs, lexical rules
+
+An, Aixiu & Abeillé, Anne # LLF, University Paris Diderot & LLF, University Paris Diderot # Agreement and interpretation of binominals in French # October 16, 2017 # # This paper investigates the structure and agreement of coordinated binominals in the form Det N1 et N2 in French. We provide corpus data and experimental data to show that different strategies exist, depending on their readings: singular Det for joint reading (mon collègue et ami, 'my.MSG colleague.MSG and friend.MSG'), plural Det agreement (mes frère et soeur 'my.PL brother.MSG and sister.FSG') or closest conjunct agreement (mon nom et prénom, 'my.MSG surname.MSG and first name.MSG') for split reading. These results challenge previous syntactic analyses of binominals (Le Bruyn and de Swart, 2014), stating that Det combines with N1, forming a DP and the later coordinates with N2. We then propose an HPSG analysis to account for French binominals.  # binominals, agreement, HPSG
+
+Arad Greshler, Tali & Melnik, Nurit # University of Haifa & The Open University
+of Israel # Backward control in Modern Standard Arabic # October 15, 2017 # # This paper is the third in a series of papers dedicated to the investigation of subjunctive complement clauses in Modern Standard Arabic. It began with Arad Greshler et al.'s (2016) search for obligatory control predicates in the language and continued with Arad Greshler et al.'s (2017) empirical and theoretical investigation of the backward control construction. In this paper we show that Arad Greshler et al.'s (2017) findings and ultimate analysis, which is cast in a transformational framework, can be straightforwardly formalized using the existing principles and tools of HPSG. Our proposed analysis accounts for all the patterns attested with subjunctive complement clauses in Modern Standard Arabic, including instances of control and no-control. # Modern Standard Arabic, subjunctives, control, complex predicates
+
+Bai, Justin & Dąbkowski, Maksymilian & Pride, Kalinda & Tomlin, Nicholas # Brown University & Brown University & Brown University & Brown University # Yucatec Maya in SBCG: A Fragment # October 21, 2017 # no # Yucatec Maya is a Mesoamerican language spoken by about a million speakers primarily in the Yucatan Peninsula. We present parts of a grammatical fragment with particular emphasis on the pronominal system, verbal morphosyntax, focus, deictic clitics and topicalization through the lens of Sign-Based Construction Grammar (SBCG) (Boas & Sag 2012). We adapt the analysis of Yucatecan headedness and constituency from Bohnemeyer (1998) and Bohnemeyer (2002), in which sentences are VOS-ordered and must be headed by a predicate, but not by the verb.  We show that the combination of SBCG with the predicate-head analysis allows a parsimonious account of disparate constructions that have shared characteristics.<p>
+<a href="https://hpsg.uky.edu/sites/default/files/abstracts/yucatec-fragment-slides.pdf">Handout</a># Yucatec Maya, SBCG
+
+Ball, Douglas # Truman State University # ``VP'' Adverbs without a VP:<br> The syntax of adverbs in Tongan # October 15, 2017 # # The Polynesian language Tongan appears to lack surface-oriented motivation for a VP constituent. Even so, adverbial elements appear in both a rightwards location and a leftwards location, superficially similar to the S-adverbs and VP-adverbs in well-studied western European languages. This paper explores how the Tongan ''VP-adverbs'' (as well as others) can be analyzed in HPSG without a VP for those adverbs to attach to. Several kinds of analyses, representing different strands of research on the syntax of adjuncts in HPSG, are explored: a Adjuncts-as-Valents analysis, a VAL-sensitive Adjuncts-as-Selectors analysis, and a WEIGHT-sensitive Adjuncts-as-Selectors analysis. All suggest that an analysis of the adverbs  without a VP is possible; a WEIGHT-sensitive Adjuncts-as-Selectors seems to have the fewest issues. # Tongan, Polynesian, Adverbs, Adjunct Syntax, HPSG
+
+Borsley, Robert D. # University of Essex # Explanations and `Engineering Solutions'? Aspects of the Relation between Minimalism and HPSG # October 9, 2017 ## It is not simple to compare Minimalism and HPSG, but it is possible to identify a variety of differences, some not so important but others of considerable importance. Two of the latter are: (1) the fact that Minimalism is a very lexically-based approach whereas HPSG is more syntactically-based, and (2) the fact that Minimalism uses Internal Merge in the analysis of unbounded dependencies whereas HPSG employs the SLASH feature. In both cases the HPSG approach seems to offer a better account of the facts. Thus, in two important respects it seems preferable to Minimalism. # Minimalism, the lexicon and syntax, Internal Merge, SLASH
+
+Broadwell, George Aaron  # University of Florida # Parallel affix blocks in Choctaw # October 15, 2017 # # Choctaw, a Muskogean language, shows a complex set of restrictions on verbal prefixes which requires reference both to exponence and position class. An approach like that of Information-Based Morphology Crysmann and Bonami (2016) allows us to model the facts correctly.​ # agreement, exponence, morphotactics, information-based morphology, paradigm function morphology
+
+Crysmann, Berthold  # Laboratoire de linguistique formelle, CNRS  # Resumption and case: A new take on Modern Standard Arabic # 18/10/2017 # #
+Over the past few years, there has been renewed interest in the treatment of resumption in HPSG: despite areas of convergence, e.g. the recognition of
+resumptive dependencies as dependencies, as motivated by Across-the-Board (ATB) extraction, there is no unified theory to date, with differences
+pertaining, e.g., to the exact formulation of amalgamation (Ginzburg and Sag, 2000), or the place of island constraints in grammar. While Borsley (2010) and Alotaibi and Borsley (2013) relegate the difference in locality of gap and resumptive dependencies to the performance system, Crysmann (2012, 2016) captures insensitivity to strong islands as part of the grammar. Harmonising existing proposals becomes even more acute, if we consider the
+cross-linguistic similarity of the phenomenon, in particular, if we compare languages like Hausa and Arabic, which both feature island insensitivity to some
+degree, as well as bound pronominal resumptive objects and zero pronominal resumptive subjects, to name just a few of the parallels.
+In this paper, I shall reexamine resumption (and extraction) in Modern Standard Arabic (henceforth: MSA) and propose a reanalysis that improves
+on Alotaibi and Borsley (2013) in several areas: first, I shall argue that controlling the distribution of gaps and resumptives by means of case is not only
+empirically under-motivated but also leads to counter-intuitive constraint specifications in the majority of cases. Second, I shall show that the case-based account of Alotaibi and Borsley (2013) can be straightforwardly supplanted with the weight-based account I proposed in Crysmann (2016): in doing this, one
+does not only get a better alignment of case assignment constraints with overtly observable manifestations of case, but such an account is also general enough
+to scale from case languages, such as MSA, to languages without case, such as 
+Hausa, or many Arabic vernaculars. Finally, I shall address case in ATB extraction and propose a refinement of the Coordination Constraint of Pollard and
+Sag (1994) that accounts for exactly the kind of mismatch observed in mixed
+gap/resumptive ATB extraction # Resumption, Extraction, Modern Standard Arabic, Across-the-board, Case, Gap
+
+
+Crysmann, Berthold &  Bonami, Olivier # Laboratoire de linguistique formelle, CNRS & Laboratoire de linguistique formelle, U Paris-Diderot # Atomistic and holistic exponence in Information-based Morphology # 17/10/2017 # # In this paper we discuss two contrasting views of exponence in inflectional morphology: the atomistic view, where content is associated individually with minimal segmentable morphs, and the
+holistic view, where the association is made for the whole word between complex content and constellations of morphs. On the basis of
+data from Estonian and Swahili, we argue that an adequate theory of inflection should be able to accomodate both views. We then show that
+the framework of Information-based Morphology (Crysmann and Bonami, 2016) is indeed compatible with both views, thanks to relying on realisation rules that associate <i>m</i> units of forms with <i>n</i> units of content. # Inflection, Exponence, Realisational Morphology, Estonian, Swahili
+
+Dąbkowski, Maksymilian # Brown University # Yucatecan Control and Lexical Categories in SBCG # October 21, 2017 # #  This paper explores the conundrum posed by two different control constructions in Yucatec Maya, a Mayan language spoken by around 800,000 speakers in the Yucatán Peninsula and northern Belize. Basic syntactic structure of the language is introduced, and a general SBCG treatment of control in YM is presented, alongside with an example of motion verbs as control matrices. The unruly case of intransitive subjunctive control, where the controllee appears with an unexpected status (incompletive) and without set-A morphology, is discussed and a proposal to treat it as nominalization is evaluated. The nominalization proposal is rejected based on the following grounds: (1) nominalization tends to attract definitive morphology, which is absent from intransitive subjunctive control constructions, (2) nominalization does not truly explain the lack of set-A morphology if one desires to provide a unified account of set-A morphemes, (3) verbs bereft of otherwise expected set-A morphemes have an independent motivation in the form of agent focus constructions.
+<p>
+The <a href="http://cslipublications.stanford.edu/HPSG/2017/dabkowski-yucatec-signature.pdf">grammar signature</a> is not part of the proceedings but can be downloaded here: <a href="http://cslipublications.stanford.edu/HPSG/2017/dabkowski-yucatec-signature.pdf">grammar signature</a>.
+# Yucatec Maya, SBCG, control, lexical categories
+
+Diaz, Thomas & Koenig, Jean-Pierre & Michelson, Karin # University at Buffalo (SUNY) # Oneida prepronominal prefixes in Information-Based Morphology # October 20, 2017 # no # Oneida (Northern Iroquoian) prepronominal prefixes represent a particularly challenging system to model. It is a highly fusional system with complex (and sometimes unnatural) allomorphy. Due to these challenges, there has been little in the way of formal analysis of these prefixes. In our paper, we provide such a formal analysis, utilizing Information-Based Morphology (Crysmann & Bonami, 2016). In our paper, we focus on three aspects of this morphological system. We formalize the solutions Oneida utilizes to resolve conflicts between semantically compatible features that occupy a single position class. We also analyze the unusual pseudo-cumulative exponence of the translocative prefix which <q>borrows</q> the exponent of another prefix for part of its own exponent. Furthermore, we demonstrate the usefulness of online-type construction in modeling complex morphotactic allomorphy, focusing on the factual prefix. Oneida provides a formidable litmus test for formal theories of morphology, and we attempt to demonstrate the utility of an approach, like Information-Based Morphology, that treats inflections as descriptions of patterns of association between features, forms, and positions classes of words. # Oneida, Northern Iroquoian, Morphology, Information-Based Morphology, polysynthesis, fusion, position class
+
+
+
+Haugereid, Petter # Western Norway University of Applied Sciences # An incremental approach to gapping and conjunction reduction # October 15, 2017 # # In this paper I present an incremental approach to gapping and conjunction reduction where it is assumed that the first sentence in these constructions is fully parsed before the second sentence with the elided verb is parsed. I will show that the two phenomena can be given a uniform analysis by letting the construction type of the first conjunct be carried over to the second conjunct. This construction type imposes constraints on the arguments that the second conjunct can have. The difference between gapping and conjunction reduction is captured by the already existing constructions for sentence and VP coordination. The analysis is implemented in an HPSG grammar of Norwegian. # HPSG, Gapping, Conjunction Reduction, Incremental Parsing
+
+
+Hepburn-Gray, Robert # University at Buffalo (SUNY) # Against Split Morphology # October 15, 2017 # # In this paper I present data from several Niger Congo languages, illustrating how the paradigms which make up the noun class systems of these languages are problematic to analyze within traditional morphosyntactic frameworks. I outline possible solutions to this problem, and argue for the introduction of an exemplar based Word and Paradigm (Blevins 2006) approach to morphology within SBCG. I then outline the consequences of this approach for the structure of the SBCG lexicon. # SBCG, Word and Paradigm morphology, noun classes, Niger-Congo
+
+Kay, Paul & Michaelis, Laura # University of California, Berkeley & University of Colorado Boulder # Partial Inversion in English # November, 1st, 2017 # # A typical
+finite clause in English has a single constituent that serves as subject.  This constituent precedes
+the finite verb in non-inverted clauses like simple declarative clauses, follows the finite verb in
+inverted clauses like polar questions, agrees in person and number with the finite verb and with a
+tag subject when a tag is present, undergoes subject raising, and so on (Postal 2004).  Five
+constructions violate these generalizations and in the literature have called into question the
+identity of the subject constituent. In each of these five constructions the finite verb agrees with
+a following constituent in a declarative clause despite the fact, among others, that the constituent
+preceding the verb exhibits subject behaviors of the kind identified by Keenan (1976). To the
+authors’ knowledge, despite intensive analysis of several of these patterns, the group as a whole
+has not been subject to prior study. The constructions are: Presentational Inversion (e.g., <em>On the
+porch stood marble pillars</em>), Presentational <em>there</em> (e.g., <em>The earth was now dry</em>, and <em>there grew a
+tree in the middle of the earth</em>, Deictic Inversion (e.g., <em>Here comes the bus</em>), Existential <em>there</em> (e.g.,
+<em>There’s a big problem here</em>) and Reversed Specificational <em>be</em> (e.g., <em>The only thing we’ve taken back
+recently are plants</em>). The approach of Sign-Based Construction Grammar (Sag 2012) enables us to
+establish precisely what all five patterns have in common and what is particular to each, revealing
+that a constructional, constraint-based approach can extract the correct grammatical
+generalizations, not only in ‘core’ areas of a grammar, but also in the hard cases, where concepts
+such as <em>subject</em>, which readily handle the more tractable facts, fail to fit the facts at hand.  We
+see further that the five split-subject patterns, sometimes identified as clausal, yield to a
+strictly lexical analysis. # Derivation, Locative Inversion, Existential Inversion, Deictic Inversion, SBCG, Focus 
+
+
+Lee, Sarah Hye-yeon # University of Southern California # The Syntax of the <em>not only ... but also ...</em> Construction # October 15, 2017 # # This paper investigates the syntax of the English <em>not only ... but also ...</em> construction, focusing on the linearization possibilities of <em>not only</em>. Based on novel corpus data, I argue that the <em>not only ... but also ...</em> construction exhibits different properties from the <em>not ... but ...</em> construction or the adverbial <em>only</em>. I propose that a linearization-based account, along with coordinate ellipsis, can explain the various linearization possibilities of <em>not only</em>. I also propose that the construction as a whole is a subtype of the type <em>correlative-coord-ph</em>, which is a novel subtype of <em>coord-ph</em>. Finally, I argue that subject-auxiliary inversion triggered by the clause-initial <em>not only</em> is a new subtype of the type <em>negative-inversion-ph</em>. # HPSG, linearization, not only but also, coordination, correlative coordination, inversion
+
+Maekawa, Takafumi # Ryukoku University # English prepositional numeral 
+constructions # 16 October 2017 # # This paper discusses the syntactic 
+properties of 'prepositional numeral constructions (PNCs)' in English, 
+which is exemplified by ‘about 250 babies’ and ‘over 16,000 animals’. In 
+PNCs a preposition is followed by a numeral. Previous analyses have 
+claimed that the preposition and the numeral make a prepositional phrase 
+in PNCs, but we argue that this is not a satisfactory approach. In HPSG 
+there are some possible analyses that might be proposed, but there are 
+reasons for supposing that the best analysis is one in which the 
+preposition is a functor, a non-head selecting a numeral head. # Noun 
+phrase syntax, numerals, prepositions 
+
+ 
+
+
+
+

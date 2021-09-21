@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Marandin, Jean-Marie: Subject Inversion in French. The Limits of Information Structure
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Subject Inversion in French. The Limits of Information Structure">
+<meta name="citation_author"           content="Marandin, Jean-Marie">
+<meta name="citation_conference_title" content="Proceedings of the 18th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2011">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="327">
+<meta name="citation_lastpage"         content="347">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2011/marandin.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Marandin, Jean-Marie: Subject Inversion in French. The Limits of Information Structure
+</h1>
+
+<div class="blurb"
+<p>
+My objective here is to assess the relevance of information structural notions for analyzing subject 
+inversion in French. Subject inversion is not a unified phenomenon. In fact, there are three distinct 
+constructions featuring an inverted subject. I show that the sentences do not have the same informational 
+potential (the type of focus-ground articulation they are compatible with) depending on the construction 
+they abide by. I propose a contextual factor &ndash; the informational solidarity between the verb and its first 
+argument &ndash; to account for those differences. Then, I show that the three constructions share a common 
+feature that pertains to a completely different dimension: the perspective chosen to describe the situation. I 
+adopt Langacker's notion of absolute construal to characterize it. Finally, I present another common 
+feature: the blocking of the referential anchoring of the referent of indefinite and partitive NPs.
+  
+<P>
+<ul>
+<li><a href="marandin.pdf">download PDF</a>
+<li><a href="marandin.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: November 16, 2011
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

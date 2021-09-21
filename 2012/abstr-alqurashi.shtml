@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Alqurashi, Abdulrahman: An HPSG Approach to Free Relatives in Arabic
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="An HPSG Approach to Free Relatives in Arabic">
+<meta name="citation_author"           content="Alqurashi, Abdulrahman">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="6">
+<meta name="citation_lastpage"         content="25">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/alqurashi.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Alqurashi, Abdulrahman: An HPSG Approach to Free Relatives in Arabic
+</h1>
+
+<div class="blurb"
+<p>
+This paper describes free relative constructions in Modern Standard Arabic (henceforth, MSA) and
+aims to provide an HPSG analysis for them. MSA has two types of free relative constructions. One,
+which is introduced by the complementizer ʔallaði, looks just like a relative clause. The other,
+which is introduced by the elements man and maa, which also appear to be complementizers, does not
+look like a relative clause. Both types can be analysed in term of unary-branching structures (as
+NPs consisting just of a CP). In ʔallaði free relatives, the NP and the value of SLASH can be
+coindexed via the value of MOD on the CP. In man and maa free relatives, the NP and the value of
+SLASH must be coindexed directly.
+  
+<P>
+<ul>
+<li><a href="alqurashi.pdf">download PDF</a>
+<li><a href="alqurashi.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 10, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

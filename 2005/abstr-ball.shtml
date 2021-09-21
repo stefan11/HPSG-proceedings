@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Ball, Douglas: Tongan Noun Incorporation: Lexical Sharing or Argument Inheritance
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Tongan Noun Incorporation: Lexical Sharing or Argument Inheritance">
+<meta name="citation_author"           content="Ball, Douglas">
+<meta name="citation_conference_title" content="Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2005">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="7">
+<meta name="citation_lastpage"         content="27">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/ball.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Ball, Douglas: Tongan Noun Incorporation: Lexical Sharing or Argument Inheritance
+</h1>
+
+<div class="blurb"
+<p>
+As has been shown in other Polynesian languages, in Tongan, adnominal elements
+can modify incorporated nouns in the noun incorporation construction. Two
+analysis are considered in this paper for understanding this construction
+within HPSG. The first, lexical sharing (Kim and Sells, this volume), views the
+verbs that include incorporated nouns as being single words corresponding to
+two syntactic atoms. However, this analysis makes incorrect predictions on the
+transitivity of incorporation clauses. A second analysis, extending Malouf
+(1999), views these words as verbs, but with some of the combinatorial
+properties of nouns. This offers both a better account of the data, and
+preserves the more restrictive theory of the morphology-syntax interface.
+  
+<P>
+<ul>
+<li><a href="ball.pdf">download PDF</a>
+<li><a href="ball.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 14, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

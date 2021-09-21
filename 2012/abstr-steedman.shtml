@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Steedman, Mark: Coordination, Ellipsis, and Information Structure
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Steedman, Mark: Coordination, Ellipsis, and Information Structure
+</h1>
+
+<div class="blurb"
+<p>
+The paper begins by drawing a distinction among the topics addressed
+by the theme of the session between grammatical (RNR, gapping etc.)
+and anaphoric (VP anaphora, sluicing etc.) varieties of ellipsis,
+recalling Hankamer and Sag 1976.  Among grammatical ellipses, there is
+a conspiracy between unbounded constructions like relativization,
+intonational phrasing, and ellipses like gapping, all of which seem to
+apply to or give rise to non-constituent fragments, contrary to the
+constituent condition on rules. A number of theories including GPSG
+and HPSG have reacted to this problem by restoring constituent status
+to some or all such fragments under some generalized notion of
+constituency.
+<p>
+The paper looks at the specific problem of intonation structure in
+English, and shows, following Steedman 2000a,b, that the system of
+combinatory rules available in CCG can explain intonation structure in
+terms of exactly the same syntactic mechanism used for other varieties
+of ellipsis including coordination and relativization.  The paper
+offers a novel information-structural semantics for intonation
+structure couched in a version of Mats Rooth's Alternative Semantics,
+and addresses certain shortcomings in earlier versions of both
+theories.
+<p>
+The paper concludes by addressing the question of how a similar
+analysis could be imported into HPSG. Following Klein's 2000 paper to
+this conference, it concludes that this is entirely possible, but
+notes some redundancy with the existing slash feature treatment of
+long-range dependency, suggesting that we need to look deeper for
+commonalities across these two formalisms.
+<p>
+Slides available at:
+<a href="http://homepages.inf.ed.ac.uk/steedman/papers/prosody/hpsg12.pdf">http://homepages.inf.ed.ac.uk/steedman/papers/prosody/hpsg12.pdf</a>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 17, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

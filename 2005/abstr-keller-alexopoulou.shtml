@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Keller, Frank &amp; Alexopoulou,  Theodora: Gradience and Parametric Variation
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Keller, Frank &amp; Alexopoulou,  Theodora: Gradience and Parametric Variation
+</h1>
+
+<div class="blurb"
+<p>
+Gradient grammaticality has received renewed attention in recent
+years, which is partly due to the introduction of the magnitude
+estimation paradigm that allows the elicitation of reliable gradient
+judgments. In the present contribution, we apply this methodology to
+the study of crosslinguistic variation. We present a series of
+experiments that investigate the interaction of resumption and island
+violations in English, German, and Greek. The results demonstrate that
+resumptive pronouns (contrary to claims in the literature) cannot
+remedy island violations. Also, we find that embedding reduces
+acceptability, even in constructions thought to be fully acceptable in
+the literature. On the other hand, resumption can counteract the
+effect of embedding in certain cases. On a more general level, we find
+that crosslinguistic variation in resumption is confined to
+quantitative differences in the magnitude of otherwise identical
+principles. This poses an important challenge for a parametric
+approach to variation, which does not predict existence of such
+quantitative difference between languages. We propose that this type
+of variation can be accounted for naturally in a weighted grammar
+model such as Linear Optimality Theory, were a distinction between
+hard and soft constraints is possible.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 09 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

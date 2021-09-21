@@ -1,0 +1,196 @@
+Subject:
+Your contribution to the HPSG 2003 proceedings
+From:
+Stefan Mueller <Stefan.Mueller@uni-bremen.de>
+Date:
+Mon, 18 Aug 2003 13:12:20 +0200
+To:
+Dan Flickinger <danf@csli.stanford.edu>, bond@cslab.kecl.ntt.co.jp, jbeavers@csli.stanford.edu, Frank Van Eynde <Frank.VanEynde@ccl.kuleuven.ac.be>, abeille@linguist.jussieu.fr, daniele.godard@linguist.jussieu.fr, rmalouf@mail.sdsu.edu, sells@stanford.edu, jpkoenig@acsu.buffalo.edu, incheol@mail.utexas.edu, "Stephen M. Wechsler" <wechsler@mail.utexas.edu>, Gerald Penn <gpenn@cs.toronto.edu>, hoetmer@cs.toronto.edu, Andreas Kathol <kathol@violet.berkeley.edu>, davidyo@stanford.edu, rog@stanford.edu, tdavis@csli.stanford.edu, runner@ling.rochester.edu, raranovich@ucdavis.edu, Stefan Mueller <Stefan.Mueller@uni-bremen.de>, kei@intercul.tohoku.ac.jp, kkbb@sfc.keio.ac.jp, tiflo@csli.stanford.edu, gunde003@umn.edu, Robert Levine <levine@ling.ohio-state.edu>, jongbok@khu.ac.kr, olivier.bonami@uhb.fr, Gosse Bouma <gosse@let.rug.nl>, Anke Holler <holler@cl.uni-heidelberg.de>, das@cogsci.ed.ac.uk, alex@cogsci.ed.ac.uk, matthew.purver@kcl.ac.uk, ginzburg@dcs.kcl.ac.uk, mhaji@chass.utoronto.ca, Kordula De Kuthy <kdk@ling.ohio-state.edu>, Detmar Meurers <dm@ling.ohio-state.edu>, mtan@bcs.rochester.edu, vmetcalf@ling.ohio-state.edu, cchung@dongseo.ac.kr, akathol@earthlink.net, ejyoo@snu.ac.kr
+X-Mozilla-Status:
+1001
+X-Mozilla-Status2:
+00800000
+Message-ID:
+<3F40B494.3080107@uni-bremen.de>
+User-Agent:
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030617
+X-Accept-Language:
+de, en
+MIME-Version:
+1.0
+Content-Type:
+text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding:
+8bit
+
+Dear HPSG2003 contributor,
+
+I will be editing the HPSG proceedings. At the business meeting in East
+Lansing everyone agreed that a timely publication is very important and
+the deadline for the final versions will therefore be strict.
+
+I hereby invite you to submit a final version of your contribution to
+the electronic proceedings to be published by CSLI Publications.
+
+You can find the proceedings of the previous years at:
+
+http://cslipublications.stanford.edu/HPSG/
+
+The page limit is 20 pages. The deadline for submission is October 15th.
+
+
+If you cannot submit your paper, please do see if you could:
+
+1. turn in an abstract anyways (template below)
+2. give me any citations or links for the paper (e.g., if it is
+   going to appear in a journal or if you have the handout on-line)
+
+
+Details on formatting are included below.
+
+*IMPORTANT* For each submission we require:
+
+1. a short abstract in plain text (ascii); the template for the
+   abstract is included below.  I will format the abstract for you;
+   just send us the requested information.
+
+2. the paper in PDF; in addition to pdf, you can provide the paper
+   in any other formats you wish (ps, html, rtf, etc.).
+
+   Please submit your paper without page numbering.  We will add in
+   the page numbering on the PDF file as we are putting the
+   proceedings together.
+
+If you are converting your paper to pdf from LaTeX via ps, then please
+make sure to include the specification "times" (this ensures type 1
+fonts).  For example:
+
+     \documentclass[11pt]{article}
+     \usepackage{times}
+
+This ensures that the pdf will come out looking good and will also
+allow me to make changes.
+
+
+Papers are due by:
+
+    15 October 2003
+
+The sooner you get in your papers, the faster we can get the
+proceedings on line.
+
+   If you have any questions, please contact me at:
+
+Stefan.Mueller@uni-bremen.de
+
+I am looking forward to your submissions.
+
+Greetings
+
+    Stefan
+
+----------------------------------------------------------------
+
+BASIC INFO:
+
+  Official On-line Proceedings:
+       Deadline: October 15th
+       *Required formats*:
+                Abstract: plain text following template below
+                Paper: PDF
+       Additional formats: ps, rtf, html, word (etc.)
+
+       Send to: Stefan.Mueller@uni-bremen.de
+
+We require a brief abstract in plain text (this can simply be a
+paragraph from your introduction); the paper itself must be in PDF.
+These requirements make it simpler to produce an on-line readable
+paper.  You may include other types of formats, any number of them,
+but we do need to have one version that is PDF, in addition to the
+abstract.
+
+As with last year, we will produce a large pdf file that includes all
+of the papers.  This way, readers can download the entire proceedings
+as a book.
+
+If you absolutely cannot do PDF, please let us know as soon as
+possible and we will accomodate you in some way: point you to some
+reasonable converters, help you with the conversion, etc.
+
+As usual, the proceedings will be registered under an ISSN (it's the
+same one for each of the proceedings).  As such, your paper counts as
+a publication and, as a result, we have some formatting requirements.
+
+PDF: The pdf format is easy to use and manipulate.  It is also easy to
+prepare.  On Unix machines, the command to use is "ps2pdf file.ps"
+(make sure you have US letter format).  With Word, you need to have
+PDFwriter installed, then instead of printing to a printer, you can
+print to a file and choose the pdf format. If you do not have access
+to this conversion program, we can convert Word files for you, but
+since Word files tend to be a big bother (fonts lost, tabs lost,
+tables freeze up), we would much prefer you to do the conversion.
+Note for LATEX users: please use "times" (it can be loaded as a
+package) since this makes the pdf file easier to read on-line and
+easier to manipulate for the book-length version of the proceedings.
+
+
+BASIC FORMATING:
+
+LENGTH: Up to 20 pages long (including references and diagrams).
+
+TITLE PAGE (not included in the 20);
+Make sure this is on a separate page with all lines centered:
+
+                    TITLE
+                author
+
+                 affiliation
+
+         Proceedings of the HPSG03 Conference
+
+               Michigan State University, East Lansing
+
+                 Stefan Müller (Editor)
+
+                 2003
+
+              CSLI Publications
+
+          http://csli-publications.stanford.edu/
+
+ABSTRACT: We encourage the inclusion of a short (one paragraph)
+          abstract just after the title page.
+
+ACCEPTED FORMATS:
+
+Once you have sent us your PDF version (and plain text abstract), you
+may also provide us with versions of your choice which we will include
+in the proceedings as well.  The basic idea is that readers can read
+the PDF on-line and then down-load (print) either the PDF version or
+the (possibly more nicely) formatted version.  We will not include
+postscript or Word versions unless we have also received a PDF version
+and an HTML abstract.
+
+
+ABSTRACT INSTRUCTIONS:
+
+Please send us the following information; use only plain text (ascii):
+
+1. Paper Title
+2. Author Name(s)
+3. Email-address(es)
+4. Text of Abstract
+
+
+-- 
+Stefan Müller
+
+Universität Bremen/Fachbereich 10      Tel: (+49) (+421) 218-8601
+Postfach 33 04 40
+D-28334 Bremen
+
+http://www.dfki.de/~stefan/
+
+
+
+

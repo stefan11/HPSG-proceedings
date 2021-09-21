@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Arad Greshler, Tali &amp; Herzig Sheinfux, Livnat &amp; Melnik, Nurit &amp; Wintner, Shuly: Development of Maximally Reusable Grammars: Parallel Development of Hebrew and Arabic Grammars
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Development of Maximally Reusable Grammars: Parallel Development of Hebrew and Arabic Grammars">
+<meta name="citation_author"           content="Arad Greshler, Tali">
+<meta name="citation_author"           content="Herzig Sheinfux, Livnat">
+<meta name="citation_author"           content="Melnik, Nurit">
+<meta name="citation_author"           content="Wintner, Shuly">
+<meta name="citation_conference_title" content="Proceedings of the 22nd International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="27">
+<meta name="citation_lastpage"         content="40">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2015/ahmw.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Arad Greshler, Tali &amp; Herzig Sheinfux, Livnat &amp; Melnik, Nurit &amp; Wintner, Shuly: Development of Maximally Reusable Grammars: Parallel Development of Hebrew and Arabic Grammars
+</h1>
+
+<div class="blurb"
+<p>
+We show how linguistic grammars of two different yet related languages can be developed and implemented in parallel, with language-independent fragments serving as shared resources, and language-specific ones defined separately for each language. The two grammars in the focus of this paper are of Modern Hebrew and Modern Standard Arabic, and the basic infrastructure, or core, of the grammars is based on "standard" HPSG. We identify four types of relations that exist between the grammars of two languages and demonstrate how the different types of relations can be implemented in parallel grammars with maximally shared resources. The examples pertain to the grammars of Modern Hebrew and Modern Standard Arabic, yet similar issues and considerations are applicable to other pairs of languages that have some degree of similarity.
+  
+<P>
+<ul>
+<li><a href="ahmw.pdf">download PDF</a>
+<li><a href="ahmw.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

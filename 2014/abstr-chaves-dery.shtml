@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Chaves, Rui P. &amp; Dery, Jeruen E.: Nobody expects tensed subject parasitic gaps
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Chaves, Rui P. &amp; Dery, Jeruen E.: Nobody expects tensed subject parasitic gaps
+</h1>
+
+<div class="blurb"
+<p>
+Pollard and Sag (1994, 195) model subject-internal parasitic gaps via a rule called the Subject Condition, but more recent research suggests that no such rule exists, and that such phenomena are best viewed as the consequence of extra-grammatical performance factors (Kluender, 1998; Levine and Sag, 2003; Hofmeister and Sag, 2010; Chaves, 2013), often biased by complexity, pragmatics, semantics, prosody and frequency. However, a recent influential study (Phillips, 2006) claims to provide experimental evidence against extra-grammatical accounts of parasitic gaps, and in favor of syntactic accounts. Our work refutes Phillips (2006), and provides evidence that the phenomena are not purely syntactic.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 20, 2014
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

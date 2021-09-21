@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Bonami, Olivier &amp; Delais-Roussarie,  Elisabeth: Metrical Phonology in HPSG
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Metrical Phonology in HPSG">
+<meta name="citation_author"           content="Bonami, Olivier">
+<meta name="citation_author"           content="Delais-Roussarie,  Elisabeth">
+<meta name="citation_conference_title" content="Proceedings of the 13th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2006">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="39">
+<meta name="citation_lastpage"         content="59">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2006/bonami-delais-roussarie.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Bonami, Olivier &amp; Delais-Roussarie,  Elisabeth: Metrical Phonology in HPSG
+</h1>
+
+<div class="blurb"
+<p>
+This paper proposes a new approach to the prosody-syntax interface in
+HPSG. Previous approaches to prosody in HPSG (Klein, 2000; Haji-Abdolhosseini,
+2003) represent prosodic information by constructing metrical constituent
+structure in the tradition of (Selkirk, 1980; Liberman and Prince, 1977). One
+drawback of this approach is that it does not allow for a direct representation
+of purely metrical constraints, which are relegated to an unformalized
+performance component. By contrast, so called 'grid only' approaches (Prince,
+1983; Selkirk, 1984; Delais-Roussarie, 2000) use a single data structure, a
+<i>metrical grid</i>, to encode prosodic constraints resulting from syntax and
+constraints of a rhythmic nature.</p>
+<p>We first review relevant data from French showing that prosodic constituency
+is much less constrained by syntactic structure than is predicted by existing
+approaches. In all but very short utterances, many different prosodic groupings
+are possible for a given sentence with a determinate information structure, and
+rhythmic factors determine a preference ordering on the possible groupings. We
+then present an HPSG implementation of the metrical grid, and propose minimal
+syntactic constraints on relative prominence, leaving room for noncategorical
+rythmic constraints to choose between alternatives. We finish by discussing the
+interaction of the metrical grid with the rest of the prosodic grammar.</p>
+  
+<P>
+<ul>
+<li><a href="bonami-delais-roussarie.pdf">download PDF</a>
+<li><a href="bonami-delais-roussarie.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 10, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

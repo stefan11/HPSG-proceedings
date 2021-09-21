@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Alqurashi, Abdulrahman &amp; Borsley, Robert D.: Arabic Relative Clauses in HPSG
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Arabic Relative Clauses in HPSG">
+<meta name="citation_author"           content="Alqurashi, Abdulrahman">
+<meta name="citation_author"           content="Borsley, Robert D.">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="26">
+<meta name="citation_lastpage"         content="44">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/alqurashi-borsley.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Alqurashi, Abdulrahman &amp; Borsley, Robert D.: Arabic Relative Clauses in HPSG
+</h1>
+
+<div class="blurb"
+<p>
+In HPSG relative clauses have been analyzed in terms of phonologically empty heads in Pollard and
+Sag (1994) and in terms of a complex system of phrase types in Sag (1997). Modern Standard Arabic
+has a distinction between relative clauses with a definite antecedent, which are introduced by a
+special complementizer, and relative clauses with an indefinite antecedent, which are ‘bare’
+clauses. Analyses eschewing empty heads and assuming a complex system of phrase types face a number
+of problems. An analysis in which relatives with an indefinite antecedent are headed by a
+phonologically empty complementizer is more satisfactory. Thus, in the case of Arabic, the approach
+of Pollard and Sag (1994) seems preferable to the approach of Sag (1997).
+  
+<P>
+<ul>
+<li><a href="alqurashi-borsley.pdf">download PDF</a>
+<li><a href="alqurashi-borsley.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 14, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

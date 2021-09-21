@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Crysmann, Berthold: Floating Affixes in Polish
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Floating Affixes in Polish">
+<meta name="citation_author"           content="Crysmann, Berthold">
+<meta name="citation_conference_title" content="Proceedings of the 13th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2006">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="123">
+<meta name="citation_lastpage"         content="139">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2006/crysmann.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Crysmann, Berthold: Floating Affixes in Polish
+</h1>
+
+<div class="blurb"
+<p>
+The morphosyntactic status of Polish past tense agreement markers has
+been a matter of considerable debate in recent years
+(Spencer 1991, Borsley &amp; Rivero 1994,
+Borsley 1999, Bański 2000, Kupść 2000, Kupść &amp; Tseng 2005). Past tense
+agreement is expressed by a set of bound forms that either attach to
+the past participle, or else <q>float off</q> to a host further to the
+left. Despite this relative freedom of attachment, it is often noted
+in the literature, e.g., Borsley 1999, Kupść &amp; Tseng 2005, that
+the combination of verbal host and agreement marker forms a word-like
+unit.
+<p>
+In this paper I will argue that these agreement markers are best
+analysed as affixes uniformly introduced on the verb whose
+inflectional features they realise. Building on the
+linearisation-based theory of morphology-syntax interaction proposed
+in Crysmann 2003, syntactic mobility of morphologically
+introduced material will be captured by mapping phonological
+contributions to multiple lexically introduced domain objects. It will
+be shown that this is sufficient to capture the relevant data, and
+connect the placement of floating <q>affixes</q> to the general treatment
+of Polish word order Kupść 2000.
+  
+<P>
+<ul>
+<li><a href="crysmann.pdf">download PDF</a>
+<li><a href="crysmann.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 17, 2006
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Amiridze, Nino: Georgian Reflexives in Subject Function in Special Contexts
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Georgian Reflexives in Subject Function in Special Contexts">
+<meta name="citation_author"           content="Amiridze, Nino">
+<meta name="citation_conference_title" content="Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2005">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="449">
+<meta name="citation_lastpage"         content="466">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/amiridze.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Amiridze, Nino: Georgian Reflexives in Subject Function in Special Contexts
+</h1>
+
+<div class="blurb"
+<p>
+Georgian is a language allowing reflexives to be marked by ergative.
+The subject use of the Georgian reflexive phrase was first
+documented with causative verbs by Asatiani (1982). The later works
+such as (Amiridze and Everaert, 2000), (Amiridze, 2003), (Amiridze,
+2004) discuss the use with object-experiencer verbs and transitive
+verbs on non-agentive reading. The present paper offers the first
+hand data on subject uses of the Georgian reflexive phrase with
+transitive verbs on their agentive reading in special contexts (such
+as a twin context, Madame Tussaud context, etc.) which are
+problematic for the Binding Theory of Chomsky (1981) as well as for
+the Reflexivity Theory of Reinhart and Reuland (1993}. The data
+could be accounted for within the approach developed in (Reuland,
+2001). However, the subject uses of the Georgian reciprocal
+<q>ertmanet-</q> leave the issue of subject anaphors open.
+  
+<P>
+<ul>
+<li><a href="amiridze.pdf">download PDF</a>
+<li><a href="amiridze.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

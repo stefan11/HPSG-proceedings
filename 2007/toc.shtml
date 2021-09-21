@@ -1,0 +1,95 @@
+<html>
+<head>
+<title>HPSG 2007 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+<meta name="citation_conference_title" content="Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_author"           content="MÃ¼ller, Stefan">
+<meta name="citation_publication_date" content="2007">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_pdf_url" content="http://cslipublications.stanford.edu/HPSG/2007/hpsg2007.pdf">
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</head>
+
+<body>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+<div class="blurb">
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg2007.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg2007.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+<li>Bjerre, Anne (University of Southern Denmark) and Bjerre,  Tavs (Aarhus University, Denmark)<p class="arttitle">Pseudocoordination in Danish</p><p class="artlinks"><a href="abstr-bjerre-bjerre.shtml">abstract</a>, <a href="bjerre-bjerre.pdf">pages 6&ndash;24</a></p>
+<li>Bonami, Olivier (Université Paris-Sorbonne) and Godard,  Danièle (LLF)<p class="arttitle">Integrating Linguistic Dimensions:  The Scope of Adverbs</p><p class="artlinks"><a href="abstr-bonami-godard.shtml">abstract</a>, <a href="bonami-godard.pdf">pages 25&ndash;45</a></p>
+<li>Chaves, Rui P. (University of Lisbon) and Paperno, Denis (Lomonosov Moscow State University)<p class="arttitle">On The Russian Hybrid Coordination Construction</p><p class="artlinks"><a href="abstr-chaves-paperno.shtml">abstract</a>, <a href="chaves-paperno.pdf">pages 46&ndash;64</a></p>
+<li>Coulter, Lori (University of Illinois at Urbana Champaign)<p class="arttitle">A Semantic Interpretation of Modality in Counterfactual Conditionals</p><p class="artlinks"><a href="abstr-coulter.shtml">abstract</a>, <a href="coulter.pdf">pages 65&ndash;82</a></p>
+<li>Crysmann, Berthold (DFKI, Universität des Saarlandes, Universität Bonn) and von Böselager, Philipp (Universität zu Köln)<p class="arttitle">Using an HPSG Grammar for the Generation of Prosody</p><p class="artlinks"><a href="abstr-crysmann-vonboeselager.shtml">abstract</a>, <a href="crysmann-vonboeselager.pdf">pages 83&ndash;98</a></p>
+<li>Kropp Dakubu, Mary Esther (University of Ghana), Hellan,  Lars and Beermann, Dorothee (NTNU, Trondheim)<p class="arttitle">Verb Sequencing Constraints in Ga:
+Serial Verb Constructions and the Extended Verb Complex</p><p class="artlinks"><a href="abstr-khb.shtml">abstract</a>, <a href="khb.pdf">pages 99&ndash;119</a></p>
+<li>Haugereid, Petter (NTNU Trondheim)<p class="arttitle">Decomposed Phrasal Constructions</p><p class="artlinks"><a href="abstr-haugereid.shtml">abstract</a>, <a href="haugereid.pdf">pages 120&ndash;129</a></p>
+<li>Henri, Fabiola and Abeillé, Anne (University Paris 7)<p class="arttitle">The Syntax of Copular Constructions in Mauritian</p><p class="artlinks"><a href="abstr-henri-abeille.shtml">abstract</a>, <a href="henri-abeille.pdf">pages 130&ndash;149</a></p>
+<li>Kaufmann, Tobias and Pfister, Beat (ETH Zürich)<p class="arttitle">Applying Licenser Rules to a Grammar with Continuous Constituents</p><p class="artlinks"><a href="abstr-kaufmann-pfister.shtml">abstract</a>, <a href="kaufmann-pfister.pdf">pages 150&ndash;162</a></p>
+<li>Kim, Jong-Bok (Kyung Hee University) and Yang,  Jaehyung (Kangnam University)<p class="arttitle">Syntax and Semantics of Korean Numeral Classifier Constructions</p><p class="artlinks"><a href="abstr-kim-yang.shtml">abstract</a>, <a href="kim-yang.pdf">pages 163&ndash;172</a></p>
+<li>Manning, Christopher (Stanford University)<p class="arttitle">Linguistic Strip Mining Meets Deep Linguistic Processing</p><p class="artlinks">abstract not submitted, paper not submitted</p>
+<li>Melnik, Nurit (University of Haifa)<p class="arttitle">Extending Partial Pro-drop in Modern Hebrew: A Comprehensive Analysis</p><p class="artlinks"><a href="abstr-melnik.shtml">abstract</a>, <a href="melnik.pdf">pages 173&ndash;193</a></p>
+<li>Norcliffe, Elisabeth (Stanford University)<p class="arttitle">Constructing Spanish Complex Predicates</p><p class="artlinks"><a href="abstr-norcliffe.shtml">abstract</a>, <a href="norcliffe.pdf">pages 194&ndash;213</a></p>
+<li>Sailer, Manfred (Universität Göttingen)<p class="arttitle">NPI Licensing, Intervention and Discourse Representation Structures in HPSG</p><p class="artlinks"><a href="abstr-sailer.shtml">abstract</a>, <a href="sailer.pdf">pages 214&ndash;234</a></p>
+<li>Samvelian, Pollet (Université de Paris 3)<p class="arttitle">A Lexical Account of Sorani Kurdish Prepositions</p><p class="artlinks"><a href="abstr-samvelian.shtml">abstract</a>, <a href="samvelian.pdf">pages 235&ndash;249</a></p>
+<li>Song, Sanghoun and Choe, Jae-Woong (Korea University)<p class="arttitle">Type Hierarchies for Passive Forms in Korean</p><p class="artlinks"><a href="abstr-song-choe.shtml">abstract</a>, <a href="song-choe.pdf">pages 250&ndash;270</a></p>
+<li>Tseng, Jesse (CNRS)<p class="arttitle">English Prepositional Passive Constructions</p><p class="artlinks"><a href="abstr-tseng.shtml">abstract</a>, <a href="tseng.pdf">pages 271&ndash;286</a></p>
+<li>Wang, Lulu and Liu, Haitao (Communication University of China)<p class="arttitle">A Description of Chinese NPs using Head-Driven Phrase Structure Grammar</p><p class="artlinks"><a href="abstr-wang-liu.shtml">abstract</a>, <a href="wang-liu.pdf">pages 287&ndash;305</a></p>
+<li>Webelhuth, Gert (University of Göttingen)<p class="arttitle">Complex Topic-Comment Structures in HPSG</p><p class="artlinks"><a href="abstr-webelhuth.shtml">abstract</a>, <a href="webelhuth.pdf">pages 306&ndash;322</a></p>
+<li>Yatabe, Shûichi (University of Tokyo)<p class="arttitle">Evidence for the Linearization-Based Theory of Semantic Composition</p><p class="artlinks"><a href="abstr-yatabe.shtml">abstract</a>, <a href="yatabe.pdf">pages 323&ndash;343</a></p>
+</ul>
+<li>Contributions to the Workshop
+<ul>
+<li>Francis, Elaine J. (Purdue University)<p class="arttitle">The Role of Default Constructions in the Processing of Mismatch: the Case of Possessive Free Relatives</p><p class="artlinks"><a href="abstr-francis.shtml">abstract</a>, <a href="francis.pdf">pages 345&ndash;363</a></p>
+<li>Goldberg, Adele (Princeton University)<p class="arttitle">Argument structure constructions: Lexical or Phrasal?</p><p class="artlinks"><a href="abstr-goldberg.shtml">abstract</a>, paper not submitted</p>
+<li>Kim, Jong-Bok (Kyung Hee University) and Sells, Peter (Stanford University)<p class="arttitle">Two Types of Multiple Nominative Construction: A Constructional Approach</p><p class="artlinks"><a href="abstr-kim-sells.shtml">abstract</a>, <a href="kim-sells.pdf">pages 364&ndash;372</a></p>
+<li>Müller, Stefan (Freie Universität Berlin)<p class="arttitle">Phrasal or Lexical Constructions? Some Comments on Underspecification of Constituent Order, Compositionality, and Control</p><p class="artlinks"><a href="abstr-mueller.shtml">abstract</a>, <a href="mueller.pdf">pages 373&ndash;393</a></p>
+<li>Sag, Ivan A. (Stanford University)<p class="arttitle">Remarks on Locality</p><p class="artlinks"><a href="abstr-sag.shtml">abstract</a>, <a href="sag.pdf">pages 394&ndash;414</a></p>
+<li>Van Eynde, Frank (University of Leuven)<p class="arttitle">The Big Mess Construction</p><p class="artlinks"><a href="abstr-vaneynde.shtml">abstract</a>, <a href="vaneynde.pdf">pages 415&ndash;433</a></p>
+</ul>
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 09.01.2019 (21:28:47)
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

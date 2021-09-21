@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Borsley, Robert D.: Explanations and `Engineering Solutions'? Aspects of the Relation between Minimalism and HPSG
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Explanations and `Engineering Solutions'? Aspects of the Relation between Minimalism and HPSG">
+<meta name="citation_author"           content="Borsley, Robert D.">
+<meta name="citation_conference_title" content="Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2017">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="82">
+<meta name="citation_lastpage"         content="102">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2017/hpsg2017-borsley.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Borsley, Robert D.: Explanations and `Engineering Solutions'? Aspects of the Relation between Minimalism and HPSG
+</h1>
+
+<div class="blurb"
+<p>
+It is not simple to compare Minimalism and HPSG, but it is possible to identify a variety of differences, some not so important but others of considerable importance. Two of the latter are: (1) the fact that Minimalism is a very lexically-based approach whereas HPSG is more syntactically-based, and (2) the fact that Minimalism uses Internal Merge in the analysis of unbounded dependencies whereas HPSG employs the SLASH feature. In both cases the HPSG approach seems to offer a better account of the facts. Thus, in two important respects it seems preferable to Minimalism.
+  
+<P>
+<ul>
+<li><a href="hpsg2017-borsley.pdf">download PDF</a>
+<li><a href="borsley.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 9, 2017
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

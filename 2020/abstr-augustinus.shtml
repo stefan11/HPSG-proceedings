@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Augustinus, Liesbeth: A head-supplement analysis of Dutch quotative van
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Augustinus, Liesbeth: A head-supplement analysis of Dutch quotative van
+</h1>
+
+<div class="blurb"
+<p>
+This talk discusses constructions with quotative van ‘of’, the Dutch counterpart of English like and German so ‘thus’. Language users associate quotative van with colloquial speech, though the construction is widely used.
+Descriptive grammars typically consider the quote as a direct object, similar to instances of direct speech introduced by verbs of saying and thinking. There are, however, plenty of counterexamples showing that the quote cannot be treated as an internal argument of the construction.
+Instead, I propose to analyse Dutch quotative van as an instance of head-supplement phrase, in which the quoting clause as a whole is the head of the phrase and the quote its supplement. The advantage of this analysis is that it uniformly accounts for the different types of quotative van constructions. It deals with constructions in which the matrix clause contains a trigger of the quote (such as a verb of saying), and for constructions without such a trigger.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+AlQurashi, Issa S.: An Analysis of Simple and Construct-State Noun Phrases in Modern Standard Arabic
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="An Analysis of Simple and Construct-State Noun Phrases in Modern Standard Arabic">
+<meta name="citation_author"           content="AlQurashi, Issa S.">
+<meta name="citation_conference_title" content="Proceedings of the 22nd International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="6">
+<meta name="citation_lastpage"         content="26">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2015/alqurashi.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">AlQurashi, Issa S.: An Analysis of Simple and Construct-State Noun Phrases in Modern Standard Arabic
+</h1>
+
+<div class="blurb"
+<p>
+This paper aims to propose an HPSG analysis for simple and construct-state noun phrases in Modern Standard Arabic (MSA). To the best of my knowledge, there are no major HPSG analyses of MSA noun phrases (NPs). A parallel phenomenon in Hebrew has been discussed quite extensively in the same framework by Wintner (2000). Most of the discussion will be devoted for the construct-state noun phrase in which the order of the elements within it is NP AP PP. Three different analyses will be outlined within the HPSG framework: the extra complement analysis, the special complement analysis, and the head-adjunct-complement analysis. These analyses will be evaluated and it will be concluded that the last analysis seems to be the best and the most promising approach to Arabic NPs.
+  
+<P>
+<ul>
+<li><a href="alqurashi.pdf">download PDF</a>
+<li><a href="alqurashi.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 13, 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

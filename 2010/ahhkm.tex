@@ -1,0 +1,84 @@
+\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
+                    % For some reasons some old HPSG proceedings have pdf 1.6
+\documentclass[a4paper,11pt]{article}
+\usepackage{times}
+\usepackage{ogonek} % Dąbkowski
+\hyphenation{Acad-e-my}
+\usepackage{pdfpages}
+\pdfinclusioncopyfonts=1
+\usepackage[utf8]{inputenc}
+        \usepackage{hyperref}
+        \hypersetup{colorlinks=false, pdfborder={0 0 0}}
+        \setcounter{page}{27}
+        \begin{document}
+
+\newcommand\formatauthor[2]{\begin{tabular}[t]{@{}c@{}}
+  {\LARGE#1\strut}\\
+  {\small#2\strut}\\
+  \rule{\dimexpr0.5\linewidth-1em}{0pt}
+  \end{tabular}\xhfill\ignorespaces}
+\newcommand\xhfill{\hspace{1em plus 1fill}}
+\thispagestyle{empty}
+
+\begin{center}
+  {\huge\bfseries Does Chain Hybridization in Irish Support Movement-Based Approaches to Long-Distance Dependencies?\par}
+
+  \bigskip
+
+~\\
+\begingroup
+\setlength{\leftskip}{0pt plus 1fill}
+\setlength{\rightskip}{0pt plus 1fill}
+\setlength{\parindent}{0pt}
+\setlength{\parfillskip}{0pt}
+  \formatauthor{Anke Assmann}{\begin{tabular}{@{}c@{}}Universität Leipzig\end{tabular}}
+\formatauthor{Fabian Heck}{\begin{tabular}{@{}c@{}}Universität Leipzig\end{tabular}}
+\formatauthor{Johannes Hein}{\begin{tabular}{@{}c@{}}Universität Leipzig\end{tabular}}
+\formatauthor{Stefan Keine}{\begin{tabular}{@{}c@{}}Universität Leipzig\end{tabular}}
+\formatauthor{Gereon Müller}{\begin{tabular}{@{}c@{}}Universität Leipzig\end{tabular}}
+
+\par\endgroup
+
+  \vspace*{8ex}
+
+  Proceedings of the 17th International Conference on\par Head-Driven Phrase Structure Grammar
+
+  \bigskip
+
+  Universit{\'e} Paris Diderot, Paris 7, France
+
+  \medskip
+
+  Stefan Müller (Editor)
+
+  \medskip
+
+  2010
+
+  \medskip
+
+  CSLI Publications
+
+  \medskip
+
+  pages 27--46
+
+  \medskip
+
+  \url{http://csli-publications.stanford.edu/HPSG/2010}
+\end{center}
+\vfill
+
+\noindent
+
+
+
+\vfill
+\noindent
+% APA Style
+Assmann, Anke, Heck, Fabian, Hein, Johannes, Keine, Stefan, \& Müller,  Gereon. 2010. Does Chain Hybridization in Irish Support Movement-Based Approaches to Long-Distance Dependencies? In Müller, Stefan (Ed.), \emph{{Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar, Universit{\'e} Paris Diderot, Paris 7, France}}, 27--46. Stanford,
+CA: CSLI Publications. \hfill\href{http://creativecommons.org/licenses/by/4.0/}{\includegraphics[height=.75em]{Includes/ccby.eps}}
+
+\newpage
+\includepdf[pages=-,pagecommand=\thispagestyle{plain}]{Includes/ahhkm.pdf}
+        \end{document}

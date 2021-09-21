@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kanazawa, Makoto: What was wrong with the Chomsky hierarchy?
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kanazawa, Makoto: What was wrong with the Chomsky hierarchy?
+</h1>
+
+<div class="blurb"
+<p>
+The four levels of the Chomsky hierarchy are not of equal importance and there is a huge gap between the context-free and the context-sensitive languages. Chomsky’s choice of semi-Thue systems as the most general form of grammar was inadequate for the investigation of many important language classes that lie in between the context-free and the context-sensitive, in particular the so-called “mildly context-sensitive languages”. The formalisms that capture these classes are not instances of Chomsky’s type 0 grammars. Smullyan’s elementary formal system, which is a kind of logic program on strings, provides the right level of generality and simplicity. Grammars should be thought of as “bottom-up” inductive definitions, rather than as “top-down” string rewriting systems.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

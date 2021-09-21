@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Taghvaipour, Mehran A: Persian Free Relatives
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Persian Free Relatives">
+<meta name="citation_author"           content="Taghvaipour, Mehran A">
+<meta name="citation_conference_title" content="Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2005">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="364">
+<meta name="citation_lastpage"         content="374">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/taghvaipour.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Taghvaipour, Mehran A: Persian Free Relatives
+</h1>
+
+<div class="blurb"
+<p>
+Free relatives (FRs) in Persian are Unbounded Dependency Constructions,
+containing gaps or resumptive pronouns (RPs). In some positions only gaps are
+allowed, and in some other positions only RPs. The structure of Persian FRs is
+bipartite, containing two constituents: a phrasal part and a
+sentential. Persian FRs are sensitive to the matching effect and show distinct
+properties from noun phrases, ordinary relative clauses, and interrogative
+complements. This paper proposes a unified HPSG account which assumes that the
+phrasal part of a FR is the head and the filler at the same time. The propped
+approach is presented in two versions (with and without traces) and can take
+care of the dependency between the gap or the RP and the licencing constituent
+with a truly single mechanism.
+  
+<P>
+<ul>
+<li><a href="taghvaipour.pdf">download PDF</a>
+<li><a href="taghvaipour.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

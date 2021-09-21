@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Singh, Smriti &amp; Sarma, Vaijayanthi M: Hindi Noun Inflection and Distributed Morphology
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Hindi Noun Inflection and Distributed Morphology">
+<meta name="citation_author"           content="Singh, Smriti">
+<meta name="citation_author"           content="Sarma, Vaijayanthi M">
+<meta name="citation_conference_title" content="Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2010">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="307">
+<meta name="citation_lastpage"         content="321">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2010/singh-sarma.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Singh, Smriti &amp; Sarma, Vaijayanthi M: Hindi Noun Inflection and Distributed Morphology
+</h1>
+
+<div class="blurb"
+<p>
+This paper primarily presents an analysis of nominal inflection in Hindi within the framework of
+Distributed Morphology (Halle & Marantz 1993, 1994 and Harley and Noyer 1999). Müller (2002, 2003,
+2004) for German, Icelandic and Russian nouns respectively and Weisser (2006) for Croatian nouns
+have also used Distributed Morphology (henceforth DM) to analyze nominal inflectional morphology.
+This paper will discuss in detail the inflectional categories and inflectional classes, the
+morphological processes operating at syntax, the distribution of vocabulary items and the
+readjustment rules required to describe Hindi nominal inflection. Earlier studies on Hindi
+inflectional morphology (Guru 1920, Vajpeyi 1958, Upreti 1964, etc.) were greatly influenced by the
+Paninian tradition (classical Sanskrit model) and work with Paninian constructs such as root and
+stem. They only provide descriptive studies of Hindi nouns and verbs and their inflections without
+discussing the role or status of affixes that take part in inflection. The discussion on the
+mechanisms (morphological operations and rules) used to analyze or generate word forms are missing
+in these studies. In addition, these studies do not account for syntax-morphology or
+morphology-phonology mismatches that show up in word formation. One aim of this paper is to present
+an economical way of forming noun classes in Hindi as compared to other traditional methods,
+especially gender and stem ending based or paradigm based methods that give rise to a large number
+of inflectional paradigms. Using inflectional class information to analyse the various forms of
+Hindi nouns, we can reduce the number of affixes and word-generation and readjustment rules that are
+required to describe nominal inflection. The analysis also helps us in developing a morphological
+analyzer for Hindi. The small set of rules and fewer inflectional classes are of great help to
+lexicographers and system developers. To the best of our knowledge, the analysis of Hindi
+inflectional morphology based on DM and its implementation in a Hindi morphological analyzer has not
+been done before. The methods discussed here can be applied to other Indian languages for analysis
+as well as word generation.
+  
+<P>
+<ul>
+<li><a href="singh-sarma.pdf">download PDF</a>
+<li><a href="singh-sarma.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 18, 2010
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

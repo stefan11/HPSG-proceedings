@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Müller, Stefan &amp; Ørsnes,  Bjarne: Positional Expletives in Danish, German, and Yiddish
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Positional Expletives in Danish, German, and Yiddish">
+<meta name="citation_author"           content="Müller, Stefan">
+<meta name="citation_author"           content="Ørsnes,  Bjarne">
+<meta name="citation_conference_title" content="Proceedings of the 18th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2011">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="167">
+<meta name="citation_lastpage"         content="187">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2011/mueller-oersnes.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Müller, Stefan &amp; Ørsnes,  Bjarne: Positional Expletives in Danish, German, and Yiddish
+</h1>
+
+<div class="blurb"
+<p>
+This paper deals with expletives that are inserted into clauses for structural reasons. We will
+focus on the Germanic languages Danish, German, and Yiddish. In Danish and Yiddish expletives are
+inserted in preverbal position in certain <em>wh</em>-clauses: In Danish such an insertion is
+observed when the subject is locally extracted from an SVO configuration in non-assertive
+clauses. In Yiddish <em>wh</em>-clauses are formed from a <em>wh</em>-phrase and a V2 clause. If no
+element would be fronted in the embedded V2 clause, an expletive is inserted in non-assertive
+clauses in order to meet the V3 requirement for embedded clauses. In
+addition to embedded <em>wh</em>-clauses,
+declarative V2 clauses also allow the insertion of an expletive. In Danish the expletive fills the
+subject position and is not necessarily fronted. In German and Yiddish the expletive has to occur in
+fronted position. In contrast to Danish and Yiddish, German does not
+insert expletives into embedded <em>wh</em>-clauses. They are
+inserted only into declarative V2 clauses in order to fulfill the V2 requirement without having to
+front another constituent. In this paper we try to provide an account that captures the
+commonalities between the three languages while being able to account for the differences.
+  
+<P>
+<ul>
+<li><a href="mueller-oersnes.pdf">download PDF</a>
+<li><a href="mueller-oersnes.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: November 4, 2011
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Erschler, David: Sluicing-like Phenomena and the Location of CP in Ossetic
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Erschler, David: Sluicing-like Phenomena and the Location of CP in Ossetic
+</h1>
+
+<div class="blurb"
+<p>
+In this talk, I show
+that Digor and Iron Ossetic, closely related Iranian languages spoken in the Central Caucasus, show
+sluicing in the proper sense and argue on this basis for the low (preverbal) position of
+complementizers in the Ossetic clause structure. The classical sluicing occurs in wh-fronting
+languages, and it is only the wh-phrase(s) that is retained:
+<p>
+(1)	Anne invited someone, but I don’t know who. (Merchant 2001: 40)
+<p>
+	Sluicing-like constructions, however, are also attested in languages that either lack
+        wh-movement or show non-canonical patterns thereof. The issue how to analyze such structures
+        is controversial, see, e.g. the polemics between Ince (2012) and Hankamer (2011) on the
+        proper analysis of Turkish sentences of this type. 
+<p>
+	In Ossetic, wh-phrases and certain complementizers are obligatorily preverbal, no matter
+        where the verb is situated in the clause, and only certain items may intervene between the
+        wh-phrases/complementizer and the verb, Erschler (2012). It is an obvious challenge to
+        theories of “left periphery” to analyze such a structure: even if the preverbal placement of
+        wh-phrases might be explained away as focusing, it can be hardly done so for
+        complementizers. Despite the unusual patterns of wh-placement and complementation, Ossetic
+        shows a construction that is at least superficially similar to sluicing. I show that,
+        analogously to the “classical” sluicing, this type of ellipsis can go backwards, is
+        unbounded, and is not sensitive to islands.
+<p>
+	That Ossetic (pseudo)-sluicing is indeed an independent type of ellipsis, and not a
+        subvariety of stripping [as argued for Turkish pseudo-sluicing in Hankammer (2011)], follows
+        from the fact that, unlike sluicing, Ossetic stripping is ungrammatical in dependent clauses
+        and cannot go backwards.
+<p>
+	Another potential analysis of pseudo-sluicing, reduced cleft, is ruled out because the
+        copula cannot be inserted in sluices, cf a similar argument in Toosarvandani (2008: 682-684)
+        for Persian. Thus it is natural to analyze Ossetic (pseudo)-sluicing as the classical
+        sluicing, i.e. as deletion of the material below C. If my proposal is on the right track, it
+        provides additional evidence that Ossetic indeed has C in the preverbal position.
+<h2>References</h2>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

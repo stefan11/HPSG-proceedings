@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Alotaibi, Mansour &amp; Borsley, Robert D.: Gaps and Resumptive Pronouns in Modern Standard Arabic
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Gaps and Resumptive Pronouns in Modern Standard Arabic">
+<meta name="citation_author"           content="Alotaibi, Mansour">
+<meta name="citation_author"           content="Borsley, Robert D.">
+<meta name="citation_conference_title" content="Proceedings of the 20th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2013">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="6">
+<meta name="citation_lastpage"         content="26">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2013/alotaibi-borsley.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Alotaibi, Mansour &amp; Borsley, Robert D.: Gaps and Resumptive Pronouns in Modern Standard Arabic
+</h1>
+
+<div class="blurb"
+<p>
+Unbounded dependencies in Modern Standard Arabic often involve not a gap but a null resumptive pronoun. The facts are quite complex, but it is not too difficult to extend the SLASH mechanism of HPSG to handle dependencies with a null resumptive pronoun. It is also not too difficult to restrict the distribution of gaps appropriately.
+  
+<P>
+<ul>
+<li><a href="alotaibi-borsley.pdf">download PDF</a>
+<li><a href="alotaibi-borsley.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2013
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

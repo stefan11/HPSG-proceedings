@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Wasow, Thomas &amp; Clausen, David: Weak Cross-over and Informativity
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Wasow, Thomas &amp; Clausen, David: Weak Cross-over and Informativity
+</h1>
+
+<div class="blurb"
+<p>
+Wasow (1972) introduced the distinction between weak and strong
+cross-over, illustrated in (1) because examples like (1a) seem
+possible in appropriate contexts, whereas the indicated coreference in
+(1b) is totally impossible.  
+<pre>  
+(1) a.  ??Who<sub>i</sub> did you talk to the boy she<sub>i</sub> liked about?  
+    b.  *I know who<sub>i</sub> Charlie think he<sub>i</sub> hurt.
+</pre>
+Following a suggestion of Culicover's, Wasow proposed that the gaps in
+long-distance dependencies contain traces coindexed with the fillers.
+Under this analysis, the low acceptability of an example like (1a) is
+related to the low acceptability of cataphora with indefinite
+antecedents: 
+<pre>
+(2) ??I talked to the boy she<sub>i</sub> liked about a girl<sub>i</sub>.
+</pre>
+Work by Hofmeister, Sag, Clausen and others has shown that at least
+some island phenomena can be explained in terms of factors that cause
+processing difficulty.  They have shown that the graded nature and
+context sensitivity of many island phenomena are better explained in
+terms of demands on memory during processing than through appeals to
+universal grammatical constraints.
+This talk explored the possibility of explaining weak-crossover (WCO)
+in similar terms.  It reported on three studies in which participants
+identified the referent of a pronoun and then rated sentences on a
+seven-point Likert scale.  The test sentences were embedded in a
+context designed to favor the intended interpretation of the pronoun.
+Each study contained examples with short (uninformative) antecedents
+for the pronoun as well as examples with longer (informative)
+antecedents.  The three studies investigated WCO in questions, WCO in
+relative clauses, and cataphora.  Each study also contained controls
+without the phenomenon under study, as well as both grammatical and
+ungrammatical fillers.  Sample stimuli are given in (3)-(5).
+<pre>
+(3) WCO in Questions: 
+The hiring committee was presented with only a subset of the
+applicants. Some had been eliminated because their files were
+incomplete, but the committee chair dropped one applicant because of
+negative comments from colleagues who knew that applicant well.  THE
+REST OF THE COMMITTEE WAS NOT TOLD WHO/WHICH JOB APPLICANT PEOPLE THAT
+KNEW HIM WELL HAD CRITICIZED
+</pre>
+<pre>
+(4) WCO in Relative Clauses
+In the bottom of the fourth inning, a questionable call elicited jeers
+from the visitors' dugout. One of the umpires evidently heard
+something sufficiently offensive to stick his head into the dugout and
+issue a warning.  THE RADIO ANNOUNCER COULDN'T SEE THE PERSON/VISITING
+PLAYER WHO THE UMPIRE HE HAD OFFENDED HAD WARNED.
+</pre>
+<pre>
+(5) Cataphora
+The news media are already beginning to cover the race for the 2012
+Republican presidential nomination.  At a recent convention of GOP
+bigwigs, many potential candidates were soliciting endorsements.
+EVERYONE HE SOLICITED HAD PURPORTEDLY AGREED TO ENDORSE ONE
+PERSON/POTENTIAL CANDIDATE
+</pre>
+Our expectations of these experiments included the following: 
+<ul>
+<li> In all three studies, we expected the controls (non-WCO or anaphora)
+  to be judged better than the test sentences (WCO or cataphora).
+<li> In all studies, we expected informative antecedents to be judged
+  better than the uninformative antecedents.
+<li> We expected WCOs to be judged better than the ungrammatical fillers.
+<li> We expected the embedded question WCOs to be judged worse than the
+  relative clause WCOs.
+<li> We expected the cataphora examples to be judged better than the
+  WCOs.
+</ul>
+Our studies collected 1111 ratings of embedded question WCOs, 1447
+relative clause WCOs, and 1220 ratings of cataphora examples, from a
+total 361 participants.  The results confirmed some of our
+expectations but not others.  Specifically:
+<ul>
+<li> As expected the controls (non-WCO or anaphora) were judged better
+    than the test sentences (WCO or cataphora).
+<li> As expected, informative antecedents were generally judged better
+    than the uninformative antecedents, but not in embedded question
+    WCOs or in RC controls. This difference is a mystery to us.
+<li> Contrary to our expectations, the embedded question WCOs were judged
+    slightly better than the relative clause WCOs.
+<li> As expected, the cataphora examples were judged better than the
+    WCOs.
+<li> Even informative WCOs received low acceptability scores, but were
+    rated higher than ungrammatical fillers.
+</ul>
+We tentatively concluded that processing factors play a role in the
+low acceptability of WCO.  In particular:
+<ul>
+<li> The processing cost of filler-gap dependencies makes WCO hard.
+<li> The processing cost of establishing pronoun-antecedent pairings
+   makes WCO hard.
+<li> WCO involves the same extra processing cost as cataphora.
+<li> Informative antecedents mitigate the processing costs, at least
+   sometimes.
+<li> Whether the cumulative processing costs are sufficient to account
+   for the low acceptability of WCO examples remains unclear.
+</ul>
+The question of whether weak cross-over effects can be fully explained
+in terms of constraints on processing remains unresolved but deserves
+further study.
+<h2>References</h2>
+<ul>
+<li> Clausen, David R. (2010) <em>Processing Factors Influencing Acceptability
+in Extractions from Complex Subjects</em>. Unpublished ms., Stanford
+University
+ 
+<li> Hofmeister, Philip (2011) <em>Representational Complexity and Memory
+Retrieval in Language Comprehension</em>.  Language and Cognitive
+Processes, Volume 26.
+<li> Hofmeister, Philip, and Ivan A. Sag (2010) <em>Cognitive Constraints and
+Island Effects</em>. Language, Volume 86.
+<li> Wasow, Thomas (1972) Anaphoric Relations in English.  MIT dissertation
+</ul>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: November 15, 2011
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

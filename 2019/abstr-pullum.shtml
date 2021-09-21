@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Pullum, Geoffrey K.: What grammars are, or ought to be
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="What grammars are, or ought to be">
+<meta name="citation_author"           content="Pullum, Geoffrey K.">
+<meta name="citation_conference_title" content="Proceedings of the 26th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2019">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="58">
+<meta name="citation_lastpage"         content="78">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2019/hpsg2019-pullum.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Pullum, Geoffrey K.: What grammars are, or ought to be
+</h1>
+
+<div class="blurb"
+<p>
+Progress toward distinguishing clearly between generative and model-theoretic syntactic frameworks has not been smooth or swift, and the obfuscatory term `constraint-based' has not helped. This paper reviews some elementary subregular formal language theory relevant to comparing description languages for model-theoretic grammars, generalizes the results to trees, and points out that HPSG linguists have maintained an unacknowledged and perhaps unintended allegiance to the idea of strictly local description: unbounded dependencies, in particular, are still being conceptualized in terms of plugging together local tree parts annotated with the SLASH feature. Adopting a description language with quantifiers holds out the prospect of eliminating the need for the SLASH feature.  We need to ask whether that would be a good idea. Binding domain phenomena might tell us. More work of both descriptive and mathematical sorts is needed before the answer is clear.
+  
+<P>
+<ul>
+<li><a href="hpsg2019-pullum.pdf">download PDF</a>
+<li><a href="pullum.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 15 October 2019
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

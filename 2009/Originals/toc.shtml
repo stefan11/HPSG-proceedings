@@ -1,0 +1,185 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+      <!-- This site generated using MacPerl, BBEdit, Adobe Illustrator, and Adobe Photoshop on MacOS-->
+<head>
+<title>HPSG '09 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta NAME="keywords" CONTENT="">
+<link rel="stylesheet" 
+type="text/css" href="hpsg-style.css">
+
+<script type="text/javascript">
+var name = null;
+cold_index = new Image();
+cold_order = new Image();
+cold_contact = new Image();
+cold_site_index = new Image();
+cold_backlist = new Image();
+cold_authors = new Image();
+cold_search = new Image();
+cold_new_books = new Image();
+hot_index = new Image();
+hot_order = new Image();
+hot_contact = new Image();
+hot_site_index = new Image();
+hot_backlist = new Image();
+hot_authors = new Image();
+hot_search = new Image();
+hot_new_books = new Image();
+cold_index.src = "/gif/indexButton.gif";
+cold_order.src = "/gif/orderButton.gif";
+cold_contact.src = "/gif/contactButton.gif";
+cold_site_index.src = "/gif/site_indexButton.gif";
+cold_backlist.src = "/gif/backlistButton.gif";
+cold_authors.src = "/gif/authorsButton.gif";
+cold_search.src = "/gif/searchButton.gif";
+cold_new_books.src = "/gif/new_booksButton.gif";
+hot_index.src = "/gif/index_hotButton.gif";
+hot_order.src = "/gif/order_hotButton.gif";
+hot_contact.src = "/gif/contact_hotButton.gif";
+hot_site_index.src = "/gif/site_index_hotButton.gif";
+hot_backlist.src = "/gif/backlist_hotButton.gif";
+hot_authors.src = "/gif/authors_hotButton.gif";
+hot_search.src = "/gif/search_hotButton.gif";
+hot_new_books.src = "/gif/new_books_hotButton.gif";
+    
+
+function hotLHS(imageName) {
+    if (document.images) {
+        hotText = eval("hot_" + imageName + ".src");
+        document [imageName].src = hotText;
+}}
+
+function coldLHS(imageName) {
+    if (document.images) {
+        coldText = eval("cold_" + imageName + ".src");
+        document [imageName].src = coldText;
+}}
+
+</script>
+</head>
+<body BGCOLOR=#FFFFFF>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><table BORDER=0
+CELLPADDING=0 CELLSPACING=0><tr><td><a HREF="../../site/index.html"><img
+ALT="CSLI Publications logo" SRC=/gif/logo.gif BORDER=0 HEIGHT=68 WIDTH=180></a></td><td><img SRC="/gif/backlistTitle.gif" ALT="" HEIGHT=68 WIDTH=468></td></tr></table></td></tr><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0 VALIGN=top><tr><td HEIGHT=276 WIDTH=87 VALIGN=top BACKGROUND="/gif/left.gif">
+
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/new_books.html onMouseover="hotLHS('new_books')" onMouseout="coldLHS('new_books')"><img BORDER=0 SRC="/gif/new_booksButton.gif" NAME=new_books HEIGHT=20 WIDTH=87 ALT="new_books"></a></td></tr><tr><td><a HREF=../../site/backlist.html onMouseover="hotLHS('backlist')" onMouseout="coldLHS('backlist')"><img BORDER=0 SRC="/gif/backlistButton.gif" NAME=backlist HEIGHT=20 WIDTH=87 ALT="backlist"></a></td></tr><tr><td><a HREF=../../site/site_index.html onMouseover="hotLHS('site_index')" onMouseout="coldLHS('site_index')"><img BORDER=0 SRC="/gif/site_indexButton.gif" NAME=site_index HEIGHT=20 WIDTH=87 ALT="site_index"></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/contact.html onMouseover="hotLHS('contact')" onMouseout="coldLHS('contact')"><img BORDER=0 SRC="/gif/contactButton.gif" NAME=contact HEIGHT=20 WIDTH=87 ALT="contact"></a></td></tr><tr><td><a HREF=../../site/authors.html onMouseover="hotLHS('authors')" onMouseout="coldLHS('authors')"><img BORDER=0 SRC="/gif/authorsButton.gif" NAME=authors HEIGHT=20 WIDTH=87 ALT="authors"></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/order.html onMouseover="hotLHS('order')" onMouseout="coldLHS('order')"><img BORDER=0 SRC=/gif/orderButton.gif NAME=order HEIGHT=20 WIDTH=87 ALT=order></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/search.html onMouseover="hotLHS('search')" onMouseout="coldLHS('search')"><img BORDER=0 SRC=/gif/searchButton.gif NAME=search HEIGHT=20 WIDTH=87 ALT=search></a></td></tr></table></td>
+<td HEIGHT=276 WIDTH=474 VALIGN=top BGCOLOR=#FFFFFF>
+<table BORDER=0 CELLPADDING=7 CELLSPACING=0><tr><td>
+<tr><td>
+<h1>
+Proceedings of the 16th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg09.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg09.pdf"-->) with page numbers.
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+
+
+<li>Gabriela Bîlbîie and  Frédéric Laurens (LLF, Université Paris Diderot Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">A Construction-based Analysis of Verbless Relative Adjuncts in French and Romanian
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-bl.shtml">abstract</a>, <a href="bilbiie-laurens.pdf">pages 5&#8211;25</a>
+
+
+<li>Olivier Bonami (Université Paris-Sorbonne and Laboratoire de Linguistique Formelle) and Pollet Samvelian (Université Paris 3 Sorbonne nouvelle and Mondes iranien et indien)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Inflectional periphrasis in Persian
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-bs.shtml">abstract</a>, <a href="bonami-samvelian.pdf">pages 26&#8211;46</a>
+
+<li>Rui P. Chaves (University at Buffalo &ndash; SUNY)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Construction-based Cumulation and Adjunct Extraction
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-chaves.shtml">abstract</a>, <a href="chaves.pdf">pages 47&#8211;67</a>
+
+<li>Berthold Crysmann (Universität Bonn and Universität des Saarlandes)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Deriving Superficial Ergativity in Nias
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-crysmann.shtml">abstract</a>, <a href="crysmann.pdf">pages 68&#8211;88</a>
+
+<li>Marianne Desmets (Université Paris Ouest/LLF) and Florence Villoing (Université Paris Saint-Denis/SFL)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">French VN lexemes: morphological compounding in HPSG
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-dv.shtml">abstract</a>, <a href="desmets-villoing.pdf">pages 89&#8211;109</a>
+
+
+<li>Antske Fokkens, Laurie Poulson and Emily M. Bender (Universität des Saarlandes and University of Washington)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Inflectional Morphology in Turkish VP Coordination
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-fpb.shtml">abstract</a>, <a href="fokkens-poulson-bender.pdf">pages 110&#8211;130</a>
+
+<li>Anke Holler (University of Göttingen)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Towards an analysis of the adverbial use of German interrogative <i>was</i>
+(`what')
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-holler.shtml">abstract</a>, <a href="holler.pdf">pages 131&#8211;149</a>
+
+<li>Gianina Iord&#259;chioaia and Frank Richter (Universität Stuttgart/Universität Tübingen)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Negative Concord in Romanian as Polyadic Quantification
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ir.shtml">abstract</a>, <a href="iordachioaia-richter.pdf">pages 150&#8211;170</a>
+
+<li>Paul Kay (University of California, Berkeley) and Ivan A. Sag (Stanford University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">How Hard a Problem Would This Be to Solve?
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ks.shtml">abstract</a>, <a href="kay-sag.pdf">pages 171&#8211;191</a>
+
+<li>David Lahm (Universität Tuebingen)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">An Alternative to the HPSG Raising principle on the description level
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-lahm.shtml">abstract</a>, <a href="lahm.pdf">pages 192&#8211;212</a>
+
+<li>Stefan Müller (Freie Universität Berlin)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">On Predication
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-mueller.shtml">abstract</a>, <a href="mueller.pdf">pages 213&#8211;233</a>
+
+<li>Stefan Müller and Janna Lipenkova (Freie Universität Berlin)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Serial Verb Constructions in Chinese: A HPSG Account
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ml.shtml">abstract</a>, <a href="mueller-lipenkova.pdf">pages 234&#8211;254</a>
+
+<li>Bjarne Ørsnes (Freie Universität Berlin)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Preposed Negation in Danish
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-oersnes.shtml">abstract</a>, <a href="oersnes.pdf">pages 255&#8211;275</a>
+
+<li>Shakthi Poornima and Jean-Pierre Koenig (State University of New York at Buffalo)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Hindi Aspectual Complex Predicates
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-pk.shtml">abstract</a>, <a href="poornima-koenig.pdf">pages 276&#8211;296</a>
+
+<li>Frank Richter (University of Tübingen) and Manfred Sailer (University of Göttingen)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Phraseological Clauses in Constructional HPSG
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-rs.shtml">abstract</a>, <a href="richter-sailer.pdf">pages 297&#8211;317</a>
+
+<li>Filip Skwarski (University of Warsaw)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Accounting for Underlying Forms in HPSG Phonology
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-skwarski.shtml">abstract</a>, <a href="skwarski.pdf">pages 318&#8211;337</a>
+
+<li>Jesse Tseng (Cognition Langues Langage Ergonomie Équipe de recherche en syntaxe et sémantique CLLE-ERSS UMR 5263 CNRS and University of Toulouse)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Phonological change and grammaticalization in HPSG: The case of French final consonants
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-tseng.shtml">abstract</a>, <a href="tseng.pdf">pages 338&#8211;358</a>
+
+<li>Frank Van Eynde (University of Leuven)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">On the copula: from a Fregean to a Montagovian treatment
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-van-eynde.shtml">abstract</a>, <a href="Van-Eynde.pdf">pages 359&#8211;375</a>
+
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Created: October 04, 2009
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+
+</td></tr><tr HEIGHT=30><td valign=bottom></td></tr></table></td>
+
+<td valign=top><img SRC="/gif/CSINRight.gif" ALT="" WIDTH=89 HEIGHT=1 BORDER=0></td>
+</table></td><td VALIGN=top><img SRC="/gif/backlistRight.gif" ALT="" HEIGHT=276 WIDTH=87></td></tr>
+<tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td HEIGHT=68 WIDTH=268>
+
+<table BORDER=0 CELLPADDING=5 CELLSPACING=0 BACKGROUND=/gif/bottom.gif><tr><td HEIGHT=68 WIDTH=268 VALIGN=bottom ALIGN=right>
+<font FACE="arial, helvetica" SIZE=-1 COLOR=#000055><a HREF=mailto:pubs@roslin.stanford.edu>pubs@roslin.stanford.edu</a>
+</font></td></tr></table></td>
+<td><img SRC="/gif/logo_bottom.gif" ALT="" HEIGHT=68 WIDTH=380></td></tr></table></td></tr></table></body></html>

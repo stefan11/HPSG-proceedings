@@ -1,0 +1,143 @@
+<html>
+<head>
+<title>Proceedings of the 13th International Conference on Head-Driven Phrase Structure Grammar</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</HEAD>
+
+
+<BODY>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 13th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+
+<p class="author">
+Linguistic Modelling Laboratory,<br>Institute for Parallel Processing,<br>Bulgarian Academy of Sciences,<br>Sofia,<br>Held in Varna<br>
+July 24&ndash;27, 2006</p>
+
+<p class="author">
+Editor: Stefan Müller<br>
+2006 &copy; <a href="http://cslipublications.stanford.edu/">CSLI Publications</a><br>
+ISSN 15351793
+</p>
+
+<div class="blurb"
+<p>
+
+<a href="toc.shtml">Table of Contents</a>
+
+
+<hr> 
+
+<h2>
+Editor's Note
+</h2>
+<p>
+The 13th International Conference on Head-Driven Phrase Structure Grammar (2006) was held in Varna
+and organized by the Linguistic Modelling Laboratory of the Institute for Parallel Processing of the
+Bulgarian Academy of Sciences in Sofia.
+<p>
+The conference featured 2 invited talks, 16 papers, and 4 posters
+selected by the program committee 
+(Anne Abeillé,
+Raul Aranovich,
+Emily Bender,
+Gosse Bouma,
+António Branco,
+Chan Chung,
+Ann Copestake,
+Berthold Crysmann,
+Elisabeth Engdahl,
+Anna Feldman,
+Dan Flickinger,
+Howard Gregory,
+Daniele Godard,
+Erhard Hinrichs (chair),
+Jong-Bok Kim,
+Valia Kordoni,
+Ania Kupsc,
+Shalom Lappin,
+Robert Levine,
+Stefan Müller,
+Tsuneko Nakazawa,
+Petya Osenova,
+Gerald Penn,
+Luisa Sadler,
+Ivan Sag,
+Manfred Sailer,
+Gautam Sengupta,
+Jan-Philipp Soehn (chair),
+Jesse Tseng,
+Nathan Vaillette,
+Stephen Wechsler,
+Eun-Jung Yoo,
+Larisa Zlatic).
+<p>
+A workshop about <em>Regularity and Irregularity in Grammar and Language</em>
+was attached to the conference. It featured one invited talk
+and 5 papers, selected by the program committee.
+<p>
+In total there were 39 submissions to the main conference and  submissions to the
+workshop. 
+We want to thank the respective program committee for putting this nice program together.
+<p>
+<p>
+<p>
+<p>
+Thanks go to Kiril Simov and Petya Osenova, who were in charge of local arrangements.
+<p>
+<p>
+As in the past years the contributions to the conference proceedings are based on the five page abstract
+that was reviewed by the respective program committees, but there is no additional reviewing of the
+longer contribution to the proceedings.
+To ensure easy access and fast publication we have chosen an electronic format.
+<p>
+<p>
+The proceedings include all the papers except those by Stefan Müller, Shravan Vasishth, and Frank
+van Eynde.
+<p>
+
+The <a href="toc.shtml">table of contents</a> lists all the
+papers presented at the conference. Some papers were not submitted to
+the proceedings. For these papers, we suggest contacting the authors
+directly.
+
+<p>
+
+A <a href="hpsg2006.bib">list of BibTeX-Entries</a> containing bibliographic
+information is also available.
+
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 09.01.2019 (21:32:50)
+</address> 
+</div>
+</td>
+
+<!--#include virtual="../Includes/hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../Includes/HPSG-body-bottom" --> 
+
+
+</body></html>

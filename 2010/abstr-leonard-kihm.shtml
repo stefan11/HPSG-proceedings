@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Léonard, Jean-Léo &amp; Kihm, Alain: Verb Inflection in Chiquihuitlán Mazatec: a Fragment and a PFM Approach
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Verb Inflection in Chiquihuitlán Mazatec: a Fragment and a PFM Approach">
+<meta name="citation_author"           content="Léonard, Jean-Léo">
+<meta name="citation_author"           content="Kihm, Alain">
+<meta name="citation_conference_title" content="Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2010">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="288">
+<meta name="citation_lastpage"         content="306">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2010/leonard-kihm.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Léonard, Jean-Léo &amp; Kihm, Alain: Verb Inflection in Chiquihuitlán Mazatec: a Fragment and a PFM Approach
+</h1>
+
+<div class="blurb"
+<p>
+Mazatec is an Eastern Otomanguean language spoken by about 200,000 people, located in the
+northeastern part of the state of Oaxaca, Mexico. The present paper aims to shed new light on
+Mazatec verb inflection within the framework of current research on Otomanguean phonology and
+morphology. We intend to show that, despite bewildering apparent complexity, mainly due to extensive
+morphophonological processes, Mazatec inflectional morphology is in fact rather simple and
+regular. Realizational approaches, in particular Paradigm Function Morphology (PFM) seem especially
+adequate to capture such regularities.
+  
+<P>
+<ul>
+<li><a href="leonard-kihm.pdf">download PDF</a>
+<li><a href="leonard-kihm.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2010
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

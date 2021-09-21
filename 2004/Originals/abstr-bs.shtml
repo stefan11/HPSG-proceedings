@@ -1,0 +1,129 @@
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+      <!-- This site generated using MacPerl, BBEdit, Adobe Illustrator, and Adobe Photoshop on MacOS-->
+<head>
+<title>John Beavers and Ivan A. Sag: Coordinate Ellipsis and Apparent Non-Constituent Coordination</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG), , ">
+<!-- for google scholar -->
+<meta name="citation_title"            content="Coordinate Ellipsis and Apparent Non-Constituent Coordination">
+<meta name="citation_author"           content="John Beavers">
+<meta name="citation_author"           content="Ivan A. Sag">
+<meta name="citation_conference_title" content="Proceedings of the International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2004">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="48">
+<meta name="citation_lastpage"         content="69">
+<meta name="citation_pdf_url" content="http://cslipublications.stanford.edu/HPSG/2004/beavers-sag.pdf">
+
+
+
+<script language ="JavaScript">
+var name = null;
+cold_index = new Image();
+cold_order = new Image();
+cold_contact = new Image();
+cold_site_index = new Image();
+cold_backlist = new Image();
+cold_authors = new Image();
+cold_search = new Image();
+cold_new_books = new Image();
+hot_index = new Image();
+hot_order = new Image();
+hot_contact = new Image();
+hot_site_index = new Image();
+hot_backlist = new Image();
+hot_authors = new Image();
+hot_search = new Image();
+hot_new_books = new Image();
+cold_index.src = "../../gif/indexButton.gif";
+cold_order.src = "../../gif/orderButton.gif";
+cold_contact.src = "../../gif/contactButton.gif";
+cold_site_index.src = "../../gif/site_indexButton.gif";
+cold_backlist.src = "../../gif/backlistButton.gif";
+cold_authors.src = "../../gif/authorsButton.gif";
+cold_search.src = "../../gif/searchButton.gif";
+cold_new_books.src = "../../gif/new_booksButton.gif";
+hot_index.src = "../../gif/index_hotButton.gif";
+hot_order.src = "../../gif/order_hotButton.gif";
+hot_contact.src = "../../gif/contact_hotButton.gif";
+hot_site_index.src = "../../gif/site_index_hotButton.gif";
+hot_backlist.src = "../../gif/backlist_hotButton.gif";
+hot_authors.src = "../../gif/authors_hotButton.gif";
+hot_search.src = "../../gif/search_hotButton.gif";
+hot_new_books.src = "../../gif/new_books_hotButton.gif";
+    
+
+function hotLHS(imageName) {
+    if (document.images) {
+        hotText = eval("hot_" + imageName + ".src");
+        document [imageName].src = hotText;
+}}
+
+function coldLHS(imageName) {
+    if (document.images) {
+        coldText = eval("cold_" + imageName + ".src");
+        document [imageName].src = coldText;
+}}
+
+</script></head>
+<body BGCOLOR=FFFFFF>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/index.html><img ALT="CSLI Publications logo" SRC=../../gif/logo.gif BORDER=0 HEIGHT=68 WIDTH=180></a></td><td><img SRC=../../gif/backlistTitle.gif HEIGHT=68 WIDTH=468></td></tr></table></tr></td><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0 VALIGN=top><tr><td HEIGHT=276 WIDTH=87 VALIGN=top BACKGROUND=../../gif/left.gif>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/new_books.html onMouseover="hotLHS('new_books')" onMouseout="coldLHS('new_books')"><img BORDER=0 SRC=../../gif/new_booksButton.gif NAME=new_books HEIGHT=20 WIDTH=87 ALT=new_books></a></td></tr><tr><td><a HREF=../../site/backlist.html onMouseover="hotLHS('backlist')" onMouseout="coldLHS('backlist')"><img BORDER=0 SRC=../../gif/backlistButton.gif NAME=backlist HEIGHT=20 WIDTH=87 ALT=backlist></a></td></tr><tr><td><a HREF=../../site/site_index.html onMouseover="hotLHS('site_index')" onMouseout="coldLHS('site_index')"><img BORDER=0 SRC=../../gif/site_indexButton.gif NAME=site_index HEIGHT=20 WIDTH=87 ALT=site_index></a></td></tr><tr><td><img SRC="../../gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/contact.html onMouseover="hotLHS('contact')" onMouseout="coldLHS('contact')"><img BORDER=0 SRC=../../gif/contactButton.gif NAME=contact HEIGHT=20 WIDTH=87 ALT=contact></a></td></tr><tr><td><a HREF=../../site/authors.html onMouseover="hotLHS('authors')" onMouseout="coldLHS('authors')"><img BORDER=0 SRC=../../gif/authorsButton.gif NAME=authors HEIGHT=20 WIDTH=87 ALT=authors></a></td></tr><tr><td><img SRC="../../gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/order.html onMouseover="hotLHS('order')" onMouseout="coldLHS('order')"><img BORDER=0 SRC=../../gif/orderButton.gif NAME=order HEIGHT=20 WIDTH=87 ALT=order></a></td></tr><tr><td><img SRC="../../gif/pixel.gif" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/search.html onMouseover="hotLHS('search')" onMouseout="coldLHS('search')"><img BORDER=0 SRC=../../gif/searchButton.gif NAME=search HEIGHT=20 WIDTH=87 ALT=search></a></td></tr></table></td>
+
+<td HEIGHT=276 WIDTH=474 VALIGN=top BGCOLOR=FFFFFF>
+<table BORDER=0 CELLPADDING=7 CELLSPACING=0><tr><td>
+
+
+
+<!-- Heading -->
+<font face="arial, helvetica" size=+2>
+John Beavers and Ivan A. Sag: Coordinate Ellipsis and Apparent Non-Constituent Coordination
+</font><p>
+<font face="arial, helvetica" size=0>
+
+Within the tradition of Categorial Grammar, so-called
+`non-constituent' coordination (`argument cluster' coordination and
+`right node raising') has been analyzed in terms of the coordination
+of nonstandard constituents produced by the operations of type
+raising and composition.  This highly successful research has
+expanded the domain of data that modern analyses of coordination
+must take into account. Recent HPSG work by Yatabe (2002) and
+Crysmann (2003) provides an interesting alternative approach to
+this problem in terms of the coordination of familiar, but
+`elliptical' constituents. We argue that this approach is
+empirically superior to the Categorial Grammar analysis, both in
+terms of empirical coverage and cross-linguistic predictions. We
+reassess the relevant English data in small but important ways, and
+develop our own ellipsis analysis, building on Yatabe's and
+Crysmann's insights.
+
+<P>
+<ul>
+<li><a href="beavers-sag.pdf">download PDF</a>
+<li><a href="toc.shtml">Toc of the proceedings</a>
+</ul> 
+
+</font>
+<hr>
+<font FACE="arial, helvetica" SIZE=-1><i>
+<address>
+
+Maintained by <a href=http://hpsg.fu-berlin.de/~stefan/>Stefan M&uuml;ller</a></address> 
+
+<br>Created: October 25, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"--></i>
+</font>
+
+<font FACE="arial, helvetica" SIZE=-1><p></font><font FACE="arial, helvetica" SIZE=-1><i><p></i></font><font FACE="arial, helvetica" SIZE=-1><i><p></i></font></td></tr><tr HEIGHT=30><td valign=bottom></a></a></td></tr></table></td>
+
+<td valign=top><img SRC="../../gif/CSINRight.gif" WIDTH=89 HEIGHT=1 BORDER=0></td>
+</font></tr></td></table></td><td VALIGN=top><img SRC=../../gif/backlistRight.gif HEIGHT=276 WIDTH=87></td></tr></table></tr></td>
+<tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td HEIGHT=68 WIDTH=268>
+<table BORDER=0 CELLPADDING=5 CELLSPACING=0 BACKGROUND=../../gif/bottom.gif><tr><td HEIGHT=68 WIDTH=268 VALIGN=bottom ALIGN=right>
+<font FACE="arial, helvetica" SIZE=-1 COLOR=000055><a HREF=mailto:pubs@roslin.stanford.edu>pubs@roslin.stanford.edu</a>
+
+</font></td></tr></table></td>
+<td><img SRC=../../gif/logo_bottom.gif HEIGHT=68 WIDTH=380></td></tr></table></tr></td></table></body></html>
+

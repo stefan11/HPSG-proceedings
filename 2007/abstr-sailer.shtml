@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Sailer, Manfred: NPI Licensing, Intervention and Discourse Representation Structures in HPSG
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="NPI Licensing, Intervention and Discourse Representation Structures in HPSG">
+<meta name="citation_author"           content="Sailer, Manfred">
+<meta name="citation_conference_title" content="Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2007">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="214">
+<meta name="citation_lastpage"         content="234">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2007/sailer.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Sailer, Manfred: NPI Licensing, Intervention and Discourse Representation Structures in HPSG
+</h1>
+
+<div class="blurb"
+<p>
+Negative Polarity Items (NPI) are expressions such as English 'ever'
+and 'lift a finger' that only occur in sentences that are somehow
+<q>negative</q>.  NPIs have puzzled linguists working in syntax,
+semantics and pragmatics, but no final conclusion as to which module
+of the grammar should be responsible for the licensing has been
+reached.  Within HPSG interest in NPI has developed only relatively
+recently and is mainly inspired by the entailment-based approach of
+Ladusaw 1980 and Zwarts 1997.  Since HPSG's CONTENT value is a
+semantic representation, the integration of such a denotational theory
+cannot be done directly.  Adopting Discourse Representation Theory
+(DRT, Kamp and Reyle 1993, von Genabith et al. 2004) I show that it is
+possible to formulate a theory of NPI licensing that uses purely
+representational notions.  In contrast to most other frameworks in
+semantics, DRT attributes theoretical significance to the
+representation of meaning, i.e. to a <q>logical form</q>, and not only to
+the denotation itself.  This makes DRT particularly well-suited to my
+purpose.
+  
+<P>
+<ul>
+<li><a href="sailer.pdf">download PDF</a>
+<li><a href="sailer.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2007
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

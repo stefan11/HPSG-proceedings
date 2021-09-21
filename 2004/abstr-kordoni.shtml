@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kordoni, Valia: Between Shifts and Alternations: Ditransitive Constructions
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Between Shifts and Alternations: Ditransitive Constructions">
+<meta name="citation_author"           content="Kordoni, Valia">
+<meta name="citation_conference_title" content="Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2004">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="151">
+<meta name="citation_lastpage"         content="167">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2004/kordoni.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kordoni, Valia: Between Shifts and Alternations: Ditransitive Constructions
+</h1>
+
+<div class="blurb"
+<p>
+In this paper I present two classes of double object constructions in Modern 
+Greek, i.e., the genitive, as well as the double accusative, ditransitive 
+constructions. I show that these two classes differ from one another in that 
+not both of them permit derivational processes such as the formation of 
+adjectival passives. I also look at the case properties associated with the 
+verbs which head Modern Greek genitive and double accusative ditransitive 
+constructions. Finally, the analysis I propose for these constructions in 
+Modern Greek are formalized using the Minimal Recursion Semantics (MRS) 
+framework of Copestake et al. (2001) and Copestake et al. (2003).
+  
+<P>
+<ul>
+<li><a href="kordoni.pdf">download PDF</a>
+<li><a href="kordoni.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 25, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

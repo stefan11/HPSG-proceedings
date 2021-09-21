@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Hashimoto, Chikara &amp; Bond, Francis: A Computational Treatment of V-V Compounds in Japanese
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="A Computational Treatment of V-V Compounds in Japanese">
+<meta name="citation_author"           content="Hashimoto, Chikara">
+<meta name="citation_author"           content="Bond, Francis">
+<meta name="citation_conference_title" content="Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2005">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="143">
+<meta name="citation_lastpage"         content="156">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/hashimoto-bond.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Hashimoto, Chikara &amp; Bond, Francis: A Computational Treatment of V-V Compounds in Japanese
+</h1>
+
+<div class="blurb"
+<p>
+We examine how a large-scale computational grammar can account for the
+complex nature of Japanese verbal compounds. Previous computational
+Japanese grammars have tried to avoid the problem by simple solutions
+such as enumerating as many verbal compounds in the lexicon as
+possible. In contrast, we develop the analysis that is linguistically
+adequate and computationally tractable and thus meets the
+requirement of a syntactically and semantically precise natural
+language processing of Japanese like Bond et al. (2005). Our analysis
+distinguishes between two kinds of verbal compounds: syntactic
+compounds, which are fully productive; and lexical compounds, which
+are of varying productivity.
+  
+<P>
+<ul>
+<li><a href="hashimoto-bond.pdf">download PDF</a>
+<li><a href="hashimoto-bond.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 14, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

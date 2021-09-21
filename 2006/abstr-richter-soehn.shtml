@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Richter, Frank &amp; Soehn, Jan-Philipp: <em>Braucht niemanden zu scheren</em>: A Survey of NPI Licensing in German
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="<em>Braucht niemanden zu scheren</em>: A Survey of NPI Licensing in German">
+<meta name="citation_author"           content="Richter, Frank">
+<meta name="citation_author"           content="Soehn, Jan-Philipp">
+<meta name="citation_conference_title" content="Proceedings of the 13th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2006">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="421">
+<meta name="citation_lastpage"         content="440">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2006/richter-soehn.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Richter, Frank &amp; Soehn, Jan-Philipp: <em>Braucht niemanden zu scheren</em>: A Survey of NPI Licensing in German
+</h1>
+
+<div class="blurb"
+<p>
+In this contribution we will argue that negative polarity is a collocational
+phenomenon that does not follow from other properties of the respective lexical
+elements. With German data as evidence, we will follow a proposal by van der
+Wouden and treat Negative Polarity Items (NPIs) as collocates which must be
+licensed by abstract semantic properties of their contexts. Using a collocation
+module for HPSG, which has been independently motivated for bound words and
+idioms, we will show how to restrict the occurrence of NPIs to legitimate
+environments, starting from the negativity hierarchy of licensing environments
+by Zwarts. Besides a more fine-grained semantic licenser hierarchy, we will
+establish syntactic licensing domains and general collocational restrictions of
+NPIs.
+  
+<P>
+<ul>
+<li><a href="richter-soehn.pdf">download PDF</a>
+<li><a href="richter-soehn.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2006
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Abeillé, Anne &amp; Borsley, Robert D. &amp; Espinal,  Maria-Teresa: The syntax of Comparative Correlatives in French and Spanish
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="The syntax of Comparative Correlatives in French and Spanish">
+<meta name="citation_author"           content="Abeillé, Anne">
+<meta name="citation_author"           content="Borsley, Robert D.">
+<meta name="citation_author"           content="Espinal,  Maria-Teresa">
+<meta name="citation_conference_title" content="Proceedings of the 13th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2006">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="6">
+<meta name="citation_lastpage"         content="26">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2006/abe.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Abeillé, Anne &amp; Borsley, Robert D. &amp; Espinal,  Maria-Teresa: The syntax of Comparative Correlatives in French and Spanish
+</h1>
+
+<div class="blurb"
+<p>
+Comparative correlative (CC) constructions have received much attention in
+recent years. Major issues have been whether they involve special constructions
+and whether they have symmetric or asymmetric structures. Evidence from Romance
+suggests that they require special constructions and that they may be either
+symmetric or asymmetric. French has a single construction which is asymmetric
+for some speakers and symmetric for others. Spanish has two distinct
+constructions, one asymmetric and the other symmetric with quite different
+properties. The facts can be accommodated in a straightforward way within
+construction-based HPSG.
+  
+<P>
+<ul>
+<li><a href="abe.pdf">download PDF</a>
+<li><a href="abe.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 20, 2006
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

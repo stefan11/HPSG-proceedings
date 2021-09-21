@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Van Eynde, Frank: Binding, agreement and predicative complements
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Van Eynde, Frank: Binding, agreement and predicative complements
+</h1>
+
+<div class="blurb"
+<p>
+The talk presents and compares two ways of analyzing clauses with a 
+predicative complement. One treats the predicate selecting verbs, 
+such as <em>be</em> and <em>become</em>, as subject raisers and assumes that their 
+predicative complements are unsaturated phrases that denote a state-of-affairs.  
+The other treats the predicate selecting verbs as two-place relations 
+between the referents of their predicative complement and the subject. 
+Building on observations about binding and agreement in clauses with a
+predicative complement it is shown that the second treatment is more in
+line with independently motivated theories of binding and agreement 
+than the first treatment. The talk is based on part II of 
+Frank Van Eynde (2015), Predicative Constructions, CSLI Publications.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

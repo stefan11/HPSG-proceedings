@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Zamaraeva, Olga &amp; Emerson, Guy: Multiple Question Fronting without Relational Constraints:  An Analysis of Russian as a Basis for Cross-Linguistic Modeling
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Multiple Question Fronting without Relational Constraints:  An Analysis of Russian as a Basis for Cross-Linguistic Modeling">
+<meta name="citation_author"           content="Zamaraeva, Olga">
+<meta name="citation_author"           content="Emerson, Guy">
+<meta name="citation_conference_title" content="Proceedings of the 27th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2020">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="157">
+<meta name="citation_lastpage"         content="177">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2020/hpsg2020-zamaraeva-emerson.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Zamaraeva, Olga &amp; Emerson, Guy: Multiple Question Fronting without Relational Constraints:  An Analysis of Russian as a Basis for Cross-Linguistic Modeling
+</h1>
+
+<div class="blurb"
+<p>
+We present an analysis of multiple question fronting in a restricted variant of the HPSG formalism (DELPH-IN) where unification is the only natively defined operation. Analysing multiple fronting in this formalism is challenging, because it requires carefully handling list appends, something that HPSG analyses of question fronting heavily rely on. Our analysis uses the append list type to address this challenge. We focus the testing of our analysis on Russian, although we also integrate it into the Grammar Matrix customization system where it serves as a basis for cross-linguistic modeling. In this context, we discuss the relationship of our analysis to lexical threading and conclude that, while lexical threading has its advantages, modeling multiple extraction cross-linguistically is easier without the lexical threading assumption.
+  
+<P>
+<ul>
+<li><a href="hpsg2020-zamaraeva-emerson.pdf">download PDF</a>
+<li><a href="zamaraeva-emerson.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2020
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

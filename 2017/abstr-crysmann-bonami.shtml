@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Crysmann, Berthold &amp; Bonami, Olivier: Atomistic and holistic exponence in Information-based Morphology
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Atomistic and holistic exponence in Information-based Morphology">
+<meta name="citation_author"           content="Crysmann, Berthold">
+<meta name="citation_author"           content="Bonami, Olivier">
+<meta name="citation_conference_title" content="Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2017">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="141">
+<meta name="citation_lastpage"         content="161">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2017/hpsg2017-crysmann-bonami.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Crysmann, Berthold &amp; Bonami, Olivier: Atomistic and holistic exponence in Information-based Morphology
+</h1>
+
+<div class="blurb"
+<p>
+In this paper we discuss two contrasting views of exponence in inflectional morphology: the atomistic view, where content is associated individually with minimal segmentable morphs, and the
+holistic view, where the association is made for the whole word between complex content and constellations of morphs. On the basis of
+data from Estonian and Swahili, we argue that an adequate theory of inflection should be able to accomodate both views. We then show that
+the framework of Information-based Morphology (Crysmann and Bonami, 2016) is indeed compatible with both views, thanks to relying on realisation rules that associate <i>m</i> units of forms with <i>n</i> units of content.
+  
+<P>
+<ul>
+<li><a href="hpsg2017-crysmann-bonami.pdf">download PDF</a>
+<li><a href="crysmann-bonami.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 17/10/2017
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

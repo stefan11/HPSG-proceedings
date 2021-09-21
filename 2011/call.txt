@@ -1,0 +1,89 @@
+Call for papers
+
+Abstracts are solicited for presentations which address linguistic, foundational, or computational issues relating to the framework of Head-Driven Phrase Structure Grammar.
+Invited Speakers
+
+Olivier Bonami (Université Paris-Sorbonne)
+Thomas Wasow (Stanford University)
+Conference Format
+
+There will be two sessions: a main session, with 30 minute presentations, and a poster session. The poster session is intended as a means of encouraging the presentation of work that is not yet fully mature.
+
+Prospective speakers may submit either a 5 page abstract for the main session, or a 2 page abstract for the poster session. Abstracts submitted initially for the main session may be accepted, at the discretion of the program committee, for presentation in the poster session instead.
+Venue and Related Events
+
+The HPSG Conference will take place in at the University of Washington in Seattle, WA on 24-25 August 2011. It will be preceded by a day of tutorials on 22 August, and a workshop on Information Structure and Formal Grammar on 23 August. There will be a separate call for papers for the workshop.
+
+The tutorials will be given by Nicholas Asher (Toulouse) and Johanna Nichols (UC Berkeley).
+Submissions
+
+We will use an online submission system. All abstracts should be submitted via: http://www.easychair.org/conferences/?conf=hpsg2011
+
+Abstracts should be in PDF format.
+
+Please direct any questions to the Program Committee Chair: hpsg2011@easychair.org
+
+All abstracts will be reviewed anonymously by at least two reviewers. Abstracts should not include the authors' names, and authors are asked to avoid self-references.
+Important Dates
+
+Abstract submission deadline: 1 April 2011
+Notification of acceptance: 20 May 2011
+Conference: 22-25 August 2011
+Publication
+
+The conference proceedings will be published online by CSLI Publications. Only papers presented in the main session will be included in the proceedings.
+
+A call for contributions to the proceedings will be issued after the conference. Proceedings of previous conferences are available at:
+http://csli-publications.stanford.edu/HPSG/.
+
+The final deadline for receipt of written versions of conference papers is 15 November 2011.
+Program Committee
+
+Anne Abeillé
+Doug Arnold
+Emily M. Bender
+Philippe Blache
+Olivier Bonami
+Robert Borsley
+Gosse Bouma
+Rui Chaves
+Berthold Crysmann (chair)
+Dan Flickinger
+Danièle Godard
+Lars Hellan
+Anke Holler
+Jong-Bok Kim
+Jean-Pierre Koenig
+Valia Kordoni
+Anna Kupsc
+Robert Levine
+Rob Malouf
+Nurit Melnik
+Philip Miller
+Stefan Müller
+Gerald Penn
+Adam Przepiorkowski
+Frank Richter
+Ivan Sag
+Manfred Sailer
+Jesse Tseng
+Frank Van Eynde
+Gert Webelhuth
+Stephen Wechsler
+Shuichi Yatabe
+Conference Web Site
+
+http://depts.washington.edu/hpsg2011/
+Local Arrangements Chair
+
+Emily M. Bender
+Links
+
+For more information about HPSG, see, for example:
+
+    http://hpsg.stanford.edu/
+    http://www.ling.ohio-state.edu/research/hpsg/ 
+
+For more information on HPSG conferences:
+http://www.essex.ac.uk/linguistics/external/HPSG/
+

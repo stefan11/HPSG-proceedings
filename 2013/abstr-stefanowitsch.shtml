@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Stefanowitsch, Anatol: Usage, grammar and stochastic cryptotypes
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Stefanowitsch, Anatol: Usage, grammar and stochastic cryptotypes
+</h1>
+
+<div class="blurb"
+<p>
+The relationship between usage and grammar is even more contentious than that between function and form. At one extreme, authors like Hoppper (1987) argue that grammar is nothing more than an emergent property of language use, at the other extreme, authors like Newmeyer (2003) argue that usage is only a fragmentary manifestation of grammar. Cognitive Grammar takes a middle ground, granting grammar an existence based in, but separate from usage (e.g. Langacker 1987). If the latter view is right, as I believe it is, then the grammatical system in place at a given time should exert a systemic pressure on usage. For example, gaps in grammatical paradigms should force (or encourage) speakers to invent usage patterns that fill these gaps; the same should be true, more generally, of  categories that are frequently observed in the grammar of human languages but happen to be missing from a particular grammar. In my talk, I will show that such patterns, which I call “stochastic cryptotypes”, can indeed be identified with the appropriate quantitative corpus-linguistic methods.
+<h2>References</h2>
+<ul class="pub">
+<li>Hopper, Paul (1987) Emergent Grammar. Berkeley Linguistics Society 13: 139–157.
+<li>Langacker, Ronald (1987) Foundations of Cognitive Grammar. Theoretical Prerequisites. Stanford: Stanford University Press.
+<li>Newmeyer, Frederick J. (2003) Grammar is grammar and usage is usage. Language 79: 682–707.
+</ul>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

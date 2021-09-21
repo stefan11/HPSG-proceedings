@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Tseng, Jesse: English Prepositional Passive Constructions
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="English Prepositional Passive Constructions">
+<meta name="citation_author"           content="Tseng, Jesse">
+<meta name="citation_conference_title" content="Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2007">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="271">
+<meta name="citation_lastpage"         content="286">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2007/tseng.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Tseng, Jesse: English Prepositional Passive Constructions
+</h1>
+
+<div class="blurb"
+<p>
+An empirical overview of the properties of English prepositional
+passives is presented, followed by a discussion of formal approaches
+to the analysis of the various types of prepositional passives in
+HPSG. While a lexical treatment is available, the significant number
+of technical and conceptual difficulties encountered point to an
+alternative approach relying on constructional constraints. The
+constructional approach is argued to be the best option for
+prepositional passives involving adjunct PPs, and this analysis can be
+extended to create a hierarchy of constructions accommodating all
+types of prepositional passives in English, and the ordinary NP
+passive.
+  
+<P>
+<ul>
+<li><a href="tseng.pdf">download PDF</a>
+<li><a href="tseng.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2007
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

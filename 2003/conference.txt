@@ -1,0 +1,559 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+
+
+Abeillé, Anne  # # Universite Paris 7 # A Lexicon- and Construction-Based Approach to Coordinations # October 2003 # #
+Leaving aside elliptical coordinations, it is striking that no agreement
+has been reached on the structure of basic coordinate constructions. We
+propose that:
+<ul>
+<li> coordinate constructions are structurally asymmetric : the conjunction
+makes a subconstituent with one of the conjuncts.
+<li> such constituents can have several functions: coordinate daughter,
+adjunct daughter or main clause.
+</ul>
+In order to show that some conjuncts should be analysed as adjuncts, we
+focus on asymmetric cases of coordination, in which the order of the
+conjuncts cannot be reversed, taking examples from French, Welsh and Korean.
+We present an HPSG analysis which treats the <Q>coordinating</Q> conjunctions as
+<Q>weak</Q> heads, with lexical subtypes, and coordinate phrases as multi-headed
+constructions, with  different subtypes.
+
+Abeillé, Anne & Godard, Danièle # # Université Paris 7 & LLF, CNRS # The Syntactic Flexibility of Adverbs: French Degree Adverbs # October 2003 # #
+While French degree words in French have been assigned several syntactic
+categories, we show that they are rather highy polymorphic adverbs (they occur
+in all syntactic domains), which select the expression they modify on a purely
+semantic basis. Like French adverbs in general, they occur both to the left and
+to the right of the head they modify. Following previous work (a.o. van Noord
+and Bouma 1994, Abeillé and Godard 1997, Bouma et al. 2000), we assign them two
+different grammatical functions, adjuncts and complements. Semantically, they
+differ from quantifiers. We follow Kennedy (2000) who analyzes them as scalar
+predicate modifiers. Finally, the specific syntactic constraints that
+characterize a subset of them can be shown to follow from, or be related to,
+their weight properties (Abeillé and Godard 2000). We conclude that their
+apparently idiosyncratic properties fit into a more general theory of grammar.
+
+Beavers, John # # Stanford University # More Heads and Less Categories: A New Look at Noun Phrase Structure # October 2003 # #
+Much literature in syntax has assumed that all noun phrases are
+categorically headed by the determiner or the noun, with well-formedness
+categorial in nature.  In this paper I develop a theory of noun phrase
+structure in which both categories project noun phrases, arguing that this
+better fits the indeterminacy of the criteria often cited for determining
+headedness (Zwicky, 1985, inter alia). The only categorial differences
+between determiners and nouns are their semantics and selectional
+restrictions, and the conditions that determine well-formedness are
+semantic in nature.  Specifically, a well-formed noun phrase must have
+some restrictive semantics associated with nouns coupled with some
+operational semantics associated with determiners (e.g. as a generalized
+quantifier), and from this I show how we can derive structural
+well-formedness.  Thus the need for categorial well-formedness is
+nullified, providing an analysis with greater cross-linguistic import,
+being compatible with languages without determiners.
+
+Bonami, Olivier  & Godard, Daniele  # # Universite Rennes & Universite Paris 7 # Incidental Adjuncts: An Overlooked Type of Adjunction #  October 2003 # no #
+Incidental adjuncts are adjuncts which are intonationally set apart from the
+rest of the sentence (e.g. 'John was here, it seems.'). Incidentality
+is a phonological/syntactic property, distinct from the semantic/pragmatic
+property of 'parentheticality'. We argue that at least in French, the
+distribution and scopal properties are incidentals are at odds with those of
+other adjuncts, and thus present a challenge for current approaches to the
+grammar of adjuncts.  We propose an analysis of French incidental modifiers
+which integrates seamlessly with current accounts of nonincidental modifiers
+and requires only conservative extensions to phrase structure grammar, along
+the lines of Reape's (1994) work on order domains.
+
+
+Bouma, Gosse  # # Rijskuniversiteit Groningen # Verb Clusters and the Scope of Adjuncts in Dutch # October 2003 # no #
+In this paper, we present an analysis of adjunct scope
+which combines the adjuncts-as-complements analysis with underspecified
+semantics. By imposing a single constraint on the dependency and
+argument structure of (verbal) lexical entries, it provides a unified
+account for the interaction of word order and scope in Dutch for cases
+involving adjuncts and quantified arguments, adjuncts and verb
+clusters, and multiple adjuncts.
+<ul>
+<li>The <a href=http://www.let.rug.nl/~gosse/papers/leipzig.pdf>paper</a>
+<li>The  <a href=http://www.let.rug.nl/~gosse/papers/hpsg03_talk.pdf>talk handout</a>
+<li>The bibliographic reference:
+<pre>
+@Incollection{Bouma2003,
+author    = "Gosse Bouma",
+title     = "Verb Clusters and the Scope of Adjuncts in {Dutch}",
+booktitle = "Verb Constructions in German and Dutch", 
+editor    = "Pieter A. M. Seuren and Gerard Kempen",
+publisher = "Benjamins", 
+address   = "Amsterdam and Philadelphia",
+pages     = "5-42",
+year      = "2003"
+}
+</pre>
+</ul>
+
+Choi, Incheol  & Wechsler, Stephen # # University of Texas at Austin # The Korean Dative # October 2003 # no # 
+Like many oblique case markers and adpositions, the Korean dative suffix
+expresses a semantic relation between coarguments of the verb.  Specifically,
+Korean dative encodes a locative relation between Location and Theme, as well
+as metaphorical extentions of this relation into other semantic fields,
+e.g. the Experiencer-Theme relation expressed in (1); change of possession
+verbs; etc.  However, unlike oblique case markers, the Korean dative is not in
+paradigmatic opposition to regular case (Nominative, Accusative, and Topic
+case).  We propose that dative and certain other oblique morphemes are
+specified in the feature OBL, while true case morphemes encode the CASE
+feature.  Dative is not 'assigned' by the verb per se, but rather its
+distribution is intrinsically determined by the interaction between the
+semantic CONTENT values of the verb and the dative marker, together with the
+rules of semantic composition.
+
+
+Chung, Chan  & Kim, Jong-Bok # # Dongseo University & Kyung Hee University # Capturing Word Order Asymmetries in English # October 2003 # #
+Left-Peripheral Constructions: A Domain-Based Approach
+Even though the word order in English is rather straightforward,
+the distributional possibilities of left-peripheral elements like
+topic phrases,  <em>wh</em>-phrases, and negative operators
+(introducing an SAI) are quite intriguing and complex.  In
+particular, there seems to exist no straightforward way of
+capturing the linear order asymmetries of these elements in the
+main and embedded clauses. The prevailing analyses have resorted
+to movement processes with multiple functional projections. The
+goal of this paper is to explore an alternative analysis to such
+movement-based analyses. In particular, this paper adopts the
+notion of topological fields (DOMAIN) proposed by Kathol (2000,
+2001) within the framework of HPSG. The paper shows that within
+this DOMAIN system, the distributional possibilities as well as
+the asymmetries we find in English left peripheral constructions
+can easily follow from the two traditional views: (i) a topic
+precedes a focus element, and (ii) in English a  <em>wh</em>-phrase
+and a complementizer competes with each other for the same
+position.
+
+De Kuthy, Kordula & Meurers, W. Detmar # # Ohio State University # Dealing with Optional Complements in HPSG-Based Grammar Implementations # October 2003 # #
+This paper discusses how the English Resource Grammar (ERG)
+captures the optionality of certain complements of verbs based on
+a single lexical entry coupled with an ontology of markings
+distinguishing optional from obligatory as well as unrealized from
+realized elements. Subject-head and head-complement structures
+are modified accordingly, but due to the lack of a possibility to
+express and use relational goals in grammars implemented in the
+LKB system, the ERG encoding falls short of the goal of treating
+optional complements in a general way. Instead, it requires two
+new types of `auxiliary' phrases which are otherwise unmotivated.
+We show that the problem can be overcome by using a recursive
+relation selecting a member from a list. The use of a lean
+implementation platform not supporting such relational goals, such
+as the LKB, thus results in a loss of generality of the grammars
+that can be expressed, which undermines the closeness of the
+implemented grammar to current linguistic analyses as one of the
+hallmarks of HPSG-based grammar implementation.  The case study
+presented in this paper thus supports the position argued in Götz
+and Meurers (1997) that a system for the implementation of
+HPSG-based grammars should include both universal implicational
+principles as well as definite clauses over feature terms.
+
+
+De Kuthy, Kordula & Meurers, W. Detmar # # Ohio State University # The Secret Life of Focus Exponents, and What it Tells Us about Fronted Verbal Projections # October 2003 # #
+The paper investigates a complex word order phenomenon in German
+and the interaction of syntax and information structure it
+exemplifies: the occurrence of subjects as part of a fronted
+non-finite constituent and particularly the so-called definiteness
+effect excluding (many) definite subjects from this position. We
+explore the connection between focus projection and the partial
+fronting cases and show that it is the subject of those verbs
+which allow their subject to be the focus exponent that can be
+included as part of a fronted verbal constituent. In combination
+with the observation by Webelhuth (1990) that fronted verbal
+constituents need to be focused, this provides a natural
+explanation of the definiteness effect in terms of the information
+structure requirements in these sentences.  Interestingly, the
+generally ignored exceptions to the definiteness effect are
+predicted by our analysis; we show that they involve definite noun
+phrases which can bear focus, which allows them to be part of a
+fronted verbal constituent.  Finally, building on the integrated
+grammatical architecture provided in De Kuthy (2002), we formulate
+an HPSG theory which captures the interaction of constraints from
+syntax, information structure and intonation.
+
+
+Flickinger, Dan  & Bond, Francis # # Stanford University & NTT Communication Science Labs # A Two-Rule Analysis of Measure Noun Phrases # October 2003 # #
+In this paper we present an analysis of English measure noun phrases.  Measure
+noun phrases exhibit both distributional idiosyncrasy, in that they appear in
+positions normally filled by degree adverbs: "a ten inch long string"; and
+agreement discord: "ten inches is enough", "it is ten inch/*inches long".
+The analysis introduces one idiosyncratic construction, the Measure Phrase
+Rule, which links together syntax and inflectional morphology.  Combined with
+existing rules, in particular the Noun-noun Compound Rule, the new rule
+accounts for the both the distributional and agreement idiosyncrasies.  The
+rule has been implemented and tested in the <a href=http://lingo.stanford.edu/erg.html>ERG</a>, a broad-coverage grammar of
+English.  Our analysis supports the position that broad-coverage grammars
+will necessarily contain both highly schematic and highly idiosyncratic
+rules.
+
+
+Gundel, Jeanette # # University of Minnesota # Information Structure and Referential Givenness/Newness: How Much Belongs in the Grammar? # October 2003 # #
+This paper is concerned with such concepts as <Q>topic</Q>, <Q>focus</Q> and <Q>cognitive
+status</Q> of discourse referents, which have been included under the label
+<Q>information structure</Q> (alternatively <Q>information status</Q>), as they are related
+in some sense to the distribution of given and new information. It addresses
+the question of which information structural properties are best accounted for
+by grammatical constraints and which can be attributed to non-linguistic
+constraints on the way information is processed and communicated. Two logically
+independent senses of given-new information are distinguished, one referential
+and the other relational. I discuss some examples of linguistic phenomena that
+pertain to each of these different senses and show that both are linguistically
+relevant and must be represented in the grammar. I also argue that phenomena
+related to both senses have pragmatic effects that do not have to be
+represented in the grammar since they result from interaction of the language
+system with general pragmatic principles that constrain inferential processes
+involved in language production and understanding.
+
+Haji-Abdolhosseini, Mohammad # # University of Toronto # Constraint-Based Approach to Information Structure and Prosody Correspondence # October 2003 # #
+This paper provides a constraint-based account of
+information-prosody correspondence within the HPSG framework. The
+starting point of the paper is Klein's (2000) account of prosodic
+constituency in HPSG. However, it departs from the standard
+syntactocentric architecture of grammar, and adopts a grammar design
+in which syntax, phonology, and information structure are generated
+in parallel, with all three applying to a common list of domain
+objects. It is shown that this theoretical architecture elegantly
+captures many of the various constraints that have been shown to
+hold in classical views of grammar.
+
+
+Holler, Anke # # University of Heidelberg § TEMIS Deutschland # An HPSG Analysis of the Non-Integrated <em>Wh</em>-Relative Clauses in German # October 2003 # #
+In this article, the so-called <em>wh</em>-relative clause construction is
+investigated. The German <em>wh</em>-relative clauses are syntactically relevant as they
+show both, root clause and subordinate clause properties. They matter
+semantically because they are introduced by a <em>wh</em>-anaphor that has to be
+resolved by an appropriate abstract entity of the matrix clause. Additionally,
+the <em>wh</em>-relative clause construction is discourse-functionally peculiar since it
+evokes coherence. Besides these interesting empirical characteristics,
+whrelatives raise important theoretical questions. It is argued that the
+standard HPSG theory has to be extended to account for non-restrictive relative
+clauses in general, and to cope with the particular properties of the
+<em>wh</em>-relative construction.
+
+
+Jaeger, Florian # # Stanford University # Topics First! In- and Outside of Bulgarian <em>Wh</em>-Interrogatives # October 2003 # #
+In Jaeger (to appear) I have described clitic doubling in Bulgarian
+<em>wh</em>-interrogatives which constitutes a type of Superiority violation that cannot
+be accounted for by any existing analyses. By showing that clitic doubling of
+object <em>wh</em>-phrases marks topicality, I raised the hypothesis that many (or maybe
+all) so called Superiority effects in Bulgarian are due to topic-fronting of
+<em>wh</em>-phrases. Here, I provide further support for this hypothesis and show that
+there is also evidence for topic-fronting of non-object <em>wh</em>-phrases. Differences
+between colloquial and formal Bulgarian are restricted to how topical objects
+have to be realized at the source of the extraction (i.e. the VP), which also
+makes the account readily extendable to other multiple fronting languages. The
+complex ordering constraints on the left periphery are captured in a Linear
+Syntax approach (similar to but different from Kathol 2000).
+
+
+Kathol, Andreas # # University of California Berkeley # Cooperating Constructions in Lai <q>Lexical Insertion</q> # October 2003 # #
+In this paper we investigate the factors conditioning a morphological
+alternation on verbal heads in Lai.  We show that this alternation
+eludes a simple characterization and instead exhibits a many-to-many
+form-function mapping. We will further show that the facts can be
+given a straightforward analysis in terms of default conditions based
+on valence and polarity, together with various constructional
+overrides. Our analysis thus follows recent proposals in HPSG, in
+particular Malouf (forthcoming), in using a constructional type
+hierarchy with defaults (<Q>cooperating constructions</Q>) as an
+alternative to an Optimality Theoretic system of ranked violable
+constraints.
+
+
+Koenig, Jean-Pierre & Davis, Anthony ## University at Buffalo, SUNY # Semantically Transparent Linking in HPSG # October 2003 # #
+Most researchers now agree that subcategorization correlates
+significantly with semantics. But this semantic component of linking has
+proved elusive. Most, if not all, theories of linking have, in pratice,
+resorted to constructs that are syntactic diacritics. We show in this
+paper that the implicit syntactic diacritics that plague the basic
+linking constraints posited in at least some of these theories can be
+eliminated, provided that (i) the metalanguage in which linguistic
+constraints are written allows for true implicational statements; (ii)
+one is willing to slightly increase the number of linking constraints.
+We focus in particular on the linking theory presented in Davis and
+Koenig 2000, Davis 2001, and Koenig and Davis 2000, but we maintain that
+our arguments apply, mutatis mutandis, to many other linking theories.
+We note some of the consequences of this view of linking, including:
+linking constraints are stated in terms of semantically natural classes
+of situations, a single entailment of a verb's argument is sufficient to
+determine its linking, and interaction among linking constraints
+restricts the range of possible lexical items.
+
+
+
+Levine, Robert D. & Sag, Ivan A. ## Ohio State University & Stanford University # Some Empirical Issues in the Grammar of Extraction # October 2003 # #
+This paper compares transformation-based and constraint-based treatments of
+unbounded filler-gap dependencies, the latter specifically as articulated in
+terms of HPSG, and argues, contrary to the commonly made allegations of
+notational variance , that there is purely empirical evidence that is
+consistent with only the constraint-based account. Recent proposals to deal
+with parasitic gaps in terms of null pronominals and empty operators are unable
+to account for the phenomenon of symbiotic gaps, the apparent case mismatches
+found in parasitic gap constructions, or (in general) for the well-known
+across-the-board effects within coordinate structures.
+
+
+Levy, Roger & Oshima, David Yoshikazu # # Stanford University # Non-Transitive Information Flow in Japanese Noun-Classifier Matching # October 2003 # #
+In Japanese, as in other classifier languages like Chinese and Malay, numerals
+do not directly quantize nouns, but first combine with a classifier to form a
+measure phrase (MP; cf. Aikhenvald 2000). From the perspective of
+constraint-based approaches to syntax/semantics, the mutual selective
+restriction between classifiers and nouns can be stated in terms of
+information-sharing and featural identity, to some extent parallel to the
+treatment of gender/number agreement (between determiner and noun, for
+instance) (cf. Pollard and Sag 1994; Kathol 1999). There are, however, data
+that challenge this line of approach to noun-classifier matching. We
+demonstrate in this paper that it is possible that a single noun is associated
+with different types of classifier, and show why they are problematic for
+unification-based approaches, similar to the situation with case syncretism in
+European languages (Ingria 1990 and others). Later in the paper, we argue that
+information-sharing between noun, predicate and classifier is not completely
+transitive, and present a formal analysis which models multiple selectional
+requirements with sets.
+
+
+Malouf, Robert # # San Diego State University # A Quantitative Look at Mixed Category Constructions # October 2003 # no #
+Generative approaches to grammar take an Aristotelean view of syntactic
+categories.  Expressions are either a member of a category or they are
+not, and every member of a category has the same status. Mixed category
+constructions, which show evidence of being a member of more than one
+syntactic category at the same time, can raise serious problems for this
+viewpoint.  For example, the word <Q>near</Q> behaves in many respects like a
+typical English adjective, yet also shows many properties typical of
+prepositions.  This leads Ross (1972) and others to argue for a
+categorical continuum, with typical adjectives standing at one end,
+typical prepositions at the other, and words like <Q>near</Q> somewhere in
+the middle. On the other hand, Newmeyer (1998) argues instead that there
+are in fact (at least) two words <Q>near</Q> in English - one an adjective
+and one a preposition - and there is no need for gradient category
+membership. In this talk, we present the results of quantitative
+experiments designed to test Newmeyer's hypothesis on the basis of a
+large collection of English text.  We find that there is indeed a strong
+association among adjectival properties and a strong association among
+prepositional properties. That is, as Newmeyer would predict, individual
+occurrences of <Q>near</Q> tend to either be adjectival or prepositional, but
+not both. However, this is only a tendency.  Intermediate forms, which
+show a mixture of prepositional and adjectival properties, are well
+attested, and in fact are not even particularly rare.  On the basis of
+this evidence, it appears that neither Ross's nor Newmeyer's analyses
+are fully consistent with the facts.  Instead, it seems that there is a
+need for some notion of a categorial prototype which represents a
+preference for canonical forms while still allowing occurrences of mixed
+forms.
+
+
+Metcalf, Vanessa # # Ohio State University # A linearization account of Spanish obligatory subject NP inversion # October 2003 # no #
+ 
+
+Müller, Stefan # 0000-0003-4413-5313 # University of Bremen # Object-to-Subject-Raising and Lexical Rule: An Analysis of the German Passiv # October 2003 # #
+It is a much-debated issue whether one should assume separate lexical
+entries for participles used in passive and perfect constructions
+or whether there is just one lexical entry that is used in different
+ways depending on whether a passive or perfect auxiliary is present in the clause.
+<p>
+In previous work I criticized approaches trying to analyze the passive
+with one lexical entry for making empirically wrong predictions
+and suggested a lexical-rule based approach were two different
+lexical items for the participle are licensed.
+<p>
+In this paper I show how Heinz and Matiasek's (1994) formalizations of Haider's (1986) ideas
+can be extended and modified in a way that both modal infinitives and control constructions
+can be captured correctly. The suggested analysis needs only one lexical item
+for participles, base form infinitives, and <em>zu</em> infinitives irrespective
+of their usage in active or passive like structures.
+
+
+Paris, Luis & Koenig, Jean-Pierre # # University at Albany, SUNY & University at Buffalo, SUNY # What Does It Mean to Be a Complement? # October 2003 # #
+This paper shows that the Gerund Phrase (GP) in the Spanish Gerund Construction
+(e.g., El jefe entró a su oficina corriendo, lit.  The boss entered his office
+running ) is sometimes a complement (in SGCC) and sometimes an adjunct (in
+SGCA). Although in both cases, the GP expresses a non-argument of the main
+lexical verb's denotation, it is a syntactic adjunct in SGCA and a syntactic
+dependent of the main clause s head in SGCC. We argue that there is a semantic
+correlate of this syntactic difference and propose a general principle that
+constrains the semantic relations that can hold between the denotata of heads
+and added members of their ARG-ST lists: The two denotata must be part of a
+larger macro-event in the sense of Talmy (2000). We further show that the
+relation between the events denoted by the gerund and main verbs involves four
+semantic conditions and that which subset of those four conditions are
+satisfied in a particular SGCC sentence determines what subkind of SGCC is
+involved.
+
+
+Penn, Gerald & Hoetmer, Kenneth # # University of Toronto # In Search of Epistemic Primitives in the English Resource Grammar (or Why HPSG Can't Live without Higher-Order Datatypes)# October 2003 # #
+This paper seeks to improve HPSG engineering through the design of more terse,
+readable and intuitive type signatures. It argues against the exclusive use of
+IS-A networks and, with reference to the English Resource Grammar, demonstrates
+that a collection of higher-order datatypes are already acutely in demand in
+contemporary HPSG design. Some default specification conventions to assist in
+maximizing the utility of higher-order type constructors are also discussed.
+
+
+Purver, Matthew & Ginzburg, Jonathan ## King's College London # Clarifying Noun Phrase Semantics in HPSG # October 2003 # #
+This paper examines reprise questions: questions which request clarification of
+the meaning intended by a speaker when uttering a word or phrase. As such they
+can act as semantic probes, providing information about what meaning can be
+associated with word and phrase types. We present corpus evidence regarding the
+meaning of nouns and noun phrases, and argue that this evidence runs contrary
+to the usual treatments of semantics in HPSG, and to the traditional
+generalised quantifier view of NPs as sets of sets. Instead we outline an
+analysis of NPs as (possibly functional) sets of individuals.
+
+Runner, Jeffrey T. & Aranovich, Raul  ## University of Rochester & University of California Davis # Noun Incorporation and Rule Interaction in the Lexicon # October 2003 # #
+Wasow (1977) argues that linguistic theory should recognize two qualitatively
+distinct types of rules: syntactic rules, which can affect more "superficial"
+grammatical function properties; and lexical rules, which affect deeper lexical
+semantic properties of lexical items. However, lexicalist theories of grammar
+have replaced syntactic rules with lexical rules leaving Wasow's dichotomy
+potentially unexplained. Our goal in this paper is to recapture Wasow's insight
+within a lexicalist framework such as HPSG. Building on Sag & Wasow's (1999)
+distinction between lexeme and word, we claim that there is a contrast between
+lexical rules that relate lexemes to lexemes (L-to-L rules) and lexical rules
+that relate words to words (W-to-W rules) and that these differences follow
+from the architecture of the grammar. In particular, we argue that syntactic
+function features (ARGST, VALENCE, etc.) are not defined for lexemes, while
+lexical semantic features (CONTENT) are. From this it follows that L-to-L rules
+can affect lexical semantic features, and not syntactic function features. In
+addition, since words are defined for syntactic function features, W-to-W rules
+can change them. In this paper, we support this hypothesis by examining certain
+differences between two types of Noun Incorporation construction, and their
+relation to other rules in the grammar. We argue that Compounding Noun
+Incorporation is an L-to-L type and that Classifier Noun Incorporation is a
+W-to-W type; we base our argument on the interaction of Noun Incorporation and
+Applicative Formation in the Paleo-Siberian language Chukchi and the isolate
+language Ainu.
+
+
+Schlangen, David & Lascarides, Alex ## University of Edinburgh # A Compositional and Constraint-Based Approach to Non-Sentential Utterances # October 2003 # #
+We present an approach to the interpretation of non-sentential
+utterances like B's utterance in the following mini-dialogue:
+<p>
+A: ``Who came to the party?''<br>
+B: ``Peter.´´
+<p>
+Such utterances pose several puzzles: they convey
+`sentence-type' messages (propositions, questions or request)
+while being of non-sentential form; and they are constrained
+both semantically and syntactically by the context. We address
+these puzzles in our approach which is compositional, since we
+provide a formal semantics for such fragments independent of
+their context, and constraint-based because resolution is
+based on collecting contextual constraints.
+
+
+Sells, Peter # Stanford University ## Negatives of imperatives # October 2003 # no #
+In this paper I investigate some empirical and theoretical issues
+regarding the presence of negation in imperatives, focussing on
+Korean.  Korean has a special form of negation which appears in
+imperative clauses, and I argue that the conditions governing the
+choice of regular negation or imperative negation are purely semantic
+in nature.  In particular, I argue that imperative negation constrains
+the denotation of its clause to be of type OUTCOME in the system of
+Ginzburg and Sag (2000), as opposed to regular negation which appears
+with PROPOSITIONS or QUESTIONS.  OUTCOMEs are built from irrealis soas
+(i-soa) while the others are built from realis soas (r-soa).  The
+partitioning of the two negations must go along these high-level
+semantic lines.  As in other languages with polite or honorific
+morphology, clause-type distinctions that Korean makes morphologically
+are typically neutralized in the presence of honorific morphology, and
+in such cases, using one negation or other disambiguates an example to
+just those clause denotations built out of an i-soa or an r-soa.
+I also compare a lexically-based HPSG analysis with a derivational
+account treating imperative negation as the spell-out of a combination
+of abstract functional heads.
+
+<ul>
+<li><a href=http://www.stanford.edu/~sells/imp-proc.pdf>short version of the paper</a>
+<li>The bibliographic reference:
+<pre>
+@inproceedings{Sells2003,
+author    = {Peter Sells},
+title     = {Negatives of Imperatives},
+booktitle = {Proceedings of the 10th Harvard International Symposium on Korean Linguistics},
+publisher = {Harvard University},
+year = 2003
+</pre>
+</ul>
+
+Tanenhaus, Michael K. ## University of Rochester # Interactions with Context in Language Comprehension: Implications and Challenges # October 2003 # no #
+During the last decade, psycholinguists have begun to
+investigate language comprehension using natural tasks in which the
+participants have well-defined behavioral goals.  The results of these
+investigations lead to a view of language processing in which
+linguistic and non-linguistic information are rapidly integrated to
+dynamically update referential domains, inform parsing decisions, and
+develop context-specific interpretations. I'll review some of these
+results, most of which are broadly consistent with the HPSG framework.
+I'll also outline some challenges for grammatical frameworks that seek
+to inform processing work, inviting members of the HPSG community to
+take up these challenges or point the psycholinguistic community to
+relevant existing work.  Some of the easier challenges involve the
+discourse "meaning" of phrasal and clausal constructions; harder
+challenges involve the plasticity of the processing system.
+
+Van Eynde, Frank ## University of Leuven # On the Notion `Determiner'# October 2003 # #
+Following a common practice in generative grammar, HPSG treats the 
+determiners as members of a separate functional part of speech (Det).
+The status of the functional parts of speech is a matter of debate and
+controversy. The auxiliaries, for instance, are commonly treated as 
+members of a separate functional category (Aux or Infl) in many variants 
+of generative grammar, including GB, MP and LFG, but in 
+GPSG and HPSG, it is a matter of equally common practice 
+to treat them as members of V and to reject the postulation of 
+a separate functional category, see 
+Pullum & Wilson (1977) and Gazdar, Pullum & Sag (1982).
+This text makes a similar case for the determiners; more
+specifically, it argues that the determiners are categorially 
+heterogeneous, in the sense that some are members of A, whereas 
+others are members of N. The argumentation is mainly based on   
+inflectional morphology and morpho-syntactic agreement data. 
+The consequences of the categorial heterogeneity are hard to 
+reconcile with the specifier treatment of the determiners in
+Pollard & Sag (1994) and with the Det-as-head treatment in
+Netter (1994), but it can smoothly be integrated in the 
+functor treatment of the prenominals in Allegranza (1998) and 
+Van Eynde (2002). 
+
+Yoo, Eun-Jung ## Seoul National University # Specificational Pseudoclefts in English # October 2003 # #
+Specificational pseudoclefts (SPCs) have been a great challenge for a syntactic theory, 
+because, despite the surface division between the pre- and post-copular elements, 
+the post-copular `pivot' behaves as if it occupied the gap position in the precopular 
+<em>wh</em>-clause. This paper argues that movement-based or deletion-based syntactic approaches 
+and purely semantic approaches have problems in dealing with syntactic properties 
+and connectivity problems of SPCs in English. Observing the parallelism between 
+SPC pivots and short answers to questions, it proposes an HPSG account based on 
+a non-deletion-based QDT (Question-in-disguise theory) approach and on the 
+equative analysis of the specificational copular sentences. The paper shows that 
+SPCs must be handled by an integrated account of the syntactic, semantic, and 
+pragmatic properties of the construction, and argues that the connectivity problems 
+should be approached from such an integrated view.
+
+
+Yoshimoto, Kei & Kobayashi, Masahiro  ## Tohoku University #Floating Quantifiers in Japanese as Non-Floating Anaphora # October 2003 # no #
+Floating quantifiers (FQs) in Japanese, i.e. quantifiers occurring after their host NPs floated
+from their normal prenominal position, have aroused heated discussion owing to their
+puzzling behavior (see e.g. Shibatani 1977, Miyagawa 1989, Yatabe 1990, and Fukushima
+1991, among others).  Hitherto they have been studied mainly in the domain of syntax, but
+recently a proposal has been put forward to take into account information structure based
+on a functional poit of view (Takami 1998).  Adopting this approach, we propose an analysis
+of Japanese sentences with FQs in which, without an essential use of the SLASH feature, an
+FQ is given an interpretation on its contribution to the information structure as the sentence
+is processed incrementally from left to right.  We show that this accounts for the subject-object
+asymmetry (Kuroda 1983).  Furthermore, the proposed construal of FQs as anaphora is
+applicable to cases where what an FQ quantifies is not identical with the denotation of its
+antecedent, but a whole-part relation holds between them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

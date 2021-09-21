@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Haugereid, Petter: An incremental approach to gapping and conjunction reduction
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="An incremental approach to gapping and conjunction reduction">
+<meta name="citation_author"           content="Haugereid, Petter">
+<meta name="citation_conference_title" content="Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2017">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="179">
+<meta name="citation_lastpage"         content="198">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2017/hpsg2017-haugereid.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Haugereid, Petter: An incremental approach to gapping and conjunction reduction
+</h1>
+
+<div class="blurb"
+<p>
+In this paper I present an incremental approach to gapping and conjunction reduction where it is assumed that the first sentence in these constructions is fully parsed before the second sentence with the elided verb is parsed. I will show that the two phenomena can be given a uniform analysis by letting the construction type of the first conjunct be carried over to the second conjunct. This construction type imposes constraints on the arguments that the second conjunct can have. The difference between gapping and conjunction reduction is captured by the already existing constructions for sentence and VP coordination. The analysis is implemented in an HPSG grammar of Norwegian.
+  
+<P>
+<ul>
+<li><a href="hpsg2017-haugereid.pdf">download PDF</a>
+<li><a href="haugereid.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2017
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

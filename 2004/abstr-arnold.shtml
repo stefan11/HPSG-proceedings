@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Arnold, Doug: Non-Restrictive Relative Clauses in Construction Based HPSG
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Non-Restrictive Relative Clauses in Construction Based HPSG">
+<meta name="citation_author"           content="Arnold, Doug">
+<meta name="citation_conference_title" content="Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2004">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="27">
+<meta name="citation_lastpage"         content="47">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2004/arnold.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Arnold, Doug: Non-Restrictive Relative Clauses in Construction Based HPSG
+</h1>
+
+<div class="blurb"
+<p>
+This paper presents an account of English non-restrictive (`appositive') relative
+clauses (NRCs) in the framework of `construction based' HPSG.
+Specifically, it shows how the account of restrictive relative clause
+constructions presented in Sag (1997) can be extended to provide an account of the
+syntax and semantics of NRCs
+and of the main differences between NRCs and restrictive relatives.
+The analysis reconciles the semantic intuition that
+NRCs behave like independent clauses with their subordinate syntax.  A significant
+point is that, in contrast with many other approaches, it employs only existing,
+independently motivated theoretical apparatus, and requires absolutely no new
+structures, features, or types.
+  
+<P>
+<ul>
+<li><a href="arnold.pdf">download PDF</a>
+<li><a href="arnold.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 12, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

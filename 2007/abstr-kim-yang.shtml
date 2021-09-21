@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kim, Jong-Bok &amp; Yang,  Jaehyung: Syntax and Semantics of Korean Numeral Classifier Constructions
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Syntax and Semantics of Korean Numeral Classifier Constructions">
+<meta name="citation_author"           content="Kim, Jong-Bok">
+<meta name="citation_author"           content="Yang,  Jaehyung">
+<meta name="citation_conference_title" content="Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2007">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="163">
+<meta name="citation_lastpage"         content="172">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2007/kim-yang.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kim, Jong-Bok &amp; Yang,  Jaehyung: Syntax and Semantics of Korean Numeral Classifier Constructions
+</h1>
+
+<div class="blurb"
+<p>
+The so-called floating quantifier constructions in languages like
+Korean display intriguing properties whose successful processing can
+prove the robustness of a parsing system. This paper shows that a
+constraint-based analysis, in particular couched upon the framework
+of HPSG, can offer us an efficient way of analyzing these
+constructions together with proper semantic representations. It also
+shows how the analysis has been successfully implemented in the LKB
+(Linguistic Knowledge Building) system.
+  
+<P>
+<ul>
+<li><a href="kim-yang.pdf">download PDF</a>
+<li><a href="kim-yang.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 22, 2007
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

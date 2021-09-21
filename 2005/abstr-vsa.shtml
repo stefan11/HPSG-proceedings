@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Villavicencio, Aline &amp; Sadler, Louisa &amp; Arnold, Doug: An HPSG Account of Closest Conjunct Agreement in NP Coordination in Portuguese
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="An HPSG Account of Closest Conjunct Agreement in NP Coordination in Portuguese">
+<meta name="citation_author"           content="Villavicencio, Aline">
+<meta name="citation_author"           content="Sadler, Louisa">
+<meta name="citation_author"           content="Arnold, Doug">
+<meta name="citation_conference_title" content="Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2005">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="427">
+<meta name="citation_lastpage"         content="447">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/vsa.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Villavicencio, Aline &amp; Sadler, Louisa &amp; Arnold, Doug: An HPSG Account of Closest Conjunct Agreement in NP Coordination in Portuguese
+</h1>
+
+<div class="blurb"
+<p>
+This paper discusses the NP-internal agreement strategies observed in an
+empirical (corpus based) study of Portuguese, and proposes an analysis
+which is formalized in the framework of Head-Driven Phrase Structure
+Grammar (HPSG). The empirical study suggests that what were previously thought to
+be rare or non-existent strategies occur with surprising frequency.
+Capturing these strategies poses problems for many standard
+approaches to agreement.  The formalization shows how they can be captured
+with a relatively conservative extension of the existing HPSG theory of agreement.
+  
+<P>
+<ul>
+<li><a href="vsa.pdf">download PDF</a>
+<li><a href="vsa.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

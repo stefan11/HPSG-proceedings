@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kobele, Gregory M.: Eliding the Derivation: A Minimalist Formalization of Ellipsis
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Eliding the Derivation: A Minimalist Formalization of Ellipsis">
+<meta name="citation_author"           content="Kobele, Gregory M.">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="409">
+<meta name="citation_lastpage"         content="426">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/kobele.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kobele, Gregory M.: Eliding the Derivation: A Minimalist Formalization of Ellipsis
+</h1>
+
+<div class="blurb"
+<p>
+In this paper I use the formal framework of minimalist grammars to implement a version of the
+traditional approach to ellipsis as ‘deletion under syntactic (derivational) identity’, which, in
+conjunction with canonical analyses of voice phenomena, immediately allows for voice mismatches in
+verb phrase ellipsis, but not in sluicing. This approach to ellipsis is naturally implemented in a
+parser by means of threading a state encoding a set of possible antecedent derivation contexts
+through the derivation tree. Similarities between ellipsis and pronominal resolution are easily
+stated in these terms. In the context of this implementation, two approaches to ellipsis in the
+transformational community are naturally seen as equivalent descriptions at different levels: the
+LF-copying approach to ellipsis resolution is best seen as a description of the parser, whereas the
+phonological deletion approach a description of the underlying relation between form and meaning.
+  
+<P>
+<ul>
+<li><a href="kobele.pdf">download PDF</a>
+<li><a href="kobele.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

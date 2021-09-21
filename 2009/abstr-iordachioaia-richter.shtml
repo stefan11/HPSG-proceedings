@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Iordăchioaia, Gianina &amp; Richter, Frank: Negative Concord in Romanian as Polyadic Quantification
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Negative Concord in Romanian as Polyadic Quantification">
+<meta name="citation_author"           content="Iordăchioaia, Gianina">
+<meta name="citation_author"           content="Richter, Frank">
+<meta name="citation_conference_title" content="Proceedings of the 16th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2009">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="150">
+<meta name="citation_lastpage"         content="170">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2009/iordachioaia-richter.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Iordăchioaia, Gianina &amp; Richter, Frank: Negative Concord in Romanian as Polyadic Quantification
+</h1>
+
+<div class="blurb"
+<p>
+In this paper we develop an HPSG syntax-semantics of negative concord in
+Romanian. We show that n-words in Romanian can best be treated as negative
+quantifiers which may combine by resumption to form polyadic negative
+quantifiers. Optionality of resumption explains the existence of simple
+sentential negation readings alongside double negation readings. We solve
+the well-known problem of defining general semantic composition rules for
+translations of natural language expressions in a logical language with
+polyadic quantifiers by integrating our higher-order logic in Lexical
+Resource Semantics, whose constraint-based composition mechanisms directly
+support a systematic syntax-semantics for negative concord with polyadic
+quantification.
+  
+<P>
+<ul>
+<li><a href="iordachioaia-richter.pdf">download PDF</a>
+<li><a href="iordachioaia-richter.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2009
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,80 @@
+\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
+                    % For some reasons some old HPSG proceedings have pdf 1.6
+\documentclass[a4paper,11pt]{article}
+\usepackage{times}
+\usepackage{ogonek} % Dąbkowski
+\hyphenation{Acad-e-my}
+\usepackage{pdfpages}
+\pdfinclusioncopyfonts=1
+\usepackage[utf8]{inputenc}
+        \usepackage{hyperref}
+        \hypersetup{colorlinks=false, pdfborder={0 0 0}}
+        \setcounter{page}{108}
+        \begin{document}
+
+\newcommand\formatauthor[2]{\begin{tabular}[t]{@{}c@{}}
+  {\LARGE#1\strut}\\
+  {\small#2\strut}\\
+  \rule{\dimexpr0.5\linewidth-1em}{0pt}
+  \end{tabular}\xhfill\ignorespaces}
+\newcommand\xhfill{\hspace{1em plus 1fill}}
+\thispagestyle{empty}
+
+\begin{center}
+  {\huge\bfseries Symmetry and asymmetry in the Hebrew copula construction\par}
+
+  \bigskip
+
+~\\
+\begingroup
+\setlength{\leftskip}{0pt plus 1fill}
+\setlength{\rightskip}{0pt plus 1fill}
+\setlength{\parindent}{0pt}
+\setlength{\parfillskip}{0pt}
+  \formatauthor{Nurit Melnik}{\begin{tabular}{@{}c@{}}The Open University of Israel\end{tabular}}
+
+\par\endgroup
+
+  \vspace*{8ex}
+
+  Proceedings of the 25th International Conference on\par Head-Driven Phrase Structure Grammar
+
+  \bigskip
+
+  University of Tokyo
+
+  \medskip
+
+  Stefan  Müller, Frank Richter (Editors)
+
+  \medskip
+
+  2018
+
+  \medskip
+
+  CSLI Publications
+
+  \medskip
+
+  pages 108--126
+
+  \medskip
+
+  \url{http://csli-publications.stanford.edu/HPSG/2018}
+\end{center}
+\vfill
+
+\noindent
+Keywords: HPSG, copula, agreement, inversion, Information Structure, Hebrew
+
+
+\vfill
+\noindent
+% APA Style
+Melnik, Nurit. 2018. Symmetry and asymmetry in the Hebrew copula construction. In Müller, Stefan, \& Richter, Frank (Eds.), \emph{{Proceedings of the 25th International Conference on Head-Driven Phrase Structure Grammar, University of Tokyo}}, 108--126. Stanford,
+CA: CSLI Publications. \hfill\href{http://creativecommons.org/licenses/by/4.0/}{\includegraphics[height=.75em]{Includes/ccby-eps-converted-to.pdf}}
+
+\newpage
+\includepdf[pages=-,pagecommand=\thispagestyle{plain}]{Includes/melnik.pdf}
+        \end{document}

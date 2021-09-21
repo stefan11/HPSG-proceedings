@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Soehn, Jan-Philipp: License to Coll: How to Bind Bound Words and Readings to their Contexts
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="License to Coll: How to Bind Bound Words and Readings to their Contexts">
+<meta name="citation_author"           content="Soehn, Jan-Philipp">
+<meta name="citation_conference_title" content="Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2004">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="261">
+<meta name="citation_lastpage"         content="273">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2004/soehn.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Soehn, Jan-Philipp: License to Coll: How to Bind Bound Words and Readings to their Contexts
+</h1>
+
+<div class="blurb"
+<p>
+In this contribution we propose a new module for handling idioms and
+distributional idiosyncrasies. Based on the concept by Richter/Sailer (1999)
+the new feature COLL (context of lexical licensing) plays the central role in
+our approach. We provide a way to handle decomposable and nondecomposable
+idioms and idioms containing bound words. Our module guarantees the
+co-occurrence of all idiom parts and of bound word and licensing context,
+respectively. A prerequisite for our analysis is a means to select for
+particular elements in the lexicon. We introduce another feature, LISTEME,
+which gives each lexical item its unique identifier andmakes it possible to
+select for a particular lexical word or phrase. Finally, we compare our
+proposal with alternative approaches and give some ideas regarding further
+applications beyond idiomaticity.
+  
+<P>
+<ul>
+<li><a href="soehn.pdf">download PDF</a>
+<li><a href="soehn.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: September 30, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

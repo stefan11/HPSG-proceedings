@@ -1,0 +1,82 @@
+<html>
+<head>
+<title>HPSG 2017 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+<meta name="citation_conference_title" content="Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_author"           content="MÃ¼ller, Stefan">
+<meta name="citation_publication_date" content="2017">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_pdf_url" content="http://cslipublications.stanford.edu/HPSG/2017/hpsg2017.pdf">
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</head>
+
+<body>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+<div class="blurb">
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg2017.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg2017.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+<li>Alsulami, Abeer (King Saud University, Riyadh), Arnold, Doug and Borsley, Robert D. (University of Essex)<p class="arttitle">Simple and Complex Comparatives in Modern Standard Arabic</p><p class="artlinks"><a href="abstr-aab.shtml">abstract</a>, <a href="hpsg2017-aab.pdf">pages 5&ndash;25</a></p>
+<li>An, Aixiu and Abeillé, Anne (LLF, University Paris Diderot)<p class="arttitle">Agreement and interpretation of binominals in French</p><p class="artlinks"><a href="abstr-an-abeille.shtml">abstract</a>, <a href="hpsg2017-an-abeille.pdf">pages 26&ndash;43</a></p>
+<li>Arad Greshler, Tali (University of Haifa) and Melnik, Nurit (The Open University
+of Israel)<p class="arttitle">Backward control in Modern Standard Arabic</p><p class="artlinks"><a href="abstr-aradgreshler-melnik.shtml">abstract</a>, <a href="hpsg2017-aradgreshler-melnik.pdf">pages 44&ndash;60</a></p>
+<li>Bai, Justin, Dąbkowski, Maksymilian, Pride, Kalinda and Tomlin, Nicholas (Brown University)<p class="arttitle">Yucatec Maya in SBCG: A Fragment</p><p class="artlinks"><a href="abstr-bdpt.shtml">abstract</a>, paper not submitted</p>
+<li>Ball, Douglas (Truman State University)<p class="arttitle">``VP'' Adverbs without a VP:  The syntax of adverbs in Tongan</p><p class="artlinks"><a href="abstr-ball.shtml">abstract</a>, <a href="hpsg2017-ball.pdf">pages 61&ndash;81</a></p>
+<li>Borsley, Robert D. (University of Essex)<p class="arttitle">Explanations and `Engineering Solutions'? Aspects of the Relation between Minimalism and HPSG</p><p class="artlinks"><a href="abstr-borsley.shtml">abstract</a>, <a href="hpsg2017-borsley.pdf">pages 82&ndash;102</a></p>
+<li>Broadwell, George Aaron (University of Florida)<p class="arttitle">Parallel affix blocks in Choctaw</p><p class="artlinks"><a href="abstr-broadwell.shtml">abstract</a>, <a href="hpsg2017-broadwell.pdf">pages 103&ndash;119</a></p>
+<li>Crysmann, Berthold (Laboratoire de linguistique formelle, CNRS)<p class="arttitle">Resumption and case: A new take on Modern Standard Arabic</p><p class="artlinks"><a href="abstr-crysmann.shtml">abstract</a>, <a href="hpsg2017-crysmann.pdf">pages 120&ndash;140</a></p>
+<li>Crysmann, Berthold (Laboratoire de linguistique formelle, CNRS) and Bonami, Olivier (Laboratoire de linguistique formelle, U Paris-Diderot)<p class="arttitle">Atomistic and holistic exponence in Information-based Morphology</p><p class="artlinks"><a href="abstr-crysmann-bonami.shtml">abstract</a>, <a href="hpsg2017-crysmann-bonami.pdf">pages 141&ndash;161</a></p>
+<li>Dąbkowski, Maksymilian (Brown University)<p class="arttitle">Yucatecan Control and Lexical Categories in SBCG</p><p class="artlinks"><a href="abstr-dabkowski.shtml">abstract</a>, <a href="hpsg2017-dabkowski.pdf">pages 162&ndash;178</a></p>
+<li>Diaz, Thomas, Koenig, Jean-Pierre and Michelson, Karin (University at Buffalo (SUNY))<p class="arttitle">Oneida prepronominal prefixes in Information-Based Morphology</p><p class="artlinks"><a href="abstr-dkm.shtml">abstract</a>, paper not submitted</p>
+<li>Haugereid, Petter (Western Norway University of Applied Sciences)<p class="arttitle">An incremental approach to gapping and conjunction reduction</p><p class="artlinks"><a href="abstr-haugereid.shtml">abstract</a>, <a href="hpsg2017-haugereid.pdf">pages 179&ndash;198</a></p>
+<li>Hepburn-Gray, Robert (University at Buffalo (SUNY))<p class="arttitle">Against Split Morphology</p><p class="artlinks"><a href="abstr-hepburn-gray.shtml">abstract</a>, <a href="hpsg2017-hepburn-gray.pdf">pages 199&ndash;211</a></p>
+<li>Kay, Paul (University of California, Berkeley) and Michaelis, Laura (University of Colorado Boulder)<p class="arttitle">Partial Inversion in English</p><p class="artlinks"><a href="abstr-kay-michaelis.shtml">abstract</a>, <a href="hpsg2017-kay-michaelis.pdf">pages 212&ndash;216</a></p>
+<li>Lee, Sarah Hye-yeon (University of Southern California)<p class="arttitle">The Syntax of the <em>not only ... but also ...</em> Construction</p><p class="artlinks"><a href="abstr-lee.shtml">abstract</a>, <a href="hpsg2017-lee.pdf">pages 217&ndash;232</a></p>
+<li>Maekawa, Takafumi (Ryukoku University)<p class="arttitle">English prepositional numeral 
+constructions</p><p class="artlinks"><a href="abstr-maekawa.shtml">abstract</a>, <a href="hpsg2017-maekawa.pdf">pages 233&ndash;247</a></p>
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 09.01.2019 (17:42:02)
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,81 @@
+\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
+                    % For some reasons some old HPSG proceedings have pdf 1.6
+\documentclass[a4paper,11pt]{article}
+\usepackage{times}
+\usepackage{ogonek} % Dąbkowski
+\hyphenation{Acad-e-my}
+\usepackage{pdfpages}
+\pdfinclusioncopyfonts=1
+\usepackage[utf8]{inputenc}
+        \usepackage{hyperref}
+        \hypersetup{colorlinks=false, pdfborder={0 0 0}}
+        \setcounter{page}{95}
+        \begin{document}
+
+\newcommand\formatauthor[2]{\begin{tabular}[t]{@{}c@{}}
+  {\LARGE#1\strut}\\
+  {\small#2\strut}\\
+  \rule{\dimexpr0.5\linewidth-1em}{0pt}
+  \end{tabular}\xhfill\ignorespaces}
+\newcommand\xhfill{\hspace{1em plus 1fill}}
+\thispagestyle{empty}
+
+\begin{center}
+  {\huge\bfseries Apparent Non-Constituent Coordination in Japanese\par}
+
+  \bigskip
+
+~\\
+\begingroup
+\setlength{\leftskip}{0pt plus 1fill}
+\setlength{\rightskip}{0pt plus 1fill}
+\setlength{\parindent}{0pt}
+\setlength{\parfillskip}{0pt}
+  \formatauthor{Chizuru Ito}{\begin{tabular}{@{}c@{}}Osaka University\end{tabular}}
+\formatauthor{Rui P. Chaves}{\begin{tabular}{@{}c@{}}Lisbon University\end{tabular}}
+
+\par\endgroup
+
+  \vspace*{8ex}
+
+  Proceedings of the 15th International Conference on\par Head-Driven Phrase Structure Grammar
+
+  \bigskip
+
+  National Institute of Information and Communications Technology, Keihanna
+
+  \medskip
+
+  Stefan Müller (Editor)
+
+  \medskip
+
+  2008
+
+  \medskip
+
+  CSLI Publications
+
+  \medskip
+
+  pages 95--115
+
+  \medskip
+
+  \url{http://csli-publications.stanford.edu/HPSG/2008}
+\end{center}
+\vfill
+
+\noindent
+
+
+
+\vfill
+\noindent
+% APA Style
+Ito, Chizuru, \& Chaves, Rui P. 2008. Apparent Non-Constituent Coordination in Japanese. In Müller, Stefan (Ed.), \emph{{Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar, National Institute of Information and Communications Technology, Keihanna}}, 95--115. Stanford,
+CA: CSLI Publications. \hfill\href{http://creativecommons.org/licenses/by/4.0/}{\includegraphics[height=.75em]{Includes/ccby.eps}}
+
+\newpage
+\includepdf[pages=-,pagecommand=\thispagestyle{plain}]{Includes/ito-chaves.pdf}
+        \end{document}

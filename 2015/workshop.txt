@@ -1,0 +1,68 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # abstract
+
+
+Gehrke, Berit   # CNRS-LLF / Paris Diderot # On GOOD manners # October 21st, 2015 # no # This paper elaborates
+and qualifies McNelly and Kennedy’s (2005, 2013) claim that ‘degree’ WELL is an event modifier by
+examining its distribution in English and German. Both manner and ‘degree’ readings of WELL share a
+common semantic core: good is applied to an event. The ‘degree’ reading arises when WELL applies to
+a (result) state of a non-agentive event that selects a highly affected argument.
+
+
+Hollebrandse, Bart  # University of Groningen # Distributivity of nouns and verbal semantics  ##no
+
+
+Kratochvíl, František  & Delpada, Benidiktus  # Nanyang Technological University, Singapore # Degrees of affectedness and verbal prefixation in Abui (Papuan) # This paper deals with the encoding of affectedness in Abui, a Papuan language of Indonesia. Abui is a head-marking language of the rare type where the verbs are marked for their undergoer arguments (So, O) formally split into several subtypes. This marking has been previously analyzed as a type of semantic alignment sensitive among others to affectedness. Affectedness is understood here as a scalar property delimiting the predicate (following Tenny 1987 and Beavers 2011). The paper explores the structure of the affectedness scale for Abui, comparing the functions and meaning of three types of person prefix paradigms. We show that verbs with similar meaning, encoding the same type of change (in Beavers’ terms) can differ in their entailments. We also show that there may be additional dimensions in which affectedness can be measured, such as affected agents, and that the interpretation of the degree on the affectedness scale interacts with instigator’s (source of force) status on the referential hierarchy. While human agents in some cases allow lower degrees of affectedness, the inanimate forces select the maximal degree reading. We conclude, that despite a considerable amount of fluidity of marking (Fedden et al. 2013, 2014), the shifts in degree of affectedness can be predicted as lowering of the degree stipulated for the predicate.
+
+Nagaya, Naonori # Tokyo University of Foreign Studies (東京外国語大学) in Tokyo, Japan #
+Affectedness and volitionality: the case of Tagalog # October 21st, 2015 # no # In this paper, I argue that the manifestation of affectedness is negatively correlated with that of volitionality in Tagalog, a language of the Philippines. It is shown that volitional verbs do not necessarily entail an affected patient, while non-volitional verbs always indicate an affected patient. The cross-linguistically attested pattern of prototypical transitive constructions, in which a volitional agent acts on and affects a patient, is not found in this language. Thus, this study sheds new light on our understanding of affectedness and more generally, theories of transitivity.
+
+
+Riaño Rufilanchas, Daniel # Departamento de Filología Clásica, Universidad Autónoma de Madrid # The role of affectedness in the verbal case marking of objects in Ancient Greek #
+ October 21st, 2015 # no #
+Case marking of verbal arguments in Ancient Greek is very complex. Direct objects are usually marked with the accusative case, but there is a long list of verbs with objects that fulfil the same admitting or demanding the dative or the genitive case. Extension to core is usually marked with the dative or the genitive, but accusative case is also very frequent in this function. Alternation of case marking is common both for the direct object and extensions to core.
+We present a semantically motivated proposal that explains an important number of features of this
+system of case marking. We propose that, in order to explain the variation and alternation of case
+marking in Ancient Greek, the most relevant parameter from the scale of transitivity is object
+affectedness. We present a semantically based “scale of affectedness” that allows to place all the
+predicative verbs according to the affectedness of its objects. This scale of affectedness we are
+proposing is a language-specific implementation of the general scale of affectedness. The placement
+of any given verb along this scale allows explaining certain properties of the case marking of its
+arguments, mainly the following two:
+<ol>
+<li> The probability that a given verb admits a non-accusative object depends upon its position along the scale of affectedness.
+<li> The possibility of admitting the “double accusative” construction depends on the placement of
+both arguments along the scale: this construction is not possible if the two objects belong to the
+same “field” or “square” of the table, or if both belong to any of the divisions of the “upper” part
+of the table (the “effected” objects”).
+</ol>
+For the test of this scale of affectedness we used a corpus of fully analysed 100.000 words of several authors spanning from the 5th century BC to the first century AD, in addition to data from the regular grammars (Kuhner-Gerth; Schwyzer and Smith).
+
+Sauerland, Uli  # Zentrum für Allgemeine Sprachwissenschaft, Berlin # Negation: a view from the one-word stage  ## no #
+The talk articulates a formal model of a one-word stage of communication to then show the model is provable not capable of expressing a general negation.  However, a small extension of the model incorporating implicature computation offers a way to express negation under certain circumstances.  We then argue that the new model might provide a new perspective on recent work in language acquisition.
+
+
+Sio, Joanna Ut-Seong # Nanyang Technological University # Scalarity and the Cantonese post-verbal
+particle <em>can1</em> # October 16, 2015 ## 
+This paper provides an analysis of the Cantonese post-verbal particle <em>can1</em>. We argue that <em>can1</em> is a resultative particle encoding the meaning of ‘a small degree’. It is only compatible with (i) verbs that entail a specific resulted state of the theme argument and (ii) verbs that encode a potential change of the theme argument (Beavers, 2011, 2013). Assuming that change of state verbs involve a property scale (Hay et al., 1999), we propose that <em>can1</em> makes the property scale bounded by providing an end-point. This endpoint, however, is not precise. It consists of a range of values on the lower end of the scale.
+
+
+Sio, Joanna Ut-Seong & Kratochvíl, František  #Nanyang Technological University  # Affectedness and scalarity - An update ##no
+
+Sybesma, Rint  # Leiden University Centre for Linguistics # Layers in the verb phrase - inner aspect and affected arguments  ##no
+
+
+van Hout, Angeliek  # University of Groningen # Connecting event culmination and affectedness: non-culmination patterns in children's acquisition of aspect  ##no
+
+
+
+
+
+
+
+
+
+
+
+
+Yap, Foong Ha # The Hong Kong Polytechnic University # Valence-reduction and the expression of speaker affectedness in Chinese # October 21st, 2015 # no #
+This paper discusses the relationship between valence reduction and ‘invisible’ arguments using a diachronic corpus of Chinese (early 14th century to the present) and comparative data from the major Chinese dialects. Sinitic valency reduction constructions typically involve transfer verbs such as ‘give’, ‘take’, or ‘provide/share’ which develop a stance marking function over time indicating that the speaker is in some way affected by the event. This grammaticalisation path goes through a stage in which the ‘give’ constructions indicate an unintentional action. The verb ‘provide’ in Min dialects develops into a marker of warning, where the speaker indicates the action to be avoided.

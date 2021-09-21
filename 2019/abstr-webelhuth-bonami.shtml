@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Webelhuth, Gert &amp; Bonami, Olivier: Syntactic haplology and the Dutch proform "er"
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Syntactic haplology and the Dutch proform "er"">
+<meta name="citation_author"           content="Webelhuth, Gert">
+<meta name="citation_author"           content="Bonami, Olivier">
+<meta name="citation_conference_title" content="Proceedings of the 26th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2019">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="100">
+<meta name="citation_lastpage"         content="119">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2019/hpsg2019-webelhuth-bonami.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Webelhuth, Gert &amp; Bonami, Olivier: Syntactic haplology and the Dutch proform "er"
+</h1>
+
+<div class="blurb"
+<p>
+Dutch has four pronouns "er" which show an intriguing pattern of syntactic haplology when a finite verb has more than one "er" dependent. We present a theory that captures this pattern by relying on two central aspects of HPSG: (i) the distinction between ARG-ST and COMPS and (ii) the distinction between canonical and non-canonical synsem objects. No deletion rules of the kind used in transformational analyses of "er" are necessary.
+  
+<P>
+<ul>
+<li><a href="hpsg2019-webelhuth-bonami.pdf">download PDF</a>
+<li><a href="webelhuth-bonami.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October, 27, 2019
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

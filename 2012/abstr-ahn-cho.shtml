@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Ahn, Hee-Don &amp; Cho, Sungeun: Fragments vs. Null Arguments in Korean
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Fragments vs. Null Arguments in Korean">
+<meta name="citation_author"           content="Ahn, Hee-Don">
+<meta name="citation_author"           content="Cho, Sungeun">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="369">
+<meta name="citation_lastpage"         content="387">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/ahn-cho.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Ahn, Hee-Don &amp; Cho, Sungeun: Fragments vs. Null Arguments in Korean
+</h1>
+
+<div class="blurb"
+<p>
+Korean has two types of answers shorter than full sentential answers: Fragments and null argument
+constructions. Apparently the two constructions have the same interpretative processes. However,
+there are some cases where the fragment and null argument construction behave differently: e.g.,
+wh-puzzles, sloppy interpretation. We suggest that the two constructions involve two different types
+of anaphora and that the sources of sloppy(-like) interpretation are fundamentally
+distinct. Fragments pattern differently with null arguments in that only the former may display
+genuine sloppy readings. The latter may yield sloppy-like readings which are pragmatically induced
+by the explicature that can be cancelled unlike genuine sloppy readings in fragments. Evidence
+(wh-ellipsis, quantifier ellipsis) all lends substantial support to our claim that fragments are
+analyzed as an instance of clausal ellipsis while null arguments are analyzed as an instance of null
+pronoun pro; hence, the former is surface anaphora whereas the latter is deep anaphora in the sense
+of Hankamer & Sag (1976).
+  
+<P>
+<ul>
+<li><a href="ahn-cho.pdf">download PDF</a>
+<li><a href="ahn-cho.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

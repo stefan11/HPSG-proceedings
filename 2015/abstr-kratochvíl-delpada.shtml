@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kratochvíl, František &amp; Delpada, Benidiktus: Degrees of affectedness and verbal prefixation in Abui (Papuan)
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Degrees of affectedness and verbal prefixation in Abui (Papuan)">
+<meta name="citation_author"           content="Kratochvíl, František">
+<meta name="citation_author"           content="Delpada, Benidiktus">
+<meta name="citation_conference_title" content="Proceedings of the 22nd International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="87">
+<meta name="citation_lastpage"         content="87">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2015/kratochvíl-delpada.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kratochvíl, František &amp; Delpada, Benidiktus: Degrees of affectedness and verbal prefixation in Abui (Papuan)
+</h1>
+
+<div class="blurb"
+<p>
+This paper deals with the encoding of affectedness in Abui, a Papuan language of Indonesia. Abui is a head-marking language of the rare type where the verbs are marked for their undergoer arguments (So, O) which are split into several subtypes. This marking has been previously analyzed as semantic alignment sensitive among others to affectedness. Affectedness is understood here as a scalar property delimiting the predicate (following Tenny 1987, Beavers 2011, among others). The paper explores the structure of the affectedness scale for Abui, comparing the functions and meaning of three types of person prefix paradigms. We show that verbs with similar meaning, encoding the same type of change (in Beavers’ terms) can differ in their entailments. We also show that there may be additional dimensions in which affectedness can be measured (affected agents) and that the affectedness interacts with status of the instigator on the referential hierarchy. While human agents in some cases allow lower degrees of affectedness, the inanimate forces have the maximal degree reading.
+  
+<P>
+<ul>
+<li><a href="kratochvíl-delpada.pdf">download PDF</a>
+<li><a href="kratochvíl-delpada.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15th, 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

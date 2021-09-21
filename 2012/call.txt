@@ -1,0 +1,92 @@
+HPSG 2012 Call for Papers
+
+For several reasons and requests, we once again extend the deadline for the HPSG-2012 until April 20. Note that this is the ultimate deadline. (updated on 04/14/2012)
+
+
+The 19th International Conference on Head-Driven Phrase Structure Grammar, HPSG-2012, will take place in July 18-21, 2012, at Chungnam National University in Daejeon, located in the center of South Korea.
+
+Call for papers
+Abstracts are solicited for presentations which address linguistic, foundational, or computational issues relating to the framework of Head-Driven Phrase Structure Grammar.
+
+Invited Speakers
+Hans Uszkoreit (Saarland University & DFKI, Germany)
+Frank Van Eynde (University of Leuven, Belgium) (updated on July 2, 2012)
+
+Conference Format
+There will be two sessions: a main session, with 30 minute presentations, and a poster session. The poster session is intended as a means of encouraging the presentation of work that is not yet fully developed.
+
+Prospective speakers may submit either a 5 page abstract for the main session, or a 2 page abstract for the poster session. Abstracts submitted initially for the main session may be accepted, at the discretion of the program committee, for presentation in the poster session instead.
+
+Related Events
+The conference will take place in Daejeon, South Korea, on 18-21, July 2011. It will be preceded by a day of tutorials for "Experimental Design for Linguists" on 18 July given by Philip Hofmeister (University of Essex) and a workshop on Ellipsis and Formal Grammar on 19 July. There is a separate call for papers for the workshop.
+
+Submissions:
+We will use an online submission system. All abstracts should be submitted via Linguist List's Easy Abstracts System: http://linguistlist.org/confcustom/hpsg2012.
+
+Abstracts will be reviewed anonymously by at least two reviewers. Abstracts should not include the authors' names and authors are asked to avoid self-references. The Program Committee reserves the right to reassign accepted papers from the main conference to the workshop, and vice versa.
+
+Please direct any questions to the Program Committee Chair, Jong-Bok Kim, at hpsg2012program@gmail.com.
+
+Important Dates
+Abstract submission deadline: March 31, 2012
+Extended abstract submission deadline: April 10, 2012
+Extended abstract submission deadline: April 20, 2012
+Notification of acceptance: April 27, 2012
+Conference: July 18-21, 2012
+Camera-ready version submission deadline: October 15, 2012 (updated on 04/14/2012)
+
+Program Committee
+ 	
+Anne Abeillé
+Doug Arnold
+Emily M. Bender
+Francis Bond
+Oliver Bonami
+Bob Borsley
+Rui Chaves
+Ann Copestake
+Berthold Crysmann
+Elisabet Engdahl
+Dan Flickinger
+Jong-Bok Kim (Chair)
+Tibor Kiss
+Jean-Pierre Koenig
+Valia Kordoni
+Bob Levine
+Laura Michaelis
+Stefan Müller
+Tsuneko Nakazawa
+Jeff Runner
+Ivan Sag
+Manfred Sailer
+Frank Van Eynde
+Gert Webelhuth
+Eun-Jung Yoo
+Stephen Wechsler
+Shuichi Yatabe 	
+
+Publication
+
+The conference proceedings will be published online by CSLI publications. A call for contributions
+to the publications will be issued after the conference. Proceedings of previous conferences are
+available at http://csli-publications.stanford.edu/HPSG/. The final deadline for receipt of written
+versions of conference papers is October 15, 2012 (updated on 04/14/2012).
+
+Submission Web Site
+http://linguistlist.org/confcustom/hpsg2012
+
+Conference Web Site
+http://linguistics.cnu.ac.kr/hpsg/
+
+Local Organizing Committee Chair
+Byong-Rae Ryu (Chungnam National University, hpsg2012@gmail.com)
+
+Supported by
+Department of Linguistics, Chungnam National University (CNU)
+Center for Speech-Language Pathology (CSLP), CNU
+Center for Language and Communication Research (CLCR), CNU
+The Korean Society for Language and Information (KSLI)
+Korea Research Foundation (KRF)
+Electronics and Telecommunications Research Institute (ETRI)
+Korea Institute of Science and Technology Information (KISTI) 
+

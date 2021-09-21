@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Song, Sanghoun &amp; Bender, Emily M.: Using Information Structure to Improve Transfer-based MT
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Using Information Structure to Improve Transfer-based MT">
+<meta name="citation_author"           content="Song, Sanghoun">
+<meta name="citation_author"           content="Bender, Emily M.">
+<meta name="citation_conference_title" content="Proceedings of the 18th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2011">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="348">
+<meta name="citation_lastpage"         content="368">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2011/song-bender.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Song, Sanghoun &amp; Bender, Emily M.: Using Information Structure to Improve Transfer-based MT
+</h1>
+
+<div class="blurb"
+<p>
+This paper hypothesizes that transfer-based machine translation systems can be improved by encoding
+information structure in both the source and target grammars, and preserving information structure
+in the transfer stage. We explore how information structure can be represented within the HPSG/MRS
+formalism (Pollard and Sag, 1994; Copestake et al., 2005) and how it can help refine multilingual
+MT. Building upon that framework, we provide a sample translation between English and Japanese and
+check the feasibility of the proposals in small-scale translation systems built with the
+HPSG/MRS-based LOGON MT infrastructure (Oepen et al., 2007). Our experiment shows the information
+structure-based MT system that we propose in this paper reduces the number of translations 75.71%
+for Japanese and 80.23% for Korean. The dramatic reductions in the number of translations is
+expected to make a contribution to our HPSG/MRS-based MT in terms of latency as well as accuracy.
+  
+<P>
+<ul>
+<li><a href="song-bender.pdf">download PDF</a>
+<li><a href="song-bender.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: November 16, 2011
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

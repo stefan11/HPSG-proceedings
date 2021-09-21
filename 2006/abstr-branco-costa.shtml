@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Branco, António &amp; Costa, Francisco: Noun Ellipsis without Empty Categories
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Noun Ellipsis without Empty Categories">
+<meta name="citation_author"           content="Branco, António">
+<meta name="citation_author"           content="Costa, Francisco">
+<meta name="citation_conference_title" content="Proceedings of the 13th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2006">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="81">
+<meta name="citation_lastpage"         content="101">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2006/branco-costa.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Branco, António &amp; Costa, Francisco: Noun Ellipsis without Empty Categories
+</h1>
+
+<div class="blurb"
+<p>
+In this paper, we present an analysis of noun phrases with elided
+nouns that dispenses with the positing of empty categories and
+preserves the NP structure assumed for NPs with overt nouns, modulo
+the absence of the head noun. On a par with existing traceless analyses of
+long distance dependencies, this is proposed as a further step
+towards a more lean theory of grammar, without phonetically null items.
+  
+<P>
+<ul>
+<li><a href="branco-costa.pdf">download PDF</a>
+<li><a href="branco-costa.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2006
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

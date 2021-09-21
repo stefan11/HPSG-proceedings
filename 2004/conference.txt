@@ -1,0 +1,399 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title # Date # #                                                           # date              # status # abstract
+
+
+
+Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # Universite Paris 7 # The Syntax of French N′ Phrases # October 14, 2004 # # 
+Of all French functional elements, the form <em>de</em> has without question the widest
+variety of uses, and presents the greatest challenge for linguistic description
+and analysis.  Historically a preposition, it still has a number of
+prepositional uses in modern French, but in many contexts it calls for an
+altogether different treatment.  We begin by outlining a general distinction
+between <q>oblique</q> and <q>non-oblique</q> uses of <em>de</em>.  We then develop a detailed
+account of constructions where <em>de</em> combines with an N'.  We provide a unitary
+analysis of <em>de</em> in three constructions (quantifier extraction, "quantification
+at a distance", and negative contexts) which have been not been considered to be
+related in previous accounts.
+
+
+Ackerman, Farrell  &  Nikolaeva, Irina &  Malou, Rob # UC San Diego & University of London & San Diego State University  # Possessive Relatives and Cooperating Constructions #  # no #
+
+
+Arnold, Doug  # University of Essex # Non-Restrictive Relative Clauses in Construction Based HPSG # October 12, 2004 # #
+This paper presents an account of English non-restrictive (`appositive') relative
+clauses (NRCs) in the framework of `construction based' HPSG.
+Specifically, it shows how the account of restrictive relative clause
+constructions presented in Sag (1997) can be extended to provide an account of the
+syntax and semantics of NRCs
+and of the main differences between NRCs and restrictive relatives.
+The analysis reconciles the semantic intuition that
+NRCs behave like independent clauses with their subordinate syntax.  A significant
+point is that, in contrast with many other approaches, it employs only existing,
+independently motivated theoretical apparatus, and requires absolutely no new
+structures, features, or types.
+
+Beavers, John & Sag, Ivan A. # University of Texas & Standford University # Coordinate Ellipsis and Apparent Non-Constituent Coordination # October 25, 2004 # #
+Within the tradition of Categorial Grammar, so-called
+`non-constituent' coordination (`argument cluster' coordination and
+`right node raising') has been analyzed in terms of the coordination
+of nonstandard constituents produced by the operations of type
+raising and composition.  This highly successful research has
+expanded the domain of data that modern analyses of coordination
+must take into account. Recent HPSG work by Yatabe (2002) and
+Crysmann (2003) provides an interesting alternative approach to
+this problem in terms of the coordination of familiar, but
+`elliptical' constituents. We argue that this approach is
+empirically superior to the Categorial Grammar analysis, both in
+terms of empirical coverage and cross-linguistic predictions. We
+reassess the relevant English data in small but important ways, and
+develop our own ellipsis analysis, building on Yatabe's and
+Crysmann's insights.
+
+Borsley, Robert D.  # University of Essex # An Approach to English Comparative Correlatives # October 11, 2004 # # 
+Recent syntactic theory has highlighted the importance of peripheral
+constructions such as the comparative correlative construction. This
+construction involves a pair of filler-gap constructions with unusual
+properties. The first is a subordinate clause and the second a main clause. The
+construction has a number of related constructions. A version of HPSG, which
+assumes hierarchies of phrase types, can provide satisfactory analyses both for
+the comparative correlative constructions and for the related
+constructions. The two clauses in the comparative-correlative construction can
+be analysed as non-standard head-filler phrases differing from standard
+headfiller phrases in certain respects. The construction as a whole can be
+analyzed as a non-standard head-adjunct phrase, in which the head and the
+phrase have different categories.
+
+
+Daniels, Michael W. & Meurers, W. Detmar  # Ohio State University # GIDLP: A Grammar Format For Linearization-based HPSG # October 2004 # #
+Linearization-based HPSG theories are widely used for analyzing languages with
+relatively free constituent order. This paper introduces the Generalized ID/LP
+(GIDLP) grammar format, which supports a direct encoding of such theories, and
+discusses key aspects of a parser that makes use of the dominance, precedence,
+and linearization domain information explicitly encoded in this grammar
+format. We show that GIDLP grammars avoid the explosion in the number of rules
+required under a traditional phrase structure analysis of free constituent
+order. As a result, GIDLP grammars supportmore modular and compact grammar
+encodings and require fewer edges in parsing.
+
+
+de Swart, Henriette  # Universiteit Utrecht # A Typology of Negation in a Constraint-Based Framework of Syntax and Semantics # October 2004 # #
+Negation and negative indefinites raise problems for the principle of compositionality 
+of meaning, because we find both double and single negation readings in natural 
+languages. De Swart and Sag (2002) solve the compositionality problem in a polyadic 
+quantifier framework. The syntax-semantics interface exploits an extension of the 
+Cooper storage mechanism that HPSG uses to account for scope ambiguities. In de 
+Swart and Sag (2002), all negative quantifiers are collected into an N-store, and are 
+interpreted by means of iteration (double negation) or resumption (negative concord) 
+upon retrieval. This puts the ambiguity between single and double negation readings 
+in the grammar, rather than in the lexical items. This paper extends the earlier analysis 
+with a typology of negation and negative indefinites using bi-directional optimality 
+theory (OT). The constraints defined are universal, but their ranking varies from one 
+language to the next. In negative concord languages, the functional motivation for the 
+marking of 'negative variables' wins out, so we use n-words. Double negation 
+languages value first-order iteration, so we use plain indefinites or negative polarity 
+items within the scope of negation. The bi-directional set-up is essential, for syntactic 
+and semantic variation go hand in hand.
+
+
+Egg, Markus  # Universität Saarbrücken # Mismatches at the Syntax-Semantics Interface # October 2004 # #
+Recent analyses of mismatches at the syntax-semantics interface 
+investigate e.g. modification of agentive nouns (Larson, 1998), 
+modification of quantifying pronouns (Abney, 1987), or recursive 
+modification (Kasper, to appear). Each of these analyses is tailored 
+to a specific set of data, and it is not immediately obvious how 
+they could be generalised to cover a larger set of data. 
+I propose a unified analysis for these mismatches that attempts to 
+bring out their common ground. This analysis shares some of its 
+basic intuitions with the one of Kasper, but is more general because 
+the mismatches are handled locally in the CONT feature. Its pivot is 
+an elaborate syntax-semantics interface that is based on a 
+surface-oriented syntactic analysis. This analysis generalises 
+easily to the mismatches at the morphology-semantics interface for 
+German separable-prefix verbs that were discussed in <a href=http://hpsg.fu-berlin.de/~stefan/Pub/paradox.html>(Müller, 2003)</a>. 
+
+Flickinger, Dan  & Bender,  Emily  # Standford University & University of Washington # Semantic Selection in a Cross-Linguistic Framework # October 2004 # no # 
+This paper discusses support in the LinGO Grammar Matrix (Bender et al
+2002) for describing semantic selection.  We first distinguish between
+defeasible semantic constraints and `grammaticized' semantic selection
+which actually pertains to grammaticality/ungrammaticality.  We argue
+that the operation of unification is only appropriate to the latter,
+and therefore only support the latter in the Matrix.  Our overall
+strategy is to license all grammatical sentences, even unlikely ones,
+while ruling out ungrammatical strings.  There are two mechanisms of
+semantic selection, corresponding to the semantic and syntactic head
+paths: a feature SORT on indices and a feature KEY inside HEAD.
+
+Ellingsen, Liv # University of Oslo # Norwegian Word Order in HPSG # # no #
+
+
+
+Ginzburg, Jonathan  # King's College London # HPSG in Constructive Type Theory # October 2004 # no #
+In the talk I propose, following the lead of some recent work by Robin Cooper
+(Cooper (2005a,b)), that constructive type theory (CTT, Ranta (1994), see also
+Constable (2002) for a elementary introduction) is an attractive framework to underpin HPSG.
+<P>
+    HPSG is a framework in which detailed and explicit analysis of a wide range of
+linguistic phenomena in several languages have been carried out. One of the virtues
+of the framework is that it allows for a transparent computational implementation
+of many of its theoretical analyses. Moreover, certain features of HPSG's architecture 
+make it an attractive choice for underpinning one of the early 21st century's
+growth areas for theoretical and applied linguistic research, namely language use
+in dialogue.
+<P>
+    And yet, HPSG is at present saddled with a number of problematic theoretical 
+entities and mechanisms which hinder this development. Chief among these, I
+will suggest, are the use of typed feature structures (TFSs) as the basic representational 
+entity of the linguistic ontology and unification as the combinatorial glue of
+TFSs. Briefly, the problem with using unification is that it often involves postulating
+semantic identity between a daughter&mdash;the head daughter typically&mdash;and its
+mother, an assumption I demonstrate is untenable. TFSs are problematic, at least
+for semantic analysis, on a number of grounds: they simulate rather than directly
+constitute semantic entities; given this, building and manipulating functions in the
+semantic domain&mdash;the bread and butter of much semantic analysis&mdash;is difficult to
+accomplish. Moreover, for certain analytic purposes I discuss one needs to have
+available entities both at the level of types and the actual domain (including utterance)
+tokens. Existing formalizations of HPSG, with one exception I am aware of,
+are formulated either in terms of tokens O R, more recently, types, and so do not
+make both readily available.
+<p>
+    In this talk, which surveys work from Ginzburg (2005a,b), I sketch an alternative 
+foundation for HPSG, which avoids problems such as the ones hinted above,
+and which can serve as a source for fruitful synthesis of a number of research programs. 
+There has been a fair amount of interest in using constructive type theory
+as a foundation for NL semantics (see e.g. Fernando (2001); Krahmer and Piwek
+(1999)). It offers theoretically elegant accounts of anaphora and quantificational
+phenomena on which much semantic work has been invested in frameworks such
+as Discourse Representation Theory and Dynamic Semantics. In the paper referenced 
+above, Robin Cooper has shown that CTT can serve as a unifying framework
+for Montague Semantics, Discourse Representation Theory, Situation Semantics,
+and HPSG.
+<p>
+     After introducing the basics of CTT, I discuss three main application areas:
+ontology, grammatical description, and dialogue processing.
+<ul>
+<li>       Ontology: I show that CTT allows us to recast the semantic ontology developed in Ginzburg and Sag (2000). In the latter work, non-well-founded set
+       theory (using tools developed by Seligman and Moss (1997)) was employed
+       as logical framework. CTT, arguably, provides a simpler, more 
+       `independently motivated' formulation.
+<li>   Grammatical Description: I discuss data from ellipsis in dialogue that
+       favours using -abstraction and application as tools for semantic compo-
+       sition over (head-driven) unification.
+<li>       Dialogue Processing: I argue that HPSG<sub>CCT</sub> is well equipped to serve as
+       a theory of utterance processing in dialogue. In particular, it allows for
+       a straightforward formulation of partial understanding and clarification requests.                                                    
+</ul>
+<p>
+<br>
+<br>
+
+<h2>References<h2>
+<P>
+Constable, Robert. 2002. Naive Computational Type Theory. In H. Schwichtenberg
+   and R. Steinbruggen (eds.), Proof and System-Reliability, pages 213­259.
+<P>
+Cooper, Robin. 2005a Records and Record Types in Semantic Theory. Journal of
+   Logic and Computation Forthcoming.
+<P>
+Cooper, Robin. 2005b. Austinian Truth in Martin-Lof Type Theory. Research on
+                                                      ¨
+   Language and Computation .
+<P>
+Fernando, Tim. 2001. Conservative Generalized Quantifiers and Presupposition. In
+   SALT , volume 11, pages 172­191, NYU/Cornell.
+<P>
+Ginzburg, Jonathan. 2005a. Abstraction and Ontology: questions as propositional
+   abstracts in constructive type theory. Journal of Logic and Computation Forthcoming.
+<P>
+Ginzburg, Jonathan. 2005b. A Grammar for Dialogue. Chapter 3 of: 
+Semantics and Interaction in Dialogue, Stanford: California: CSLI Publications and University of Chicago Press, draft chapters available from
+   <a href=http://www.dcs.kcl.ac.uk/staff/ginzburg>http://www.dcs.kcl.ac.uk/staff/ginzburg</a>
+
+
+
+
+Kiss, Tibor  # Ruhr-Universität Bochum # Exempt Reflexives and Psych Verbs # # no #
+
+Koenig, Jean-Pierre  & Davis, Anthony R.  # University at Buffalo, The State University of New York & StreamSage, Inc. # Raising Doubts about Russian Impersonals # October 17, 2004 # #
+The Russian data presented in Perlmutter and Moore (2002) seem to
+call into question the standard analysis of raising within Head-driven Phrase
+Structure Grammar (HPSG): In Russian, the case marking of the raising target 
+and raising pivot does not seem to be shared. In this paper, we show that
+the phenomena described by Perlmutter and Moore can receive another analysis, 
+fully compatible with HPSG's theory of raising. We argue in addition
+that our account leads to a slightly simpler model of the Russian data than
+Perlmutter and Moore's. Crucially, our analysis is only available if we avail
+ourselves of a rich network of language-specific constructional schemata, a
+stance recently advocated within HPSG, following the lead of Construction
+Grammar.
+
+Kordoni, Valia  # Saarland University # Between Shifts and Alternations: Ditransitive Constructions # October 25, 2004 # #
+In this paper I present two classes of double object constructions in Modern 
+Greek, i.e., the genitive, as well as the double accusative, ditransitive 
+constructions. I show that these two classes differ from one another in that 
+not both of them permit derivational processes such as the formation of 
+adjectival passives. I also look at the case properties associated with the 
+verbs which head Modern Greek genitive and double accusative ditransitive 
+constructions. Finally, the analysis I propose for these constructions in 
+Modern Greek are formalized using the Minimal Recursion Semantics (MRS) 
+framework of Copestake et al. (2001) and Copestake et al. (2003).
+
+
+Maekawa, Takafumi  # University of Essex # Constituency, Word Order and Focus Projection # October 17, 2004 # #
+In this study we show that constituency is of limited importance for a proper treatment of 
+the interaction between the linear position of a wa-marked nominal in a Japanese sentence 
+and possible domains of contrastive focus, and that constraints concerning contrastive focus 
+should be represented in terms of linear order and not constituency.  Linearisation HPSG, 
+where linear order is independent from constituency, provides a good basis for an analysis.  
+Some constraints are provided in terms of order domains, and it is shown that these 
+constraints can deal with the phenomena in question, and that the cases problematic for the 
+constituency-based analyses can also be accounted for by our analysis.
+
+Marshall, Ian  & Safar,  Eva  # University of East Anglia # Sign Language Generation in an ALE HPSG # October 18, 2004 # #
+During the past fifty years sign languages have been
+recognised as genuine languages with their own syntax and
+distinctive phonology. In the case of sign languages,
+phonetic description characterises the manual and
+non-manual aspects of signing. The latter relate to facial
+expression and upper torso position. In the case of manual
+components these characterise hand shape, orientation and
+position, and hand/arm movement in three dimensional space
+around the signer's body. These phonetic charcaterisations
+can be notated as HamNoSys descriptions of signs which has
+an executable interpretation to drive an avatar.
+<p>
+The HPSG sign language generation component of a text to
+sign language system prototype is described. The
+assimilation of SL morphological features to generate signs
+which respect positional agreement in signing space are
+emphasised.
+
+Müller, Stefan  # Universität Bremen # An Analysis of Depictive Secondary Predicates in German without Discontinuous Constituents # August 11, 2004 # #    
+In <a href="http://hpsg.fu-berlin.de/~stefan/Pub/mehr-vf-lb.html">Müller, 2005</a> I provide evidence that suggests that linearization approaches
+that analyze German clause structure with discontinuous constituents
+cannot account for the German clause structure in an insightful way. 
+In order to eliminate the very powerful concept of linearization
+domains and discontinuous constituents from the grammar,
+analyses of other phenomena which also rely on discontinuous constituents should therefore
+be revised. 
+<p>
+In this paper, I develop an analysis of German depictive secondary predicates
+that differs from the one suggested in <a href="http://hpsg.fu-berlin.de/~stefan/Pub/complex.html">Müller, 2002</a> by assuming binary branching structures,
+verb movment, and continuous constituents instead of a linearization approach. Some shortcomings of previous analyses are pointed
+out and it is shown how linearization constraints regarding depictive predicate and antecedent
+can be modeled.
+
+
+Przepiórkowski, Adam  & Rosen, Alexandr  # Polish Academy of Sciences & Charles University, Prague # Obligatory, Optional and Impossible Case Transmission in Control Constructions # August 25, 2004 # no #
+According to standard assumptions of most generative theories, both
+Chomskyan and non-Chomskyan, raising and so-called Exceptional Case
+Marking constructions, but not control constructions, should allow for
+case transmission, i.e., the identity of the grammatical case between
+the higher element (raised element, controller), and the lower element
+(trace/copy, controlled PRO).  This prediction is not fulfilled for
+many languages, including Czech and Polish, where, e.g., case
+transmission is allowed from subjects, whether they are raised
+elements or controllers.  Building on earlier observations by Hudson
+1998 concerning similar facts in Icelandic and Ancient Greek, we
+propose an explicit and precise account of case transmission in
+control and raising constructions which builds on the standard
+(Pollard and Sag 1994) HPSG approach to control and raising and on an
+earlier independently motivated analysis of syntactic case assignment
+(Przepiórkowski 1999).  It turns out that only minor additions to
+these two grammar modules are required to successfully account for the
+curious case transmission facts in Czech and Polish.
+
+
+Sailer, Manfred  # Universität Göttingen # Propositional Relative Clauses in German # October 17, 2004 # #
+This paper discusses a special kind of syntax-semantics mismatch: a
+noun with a relative clause is interpreted as if it were a complement
+clause. An analysis in terms of Lexical Resource Semantics is
+developed which provides a uniform account for ``normal'' relative
+clauses and for the discussed type of relative clause.
+
+
+Siegel, Melanie  & Bender, Emily M.  # University of Saarbrücken & University of Washington # Head-Initial Constructions in Japanese # October 15, 2004 # #
+Japanese is often taken to be strictly head-final in its syntax. In our work on
+a broad-coverage, precision implemented HPSG for Japanese, we have found that
+while this is generally true, there are nonetheless a few minor exceptions to
+the broad trend. In this paper, we describe the grammar engineering project,
+present the exceptions we have found, and conclude that this kind of phenomenon
+motivates on the one hand the HPSG type hierarchical approach which allows for
+the statement of both broad generalizations and exceptions to those
+generalizations and on the other hand the usefulness of grammar engineering as
+a means of testing linguistic hypotheses.
+
+
+
+Soehn, Jan-Philipp  # University of Jena # License to Coll: How to Bind Bound Words and Readings to their Contexts # September 30, 2004 # #
+In this contribution we propose a new module for handling idioms and
+distributional idiosyncrasies. Based on the concept by Richter/Sailer (1999)
+the new feature COLL (context of lexical licensing) plays the central role in
+our approach. We provide a way to handle decomposable and nondecomposable
+idioms and idioms containing bound words. Our module guarantees the
+co-occurrence of all idiom parts and of bound word and licensing context,
+respectively. A prerequisite for our analysis is a means to select for
+particular elements in the lexicon. We introduce another feature, LISTEME,
+which gives each lexical item its unique identifier andmakes it possible to
+select for a particular lexical word or phrase. Finally, we compare our
+proposal with alternative approaches and give some ideas regarding further
+applications beyond idiomaticity.
+
+
+Taghvaipour, Mehran A.  # University of Essex # An HPSG Analysis of Persian Relative Clauses # October 15, 2004 # #
+Relative clauses (RCs) in Persian are head-modifying constituents, all
+typically introduced by the invariant complementizer ke. Persian RCs are
+Unbounded Dependency Constructions (UDCs), containing either a gap or a
+resumptive pronoun (RP). In some positions only gaps are allowed, and in other
+positions only RPs. There are also some positions where both gaps and RPs are
+alternatively allowed. Illustrating the striking similarities between Persian
+gaps and RPs, I will provide an HPSG unified approach to take care of the
+dependency between the licensing structure and the gap/RP with a single
+mechanism, using only the SLASH feature. Similar to Pollard and Sag s (1994)
+approach to the bottom of the dependency, I will assume a special sign at the
+bottom. However, my sign may have a nonempty PHON value. I will introduce a
+feature called GAPTYPE which is a NONLOCAL feature whose value can be either
+trace or rp. I will introduce two constraints to capture the pattern of
+distribution of RPs and traces. At the top of the dependency, I will bind the
+nonempty SLASH at the complementizer point. I will propose a lexical entry for
+the complementizer ke that will account for the binding of SLASH by the feature
+BIND, which has a nonempty set as value.
+
+
+
+Trawinski, Beata  # University of Tübingen # Towards Licensing of Adverbial Noun Phrases in HPSG # October 15, 2004 # #
+This paper focuses on aspects of the licensing of adverbial noun phrases
+(AdvNPs) in the HPSG grammar framework. In the first part, empirical issues
+will be discussed. A number of AdvNPs will be examined with respect to various
+linguistic phenomena in order to find out to what extent AdvNPs share syntactic
+and semantic properties with non-adverbial NPs.Based on empirical
+generalizations, a lexical constraint for licensing both AdvNPs and
+non-adverbial NPs will be provided. Further on, problems of structural
+licensing of phrases containing AdvNPs that arise within the standard HPSG
+framework of Pollard and Sag (1994) will be pointed out, and a possible
+solution will be proposed. The objective is to provide a constraint-based
+treatment of NPs which describes non-redundantly both their adverbial and
+non-adverbial usages. The analysis proposed in this paper applies lexical and
+phrasal implicational constraints and does not require any radical
+modifications or extensions of the standard HPSG geometry of Pollard and Sag
+(1994).
+
+Van Eynde, Frank  # Universiteit Leuven # Pied Piping is a Local Dependency # October 15, 2004 # #
+To model the pied piping in interrogative and exclamative clauses Ginzburg & Sag (2000) proposes a
+nonlocal head-driven treatment, thus emphasizing the resemblances with extraction. This treatment
+has a number of drawbacks: it relies on poorly motivated lexical rules and nonbranching phrase
+structure rules, it makes false predictions about pied piping in PPs, and it presupposes an
+implausible structure for NPs with predeterminers.  To solve these problems I propose an alternative
+in which pied piping is treated as a local functor-driven dependency.  Technically, the WH feature
+is integrated in the CATEGORY objects, and the propagation of its values is modeled by constraints
+which are independently needed for the treatment of other phenomena.
+
+
+Yatabe, Shûichi  # University of Tokyo # A Comprehensive Theory of Coordination of Unlikes # October 15, 2004 # #
+The principal aim of this paper is to present a comprehensive theory of
+coordination of unlikes, i.e., a theory that is capable of dealing with
+every phenomenon resulting from coordination of unlikes.
+The proposed theory accounts not just for standard cases of coordination
+of unlike arguments and coordination of unlike functors but also for cases
+involving single-conjunct agreement and what will be called each-conjunct agreement.
+In the course of the argumentation, it is also shown that, even in a language like English,
+predicate-argument agreement needs to be described in terms of a relational
+constraint that is not simply an identity requirement.

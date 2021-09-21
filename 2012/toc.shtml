@@ -1,0 +1,99 @@
+<html>
+<head>
+<title>HPSG 2012 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_author"           content="MÃ¼ller, Stefan">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_pdf_url" content="http://cslipublications.stanford.edu/HPSG/2012/hpsg2012.pdf">
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</head>
+
+<body>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+<div class="blurb">
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg2012.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg2012.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+<li>Alqurashi, Abdulrahman (University of Essex)<p class="arttitle">An HPSG Approach to Free Relatives in Arabic</p><p class="artlinks"><a href="abstr-alqurashi.shtml">abstract</a>, <a href="alqurashi.pdf">pages 6&ndash;25</a></p>
+<li>Alqurashi, Abdulrahman (King Abdulaziz University, University of Essex) and Borsley, Robert D. (University of Essex)<p class="arttitle">Arabic Relative Clauses in HPSG</p><p class="artlinks"><a href="abstr-alqurashi-borsley.shtml">abstract</a>, <a href="alqurashi-borsley.pdf">pages 26&ndash;44</a></p>
+<li>Bjerre, Anne (University of Southern Denmark)<p class="arttitle">An Analysis of Danish Free Relatives</p><p class="artlinks"><a href="abstr-bjerre.shtml">abstract</a>, <a href="bjerre.pdf">pages 45&ndash;63</a></p>
+<li>Cho, Sae-Youn and Ku, Na-Hyun (Kangwon National University)<p class="arttitle">Verbal Suffix-Repetition Construction in Korean: A Constraint- and Construction-based Approach</p><p class="artlinks"><a href="abstr-cho-ku.shtml">abstract</a>, <a href="cho-ku.pdf">pages 64&ndash;74</a></p>
+<li>Choi, Incheol (Kyungpook National University)<p class="arttitle">Sentential Specifiers in the Korean Clause Structure</p><p class="artlinks"><a href="abstr-choi.shtml">abstract</a>, <a href="choi.pdf">pages 75&ndash;85</a></p>
+<li>Costa, Francisco and Branco, António (University of Lisbon)<p class="arttitle">Backshift and Tense Decomposition</p><p class="artlinks"><a href="abstr-costa-branco.shtml">abstract</a>, <a href="costa-branco.pdf">pages 86&ndash;106</a></p>
+<li>Crowgey, Joshua (University of Washington)<p class="arttitle">An a priori Typology of Sentential Negation from an HPSG Perspective</p><p class="artlinks"><a href="abstr-crowgey.shtml">abstract</a>, <a href="crowgey.pdf">pages 107&ndash;122</a></p>
+<li>Crowgey, Joshua (University of Washington)<p class="arttitle">What's a Morpheme? The Zero Dravidian Negative and Typological Universals</p><p class="artlinks"><a href="abstr-crowgey-joshua.shtml">abstract</a>, paper not submitted</p>
+<li>Crysmann, Berthold (Laboratoire de Linguistique Formelle, Université Paris Diderot and CNRS) and Bonami, Olivier (Université Paris-Sorbonne, Institut Universitaire de France, Laboratoire de Linguistique Formelle)<p class="arttitle">Establishing Order in Type-Based Realisational Morphology</p><p class="artlinks"><a href="abstr-crysmann-bonami.shtml">abstract</a>, <a href="crysmann-bonami.pdf">pages 123&ndash;143</a></p>
+<li>Hahn, Michael (University of Tübingen)<p class="arttitle">Arabic Relativization Patterns:  A Unified HPSG Analysis</p><p class="artlinks"><a href="abstr-hahn.shtml">abstract</a>, <a href="hahn.pdf">pages 144&ndash;164</a></p>
+<li>Haugereid, Petter (Nanyang Technological University, Singapore and University of Haifa, Israel)<p class="arttitle">The Adverb Argument Intersection Field in a Left-Branching Grammar of Norwegian</p><p class="artlinks"><a href="abstr-haugereid.shtml">abstract</a>, <a href="haugereid.pdf">pages 165&ndash;180</a></p>
+<li>Haugereid, Petter (Nanyang Technological University, Singapore and University of Haifa, Israel) and Morey, Mathieu (Aix-Marseille Université, France)<p class="arttitle">A Left-Branching Grammar Design for Incremental Parsing</p><p class="artlinks"><a href="abstr-haugereid-morey.shtml">abstract</a>, <a href="haugereid-morey.pdf">pages 181&ndash;194</a></p>
+<li>Ionescu, Emil (University of Bucharest)<p class="arttitle">A Hybrid Type of Ellipsis in Romanian</p><p class="artlinks"><a href="abstr-ionescu.shtml">abstract</a>, <a href="ionescu.pdf">pages 195&ndash;215</a></p>
+<li>Kim, Mija (Kyung Hee University)<p class="arttitle">Syntactic Types of <em>as</em>-Parentheticals in Korean</p><p class="artlinks"><a href="abstr-kim.shtml">abstract</a>, <a href="kim.pdf">pages 216&ndash;231</a></p>
+<li>Koga, Hiroki (Saga University)<p class="arttitle">Past Affix' Selection of Verbal Stems</p><p class="artlinks"><a href="abstr-koga.shtml">abstract</a>, <a href="koga.pdf">pages 232&ndash;250</a></p>
+<li>Lee, Juwon (University of Texas at Austin)<p class="arttitle">The Direct Evidential <em>-te</em> in Korean:  Its Interaction with Person and Experiencer Predicates</p><p class="artlinks"><a href="abstr-lee.shtml">abstract</a>, <a href="lee.pdf">pages 251&ndash;271</a></p>
+<li>Lee, Yong-hun (Chungnam National University)<p class="arttitle">A Unified Approach to VP-ellipsis and VP-anaphora</p><p class="artlinks"><a href="abstr-lee-yong-hun.shtml">abstract</a>, <a href="lee-yong-hun.pdf">pages 272&ndash;291</a></p>
+<li>Maekawa, Takafumi (Hokusei Gakuen University Junior College)<p class="arttitle">Negative Inversion Constructions in HPSG</p><p class="artlinks"><a href="abstr-maekawa.shtml">abstract</a>, paper not submitted</p>
+<li>Oshima, David Y. (Nagoya University)<p class="arttitle">On the Semantics of the Japanese Infinitive/Gerund-Clause Constructions: Polysemy and Temporal Constraints</p><p class="artlinks"><a href="abstr-oshima.shtml">abstract</a>, <a href="oshima.pdf">pages 292&ndash;309</a></p>
+<li>Park, Dong-woo (Seoul National University)<p class="arttitle">An HPSG Approach to English Comparative Inversion</p><p class="artlinks"><a href="abstr-park.shtml">abstract</a>, <a href="park.pdf">pages 310&ndash;329</a></p>
+<li>Song, Sanghoun and Bender, Emily M. (University of Washington)<p class="arttitle">Individual Constraints for Information Structure</p><p class="artlinks"><a href="abstr-song-bender.shtml">abstract</a>, <a href="song-bender.pdf">pages 330&ndash;348</a></p>
+<li>Van Eynde, Frank (Centre for Computational Linguistics Department of Linguistics University of Leuven)<p class="arttitle">On the Agreement between Predicative Complements and their Target</p><p class="artlinks"><a href="abstr-vaneynde.shtml">abstract</a>, <a href="vaneynde.pdf">pages 349&ndash;367</a></p>
+</ul>
+<li>Contributions to the Workshop
+<ul>
+<li>Ahn, Hee-Don (Konkuk University) and Cho, Sungeun (Yeungnam University)<p class="arttitle">Fragments vs. Null Arguments in Korean</p><p class="artlinks"><a href="abstr-ahn-cho.shtml">abstract</a>, <a href="ahn-cho.pdf">pages 369&ndash;387</a></p>
+<li>Erschler, David (Max Planck Institute for Developmental Biology, Tübingen and University of
+Tübingen)<p class="arttitle">Sluicing-like Phenomena and the Location of CP in Ossetic</p><p class="artlinks"><a href="abstr-erschler.shtml">abstract</a>, paper not submitted</p>
+<li>Kim, Yae-Jee (State University of New York at Buffalo) and Cho, Sae-Youn (Kangwon National University)<p class="arttitle">Tense and Honorific Interpretations in Korean Gapping Construction:  A Constraint- and Construction-Based Approach</p><p class="artlinks"><a href="abstr-kim-cho.shtml">abstract</a>, <a href="kim-cho.pdf">pages 388&ndash;408</a></p>
+<li>Kobele, Gregory M. (University of Chicago)<p class="arttitle">Eliding the Derivation: A Minimalist Formalization of Ellipsis</p><p class="artlinks"><a href="abstr-kobele.shtml">abstract</a>, <a href="kobele.pdf">pages 409&ndash;426</a></p>
+<li>Lee, Hanjung and Kim, Nayoun (Sungkyunkwan University)<p class="arttitle">Non-Canonical Word Order and Subject-Object Asymmetry in Korean Case Ellipsis</p><p class="artlinks"><a href="abstr-lee-kim.shtml">abstract</a>, <a href="lee-kim.pdf">pages 427&ndash;442</a></p>
+<li>Sato, Yo (Department of Computer Science University of Hertfordshire) and Tam, Wai Lok (National Institute of Advanced Industrial Science and Technology)<p class="arttitle">Ellipsis of Case-Markers and Information Structure in Japanese</p><p class="artlinks"><a href="abstr-sato-tam.shtml">abstract</a>, <a href="sato-tam.pdf">pages 443&ndash;453</a></p>
+<li>Steedman, Mark (University of Edinburgh)<p class="arttitle">Coordination, Ellipsis, and Information Structure</p><p class="artlinks"><a href="abstr-steedman.shtml">abstract</a>, paper not submitted</p>
+<li>Yatabe, Shûichi (University of Tokyo)<p class="arttitle">Comparison of the Ellipsis-Based Theory of Non-Constituent Coordination with its Alternatives</p><p class="artlinks"><a href="abstr-yatabe.shtml">abstract</a>, <a href="yatabe.pdf">pages 454&ndash;474</a></p>
+</ul>
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 09.01.2019 (20:36:02)
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

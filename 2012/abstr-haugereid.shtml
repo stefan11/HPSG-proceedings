@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Haugereid, Petter: The Adverb Argument Intersection Field in a Left-Branching Grammar of Norwegian
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="The Adverb Argument Intersection Field in a Left-Branching Grammar of Norwegian">
+<meta name="citation_author"           content="Haugereid, Petter">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="165">
+<meta name="citation_lastpage"         content="180">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/haugereid.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Haugereid, Petter: The Adverb Argument Intersection Field in a Left-Branching Grammar of Norwegian
+</h1>
+
+<div class="blurb"
+<p>
+This paper presents an account of the position of sentence adverbials
+in Norwegian within a left-branching HPSG-like grammar design. The
+assumed left-branching structures open for a treatment of Object Shift
+in Norwegian as part of a wider phenomenon referred to as the Adverb
+Argument Intersection Field. The approach is compared to the standard
+P&P analysis of Object Shift and it is shown that the two approaches
+make similar predictions regarding basic clause structures with full
+NP arguments. However, while one in P&P is forced to assume a
+secondary phonological movement in order to account for the position
+of unstressed pronoun objects with regard to sentence adverbials, no
+extra assumptions need to be made in the proposed account.
+  
+<P>
+<ul>
+<li><a href="haugereid.pdf">download PDF</a>
+<li><a href="haugereid.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

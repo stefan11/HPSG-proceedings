@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Wechsler, Stephen: Dualist Syntax
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Dualist Syntax">
+<meta name="citation_author"           content="Wechsler, Stephen">
+<meta name="citation_conference_title" content="Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2008">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="274">
+<meta name="citation_lastpage"         content="293">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2008/wechsler.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Wechsler, Stephen: Dualist Syntax
+</h1>
+
+<div class="blurb"
+<p>
+A dualist syntax has two components: (1) the lexicon, a structured set
+of formatives ('words'); and (2) rules for combining those formatives into
+utterances. This paper defends syntactic dualism against three
+'monist' challenges.
+First, evidence for lexical argument structure can be found in deverbal
+nominalization, which preserves that structure systematically. Second,
+words represent the smallest units for idiom formation and contextual polysemy
+effects, which is expected on the dualist view but not if word meanings
+are composed in the syntax. Third, the count/mass properties of nouns suggest
+an interleaving of conceptual and grammatical information in semantic
+composition.
+  
+<P>
+<ul>
+<li><a href="wechsler.pdf">download PDF</a>
+<li><a href="wechsler.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 21, 2008
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

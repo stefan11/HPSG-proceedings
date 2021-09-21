@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Richter, Frank: 87, 94, 14? The Nature of Linguistic Theory
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Richter, Frank: 87, 94, 14? The Nature of Linguistic Theory
+</h1>
+
+<div class="blurb"
+<p>
+In the early days of HPSG, there was considerable emphasis on its
+formal foundations and on the 'nature of linguistic theory' that would
+go with a particular formalization. In fact, HPSG came with at least
+two significantly different sets of foundational assumptions: A logic
+of partial information in 1987, and a theory of linguistic types in
+1994, soon to be followed by a number of modifications as the
+mathematical details were spelled out and a few philosophical
+disagreements over their interpretation were settled.
+<p>
+In the meantime, the way in which linguistic research is conducted has
+changed: Controlled psycholinguistic experiments provide a much more
+fine-grained picture of processing facts and the gradedness of human
+acceptability judgments, statistical language modeling has become the
+standard in computational linguistics, and large-scale corpora allow
+insights into actual language use that were not available
+before. Closer to home for HPSG, there is now a considerable number of
+computational grammar implementations which show how HPSG fares
+with respect to grammar fragments in different languages, and how these
+grammars behave computationally.
+<p>
+In this talk, I would like to reconsider the nature of HPSG-style
+grammar theory and its perspective on language in light of the
+empirical turn in linguistics. Questions to be touched upon include
+how suitable its foundational assumptions are for the description of
+data gained with any of the empirical methods above, what these data
+can or should tell us about linguistic theory, and which of them
+should be considered subject to what kind of linguistic theory.
+<p>
+We know HPSG in 1987 and in 1994. My modest aim is to present
+HPSG 2014.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2013
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

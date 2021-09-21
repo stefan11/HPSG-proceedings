@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>HPSG 2021 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+<meta name="citation_conference_title" content="Proceedings of the 28th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_author"           content="MÃ¼ller, Stefan & Melnik, Nurit">
+<meta name="citation_publication_date" content="2021">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_pdf_url" content="http://cslipublications.stanford.edu/HPSG/2021/hpsg2021.pdf">
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</head>
+
+<body>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 28th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+<div class="blurb">
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg2021.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg2021.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+<li>Aguila-Multner, Gabriel and Crysmann, Berthold (Université de Paris, Laboratoire de linguistique formelle, CNRS)<p class="arttitle">An inside-out approach to
+French causatives</p><p class="artlinks"><a href="abstr-aguila-multner-crysmann.shtml">abstract</a>, <a href="hpsg2021-aguila-multner-crysmann.pdf">pages 5&ndash;25</a></p>
+<li>Sailer, Manfred (Goethe-University Frankfurt a.M.) and Dörner, Annika (University of Erfurt)<p class="arttitle">A
+Smurf-based Approach to Placeholder Expressions</p><p class="artlinks"><a href="abstr-sailer-doerner.shtml">abstract</a>, <a href="hpsg2021-sailer-doerner.pdf">pages 26&ndash;46</a></p>
+<li>Lu, Yanru and Müller, Stefan (Humboldt-Universität zu Berlin)<p class="arttitle">Verbal reduplication in Mandarin Chinese: An HPSG account</p><p class="artlinks"><a href="abstr-lu-mueller.shtml">abstract</a>, <a href="hpsg2021-lu-mueller.pdf">pages 47&ndash;67</a></p>
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 20.09.2021 (20:22:49)
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

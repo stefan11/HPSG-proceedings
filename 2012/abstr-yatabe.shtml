@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Yatabe, Shûichi: Comparison of the Ellipsis-Based Theory of Non-Constituent Coordination with its Alternatives
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Comparison of the Ellipsis-Based Theory of Non-Constituent Coordination with its Alternatives">
+<meta name="citation_author"           content="Yatabe, Shûichi">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="454">
+<meta name="citation_lastpage"         content="474">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/yatabe.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Yatabe, Shûichi: Comparison of the Ellipsis-Based Theory of Non-Constituent Coordination with its Alternatives
+</h1>
+
+<div class="blurb"
+<p>
+In this paper, I compare the ellipsis-based theory of non-constituent coordination proposed in
+Yatabe (2001) with three of its alternatives, namely the theory that has been widely accepted within
+the context of Categorial Grammar, Mouret's HPSG-based theory, and the theory proposed by Bachrach
+and Katzir in the framework of the Minimalist Program.  It is found (i) that the CG-based theory of
+non-constituent coordination cannot deal with medial RNR, i.e. a subset of right-node raising
+constructions in which either all or a part of the right-node-raised material is realized at a
+location other than the right edge of the final conjunct, (ii) that Mouret's theory encounters
+similar difficulties when applied to RNR, and (iii) that Bachrach and Katzir's theory cannot be
+applied to left-node raising in English, has difficulty capturing the semantic inertness of medial
+RNR, and overgenerates in several ways.  The ellipsis-based theory, on the other hand, appears to be
+consistent with all the observations.
+  
+<P>
+<ul>
+<li><a href="yatabe.pdf">download PDF</a>
+<li><a href="yatabe.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

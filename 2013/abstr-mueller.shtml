@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Müller, Gereon: Derivational Syntax: Arguments and Challenges
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Müller, Gereon: Derivational Syntax: Arguments and Challenges
+</h1>
+
+<div class="blurb"
+<p>
+Strong arguments for a derivational organization of syntax are
+provided by opaque interactions of grammatical building blocks (like
+rules, constraints, or schemata), i.e., by counter-bleeding and
+counter-feeding phenomena. Some of these opaque interactions can be
+captured in declarative/representational approaches by enriching
+representations (e.g., by traces/copies), others less
+straightforwardly so, and some not at all.
+<p>
+Arguments for extremely small local domains in derivational syntax (as
+in phase theory) are typically based on conceptual considerations
+(economy, learnability), but they can also be empirical in nature:
+Assuming a larger accessible domain (for syntactic rules/constraints),
+a wrong output would be predicted.
+<p>
+Assuming a derivational syntax with small accessible windows (as in
+some versions of the minimalist program) leads to a restrictive
+theory, but at the same time it raises potential problems. In
+particular, the questions arise of (i) whether there are
+meta-constraints on the order of operations (cf. Pullum (1979),
+McCawley (1984), Chomsky (2013)), and (ii) how phenomena can be
+addressed where it looks as though the accessible parts of a
+derivation must be larger after all because crucial information that
+would be needed for proper constraint/rule evaluation is otherwise
+lost. On the basis of improper movement and remnant movement
+constructions in German and other languages (where the two potential
+problems co-occur), I will argue that this challenge can be met in a
+simple way. 
+<h2>References</h2>
+<ul class="pub">
+<li>Chomsky, Noam. 2013. Problems of Projection. Lingua 130, 33–49. 
+<li>McCawley, James. 1984. Exploitation of the Cyclic Principle as a Research Strategy in Syntax. In Wim de Geest and Y. Putseys (Eds): Sentential Complementation, Dordrecht: Foris, 165&ndash;183.
+<li>Geoffrey Pullum. 1979. Rule Interaction and the Organization of a Grammar. New York: Garland.
+</ul>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 31,
+2013
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

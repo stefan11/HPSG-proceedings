@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Brindle, Jonathan Allen: Uncovering regularities: On Bare and Evaluated Controllers in Tigrinya
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Uncovering regularities: On Bare and Evaluated Controllers in Tigrinya">
+<meta name="citation_author"           content="Brindle, Jonathan Allen">
+<meta name="citation_conference_title" content="Proceedings of the 13th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2006">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="381">
+<meta name="citation_lastpage"         content="401">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2006/brindle.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Brindle, Jonathan Allen: Uncovering regularities: On Bare and Evaluated Controllers in Tigrinya
+</h1>
+
+<div class="blurb"
+<p>
+The "flexibility" of gender in Tigrinya is uncovered by (i) setting a value
+for gender for each noun at the lexical level (i.e. <em>bare</em> controllers) and (ii)
+analysing  gender shifts as signals for evaluations (i.e. <em>evaluated</em>
+controllers). The analysis is formalized as lexical rules which change the
+value of <font style="font-variant:small-caps;">gend</font> and add an elementary predication in the  <font style="font-variant:small-caps;">rels</font> list.
+  
+<P>
+<ul>
+<li><a href="brindle.pdf">download PDF</a>
+<li><a href="brindle.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2006
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

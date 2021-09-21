@@ -1,0 +1,153 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
+
+Ahn, Hee-Don & Cho, Sungeun # Konkuk University & Yeungnam University # Fragments vs. Null Arguments in Korean # October 15, 2012 # # 
+Korean has two types of answers shorter than full sentential answers: Fragments and null argument
+constructions. Apparently the two constructions have the same interpretative processes. However,
+there are some cases where the fragment and null argument construction behave differently: e.g.,
+wh-puzzles, sloppy interpretation. We suggest that the two constructions involve two different types
+of anaphora and that the sources of sloppy(-like) interpretation are fundamentally
+distinct. Fragments pattern differently with null arguments in that only the former may display
+genuine sloppy readings. The latter may yield sloppy-like readings which are pragmatically induced
+by the explicature that can be cancelled unlike genuine sloppy readings in fragments. Evidence
+(wh-ellipsis, quantifier ellipsis) all lends substantial support to our claim that fragments are
+analyzed as an instance of clausal ellipsis while null arguments are analyzed as an instance of null
+pronoun pro; hence, the former is surface anaphora whereas the latter is deep anaphora in the sense
+of Hankamer & Sag (1976).  
+
+Erschler, David  # Max Planck Institute for Developmental Biology, Tübingen and University of
+Tübingen # Sluicing-like Phenomena and the Location of CP in Ossetic # # no # In this talk, I show
+that Digor and Iron Ossetic, closely related Iranian languages spoken in the Central Caucasus, show
+sluicing in the proper sense and argue on this basis for the low (preverbal) position of
+complementizers in the Ossetic clause structure. The classical sluicing occurs in wh-fronting
+languages, and it is only the wh-phrase(s) that is retained:
+<p>
+(1)	Anne invited someone, but I don’t know who. (Merchant 2001: 40)
+<p>
+	Sluicing-like constructions, however, are also attested in languages that either lack
+        wh-movement or show non-canonical patterns thereof. The issue how to analyze such structures
+        is controversial, see, e.g. the polemics between Ince (2012) and Hankamer (2011) on the
+        proper analysis of Turkish sentences of this type. 
+<p>
+	In Ossetic, wh-phrases and certain complementizers are obligatorily preverbal, no matter
+        where the verb is situated in the clause, and only certain items may intervene between the
+        wh-phrases/complementizer and the verb, Erschler (2012). It is an obvious challenge to
+        theories of “left periphery” to analyze such a structure: even if the preverbal placement of
+        wh-phrases might be explained away as focusing, it can be hardly done so for
+        complementizers. Despite the unusual patterns of wh-placement and complementation, Ossetic
+        shows a construction that is at least superficially similar to sluicing. I show that,
+        analogously to the “classical” sluicing, this type of ellipsis can go backwards, is
+        unbounded, and is not sensitive to islands.
+<p>
+	That Ossetic (pseudo)-sluicing is indeed an independent type of ellipsis, and not a
+        subvariety of stripping [as argued for Turkish pseudo-sluicing in Hankammer (2011)], follows
+        from the fact that, unlike sluicing, Ossetic stripping is ungrammatical in dependent clauses
+        and cannot go backwards.
+<p>
+	Another potential analysis of pseudo-sluicing, reduced cleft, is ruled out because the
+        copula cannot be inserted in sluices, cf a similar argument in Toosarvandani (2008: 682-684)
+        for Persian. Thus it is natural to analyze Ossetic (pseudo)-sluicing as the classical
+        sluicing, i.e. as deletion of the material below C. If my proposal is on the right track, it
+        provides additional evidence that Ossetic indeed has C in the preverbal position.
+<h2>References</h2>
+
+<ul>
+<li>Erschler, D. 2012. From preverbal focus to preverbal <q>left periphery</q>: On diachronic and typological aspects of the Ossetic clause structure. Lingua, 122, 673–699.
+<li>Hankamer, J. 2011. Turkish Pseudo-Sluicing. Paper presented at Ellips’event, Stanford. 
+<li>Ince, A. 2012. Sluicing in Turkish. In Merchant, J. (ed.) Sluicing: Crosslinguistic perspectives. Oxford: OUP. 
+<li>Merchant, J. 2001. The syntax of Silence. Oxfrod: OUP. 
+<li>Toosarvandani, M. 2008. Wh-movement and the syntax of sluicing. Journal of Linguistics. 44: 677-722. 
+</ul>
+
+Kim, Yae-Jee & Cho, Sae-Youn # State University of New York at Buffalo & Kangwon National University
+# Tense and Honorific Interpretations in Korean Gapping Construction:<br> A Constraint- and Construction-Based Approach # October 20, 2012 # # 
+Chung (2001) claims that non-final conjuncts without overt tense morphemes which produce asymmetric
+tense interpretations are to be analyzed as TP; and Lee (2005) argues that the verbal honorific
+affix -si- never occurs in non-final conjuncts so honorific agreement between the subject and the
+verb takes place in the final conjunct only and thus the Korean gapping constructions should be
+analyzed as vP coordination. However, these two previous analyses seem to fail to make the
+generalizations on the distributional behaviors of gapping constructions, facing theoretical and
+empirical difficulties. To solve the problems they face, we claim that verbal gapping in Korean is
+allowed to occur in all non-final conjuncts when the covert predicates of the non-final conjuncts
+have an identical semantic relation value with that of the overt verb in the final conjunct,
+regardless of the consistency of the honorific and tense values between conjuncts. 
+
+Kobele, Gregory M. # University of Chicago # Eliding the Derivation: A Minimalist Formalization of Ellipsis # October 15, 2012 # #
+In this paper I use the formal framework of minimalist grammars to implement a version of the
+traditional approach to ellipsis as ‘deletion under syntactic (derivational) identity’, which, in
+conjunction with canonical analyses of voice phenomena, immediately allows for voice mismatches in
+verb phrase ellipsis, but not in sluicing. This approach to ellipsis is naturally implemented in a
+parser by means of threading a state encoding a set of possible antecedent derivation contexts
+through the derivation tree. Similarities between ellipsis and pronominal resolution are easily
+stated in these terms. In the context of this implementation, two approaches to ellipsis in the
+transformational community are naturally seen as equivalent descriptions at different levels: the
+LF-copying approach to ellipsis resolution is best seen as a description of the parser, whereas the
+phonological deletion approach a description of the underlying relation between form and meaning. 
+
+Lee, Hanjung & Kim, Nayoun # Sungkyunkwan University # Non-Canonical Word Order and Subject-Object Asymmetry in Korean Case Ellipsis # October 12, 2012 # #
+The dispreference for subject case ellipsis in OSV sentences has been analyzed as resulting from a
+violation of a structural requirement on the position of bare subject NPs (Ahn and Cho 2006a, 2006b,
+2007). In this study, we present evidence from an acceptability rating experiment demonstrating that
+OSV sentences containing a case-ellipsed subject exhibit acceptability patterns different from
+ungrammatical sentences violating a core syntactic principle on case assignment and that these
+sentences are judged acceptable when the subject refers to expected, predictable information in
+context. This evidence supports the conclusion that the dispreference for subject case ellipsis in
+OSV sentences is due to violations of probabilistic constraints that favor case marking for rare
+types of subjects and such violations can be remedied by non-syntactic information. 
+
+Sato, Yo & Tam, Wai Lok # Department of Computer Science University of Hertfordshire & National Institute of Advanced Industrial Science and Technology # Ellipsis of Case-Markers and Information Structure in Japanese # October 13, 2012 # #
+This paper presents an HPSG formalisation of how the ellipsis of case-marking affects the focus of
+the clause in Japanese. We restrict our attention to the nominative and accusative markers ga and o,
+and in view of the fact that the ellipsis effects on focushood vary between 1) ga and o and 2)
+different argument structures of the head verb, develop an essentially lexicalist account that
+combines both aspects, in which the implicit focus argument position is specified in the
+predicate. We argue that if a constituent is an implicit focus it does not, while if one is not it
+does, require a case-marker to be focused. 
+
+Steedman, Mark  # University of Edinburgh # Coordination, Ellipsis, and Information Structure # October 17, 2012 # no # 
+The paper begins by drawing a distinction among the topics addressed
+by the theme of the session between grammatical (RNR, gapping etc.)
+and anaphoric (VP anaphora, sluicing etc.) varieties of ellipsis,
+recalling Hankamer and Sag 1976.  Among grammatical ellipses, there is
+a conspiracy between unbounded constructions like relativization,
+intonational phrasing, and ellipses like gapping, all of which seem to
+apply to or give rise to non-constituent fragments, contrary to the
+constituent condition on rules. A number of theories including GPSG
+and HPSG have reacted to this problem by restoring constituent status
+to some or all such fragments under some generalized notion of
+constituency.
+<p>
+The paper looks at the specific problem of intonation structure in
+English, and shows, following Steedman 2000a,b, that the system of
+combinatory rules available in CCG can explain intonation structure in
+terms of exactly the same syntactic mechanism used for other varieties
+of ellipsis including coordination and relativization.  The paper
+offers a novel information-structural semantics for intonation
+structure couched in a version of Mats Rooth's Alternative Semantics,
+and addresses certain shortcomings in earlier versions of both
+theories.
+<p>
+The paper concludes by addressing the question of how a similar
+analysis could be imported into HPSG. Following Klein's 2000 paper to
+this conference, it concludes that this is entirely possible, but
+notes some redundancy with the existing slash feature treatment of
+long-range dependency, suggesting that we need to look deeper for
+commonalities across these two formalisms.
+<p>
+Slides available at:
+<a href="http://homepages.inf.ed.ac.uk/steedman/papers/prosody/hpsg12.pdf">http://homepages.inf.ed.ac.uk/steedman/papers/prosody/hpsg12.pdf</a>
+
+Yatabe, Shûichi # University of Tokyo # Comparison of the Ellipsis-Based Theory of Non-Constituent Coordination with its Alternatives # October 15, 2012 # #
+In this paper, I compare the ellipsis-based theory of non-constituent coordination proposed in
+Yatabe (2001) with three of its alternatives, namely the theory that has been widely accepted within
+the context of Categorial Grammar, Mouret's HPSG-based theory, and the theory proposed by Bachrach
+and Katzir in the framework of the Minimalist Program.  It is found (i) that the CG-based theory of
+non-constituent coordination cannot deal with medial RNR, i.e. a subset of right-node raising
+constructions in which either all or a part of the right-node-raised material is realized at a
+location other than the right edge of the final conjunct, (ii) that Mouret's theory encounters
+similar difficulties when applied to RNR, and (iii) that Bachrach and Katzir's theory cannot be
+applied to left-node raising in English, has difficulty capturing the semantic inertness of medial
+RNR, and overgenerates in several ways.  The ellipsis-based theory, on the other hand, appears to be
+consistent with all the observations. 
+
+
+

@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Van Eynde, Frank: A Head-Driven Treatment of Asymmetric Coordination and Apposition
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="A Head-Driven Treatment of Asymmetric Coordination and Apposition">
+<meta name="citation_author"           content="Van Eynde, Frank">
+<meta name="citation_conference_title" content="Proceedings of the 12th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2005">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="396">
+<meta name="citation_lastpage"         content="409">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2005/vaneynde.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Van Eynde, Frank: A Head-Driven Treatment of Asymmetric Coordination and Apposition
+</h1>
+
+<div class="blurb"
+<p>
+In Pollard & Sag (1994) and in Ginzburg & Sag (2000) 
+phrases are either headed or non-headed, and if they are
+headed, there is a relation of selection between the daughters: 
+either the head daughter selects
+its non-head sister(s), as in the phrases of type `head-complements', 
+or the non-head daughter selects its head
+sister, as in the phrases of type `head-adjunct'. 
+In the non-headed phrases, by contrast, there is no
+selection; in a coordinate structure, for instance, there is no relation of
+selection, neither between the conjuncts nor between the conjunction and 
+the conjuncts. The central claim of this paper is that there
+are also phrases which are headed but in which neither daughter
+selects the other. 
+To model such phrases I propose a new type, called
+`head-independent'. Its properties are spelled out and its range
+of application is illustrated with various examples, 
+including asymmetric coordination and apposition.
+  
+<P>
+<ul>
+<li><a href="vaneynde.pdf">download PDF</a>
+<li><a href="vaneynde.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2005
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

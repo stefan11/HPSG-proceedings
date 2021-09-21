@@ -1,0 +1,326 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%   $RCSfile: example.tex,v $
+%%  $Revision: 1.1 $
+%%      $Date: 2004/08/11 09:52:43 $
+%%     Author: Stefan Mueller (CL Uni Bremen)
+%%    Purpose: Example file for contributions to the HPSG proceedings
+%%   Language: LaTeX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[11pt,a4paper,fleqn]{article}
+
+% use xelatex
+
+\usepackage{fontspec}
+
+\usepackage{times,float}
+
+
+\usepackage[sectionbib]{natbib}
+
+\usepackage{german}
+\selectlanguage{USenglish}
+
+% If you want to make your paper more usable for readers,
+% insert the following code.
+% It links references to sections, examples, and citations
+% in the document and provides bookmarks for sections and subsections.
+
+\usepackage[bookmarks=true,bookmarksopen=true,hyperindex=true,breaklinks=true,draft=false,plainpages=false,hyperfootnotes=false,%
+colorlinks=false, pdfborder={0 0 0}%
+]{hyperref}  
+
+
+
+\title{Guidelines for Type Setting Your Contribution to the HPSG Proceedings}
+
+\author{Stefan Müller\\
+Humboldt Universität zu Berlin}
+
+\begin{document}
+\maketitle
+
+
+\section{Things to Submit}
+
+Please submit:
+\begin{enumerate}
+\item your paper in pdf format\footnote{
+As with last year, we will produce a large pdf file that includes all
+of the papers.  This way, readers can download the entire proceedings
+as a book.
+
+If you absolutely cannot do PDF, please let me know as soon as
+possible and I will accomodate you in some way: point you to some
+reasonable converters, help you with the conversion, etc.}
+%
+ named `kruger.pdf', if your lastname is \emph{Kruger}.
+
+
+
+\item an abstract
+\end{enumerate}
+The abstract will be presented at a separate HTML page. You may submit it in ASCII [please remove \LaTeX{} mark up, thanks]
+or---if you have special formatting---in HTML. 
+To get an idea about how this looks like,
+you may look at the proceedings of previous years at:\newline
+\url{http://cslipublications.stanford.edu/HPSG/}\section{Deadline}
+
+The deadline for submission is October 15th.
+
+\section{Page Limit}
+
+The page limit for full papers is 20 pages.
+
+%The page limit for posters is 15 pages.
+
+\section{Title Page}
+
+
+The title page will be created automatically in order to be recognizable by google scholar.
+
+\section{Abstract}
+
+We encourage the inclusion of a short (one paragraph)  abstract directly on the first page.
+(no pagebreak before the main text, please)
+
+
+\section{Details on Formatting}
+
+\subsection{\LaTeX{} Users}
+
+\subsubsection{Styles}
+
+Please adapt the \verb+example.tex+ file at:\newline
+\url{http://cslipublications.stanford.edu/HPSG/2017/call.shtml}\newline
+and use the BibTeX file provided there.
+
+\subsubsection{PDF Creation}
+
+If you do not fancy stuff that needs PostScript you may produce
+the pdf file by using \verb+pdflatex+. If you use \verb+pstricks+ or
+similar packages, please use \verb+dvips+ and \verb+ps2pdf13+.
+
+Using \verb+ps2pdf13+ helps avoiding problems with ligaturs like in `fi'
+or `ff'. If you do not have this on your machine, using \verb+ps2pdf+ is okay.
+
+Please use the \verb+ps2pdf+-option \verb+-dAutoRotatePages=/None+  to avoid auto rotation
+of figures.
+
+
+\subsubsection{A4 Paper}
+
+Page numbers are inserted automatically. For this process to work properly it is important to use
+a4paper rather than letter. Most tex distributions in the US are set up to use letter paper as default.
+
+If you are using \verb+dvips+, please use the option \verb+-t a4+. This tells
+\verb+dvips+ to use A4 paper.
+
+On a4 paper in general (dvips and pdflatex) see \url{http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex2pdfprint.html}.
+
+If you are a Mac user and use MacTex you can change this setting with the Tex Live Utility. Go to
+Configure$|$Change Paper Size and select A4.
+
+\subsubsection{Huge AVMs and Trees}
+\label{huge}
+
+Please typeset trees, avms, and formulae in a way that they fit the
+\verb+\textwidth+. If you see no other way to reduce the size of the respective
+objects, you may use \verb+resizebox+ from the package \verb+graphicx+.
+{\small
+\begin{verbatim}
+\resizebox{\linewidth}{!}{%
+\ms{
+ synsem & \onems{ loc$|$cat$|$subcat del(\ibox{2},\ibox{1})\\
+                }\\
+ head-dtr & \onems{ synsem$|$loc$|$cat$|$subcat \ibox{1} \\
+                  }\\
+ non-head-dtrs & \sliste{\onems{ synsem \ibox{2}\\ 
+                               }}\\[2mm]
+}}
+\end{verbatim}
+}
+
+
+\subsubsection{Hyphenation}
+\label{hyphenation}
+
+If you write things like \verb+head-driven+ or very long pathes like
+{\sc snysem$|$loc$|$cat$|$head$|$mod$|$loc}, \LaTeX{} does not do hyphenation
+(in the part following the dash).
+
+If you use \verb+german.sty+ you get additional markup that allows for proper hyphenation:
+\begin{verbatim}
+head"=driven
+
+{\sc snysem$|$""loc$|$""cat$|$""head$|$""mod$|$""loc}
+\end{verbatim}
+With this markup even long pathes like {\sc snysem$|$loc$|$cat$|$head$|$mod$|$loc$|$cat$|$""head}
+are typeset properly. Alternatively you my write
+\begin{verbatim}
+{\sc snysem$|$\-loc$|$\-cat$|$\-head$|$\-mod}
+\end{verbatim}
+which introduces a dash at the place of the linebreak:
+{\sc snysem$|$\-loc$|$\-cat$|$\-head$|$\-mod$|$\-loc$|$\-cat$|$\-head}.
+
+If you use \verb+german.sty+ do not forget to declare English as the language
+you are using:
+\begin{verbatim}
+\selectlanguage{USenglish}
+\end{verbatim}
+Otherwise the section name for references comes out in German.
+
+\subsubsection{URLs}
+
+There is a cool package: url.sty It helps you typeset URLs and together with the hyperref style the
+URLs are even clickable. The `\~{}' symbol is correctly displayed with url.sty. Please use the
+hyphens option for the url package. See example.tex for details.
+
+
+
+
+
+\subsection{Others (StarOffice, Word Perfect, Open Office, Word, \ldots)}
+
+\subsubsection{Font}
+
+Please use a 11pt times (Type 1 font). 
+
+\subsubsection{No Page Numbers}
+
+Please submit your paper without page numbering.  I will add in
+the page numbering on the PDF file as I am putting the
+proceedings together.
+
+\subsubsection{Justification}
+
+Please make sure that the text is typeset in justification,
+i.e. with the text aligned at both the left-hand side and the right-hand side.
+
+\subsubsection{Papersize and Margins}
+\label{margins}
+
+Please use A4 paper:
+\begin{table}[H]
+\begin{tabular}{@{}ll}
+paperheight  = 297mm\\
+paperwidth   = 210mm
+\end{tabular}
+\end{table}
+%
+The text size should be:
+\begin{table}[H]
+\begin{tabular}{@{}ll}
+textwidth  = 120mm\\
+textheight = 201mm
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\begin{tabular}{@{}l@{ = }l}
+distance from the top & 50 mm\\
+distance from the left-hand side & 45 mm\\
+distance from the right-hand side & 44 mm\\
+distance from the bottom & 48 mm\\
+\end{tabular}
+\end{table}
+
+This is important since otherwise automatic page numbering will not work.
+If you are not sure whether you did things right, you may compare your file
+with (my) papers from the past years:\newline 
+\url{http://cslipublications.stanford.edu/HPSG/5/toc.shtml#stmue}
+
+\subsection{PDF Creation}
+\label{sec-pdf-creation-word}
+
+Please use LibreOffice to create the PDF. PDFs created by word will not be accepted, since AVMs do
+not display correctly accross platforms.
+
+\section{Things You Should Not Do}
+
+\begin{itemize}
+\item Do not change the margins or other \LaTeX{} internal values! Page numbers will be inserted automatically and
+      if you changed things this will not work and cause me and you additional work.
+\item Do not change the font size.
+\end{itemize}
+
+
+\section{Checklist}
+
+\begin{itemize}
+\item Do you have the right margins (\LaTeX{} $\to$ no problem if you didn't change
+      the styles, others see Section~\ref{margins})?
+\item Do you use a4 paper, rather than letter? dvips has to be used with the option ``-t a4'' if you
+  work in a setup that has letter as the default.
+\item Are you within the page limit of 20 pages?
+\item Did you suppress the page numbers?
+\item If you look at figures in the pdf file, do rotated figures flip back?
+      Please edit your text in a way that figures do not flip back, since this
+      breaks the process of automatic page numbering.
+
+If you used \LaTeX{} to produce your document you can avoid rotating figures by calling
+\verb+ps2pdf13+ with the option \verb+-dAutoRotatePages=/None+.
+\item Is there something sticking out at the right-hand side of the text?
+      If so, see Section~\ref{hyphenation}.
+\item Are there coloured URLs or something that like in your paper? If so,
+      please change this to the text colour.
+\item Are the URLs underlined? If so please change this to normal text.
+\item Do you have AVMs, equations, or trees that do not fit the textwidth?
+      If so, please fix this. See Section~\ref{huge}.
+\item Is the name of the pdf file `author.pdf', where `author' is your lastname or a list of the lastnames of several authors
+      separated by `-'?
+\item Does the paper contain an abstract?
+\item Do you have the abstract ready to send separately? (please put plain text directly into the mail, the
+format of the abstract is given on the next page)
+\item Did you remove all \LaTeX{} markup from the abstract? (Yes, `\verb+---+' is also markup)
+\item If you are a Word user: Did you use LibreOffice for PDF creation? See Section~\ref{sec-pdf-creation-word}.
+\end{itemize}
+
+Please do not send zip files
+or word files or anything else. Just the abstract/author information in the mail and one pdf-attachment.
+
+
+
+Great! I am looking forward to your submission!
+Please send the pdf and the abstract/author information to\newline
+\href{mailto:St.Mueller@hu-berlin.de}{St.Mueller@hu-berlin.de}. 
+
+
+If you have any questions, please contact me at the given adress.
+
+\newpage
+
+\noindent
+The abstract/author information has to be part of the email and looks as follows:
+
+First Author \& Second Author \# First Affiliation \& Second Affiliation \# Titel of Paper \# Date of
+Submission \# \# Abstract \# Keywords
+
+\bigskip
+
+Example:
+
+\medskip
+\noindent
+Song, Sanghoun \& Bender, Emily M. \# University of Washington \& University of Washington \#
+Individual Constraints for Information Structure \# October 16, 2012 \# \#
+This paper, in the context of multilingual MT, proposes the use of ICONS
+(Individual CONstraintS) to add a representation of information structure to
+MRS. The value of ICONS is a list of objects of type info-str, each of which
+has the features CLAUSE and TARGET. The subtypes of info-str indicate
+which information structural role is played by the TARGET with respect
+to the CLAUSE. This proposal is designed to support both the calculation
+of focus projection from underspecified representations and the handling of
+multiclausal sentences. \# HPSG, Information Structure
+
+\medskip
+
+
+
+%% \bibliographystyle{natbib.fullname} 
+%% \bibliography{biblio}
+
+\end{document}
+
+

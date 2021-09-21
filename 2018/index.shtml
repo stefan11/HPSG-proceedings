@@ -1,0 +1,147 @@
+<html>
+<head>
+<title>Proceedings of the 25th International Conference on Head-Driven Phrase Structure Grammar</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</HEAD>
+
+
+<BODY>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 25th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+
+<p class="author">
+University of Tokyo<br>
+June 30 - July 2, 2018</p>
+
+<p class="author">
+Editors: Stefan  Müller, Frank Richter<br>
+2018 &copy; <a href="http://cslipublications.stanford.edu/">CSLI Publications</a><br>
+ISSN 15351793
+</p>
+
+<div class="blurb"
+<p>
+
+<a href="toc.shtml">Table of Contents</a>
+
+
+<hr> 
+
+<h2>
+Editor's Note
+</h2>
+<p>
+The 25th International Conference on Head-Driven Phrase Structure Grammar (2018) was held at
+the University of Tokyo, Komaba Campus.
+<p>
+The conference featured 2 invited talks, 13 papers, and 3 posters selected by the program committee 
+(Anne Abeillé,
+Doug Arnold,
+Daisuke Bekki,
+Olivier Bonami,
+Francis Bond,
+Gosse Bouma,
+George Broadwell,
+Rui Chaves,
+Philippa Cook,
+Berthold Crysmann,
+Kordula De Kuthy,
+Antske Fokkens,
+Petter Haugereid,
+Fabiola Henri,
+Anke Holler,
+Gianina Iordachoaia,
+Jong-Bok Kim,
+Jean-Pierre Koenig,
+Yusuke Kubota,
+David Lahm,
+Robert D. Levine,
+Yo Matsumoto,
+Nurit Melnik,
+Philip Miller,
+Stefan Müller,
+Tsuneko Nakazawa,
+Joanna Nykiel,
+Rainer Osswald,
+Gerald Penn,
+Frank Richter (chair),
+Manfred Sailer,
+Pollet Samvellian,
+Sanghoun Song,
+Frank van Eynde,
+Stephen Wechsler,
+Shûichi Yatabe,
+Eun-Jung Yoo).
+<p>
+There was a workshop on <em>The Clause Structure of Japanese and Korean</em> with three talks and two
+invited talks.
+<p>
+<p>
+<p>
+We want to thank the program committees for putting this nice program together.
+<p>
+Thanks go to Shuichi Yatabe, who was in charge of local arrangements, and his assistants Kei Tanigawa,
+Tsuneko Nakazawa,
+Morine Kondo,
+Mayu Kawakita,
+Takeshi Kishiyama, and
+Fuga Terasaki.
+<p>
+<p>
+As in the past years the contributions to the conference proceedings are based on the five page abstract
+that was reviewed by the respective program committees, but there is no additional reviewing of the
+longer contribution to the proceedings.
+To ensure easy access and fast publication we have chosen an electronic format.
+<p>
+The proceedings include all the papers except the one by Anne Abeillé & Shrita Hassamal, Gabriel Aguila-Multner &
+Berthold Crysmann, Makoto Kanazawa, Yusuke Kubota, and Frank Van Eynde. 
+<p>
+<p>
+<p>
+
+The <a href="toc.shtml">table of contents</a> lists all the
+papers presented at the conference. Some papers were not submitted to
+the proceedings. For these papers, we suggest contacting the authors
+directly.
+
+<p>
+
+A <a href="hpsg2018.bib">list of BibTeX-Entries</a> containing bibliographic
+information is also available.
+
+
+<hr>
+
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 02.04.2020 (16:08:43)
+</address> 
+</div>
+</td>
+
+<!--#include virtual="../Includes/hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../Includes/HPSG-body-bottom" --> 
+
+
+</body></html>

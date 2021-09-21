@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Marshall, Ian &amp; Safar,  Eva: Sign Language Generation in an ALE HPSG
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Sign Language Generation in an ALE HPSG">
+<meta name="citation_author"           content="Marshall, Ian">
+<meta name="citation_author"           content="Safar,  Eva">
+<meta name="citation_conference_title" content="Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2004">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="189">
+<meta name="citation_lastpage"         content="201">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2004/marshall-safar.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Marshall, Ian &amp; Safar,  Eva: Sign Language Generation in an ALE HPSG
+</h1>
+
+<div class="blurb"
+<p>
+During the past fifty years sign languages have been
+recognised as genuine languages with their own syntax and
+distinctive phonology. In the case of sign languages,
+phonetic description characterises the manual and
+non-manual aspects of signing. The latter relate to facial
+expression and upper torso position. In the case of manual
+components these characterise hand shape, orientation and
+position, and hand/arm movement in three dimensional space
+around the signer's body. These phonetic charcaterisations
+can be notated as HamNoSys descriptions of signs which has
+an executable interpretation to drive an avatar.
+<p>
+The HPSG sign language generation component of a text to
+sign language system prototype is described. The
+assimilation of SL morphological features to generate signs
+which respect positional agreement in signing space are
+emphasised.
+  
+<P>
+<ul>
+<li><a href="marshall-safar.pdf">download PDF</a>
+<li><a href="marshall-safar.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 18, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

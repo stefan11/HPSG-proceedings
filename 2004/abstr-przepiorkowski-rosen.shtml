@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Przepiórkowski, Adam &amp; Rosen, Alexandr: Obligatory, Optional and Impossible Case Transmission in Control Constructions
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Przepiórkowski, Adam &amp; Rosen, Alexandr: Obligatory, Optional and Impossible Case Transmission in Control Constructions
+</h1>
+
+<div class="blurb"
+<p>
+According to standard assumptions of most generative theories, both
+Chomskyan and non-Chomskyan, raising and so-called Exceptional Case
+Marking constructions, but not control constructions, should allow for
+case transmission, i.e., the identity of the grammatical case between
+the higher element (raised element, controller), and the lower element
+(trace/copy, controlled PRO).  This prediction is not fulfilled for
+many languages, including Czech and Polish, where, e.g., case
+transmission is allowed from subjects, whether they are raised
+elements or controllers.  Building on earlier observations by Hudson
+1998 concerning similar facts in Icelandic and Ancient Greek, we
+propose an explicit and precise account of case transmission in
+control and raising constructions which builds on the standard
+(Pollard and Sag 1994) HPSG approach to control and raising and on an
+earlier independently motivated analysis of syntactic case assignment
+(Przepiórkowski 1999).  It turns out that only minor additions to
+these two grammar modules are required to successfully account for the
+curious case transmission facts in Czech and Polish.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: August 25, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

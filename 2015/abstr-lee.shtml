@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Lee, Juwon: Semantic Taxonomies and NP-coordinations
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Lee, Juwon: Semantic Taxonomies and NP-coordinations
+</h1>
+
+<div class="blurb"
+<p>
+In this paper I discuss the novel data of Korean NP-coordination constructions in which a non-final conjunct is incompatible with the main verb. The question is how to derive the appropriate verbal meanings related to the conjuncts semantically incompatible with the main verbs. This is of empirical and theoretical importance, since to my knowledge, this kind of data has not been discussed before, and the syntax-semantics interface involved in the phenomenon poses significant challenges to prior analyses of coordinations. I propose the hypothesis that some hypernym or sister of the main verb in semantic taxonomy is selected as the verbal meaning for the incompatible conjunct in the construction. I also argue that a directly compositional constructional analysis of the interface in Head-driven Phrase Structure Grammar (Pollard and Sag 1994, Sag et al. 2003) and Categorial Grammar (e.g., Dowty 1988, Steedman 1996, Jacobson 1996) can account for the data straightforwardly compared to alternative approaches.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Bildhauer, Felix &amp; Cook, Philippa: German Multiple Fronting and Expected Topic-Hood
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="German Multiple Fronting and Expected Topic-Hood">
+<meta name="citation_author"           content="Bildhauer, Felix">
+<meta name="citation_author"           content="Cook, Philippa">
+<meta name="citation_conference_title" content="Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2010">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="68">
+<meta name="citation_lastpage"         content="79">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2010/bildhauer-cook.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Bildhauer, Felix &amp; Cook, Philippa: German Multiple Fronting and Expected Topic-Hood
+</h1>
+
+<div class="blurb"
+<p>
+This papers addresses information-structural restrictions on the occurrence of what is known as
+"multiple fronting" in German. Multiple fronting involves the realization of (what appears to be)
+more than one constituent in the first position of main clause declaratives, a clause type that
+otherwise respects the verb-second constraint of German. Relying on a large body of naturally
+occurring instances of multiple fronting with the surrounding discourse context, we show that in
+certain contexts, multiple fronting is fully grammatical in German, in contrast to what has
+sometimes been claimed previously. Examination of this data reveals two different patterns, which we
+analyze in terms of two distinct constructions, each instantiating a specific pairing of form,
+meaning and contextual appropriateness.
+  
+<P>
+<ul>
+<li><a href="bildhauer-cook.pdf">download PDF</a>
+<li><a href="bildhauer-cook.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 13, 2010
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

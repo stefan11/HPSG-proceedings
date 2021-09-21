@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Kiss, Tibor: Towards a Grammar of Preposition-Noun Combinations
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Towards a Grammar of Preposition-Noun Combinations">
+<meta name="citation_author"           content="Kiss, Tibor">
+<meta name="citation_conference_title" content="Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2008">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="116">
+<meta name="citation_lastpage"         content="130">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2008/kiss.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Kiss, Tibor: Towards a Grammar of Preposition-Noun Combinations
+</h1>
+
+<div class="blurb"
+<p>
+Preposition-noun combinations (PNCs) are compositional and
+productive, but not fully regular. In school grammars and many
+theoretical approaches, PNCs are neglected, but they have recently
+been addressed in an HPSG analysis by Baldwin et al. (2006). After
+discussing some basic properties of PNCs, we show that statistical
+methods can be employed to prove that PNCs are indeed productive
+and compositional, which again implies that PNCs should receive a
+syntactic analysis. Such an analysis, however, is impeded by the
+limited regularity of the construction. We will point out why adding
+semantic conditions to syntactic schemata might be necessary but not
+sufficient and turn then to a framework which allows the derivation of
+syntactic (and semantic) generalizations from linguistic data without
+taking recourse to introspective judgments.
+  
+<P>
+<ul>
+<li><a href="kiss.pdf">download PDF</a>
+<li><a href="kiss.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 19, 2008
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

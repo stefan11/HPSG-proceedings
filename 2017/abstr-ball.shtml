@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Ball, Douglas: ``VP'' Adverbs without a VP:  The syntax of adverbs in Tongan
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="``VP'' Adverbs without a VP:  The syntax of adverbs in Tongan">
+<meta name="citation_author"           content="Ball, Douglas">
+<meta name="citation_conference_title" content="Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2017">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="61">
+<meta name="citation_lastpage"         content="81">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2017/hpsg2017-ball.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Ball, Douglas: ``VP'' Adverbs without a VP:  The syntax of adverbs in Tongan
+</h1>
+
+<div class="blurb"
+<p>
+The Polynesian language Tongan appears to lack surface-oriented motivation for a VP constituent. Even so, adverbial elements appear in both a rightwards location and a leftwards location, superficially similar to the S-adverbs and VP-adverbs in well-studied western European languages. This paper explores how the Tongan ''VP-adverbs'' (as well as others) can be analyzed in HPSG without a VP for those adverbs to attach to. Several kinds of analyses, representing different strands of research on the syntax of adjuncts in HPSG, are explored: a Adjuncts-as-Valents analysis, a VAL-sensitive Adjuncts-as-Selectors analysis, and a WEIGHT-sensitive Adjuncts-as-Selectors analysis. All suggest that an analysis of the adverbs  without a VP is possible; a WEIGHT-sensitive Adjuncts-as-Selectors seems to have the fewest issues.
+  
+<P>
+<ul>
+<li><a href="hpsg2017-ball.pdf">download PDF</a>
+<li><a href="ball.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2017
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

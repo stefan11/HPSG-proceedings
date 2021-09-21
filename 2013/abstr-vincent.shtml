@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Vincent, Nigel: Before and between theories
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Vincent, Nigel: Before and between theories
+</h1>
+
+<div class="blurb"
+<p>
+In my paper, rather than consider the merits and demerits of one particular theory, I want to address three general issues, which are relevant to advocates of all theories:
+<ol>
+<li style="list-style-type:lower-latin !important;">	To what extent is it possible, or indeed necessary, to agree on a common vocabulary within which to couch descriptions of basic linguistic data? And should we refer to such a vocabulary as a ‘theory’, as in Dixon’s (2010) ‘Basic Linguistic Theory’, or should we consider these terms/concepts as pre-theoretical in the sense of Lyons (1977: §1.6)? For exemplification I will draw on the history of the various uses of the term ‘conative’ in recent descriptive and theoretical work (Vincent, to appear).
+</li>
+<li style="list-style-type:lower-latin !important;">	Should theories be arranged hierarchically with results and constructs at one level being fed into the next level, as argued in (very!) different ways by Dryer (2006) and Hornstein (2009)? Hornstein’s argument is of particular relevance to this workshop since he treats LFG, GPSG, HPSG and RG as ‘cousins’ (his term, p. viii) of GB, and suggests that Minimalism operates at a higher level than all of these. This is another version of the old problem of notational equivalence (cf Hornstein 2009: 155ff). How far is it possible to translate between theories? Are there concepts within different theories which are identical or near-identical?
+</li>
+<li style="list-style-type:lower-latin !important;">	This in turn relates to the issue of whether explanation is attained through the elucidation of a pattern of data in terms of a set of theoretical constructs, possibly hierarchically arranged or by appeal to external forces such as the speaker’s communicative goals, constraints on language processing, or the forces of linguistic change. A sense of the range of views within in the field on this topic can be gathered from the discussion generated around the paper by Evans & Levinson (2009).
+</li>
+</ol>
+The discussion of points (b) and (c) will be focussed around the accounts of control that have been proposed within different theoretical frameworks.
+<h2>References</h2>
+<ul class="pub">
+<li>Dixon, R.M.W. (2010) Basic linguistic theory. Oxford: Oxford University Press.
+<li>Dryer, Matthew S. (2006) Descriptive theories, explanatory theories, and basic linguistic theory. In Felix Ameka, Alan Dench, and Nicholas Evans (eds) Catching Language: Issues in Grammar Writing. 207-234. Berlin: Mouton de Gruyter.
+<li>Evans, Nicholas & Stephen Levinson (2009) The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and Brain Sciences 32: 429-492.
+<li>Hornstein, Norbert. (2009) A theory of syntax. Cambridge: Cambridge University Press.
+<li>Lyons, John (1977) Semantics. Cambridge: Cambridge University Press.
+<li>Vincent, Nigel (to appear) Conative. Linguistic Typology 17.2 (2013).
+</ul>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 31, 2013
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

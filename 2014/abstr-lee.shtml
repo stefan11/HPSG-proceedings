@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Lee, Juwon: Two Types of Serial Verb Constructions in Korean: Subject-Sharing and Index-Sharing
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Two Types of Serial Verb Constructions in Korean: Subject-Sharing and Index-Sharing">
+<meta name="citation_author"           content="Lee, Juwon">
+<meta name="citation_conference_title" content="Proceedings of the 21st International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="135">
+<meta name="citation_lastpage"         content="155">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2014/lee.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Lee, Juwon: Two Types of Serial Verb Constructions in Korean: Subject-Sharing and Index-Sharing
+</h1>
+
+<div class="blurb"
+<p>
+In this paper I present an account for the lexical passive Serial Verb Constructions (SVCs) in Korean. Regarding the issue of how the arguments of an SVC are realized, I propose two hypotheses: i) Korean SVCs are broadly classified into two types, subject-sharing SVCs where the subject is structure-shared by the verbs and index-sharing SVCs where only indices of semantic arguments are structure-shared by the verbs, and ii) a semantic argument sharing is a general requirement of SVCs in Korean. I also argue that an argument composition analysis can accommodate such the new data as the lexical passive SVCs in a simple manner compared to other alternative derivational analyses.
+  
+<P>
+<ul>
+<li><a href="lee.pdf">download PDF</a>
+<li><a href="lee.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2014
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

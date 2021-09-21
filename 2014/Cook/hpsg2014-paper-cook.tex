@@ -1,0 +1,741 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%   $RCSfile: example.tex,v $
+%%  $Revision: 1.1 $
+%%      $Date: 2004/08/11 09:52:43 $
+%%     Author: Stefan Mueller (CL Uni Bremen)
+%%    Purpose: Example file for contributions to the HPSG proceedings
+%%   Language: LaTeX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% use this to check the margins
+%\documentclass[11pt,a4paper,fleqn,draft]{article}
+
+% use the following once there are no problems with the margins
+\documentclass[11pt,a4paper,fleqn]{article}
+
+\usepackage[latin1,utf8x]{inputenc}
+
+\usepackage{times}
+
+\pagestyle{empty}
+
+\usepackage[sectionbib]{natbib}
+
+%\usepackage[T1]{fontenc}
+%\usepackage[ngerman]{babel}
+%\usepackage{color}
+%\usepackage{colortbl}
+\usepackage{multicol}
+%\usepackage{tree-dvips}
+%\usepackage{ulem}
+%\usepackage{wasysym}
+\usepackage{my-gb4e-article}
+
+
+\newcounter{lsptempcnt}
+%% % 
+\newcommand{\mex}[1]{\setcounter{lsptempcnt}{\value{equation}}%
+\addtocounter{lsptempcnt}{#1}%
+\arabic{lsptempcnt}}%
+
+
+% german.sty has nice hyphenation support
+\usepackage{german}
+\selectlanguage{USenglish}
+
+% this package supports scaling for instance if your AVMs do not fit the page
+%\usepackage{graphicx}
+%\resizebox{\linewidth}{!}{%
+%\ms{
+%      synsem & \onems{ loc$|$cat$|$subcat {\rm del(\ibox{2},\ibox{1})}\\
+%                     }\\
+%      head-dtr & \onems{ synsem$|$loc$|$cat$|$subcat \ibox{1} \\
+%                       }\\
+%      non-head-dtrs & \sliste{\onems{ synsem \ibox{2}  \\ }}\\[2mm]
+%}}
+
+% includes page numbers for references
+\usepackage{varioref}
+
+% If you want to make your paper more usable for readers,
+% insert the following code.
+% It links references to sections, examples, and citations
+% in the document and provides bookmarks for sections and subsections.
+
+% For URLs load the style file url.sty , You may then type \url{http://hpsg.fu-berlin.de/~stefan/}
+% without any hassle regarding the `~'. 
+\usepackage[hyphens]{url}
+\urlstyle{same}
+
+% in order to have the option H = really here
+\usepackage{float}
+
+%moved ps2pdf=true from here
+
+\usepackage[noxcolor]{pstricks}
+\usepackage{avm+}
+\usepackage{pst-jtree}
+\usepackage{graphicx,rotating}
+
+\avmoptions{center}
+\largeAvmFonts
+%\treelinewidth={1pt}
+%\arrowwidth={6pt}
+%\arrowlength={6pt}
+\definecolor{Gray}{gray}{0.65}
+
+
+\usepackage[bookmarks=true,bookmarksopen=true,hyperindex=true,breaklinks=true,draft=false,plainpages=false,hyperfootnotes=false,
+colorlinks=false, pdfborder={0 0 0},
+ps2pdf=true]{hyperref}
+\hypersetup{colorlinks=false, pdfborder={0 0 0}}
+
+\usepackage{breakurl}
+
+%\let\bibfont=\footnotesize
+%\let\bibsection=~
+
+\title{Between complex predicates and regular phrases: German collocational clusters}
+
+\author{Philippa Cook\\
+Freie Universit{\"a}t Berlin}
+
+\begin{document}
+
+\begin{abstract}
+I argue for a new type of non-standard constituent in German; a \textit{modifier-collocational-cluster}. This type of cluster combines (i) a modifier and (ii) a
+PP from a light-verb construction (or a Funktionsverbgefüge (FVG) as they are known in German) or a bare noun. Such strings are found in German in initial
+(prefield) position in certain cases of apparent multiple fronting. We are dealing with a syntax-semantics mismatch here since the modifier does not semantically modify the element with which it can first syntactically combine. I show that the modifier is a collocate of both its co-prefield element but also of the verb. I propose a schema which lexically licenses the building of such clusters and I show how we can encode information about what I refer to as collocational selection
+in the lexical entries of the type of lexemes involved in these multi-word strings. The analysis can be seen as lexical but does not require lexical storage
+of phrasal elements.
+
+\end{abstract}
+
+\setcounter{footnote}{2}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\footnotetext{
+Thanks to Felix Bildhauer, Stefan M{\"u}ller, John Payne and Elodie Winckel as well as the audience and anonymous reviewers of HPSG 2014 (especially 
+ Farrell Ackerman, Anne Abeill\'e, Berthold Crysmann, Ray Jackendoff and Bob Levine)
+ for comments and suggestions. Thanks also to the audience of the \textit{MehrWortverbindungen} conference at the University of Basel in October 2014. This Research was funded by a DFG grant to project A6 of the SFB 632.}
+\renewcommand{\thefootnote}{\arabic{footnote}}
+\setcounter{footnote}{0}
+
+
+\section{Introduction}
+
+I propose a new analysis of certain multi-word strings in German such as (i) \textit{heftig in die
+ Kritik geraten} 'to be heavily criticised', (ii) \textit{weltweit für Aufregung sorgen} 'to cause worldwide concern' or 
+(iii) \textit {richtig Geld verdienen} 'to make real money',  postulating units I will call (\textit{modifier}-)\textit{collocational chunks}.
+ The strings in (i) and (ii) involve a (semi-compositional) support verb
+ construction, cf. \citet{KrennErbach1994}, \citet{Steinitz1989}, \textit{in die Kritik geraten} (literally: into the criticism fall)
+or \textit{für Aufregung sorgen} (literally: for excitement provide) with modification by an adverbally used adjective,
+\textit{heftig} 'harsh(ly)' or \textit{weltweit} 'wordlwide' respectively.\footnotemark 
+\footnotetext{The part of speech \textit{adjective} can be used in German as a pre-nominal modifier or predicatively but \textbf{also} in
+ the function of an adverb with no morphological difference. A word-form such as \textit{richtig} is therefore
+ ambiguous in isolation. This ambiguity is undoubtedly a central contributing factor in the licensing of what I am calling 
+\textit{modifier-collocation-clusters}.} In (iii) a verb \textit{verdienen} 'earn' selects a bare noun,
+and there is again modification by an adverbally used adjective \textit{richtig}.\footnotemark  
+\footnotetext{In the data I will be discussing, \textit{richtig} functions as an intensifier rather
+than as the manner adverb 'correctly'. Since \textit{richtig} has a dual status (manner adverb or intensifier), the string is in principle ambiguous.
+There are similar, but less compositional, strings for which
+the manner reading is much less salient than the intensifier reading, e.g. \textit{richtig Gas
+geben} 'to increase effort/to really go for it', lit: really give gasoline, viz. example (1d) below. Note, \textit{geben} is 2-place here and clearly
+semantically bleached.} I argue that these strings are lexically encoded as multi-word expressions but we will see that this does not mean they have to 
+stored as phrasal entries. They are, I believe, situated on a continuum inbetween genuine complex predicates at
+one extreme of the spectrum and canonically composed syntactic phrases at the other
+extreme. I take these lexical strings to be exemplific of several larger classes of data patterning similarly, although with small differences
+across subclasses (and not all involving modifiers). For reasons of space I cannot document the full array of data 
+here but see the comments in § 5  below.
+
+The paper is structured as follows: In section 2, data is introduced which suggests we may have to accept a non-standard type of constituent in German, licensed
+ only in the presence of certain combinations of lexical material. In section 3, the collocational relationships, cf. \citet{Firth1957},
+\citet{Sinclair1991, Sinclair1996}, \citet{Evert2008}, spanning all three subcomponents of the string are discussed and in Section 4 
+it is proposed that sub-parts of such strings (namely the modifier and the PP/bare noun) 
+may combine in German via a special schema for building collocational chunks, rather than building
+traditionally known syntactic constituents. The proposed schema is inspired by Function Composition known from
+Combinatorial Categorial Grammar (CCG). Although each of the three elements in the string is individually a syntactic atom of a multi-word string, the combination as a whole
+should be viewed as one complex lexeme, the building of which is licensed lexically.
+
+
+\section{Apparent cases of multiple fronting}
+      
+German main clause declaratives are subject to the verb-second constraint; i.e. precisely one constituent may occur in the initial position preceding the finite verb (in a position referred to as the \textit{prefield}.
+(1a)-(1d) instantiate (a certain type of) so-called \textit{apparent multiple fronting} construction in which the clause-initial position before the
+finite verb contains a string that does not fit the traditional definition of constituent. Here, we have a modifier and a bare noun or PP.
+Semantically the modifier in initial position modifies the whole PP/N + V string.
+Syntactically, though,  the modifier (surprisingly) combines with the
+PP or the N.  Not only do we have a non-isomorphism of syntax and semantics (a syntax-semantics mismatch), but also a curious
+constituent structure.
+ 
+\eal
+     \ex \gll [\textbf{Weltweit}] [\textbf{für Aufregung}] {sorgt} eine Werbekompagne von Benetton\footnotemark  \\                     		
+	   worldwide {for upset} provides an advertising-campaign from Benetton \\
+           \glt `A Benetton advertising campaign is causing international concern'
+\footnotetext{{\url http://woodz.schwarzwaelder-bote.de/alltag/lifestyle/8422-benetton-zieht-kuss-foto-von-papst-zurueck.html},
+checked 14.10.2014}
+  \ex
+      \gll [\textbf{Heftig}]  [\textbf{in}  \textbf{die} \textbf{Kritik}]  {geriet} der Kostenrechnungsbericht    des Jugendamtes   für 2002\footnotemark \\
+                    heavy       into          the        criticism         fell           the {finance report}          the {youth service} for 2002 \\
+        \glt `The youth service's 2002 financial report got slated'
+\footnotetext{COSMAS, RHZ03/SEP.09166 Rhein-Zeitung, 12.09.2003}
+    \ex
+     \gll [\textbf{Richtig}] [\textbf{Geld}] {wird} nur im Briefgeschäft verdient\footnotemark  \\                     		
+	   right money is only in letter.business earned \\
+           \glt `You can only make real money with letters'
+ \footnotetext{taz 28./29.10.2000, p. 5, taken from \cite{Mueller2005e}}  
+   \ex
+     \gll [\textbf{Richtig}] [\textbf{Gas}] {wird} in der Großraum Disco ''Cocos Club'' ab den Sa. 16.02.2008 gegeben\footnotemark  \\                     		
+	  right Gas will in the large-scale Disco Cocos Club from the Sat. 16.02.2008 given \\
+           \glt `It's going to be all-go in the large-scale Disco ``Cocos Club'' as of Saturday 16th February 2008'
+ \footnotetext{\url{http://www.my-nrw.de/nachtflug.php?kat=91&id=9806}, checked 14.10.2014} 
+\zl
+
+
+\noindent This phenomenon has been documented by \cite{Mueller2003b, Mueller2005e} who proposes an analysis in which the initial position houses a VP-constituent 
+with an empty head (a structure that is used anyway in many approaches to German). I provide an alternative
+analysis for \textit{apparent multiple fronting} data specifically of the type in (1) drawing on the concept of collocation.\footnotemark Support for the claim that strings such as \textit{heftig in die Kritik} are \textbf{collocational clusters} (a string akin to some kind of \textit{chunk}/\textit{prefab}) can be 
+gleaned from the observation that the material in the puported cluster prefers to permute (scramble) together 
+rather than individually, viz.   
+
+\footnotetext{M{ü}ller's analysis covers a much broader range of data than discussed here. It is conceivable that M{ü}ller's analysis 
+could be retained and, for the type of data discussed here, be enhanced to include some kind of collocational analysis.}
+
+ 
+\begin{exe}
+ \ex \begin{xlist}
+     \ex[]{\gll weil \textbf{heftig} \textbf{in Kritik} der Bericht geriet  \\                     		
+	   because heavy {in criticism} the report fell\\
+           \glt {`because the report got slated'}}
+     \ex[?]{\gll weil \textbf{heftig}  der Bericht \textbf{in Kritik} geriet\\
+             because heavy the report {in criticism}  fell\\
+            \glt {intended: `because the report got slated'}}
+     \ex[?]{\gll weil \textbf{in Kritik} der Bericht \textbf{heftig} geriet \\
+            because {in criticism} the report heavy fell \\
+           \glt {intended: `because the report got slated'}}
+ \end{xlist}
+\end{exe}
+
+
+
+
+%Similar data
+%\ex
+%     \gll [\textbf{Richtig}] [\textbf{Pech}] {hat} der wechselwillige Kunde, wenn \dots\footnotemark  \\                     		
+%	  right misfortune hat the willing-to-change customer, if \\
+%           \glt `A customer who's willing to change is really unlucky if \dots'
+%\footnotetext{Taken from \cite{Mueller-datensammlung}}
+
+\section{The collocational nature of the lexemes in the multiple fronting data}
+It has been noticed that the material in the initial string in constructions known as apparent \textit{multiple fronting} intuitively forms a tight unit and 
+that often at least one prefield element forms some kind of unit with the verb. We will see below that in the cases under discussion here, both prefield elements form 
+a bond with the verb. Taking the 
+strings from (1) above we can use a collocation association measure to ascertain whether or not this intuitive \textit{unithood} can be verified. 
+I employ the \textit{Wortprofil 3.0} tool offered by the \textit{Digitales Wörterbuch der Deutschen Sprache} 
+(DWDS) corpus, cf. \cite{DidakowskiGeyken2013}, which uses the LogDice measure of \cite{Rychly2008}.
+Such lexicographically-oriented approaches to collocation use a notion of headword or node and examine collocates in a 
+relation of dependence to one another such that e.g. in a modifier-noun collocation, the noun is headword and in a verb-object collocation, the verb is headword. 
+The association measures for the lexemes mentioned, 
+in the stated dependency relation, are given here.  
+
+\begin{table}[htbp]
+\centerline{
+    \begin{tabular}
+    {|c|c|c|c|p{0.3\textwidth}|}\hline   
+	                   & association using LogD   & frequency  \\ \hline
+	   \textit{heftig} as modifier of \textit{Kritik} & 11.12  & 9882     \\ \hline
+	   \textit{Kritik} as object of \textit{geraten} & 9.27 & 2453     \\ \hline
+           \textit{heftig} as modifier of \textit{geraten} & 5.8  & 174    \\ \hline
+    \end{tabular}
+}
+
+\bigskip
+
+\centerline{
+    \begin{tabular}
+    {|c|c|c|c|p{0.3\textwidth}|}\hline   
+	                     & association using LogD    & frequency  \\ \hline
+	   \textit{weltweit} as modifier of \textit{Aufregung} & 3.51 & 16   \\  \hline
+	   \textit{Aufregung} as object of \textit{sorgen}  & 9.13  & 3774  \\ \hline
+           \textit{international} as modifier of \textit{sorgen} & 4.41 & 107   \\ \hline
+    \end{tabular}
+}
+
+\bigskip
+
+\centerline{
+    \begin{tabular}
+    {|c|c|c|c|p{0.3\textwidth}|}\hline   
+	     & association using LogD   & frequency  \\ \hline
+	   \textit{richtig} as modifier of  \textit{Geld} & 5.07  & 241     \\ \hline
+	   \textit{Geld} as object of  \textit{verdienen} & 11.51 & 22226     \\ \hline
+           \textit{richtig} as modifier of  \textit{verdienen} & 6.09  & 332     \\ \hline
+    \end{tabular}
+}
+\end{table}
+
+\noindent A comprehensive study of the collocational behaviour of these tuples would warrant a separate paper but, for now, the measures
+suffice to illustrate that the intuitively perceived bond between the components of the string is statistically verified. In a further study, the collocation of complex
+ strings (e.g. \textit{Geld verdienen}, \textit{in die Kritik geraten}) with the modifier will also be measured.\footnotemark
+
+\footnotetext{Annelies Häcki Buhofer suggested to me that modification of \textit{geraten} by \textit{heftig} does not seem semantically likely
+(in contrast to cases such as e.g. \textit{richtig verdienen}) and Kathrin Steyer suggested that the modifier should only be considered
+ as a collocate of the whole FVG, e.g. \textit{in Kritik geraten} 'get criticised'. This needs to be more closely examined although I note for now that in the DWDS Corpus
+\textit{heftig} clearly also collocates (as a modifier) with other forms related to \textit{geraten} such as \textit{aneinandergeraten} 'clash with one another/come into contact with one another'. That the modifier's scope extends across the whole FVG or the whole N+V string follows from my analysis although I only actually encode the modifier as a modifier of a verb.}   
+
+\section{Function Composition for collocational selection}
+
+\subsection{The spirit of Function Composition as a basis for the analysis}
+A solution to the syntax-semantics mismatch mentioned at the start of § 2 is the use of Function Composition (FC) instead of Functional
+Application to combine elements in syntax, cf. \cite{Jacobson1990}. Function Composition (FC) combines two functors to yield a new functor as sketched here:
+  
+\begin{exe}
+   \ex  Forward Function Composition:  A/B $\ast$ B/C = A/C  
+   \ex  Backward Function Composition: B$\backslash$A  $\ast$ C$\backslash$B = C$\backslash$A
+\end{exe}
+ 
+\noindent Forward FC allows A/B to combine with B/C yielding A/C; a category requiring a C in order to be saturated. The \textit{need} 
+for a C at the initial level is postponed to the next level.  Backward FC similarly postpones saturation (this time of A) to the next level. Within HPSG, Argument Inheritance
+draws on this type of combinatory rule, cf. \cite{HinrichsNakazawa1994} and much subsequent work on the licensing of verbal clusters. The spirit of Backward FC can be transferred to collocational cluster formation
+if we assume Backward FC can combine \textit{richtig} + \textit{Geld} (in boldface below), postponing the ''requirement'' for \textit{verdienen} 'earn'. By 
+''requirement'' for \textit{verdienen}, I am referring to the modification domain of \textit{richtig}; the modifier is actually
+(informally speaking) looking for the verb to modify but combines syntactically with a different element first. FC yields a 
+\textit{special} instantiation of \textit{Geld} which can syntactically combine with the modifier and yet still requires the verb, as sketched here:
+
+\begin{exe}
+\ex
+\jtree
+\defbranch<Left>(2)(.5)
+\defbranch<Right>(2)(-.5)
+\defbranch<Vert>(2)(1/0)
+\defvartriangle<longtri>(5)
+
+\! = {\textbf{Geld}$_{C}$ $\backslash$ verdienen$_{A}$}<Left>!a ^<Right>!b .
+\!a = {\textbf{richtig}$_{B}$ $\backslash$ verdienen$_{A}$}.
+\!b = {\textbf{Geld}$_{C}$ $\backslash$ richtig$_{B}$}.
+
+\endjtree
+\end{exe}
+
+\noindent Below, I will show how the spirit of this type of syntactic combination could be captured in HPSG through a combination of lexical entries and
+a schema that licenses the type of cluster I am arguing for. Since HPSG makes no division between lexicon and syntax in the sense that lexical
+entries of words and rules of syntactic combination (schemata) are stored together, cf. e.g. \citet[p.\, 8]{MuellerUnifying}, \citet[p.\, 19f]{Jackendoff2010}, this
+ means the analysis is lexical and we can think of these multi-word expressions as being lexically stored. It is conceivable that particularly frequently co-occurring material is \textbf{also} stored as a (ready-built) chunk or prefab as well, cf. the notion of \textit{conventionalized collocation} and \textit{prefabs} discussed 
+by \cite[p.\, 713-4, 727]{Bybee2006}. Cases in which elements of the lexical string are non-contiguously realized (e.g. in multiple fronting, partial topicalization etc.) probably then involve a schema, as we propose below, since individual atoms of the string are aligned non-adjacent to other atoms. 
+
+
+\subsection{Lexical Entries}
+
+I will take the string \textit{richtig Geld verdienen} 'to make heaps' as an example throughout. 
+The lexical entry for \textit{richtig} in its function as an intensifier is given here:
+\begin{exe}
+\ex
+\begin{avm}
+      \[ \tp{word} \cr
+         phon     & \< \tp{richtig}\> \cr
+         ss\|loc  & \[cat & \[
+                             head   & \[ mod & V \[ lid \@{4}\]  \cr
+                                         lid & richtig-intensifier 
+                                      \]\cr
+                             subcat & \<  \>
+                             \]
+                    \] \cr 
+        cont & \[ \tp{intensify} \@{4} \] \cr
+        coll\|lid  & \@{4}verdienen-idiomatic
+      \]
+\end{avm}
+\end{exe}
+
+\noindent I make use of the \textsc{lid} (lexical identifier) feature appropriate for the sort \textit{head} to identify
+specific instantiations of words (\cite{RichterSailer1999-coll, Soehn2004, Sag2012, Spencer2005}). Thus this word has the value
+\textit{richtig$_{intensifier}$} for the feature \textsc{lid} in its lexical entry. The \textsc{coll} 
+feature (which I take to be appropriate for the sort \textit{word} and \textit{cluster}) encodes in the lexical entry 
+of a word (or cluster) that it collocates with (the \textsc{lid} value of) a particular word (cf. \cite{Sailer2003}, \cite{RichterSailer1999-coll}). I refer to this as
+\textit{collocational selection}. Thus we see here that \textit{richtig$_{intensifier}$} collocates with the verb \textit{verdienen} 'earn' (in its idiomatic instantiation). The intensifier is lexically encoded as a verb modifier (viz. the head feature \textsc{mod}) and it also collocates with the verb 
+it modifies (viz. the label \@{4} above). One could generalize the lexical entry so that the intensifier \textit{richtig}
+always modifies the verb it collocationally selects if that turns out to be empirically correct. 
+
+I now give the lexical entry for \textit{Geld} in the (semi-light-)verb phrase use:
+\begin{exe}
+\ex
+\begin{avm}
+  \[ \tp{word} \cr
+     phon    & \< \tp{Geld}\> \cr
+     ss\|loc & \[ cat & \[
+                          head   & \[ lid & Geld-idiomatic\] \cr
+                          subcat & \<  \> \cr
+                          spr    & \<  \>
+                        \]
+               \] \cr 
+      cont      & \[ index & non-referential               
+                \] \cr
+    coll\|lid & richtig-intensifier
+   \]
+\end{avm}
+\end{exe} 
+\noindent The idiomatic bare noun is lexically encoded as a collocate of the intensifier \textit{richtig}. I am also assuming the noun is lexically specified 
+as non-referential (this is certainly the case for nouns such as \textit{Gas} in \textit{Gas geben}) and cannot take a specifier (i.e. must be saturated). 
+A separate  lexical entry in which the value of {\sc{coll$|$lid}} is \textit{verdienen$_{idio}$} handles
+occurrences of the verb phrase \textit{Geld verdienen} without \textit{richtig}.\footnotemark 
+
+
+\footnotetext{In the case of the bare-noun strings, we find frequent data such as the following which I think support the claims about 
+collocation of \textit{richtig} with \textit{Geld} and \textit{richtig} with \textit{verdienen}: \\
+\indent{(i) \textit{er hat \textbf{richtig} \textbf{Geld}} 'he is really rich'} and\\
+\indent{(ii) \textit{er \textbf{verdient} \textbf{richtig}} 'he earns loads'}\\
+\noindent That the existence of such frequent strings (in particular the first one) facilitates apparent multiple fronting constructions
+seems highly plausible but remains to be further studied.}
+
+The lexical entry for for the (semi-)light verb \textit{verdienen} 'earn' is given next, below. The lexical entry would also be structured in
+the same way for a less-compositional (clearly) light verb such as \textit{geben} 'give' (in e.g. \textit{richtig Gas geben}):
+
+\begin{exe}
+\ex
+\begin{avm}
+  \[ \tp{word} \cr
+     phon    & \< \tp{verdienen}\> \cr
+     ss\|loc & \[ cat & \[
+                          head & \[ lid & verdienen-idiomatic\] \cr
+                          subcat & \< np-\textit{nom} \@{5} \>
+                       \]
+               \] \cr 
+    cont      & \[ rels & \< \[\tp{earn heaps} \cr
+                               agent & \@{5} 
+                              \]   
+                           \>  
+                \] \cr
+    coll\|lid & Geld-idiomatic
+   \]
+\end{avm}
+\end{exe}
+This constitutes a new HPSG treatment of light verb phrases (or \textit{Funktionsverbgegfüge}, FVG) in German.\footnotemark  
+The light verb \textit{collocationally 
+selects} (not subcategorizes) the (athematic) object but selects the subject NP in the normal way via \textsc{subcat}. That
+this verb cannot undergo personal passive in the idiomatic use follows from the fact that there is no regular thematic argument
+other than the subject. Of course, impersonal passive (a subjectless construction, always requiring 3rd person singular verbal morphology, in German) is possible as we see in examples (1c-d) above). I am thus analyzing object-verb collocations involving 
+bare nouns (e.g. \textit{Geld verdienen} 'earn money') on a par with light verb phrases.  I believe that this analysis can be extended to account for 
+integrated objects (in the sense of \cite{Jacobs1993, Jacobs1999} but cannot go into details here.
+
+\footnotetext {Recent work on the processing of light verb phrases indicates increased processing load at the verb in light verb phrases. This effect can be interpreted as providing evidence that light verb phrases are not stored as complex (phrasal) entries but, rather, require some kind of syntactic combination or, perhaps, some operation involving argument-structure merging, cf. \cite{WittenbergPinango2011}, \cite{Wittenberg-etal-2014}. I believe my analysis is in keeping with these findings.}
+
+\subsection{The \textit{modifier-collocational-cluster} schema}
+
+%   \item The composition of \textbf{simple light verb phrases} (integrated objects) using the
+%   light-verb-collocational-schema e.g. \textit{Gas geben} [lit. give gas] `increase effort`
+%\vspace{.5cm}
+%%%%%%%%%%%%%%decided to move to appendix for time reasons, put in written paper though.
+In this section, I introduce the schema which licenses the \textit{modifier-collocational-clusters} such as e.g. \textit{richtig Geld} [lit. real money].
+The composition of the \textit{modifier-collocational-cluster}, e.g. \textit{richtig Geld}, with the
+idiomatic verb \textit{verdienen} will then be shown next. First, recall the spirit of Backward FC. I indicate here the structures that I will be assuming in the schema.
+In particular, I assume here that the modifier is the non-head daughter and the bare noun is the head daughter of the cluster. This essentially translates the notion of headword or node from the lexicographically-oriented approach to collocation I mentioned earlier.
+\begin{exe}
+\ex
+\jtree
+\defbranch<Left>(2)(.5)
+\defbranch<Right>(2)(-.5)
+\defbranch<Vert>(2)(1/0)
+\defvartriangle<longtri>(5)
+
+\! = {Geld $\backslash$ \textbf{verdienen} = mod-coll-cluster}<Left>!a ^<Right>!b .
+\!a = {non-head-dtr} <Vert> {richtig $\backslash$ \textbf{verdienen}}.
+\!b = {head-dtr}<Vert> {Geld $\backslash$ richtig}.
+
+\endjtree
+\end{exe}
+
+\noindent
+The modifier \textit{richtig} has to 'wait' until it finds the verb it modifies.  What I analyze as
+a \textit{modifier-collocation-cluster} is therefore not a type of \textit{head-adjunct-structure}
+(since semantic modification does not occur here). This makes sense because the tuple is, I believe,
+in fact more like one complex lexeme. In fact, \textit{richtig} in its intensifier function is not a
+normal modifier but somewhere between modifier and argument (= a collocational modifier). The
+\textit{modifier-collocational-cluster} schema given below captures this:
+\exewidth{(35)}
+\begin{exe}
+\ex \textit{modifier-coll-cluster} $\rightarrow$\\
+  \begin{avm}
+   \[ss        & \[loc\|cat\|head 
+                            \[ mod \@{4} \cr 
+			      lid \@{1}  
+                            \] \cr
+                  coll\|lid \@{4} \cr
+                  cont \@{6} 
+                  \] \cr
+     non-hd-dtr & \[ss\|loc\|cat 
+                               \[head\|mod \@{4} \cr
+                                 lid \@{2} 
+                               \] \cr
+              coll\|lid  \@{4}
+                  \] \cr
+     hd-dtr    & \[ss\|loc\|cat
+                             \[head\|lid \@{1} \cr
+                               spr \< \> 
+                             \] \cr
+              coll\|lid  \@{2} \cr
+              cont \@{6} 
+                 \] \cr                                          
+   \]
+\end{avm}
+\end{exe}
+
+\noindent The \textsc{hd-dtr}, e.g. \textit{Geld}, collocationally selects the \textsc{non-hd-dtr}, e.g. \textit{richtig}. The
+\textsc{non-hd-dtr} collocationally selects the verb it modifies. At the cluster level, the mother inherits the  \textsc{coll$\|$lid} 
+and \textsc{mod} values from the \textsc{non-hd-dtr} (= the postponement mentioned above). At the cluster level, the mother
+also  inherits the \textsc{cont} value of the \textsc{hd-dtr}; in keeping with the Semantics Principle. The cluster (mother) 
+inherits the \textsc{lid} value  from \textsc{hd-dtr}. In this way, the cluster can be seen as  a special version of the lexeme 
+\textit{Geld-idiomatic}. The sub-tree for \textit{richtig Geld} licensed by the \textit{modifier-collocation-cluster} schema is given in Figure~\vref{fig-richtig-geld}.
+
+\newcommand{\AvmOne}{
+  \begin{Avm}{Adj}
+      \[ \tp{word} \cr
+         phon     & \< \tp{richtig}\>\cr
+         ss\|loc  & \[cat & \[
+                             head   & \[ mod & V\[lid \@{4}\]\cr
+                                         lid & richtig-intensifier 
+                                      \]\cr
+                             subcat & \<  \>
+                             \]
+                    \]\cr 
+        cont & \[\tp{intensify}  \@{4} 
+                \]\cr
+        coll\|lid  & \@{4}verdienen-idiomatic 
+      \]
+\end{Avm}
+}
+\newcommand{\AvmTwo}{
+  \begin{avm}
+    \[ \tp{modifier-coll-cluster}\cr
+       phon    &  \< \tp{richtig geld}\>\cr
+       ss\|loc\|cat\|head   & \[ mod & V \[lid \@{4}\]\cr
+                                 lid & Geld-idiomatic 
+                              \]\cr
+       cont    &  \[ index & non-referential
+                  \]\cr
+      coll\|lid   &  \@{4}verdienen-idiomatic                                                 
+  \]
+\end{avm}
+}
+\newcommand{\AvmThree}{
+ \begin{Avm}{N}
+  \[ \tp{word}\cr
+     phon    & \< \tp{Geld}\>\cr
+     ss\|loc & \[ cat & \[
+                          head   & \[ lid & Geld-idiomatic\]\cr
+                          subcat & \<  \> \cr
+                          spr    & \<  \>
+                        \]
+               \] \cr 
+      cont      & \[ index & non-referential              
+                  \]\cr
+    coll\|lid & richtig-intensifier
+   \]
+\end{Avm}  
+}
+\newsavebox{\ModcollTree}
+\sbox{\ModcollTree}
+{
+  \jtree
+    \defbranch<Left>(2)(.5)
+    \defbranch<Right>(2)(-.3)
+    \defbranch<Vert>(2)(1/0)
+    \defvartriangle<longtri>(5)
+
+    \! = {\AvmTwo}<Left>!a ^<Right>!b .
+    \!a = {\AvmOne}<Vert> {richtig-intensifier} .
+    \!b = {\AvmThree}<Vert> {Geld-idiomatic} .
+  \endjtree
+}
+
+\begin{figure}[htbp]
+  \resizebox{\textwidth}{!}{
+    \rotatebox{0}{
+      \usebox{\ModcollTree}
+     }
+   }  
+\caption{\label{fig-richtig-geld}Sub-tree for the \textit{modifier-collocational-cluster} \textit{richtig Geld}}
+\end{figure}
+
+
+The remaining question now is how the verb, in our case \textit{verdienen} 'earn',  combines with the collocational cluster 
+\textit{richtig Geld} 'real money'. In fact,  the \textit{modifier-collocation-cluster} \textit{richtig Geld}, headed by \textit{Geld}, collocationally
+ selects the (idiomatic) verb \textit{verdienen} but it also selects it via \textsc{mod}. The \textit{mod-coll-cluster} and the verb 
+can combine via the normal \textit{head-adjunct-schema}. The idiomatic semantics of the verb (encoded at the \textsc{hd-dtr}) percolate to the mother node
+and the (postponed) semantic modification of the verb can apply. The sub-tree for the combination of the cluster \textit{richtig Geld} 
+and \textit{verdienen} is given in Figure~\vref{fig-richtig-geld-verdienen}.
+\newcommand{\AvmSix}{
+ \begin{Avm}{\textit{mod-coll-Cl}}
+    \[ \tp{mod-coll-cluster} \cr
+       phon    &  \< \tp{richtig geld} \> \cr
+       ss\|loc\|cat\|head   & \[ mod & V \[lid \@{4}\] \cr
+                                 lid & Geld-idiomatic 
+                              \] \cr
+       cont    &  \[ index & non-referential
+                  \] \cr
+      coll\|lid   & \@{4} verdienen-idiomatic                                                 
+  \]
+\end{Avm}
+}
+\newcommand{\AvmSeven}{
+  \begin{avm}
+    \[ \tp{phrase} \cr
+       phon    &  \< \tp{richtig geld verdienen}\> \cr
+       ss\|loc &  \[ cat & \[
+                              head   & \[ lid & verdienen-idio \] \cr 
+			      subcat & \< np-\tp{nom} \@{5} \>
+                           \]
+                   \] \cr
+       cont    &  \[ rels \< \[ \tp{make heaps}\cr
+                               agent & \@{5} 
+                             \]   
+                          \>
+                  \] \cr
+      coll     &  \<\>                                                
+  \]
+\end{avm}
+}
+\newcommand{\AvmEight}{
+ \begin{Avm}{V}
+  \[ \tp{word} \cr\
+     phon    & \< \tp{verdienen}\> \cr
+     ss\|loc & \[ cat & \[
+                          head & \[ lid & verdienen-idiomatic\] \cr
+                          subcat & \< np-\tp{nom} \@{5} \>
+                       \]
+               \] \cr 
+    cont      & \[ rels \< \[\tp{make heaps}\cr
+                              agent & \@{5} 
+                            \]
+                         \>            
+                \] \cr
+    coll\|lid & Geld-idiomatic
+   \]
+\end{Avm}
+}
+\newsavebox{\VerbpicksupclusterTree}
+\sbox{\VerbpicksupclusterTree}
+{
+  \jtree
+    \defbranch<Left>(2)(.5)
+    \defbranch<Right>(2)(-.3)
+    \defbranch<Vert>(2)(1/0)
+    \defvartriangle<longtri>(5)
+
+    \! = {\AvmSeven}<Left>!a ^<Right>!b .
+    \!a = {\AvmSix}<Vert> {richtig Geld} .
+    \!b = {\AvmEight}<Vert> {verdienen-idiomatic} .
+  \endjtree
+}
+\begin{figure}[htbp]
+  \resizebox{\textwidth}{!}{
+    \rotatebox{0}{
+      \usebox{\VerbpicksupclusterTree}
+     }
+   }  
+\caption{\label{fig-richtig-geld-verdienen}Sub-tree for the combination of the \textit{modifier-collocational-cluster} \textit{richtig Geld} with the verb \textit{verdienen}}
+\end{figure}
+
+
+
+\section{Extensions and further work}
+
+The analysis I have sketched here can, hopefully, be extended to handle a bigger range of data which
+behave similarly to those discussed here. In particular, there are certain lexical strings which offer an open slot 
+which can be instantiated not just by lexically specified (collocating) material but which is, rather, open for any material of a particular class. For instance,
+the strings in the table below have all been attested with multiple fronting but range from fixed idioms, through collocating
+strings such as those discussed here to strings with slots for directional prepositional phrases, for instance. The strings
+ vary in degrees of schematicity and form a continuum from full idioms to  near-compositional phrases.
+  
+\begin{table}[H]
+\resizebox{\textwidth}{!}{
+    \begin{tabular}
+    {|c|c|c|c|p{0.3\textwidth}|}\hline   
+
+	   \textit{Licht} & \textit{ins Dunkel} & \textit{bringen}  & 'bring light into the dark = shed
+           light onto sth.'  \\ \hline
+	   \textit{richtig} & \textit{Gas} & \textit{geben}   & 'really give Gas = increase effort'  \\ \hline
+           \textit{hart} & \textit{ins Gericht} & \textit{gehen} &  'go hard into court = roast s.o.'  \\ \hline
+            \textit{ihm} & \textit{zur Seite} & \textit{stehen} &   'stand by him'  \\ \hline
+           \textit{am billgsten} & \textit{in XP} &\textit{kommen}   & 'get to X the cheapest (way)'  \\ \hline
+           \textit {trocken} & \textit{durch XP} & \textit{kommen}   & 'come dry through X' \\ \hline
+           \textit {postiv}/\textit{negativ} & \textit{auf XP} & \textit{wirken}   & 'react positively/negatively to X'  \\ \hline
+   \end{tabular}
+}
+\end{table}
+It remains to be fully worked out how the range of data can be accommodated in the type of analysis proposed here.
+
+A different consequence of the analysis proposed here concerns the possibility of topicalization of the collocational clusters for which I am arguing. 
+It now seems plausible that this could be handled analogously to fronting of coherent verbal clusters, as in (\mex{1}b), and could potentially offer an alternative analysis for (some) multiple fronting constructions:
+ 
+\begin{exe} 
+  \ex \begin{xlist}
+     \ex\gll [\textbf{richtig} \textbf{Gas}] gibt er immer  \\                     		
+	   right gas gives he always \\
+     \ex\gll  [\textbf{zu schlafen} \textbf{versucht}] hat er  \\                     		
+               {to sleep} try has he \\
+      \glt `he tried to sleep'
+\end{xlist}
+\end{exe}
+
+\noindent Just as a string \textit{zu schlafen versucht$_{verbal-cluster}$} can be realized in initial position, so could potentially a string 
+\textit{richtig Gas$_{modifier-collocational-cluster}$}. In fact, it is interesting to note that the availability of cluster formation discussed here could
+well be closely related to the availabilty of cluster-formation more generally in a given language (i.e. languages allowing verbal clusters may well be languages that
+allow other kinds of clusters too). 
+
+
+A futher fascinating area is the extension of the current analysis to also cover (free) datives in the prefield, as in examples such as (\mex{1}) where we have a free dative together with a PP belonging to a light verb phrase in the prefield:\footnotemark
+\footnotetext {Examples of apparent \textit{multiple fronting} invloving a dative an an accusative object in the prefield are extremely rare. An
+analysis of argument-clusters as proposed by \cite{Mouret2006} for co-ordination structures might be relevant but it would 
+certainly over-generate as it stands since the material that can occur in the multiple fronting data is lexically very restricted.}
+     
+\ea
+     \gll [\textbf{Ihm}] [\textbf{zur Seite}] {steht} als stellvertretender Vorstandschef Gerd Tenzer\footnotemark\\                     		
+	   he-DAT {to.the side} stands as acting ceo Gerd Tenzer \\
+     \glt `Gerd Tenzer is helping him out as acting CEO'
+\z
+
+\noindent One can treat the dative as a benefactive modifier, addable to the argument-structure of any verb in German (e.g. by lexical rule).  
+The dative is, however, also concomitantly possessor of the noun \textit{Seite} 'side'; i.e. it is also a modifier of the type which I 
+assume to be introducable into the  argument-structure of any noun. I informally sketch here how the FC-style analysis
+could be extended to cover such data:       
+ 
+ \footnotetext{taz, 18.07.2002, p.\,7, taken from \cite{Mueller2005e}}
+\begin{exe}
+\ex
+\noindent
+\jtree
+\defbranch<Left>(2)(.5)
+\defbranch<Right>(2)(-.5)
+\defbranch<Vert>(2)(1/0)
+\defvartriangle<longtri>(5)
+
+\! = {\textbf{Seite}$_C$ $\backslash$ stehen$_A$}<Left>!a ^<Right>!b .
+\!a = {\textbf{ihm}$_B$ $\backslash$ stehen$_A$}.
+\!b = {\textbf{Seite}$_C$ $\backslash$ ihm$_B$}.
+
+\endjtree
+\end{exe}
+
+\section{Conclusion}
+
+I have argued here for a new type of cluster in German; a \textit{modifier-collocation-cluster}. Clearly, we must 
+extend the part-of-speech hierarchy accordingly to accommodate such elements. I believe introducing this type of cluster
+is a justified step, though. The analysis presented here has significance for our ideas about constituency and how it interacts with
+usage/frequency information, cf. \cite{BybeeTorres2009, BecknerBybee2009, Bod1998}, and also for the issue of the modifier-argument distinction. We know there is a close relation between frequently co-occurring elements and standard constituents but we must also capture units beyond those standardly
+acknowledged up to now, I firmly believe. Collocationally selected modifiers are situated inbetween arguments and true modifiers.
+The availability of what I have treated as collocationally selected items seems to generalize to form a pattern, to provide a slot fillable by material of a 
+certain grammatical class (cf. \cite{Dowty2003}. An extension of the current analysis to handle this kind of phenomenon is an exciting prospect.
+The analysis has, moreover, certain advantages for HPSG and specifically for the analysis of German. It interfaces usage data and a usage-based 
+view of 'constituency' with the HPSG formalism. Further, it begins to capture the
+ analogy between verb clusters (cluster -- chunk) and the (non-standard) constituents for which I have argued in German. 
+With some additional modification, it also offers offers the basis for a syntactic solution for handling Integration of nouns and PPs as discussed in
+\citep{Jacobs1993, Jacobs1999}. 
+
+\bibliographystyle{unified} 
+\bibliography{BigBiblio}
+
+
+\end{document}
+
+% Local variables:
+% mode: font-lock
+% End:
+

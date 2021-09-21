@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Machicao y Priemer, Antonio &amp; Fritz-Huechante, Paola: Boundaries at play: The 'se' morpheme in the Spanish psych-domain
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Machicao y Priemer, Antonio &amp; Fritz-Huechante, Paola: Boundaries at play: The 'se' morpheme in the Spanish psych-domain
+</h1>
+
+<div class="blurb"
+<p>
+In this paper, we model the left-bounded state reading and the true reflexive reading of the se-morpheme in the Spanish psychological domain. We argue that a lexical analysis of se provides us with a more accurate description of the different classes of psychological verbs that occur with the morpheme. We provide a unified analysis where the different uses of se are modeled by means of lexical rules. Our analysis shows the similarities and differences between the true-reflexive reading and the left-bounded reading achieved with se. Furthermore, we take the morphologically simple but semantically more complex basic items (e.g. asustar `frighten') as input of the lexical rules, giving us as the output a morphologically more complex but semantically simpler verb (e.g. asustarse `get frightened'). For psych-verbs, our analysis correctly allows only those verbs assigning accusative to the experiencer or the stimulus to combine with the se-morpheme, hence preventing dative verbs from entering the lexical rules. We also show how to account for punctual and non-punctual readings of psych-verbs with the se-morpheme incorporating `boundaries' into the type hierarchy of eventualities.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: 15th October, 2019
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Siegel, Melanie &amp; Bender, Emily M.: Head-Initial Constructions in Japanese
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Head-Initial Constructions in Japanese">
+<meta name="citation_author"           content="Siegel, Melanie">
+<meta name="citation_author"           content="Bender, Emily M.">
+<meta name="citation_conference_title" content="Proceedings of the 11th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2004">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="244">
+<meta name="citation_lastpage"         content="260">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2004/siegel-bender.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Siegel, Melanie &amp; Bender, Emily M.: Head-Initial Constructions in Japanese
+</h1>
+
+<div class="blurb"
+<p>
+Japanese is often taken to be strictly head-final in its syntax. In our work on
+a broad-coverage, precision implemented HPSG for Japanese, we have found that
+while this is generally true, there are nonetheless a few minor exceptions to
+the broad trend. In this paper, we describe the grammar engineering project,
+present the exceptions we have found, and conclude that this kind of phenomenon
+motivates on the one hand the HPSG type hierarchical approach which allows for
+the statement of both broad generalizations and exceptions to those
+generalizations and on the other hand the usefulness of grammar engineering as
+a means of testing linguistic hypotheses.
+  
+<P>
+<ul>
+<li><a href="siegel-bender.pdf">download PDF</a>
+<li><a href="siegel-bender.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2004
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

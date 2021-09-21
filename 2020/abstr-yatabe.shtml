@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Yatabe, Shûichi: The internal readings of symmetrical adjectives and
+adverbials
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Yatabe, Shûichi: The internal readings of symmetrical adjectives and
+adverbials
+</h1>
+
+<div class="blurb"
+<p>
+In this paper, I point out that all available analyses of the so-called internal readings of sentences like "The students saw different films" have some empirical flaws, and propose a novel HPSG-based theory of such readings that is based on the idea that the internal readings of such sentences arise when a symmetrical predicate like "different" has an implicit argument whose meaning involves that of a reciprocal pronoun. In the course of formulating the theory, I also present a new analysis of the semantics of reciprocal pronouns, which is shown to be an improvement over previous analyses like that proposed in Heim, Lasnik, and May's 1991 paper.
+<p>
+URL of the pre-recorded presentation:
+<a href="https://www.youtube.com/watch?v=y00RHj9XLWc">https://www.youtube.com/watch?v=y00RHj9XLWc</a>
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2020
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

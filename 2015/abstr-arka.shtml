@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Arka, I Wayan: Affectedness and Psych Predicates in Marori and beyond
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Arka, I Wayan: Affectedness and Psych Predicates in Marori and beyond
+</h1>
+
+<div class="blurb"
+<p>
+I discuss morphosyntactic properties of affectedness in Marori (also known as Morori/Moraori; ISO 639-3: mok; a subgroup-level isolate, TNG/Papuan, 16 fluent speakers) and beyond, with particular attention to the principles governing the morphosyntax-morphosemantic interface, contributing to the debate as to what extent syntactic argument structures are (morpho)lexically determined or constructed in syntax (cf. Müller and Wechsler 2014). The data from psych verbs in Marori highlights the role of argument-structure from the lexicon, and also provides evidence for syntactically constructed transitivity. This may give rise to mismatches in transitivity across different layers of structure (semantics, morphology and syntax). Marori provides motivation for separating argument structure from surface valence, supported by LFG (Bresnan 2001) and HPSG (Sag, Wasow, and Bender 2003).
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2015
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

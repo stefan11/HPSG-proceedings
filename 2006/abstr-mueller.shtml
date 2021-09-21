@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Müller, Stefan: Persian Complex Predicates and the Limits of Inheritance-Based Analyses
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Müller, Stefan: Persian Complex Predicates and the Limits of Inheritance-Based Analyses
+</h1>
+
+<div class="blurb"
+<p>
+Persian complex predicates pose an interesting challenge for theoretical
+linguistics, since they have both word-like and phrase-like properties. For
+instance, they can feed derivational processes, but they are also separable by
+the future auxiliary or the negation prefix. 
+<p>
+Various proposals have been made in the literature to capture the nature of
+Persian complex predicates, among them analyses that treat them on a purely
+phrasal basis or purely in the lexicon. Mixed analyses that analyze them as
+words per default and as phrases in the non-default case were also suggested. 
+<p>
+In the talk I show that theories that exclusively rely on classification
+of patterns in inheritance hierarchies cannot account for the facts in an
+insightful way unless they are augmented by transformations or similar
+devices. I then show that a lexical account together with appropriate ID
+schemata and an argument attraction analysis of the future auxiliary has none
+of the shortcomings that classification-based analyses have and that it can
+account for both the phrasal and the word-like properties of Persian complex
+predicates.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 2006
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

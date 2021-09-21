@@ -1,0 +1,19 @@
+#!/bin/tcsh
+
+
+foreach x (*.desktop)
+echo $x
+#sed -e 's/knoppix\/Grammatiken/grammix\/Grammars\/HPSG-Textbook/g'  $x >$x.neu
+sed -e 's/BTrale.png/BTrale.svg/g'  $x >$x.neu
+end
+
+
+foreach x (*.desktop)
+mv -f $x $x.old
+mv $x.neu $x
+end
+
+# umbenennen
+#foreach x (*.html)
+#mv $x $x:s/html/shtml/
+#end

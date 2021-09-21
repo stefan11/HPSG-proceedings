@@ -1,0 +1,74 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # abstract # keywords
+
+
+Abeillé, Anne & Winckel, Elodie # Université de Paris, LLF & Humboldt-Universität zu Berlin and Université de Paris, LLF   # Subject island in HPSG? A discourse-based approach # # no # The subject island constraint was defined as English specific in Pollard & Sag (1994), and abandoned in later versions (Sag, 2007, 2011). In this paper, we review new empirical data showing no cross-linguistic difference, but a difference between relative clauses, which permit extraction out of nominal subjects, and wh-questions, which show a subject penalty. We consider two possible HPSG accounts: one based on syntax, one based on information structure, and argue in favor of the latter.
+
+
+Aguila-Multner, Gabriel & Crysmann, Berthold # Université de Paris, Laboratoire de linguistique formelle, CNRS
+# French clitic climbing as periphrasis # October 15 2019# no # In this paper, we shall propose a treatment of French clitic climbing as an instance of morphological periphrasis. In particular we shall reexamine the evidence in favour of argument composition and a flat VP structure with tense auxiliaries (Abeillé & Godard, 2002) and show (i) that the V (vs. VP) status of the complement does not strictly correlate with the possibility of clitic climbing, (ii) that transparency in bounded dependencies transcends the class of argument composition verbs, and (iii) that a flat VP structure complicates the treatment of modification and coordination. Adopting an approach in terms of periphrastic realisation along the lines of Bonami (2015), we can provide a
+treatment of the climbing facts that does full justice to the limited mobility and their morphologically bound status (Miller, 1992) without having to rely on a flat VP structure. Finally, we shall show that the pronominalisation and extraction facts can be dealt with in a uniform fashion by way of constraints on
+canonical vs. non-canonical argument realisation. # Clitic climbing, French, HPSG, Periphrasis, VP structure, extraction, pronominalisation
+
+Borsley, Bob # University of Essex and Bangor University  # The complexities of the Welsh copula # October 12, 2019 # # The Welsh copula has a complex set of forms reflecting agreement, tense, polarity, the distinction between main and complement clauses, the presence of a gap as subject or complement, and the contrast between predicative and equative interpretations. An HPSG analysis of the full set of complexities is possible given a principle of blocking, whereby constraints with more specific antecedents take precedence over constraints with less specific antecedents, and a distinction between morphosyntactic features relevant to syntax and morphosyntactic features relevant to morphology. # copula, syntax-morphology mismatches, Welsh
+
+Guzmán Naranjo, Matías # Université Paris Diderot # Analogy-based Morphology: The Kasem number system # October 15, 2019 # This paper presents a formalization of proportional analogy using typed feature structures, which retains all key elements of analogical models of morphology. With the Kasem number system as an example, I show that using this model it is possible to express partial analogies which are unified into complete analogies. The analysis presented is accompanied by a complete TRALE implementation. # proportional analogy, morphology
+
+
+Haugereid, Petter # Western Norway University of Applied Sciences # An incremental approach to gapping in Japanese # October 15, 2019 # # Gapping in Japanese, which is an SOV language, differs from gapping in SVO languages in that the conjuncts with the elided verbs appear in non-final position. In this paper I present an incremental approach to gapping in Japanese, where it is assumed that an argument structure type is constructed in the non-final clause(s) in the gapping construction. This type is unified with the construction type created by the final clause resulting in identical construction types for all conjuncts in the construction. # HPSG, Gapping, Japanese, Incremental Parsing
+
+Machicao y Priemer, Antonio & Fritz-Huechante, Paola # Humboldt-Universität zu Berlin & Humboldt-Universität zu Berlin # Boundaries at play: The 'se' morpheme in the Spanish psych-domain # 15th October, 2019 # no # In this paper, we model the left-bounded state reading and the true reflexive reading of the se-morpheme in the Spanish psychological domain. We argue that a lexical analysis of se provides us with a more accurate description of the different classes of psychological verbs that occur with the morpheme. We provide a unified analysis where the different uses of se are modeled by means of lexical rules. Our analysis shows the similarities and differences between the true-reflexive reading and the left-bounded reading achieved with se. Furthermore, we take the morphologically simple but semantically more complex basic items (e.g. asustar `frighten') as input of the lexical rules, giving us as the output a morphologically more complex but semantically simpler verb (e.g. asustarse `get frightened'). For psych-verbs, our analysis correctly allows only those verbs assigning accusative to the experiencer or the stimulus to combine with the se-morpheme, hence preventing dative verbs from entering the lexical rules. We also show how to account for punctual and non-punctual readings of psych-verbs with the se-morpheme incorporating `boundaries' into the type hierarchy of eventualities. # Spanish, Reflexives, Causative-Inchoative-Alternation, Psych-Verbs, Left Boundary
+
+Melnik, Nurit & Nir, Bracha # The Open University of Israel & University of Haifa # Argument Structure and the Cause-Directed-Motion Construction in Hebrew # 14.10.2019 # no #  This paper argues for a productive cause-directed-motion construction (CDMC) in Hebrew. Building on corpus data, it identifies the types of verbs which can appear in the trivalent structure of [NP [V OBJ OBL]], where OBL is directional, and shows that this argument structure is not limited to cause-motion verbs. On the contrary, non-motion verbs which appear in the CDMC are interpreted as expressing caused-motion events by virtue of their appearance in the construction.
+
+Müller, Stefan & Kim, Jong-Bok & Kihm, Alain # Humboldt-Universität zu Berlin & Kyung Hee
+University, Seoul & CNRS – Université de Paris  # Predicate topicalization in Korean and Yiddish: A construction-based HPSG
+Approach # # no # We examine so-called Predicate Cleft constructions in Yiddish. In these precdicate
+fronting constructions a verbal projection is fronted with the verb appearing in the remaining
+clause as well. It is argued that this phenomenon follows the regular V2 syntax in Yiddish, that is,
+it is not left dislocation or hanging topic. Because of this the phenomenon is handled via the SLASH
+mechanism that is used for nonlocal dependencies in HPSG. Since material is doubled, we do not use
+traces for the introduction of the nonlocal dependency but a lexical rule. It has been noted that
+the fronted material may be more general than what stays behind. This is evidence against all
+copy-based movement theories but it is compatible with an HPSG approach, in which the semantic
+subsumption restrictions can be stated.
+
+Pullum, Geoffrey K. # University of Edinburgh # What grammars are, or ought to be # 15 October 2019
+# # Progress toward distinguishing clearly between generative and model-theoretic syntactic frameworks has not been smooth or swift, and the obfuscatory term `constraint-based' has not helped. This paper reviews some elementary subregular formal language theory relevant to comparing description languages for model-theoretic grammars, generalizes the results to trees, and points out that HPSG linguists have maintained an unacknowledged and perhaps unintended allegiance to the idea of strictly local description: unbounded dependencies, in particular, are still being conceptualized in terms of plugging together local tree parts annotated with the SLASH feature. Adopting a description language with quantifiers holds out the prospect of eliminating the need for the SLASH feature.  We need to ask whether that would be a good idea. Binding domain phenomena might tell us. More work of both descriptive and mathematical sorts is needed before the answer is clear. # grammars, HPSG, constraints, model-theoretic syntax 
+
+Rizea, Monica-Mihaela & Sailer, Manfred # Solomon Marcus Center for Computational Linguistics,
+Bucharest & Goethe-University Frankfurt# Representing scales: Degree result clauses and emphatic
+negative polarity items in Romanian # October 14, 2019 # # The paper proposes a representational re-encoding of the scalar, pragmatic accounts of NPI licensing within the framework of Lexical Resource Semantics (LRS). The analysis focuses on a less researched distribution pattern: emphatic NPIs occurring in result clause constructions that receive an intensification reading. We will provide a scalar extension of a standard semantic account of result clauses to capture the high degree interpretations. Our investigation will also offer new insights on NPI licensing in embedded clauses.  We will primarily consider Romanian data. # negative polarity item, result clause semantics, LRS, Romanian 
+
+Van Eynde, Frank # University of Leuven (Belgium) # Nominalized infinitives in Dutch # # no #
+Nominalized infinitives have the external distribution of an NP, but their internal structure is a mixture of verbal and nominal
+characteristics. The purpose of this paper is (1) to provide a
+description of the Dutch nominalized infinitive, (2) to model it in
+terms of HPSG and (3) to compare the result with Rob Malouf’s mixed
+category treatment of the English gerund.
+
+
+Webelhuth, Gert & Bonami, Olivier # University of Frankfurt & Universite de Paris, LLF, CNRS # Syntactic haplology and the Dutch proform "er" # October, 27, 2019 # # Dutch has four pronouns "er" which show an intriguing pattern of syntactic haplology when a finite verb has more than one "er" dependent. We present a theory that captures this pattern by relying on two central aspects of HPSG: (i) the distinction between ARG-ST and COMPS and (ii) the distinction between canonical and non-canonical synsem objects. No deletion rules of the kind used in transformational analyses of "er" are necessary.  # HPSG, Dutch, Haplology, ARG-ST, COMPS
+
+Wechsler, Stephen # University of Texas at Austin # Distributed Lexicalism # # no # In lexical approaches to argument structure, verb alternations (e.g.
+<em>load the truck</em> ~ <em>load the hay</em>)  have been analyzed by relating the
+alternative complement patterns of a verb by means of lexical rules,
+lexical mapping theories, type inheritance hierarchies, and argument
+structure constructions.  But such theories lack a principled account
+of the fact that the modulation in verb meaning is syntactically
+localized, affecting some argument roles while leaving others
+unchanged.  In contrast, certain constructional approaches, such as
+those where semantic roles are assigned by null functional heads to
+their specifiers (Marantz 1997, Harley 2012, i.a.), capture that
+syntactic localization, but they are problematic for familiar reasons
+related to lexicalism (Müller and Wechsler 2014) and the case against
+neodavidsonian event semantics (Dowty 1989, Wechsler 2005).  This talk
+resolves this dilemma with a revision of lexical theory called
+<em>distributed lexicalism</em> with two new proposals.  First, a verb's
+meaning is broken down and distributed across components of its
+valence structure.  Second, thematic patterning of verbs, including
+verb alternations, are explained not by grammar rules or intermediate
+argument structures but by the fact that new verbs are assimilated to
+the existing lexicon.  The resulting grammar goes beyond the
+lexicalist assumption that verbs have valence structures, to a
+''hyperlexicalist'' theory in which the patterning of those valence
+structures follows from the emergent structure of the lexicon.

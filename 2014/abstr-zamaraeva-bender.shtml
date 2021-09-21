@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Zamaraeva, Olga &amp; Bender, Emily M.: Focus Case Outside of Austronesian:  An Analysis of Kolyma Yukaghir
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Focus Case Outside of Austronesian:  An Analysis of Kolyma Yukaghir">
+<meta name="citation_author"           content="Zamaraeva, Olga">
+<meta name="citation_author"           content="Bender, Emily M.">
+<meta name="citation_conference_title" content="Proceedings of the 21st International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="176">
+<meta name="citation_lastpage"         content="196">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2014/zamaraeva-bender.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Zamaraeva, Olga &amp; Bender, Emily M.: Focus Case Outside of Austronesian:  An Analysis of Kolyma Yukaghir
+</h1>
+
+<div class="blurb"
+<p>
+Case is traditionally approached as a lexical phenomenon in HPSG. The LinGO Grammar Matrix customization system, an HPSG-based grammar engineering toolkit and also a typological meta-resource, includes several options for case assignment, and one of them, `focus case', assumes that case of the participants in basic clauses is handled via lexical rules rather than lexical entries. This phenomenon was previously only attributed to a group of Austronesian languages, and thus the focus case differed from all other case options in the Matrix which were attested for across language families. Our analysis of Kolyma Yukaghir, a nearly extinct language of North-Eastern Russia, shows that focus case can be successfully used outside of Austronesian family and therefore that the option is more universal than it was previously thought.
+  
+<P>
+<ul>
+<li><a href="zamaraeva-bender.pdf">download PDF</a>
+<li><a href="zamaraeva-bender.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15, 2014
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Brown, Dunstan &amp; Evans, Roger: Inflectional Defaults and Principal Parts: an Empirical Investigation
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Inflectional Defaults and Principal Parts: an Empirical Investigation">
+<meta name="citation_author"           content="Brown, Dunstan">
+<meta name="citation_author"           content="Evans, Roger">
+<meta name="citation_conference_title" content="Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2010">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="234">
+<meta name="citation_lastpage"         content="254">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2010/brown-evans.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Brown, Dunstan &amp; Evans, Roger: Inflectional Defaults and Principal Parts: an Empirical Investigation
+</h1>
+
+<div class="blurb"
+<p>
+We describe an empirical method to explore and contrast the roles of default and principal part
+information in the differentiation of inflectional classes. We use an unsupervised machine learning
+method to classify Russian nouns into inflectional classes, first with full paradigm information,
+and then with particular types of information removed. When we remove default information, shared
+across classes, we expect there to be little effect on the classification. In contrast when we
+remove principal part information we expect there to be a more detrimental effect on classification
+performance. Our data set consists of paradigm listings of the 80 most frequent Russian nouns,
+generated from a formal theory which allows us to distinguish default and principal part
+information. Our results show that removal of forms classified as principal parts has a more
+detrimental effect on the classification than removal of default information. However, we also find
+that there are differences within the defaults and principal parts, and we suggest that these may in
+part be attributable to stress patterns.
+  
+<P>
+<ul>
+<li><a href="brown-evans.pdf">download PDF</a>
+<li><a href="brown-evans.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 16, 2010
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

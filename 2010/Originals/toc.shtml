@@ -1,0 +1,239 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+      <!-- This site generated using MacPerl, BBEdit, Adobe Illustrator, and Adobe Photoshop on MacOS-->
+<head>
+<title>HPSG '10 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta NAME="keywords" CONTENT="">
+<link rel="stylesheet" 
+type="text/css" href="hpsg-style.css">
+
+<script type="text/javascript">
+var name = null;
+cold_index = new Image();
+cold_order = new Image();
+cold_contact = new Image();
+cold_site_index = new Image();
+cold_backlist = new Image();
+cold_authors = new Image();
+cold_search = new Image();
+cold_new_books = new Image();
+hot_index = new Image();
+hot_order = new Image();
+hot_contact = new Image();
+hot_site_index = new Image();
+hot_backlist = new Image();
+hot_authors = new Image();
+hot_search = new Image();
+hot_new_books = new Image();
+cold_index.src = "/gif/indexButton.gif";
+cold_order.src = "/gif/orderButton.gif";
+cold_contact.src = "/gif/contactButton.gif";
+cold_site_index.src = "/gif/site_indexButton.gif";
+cold_backlist.src = "/gif/backlistButton.gif";
+cold_authors.src = "/gif/authorsButton.gif";
+cold_search.src = "/gif/searchButton.gif";
+cold_new_books.src = "/gif/new_booksButton.gif";
+hot_index.src = "/gif/index_hotButton.gif";
+hot_order.src = "/gif/order_hotButton.gif";
+hot_contact.src = "/gif/contact_hotButton.gif";
+hot_site_index.src = "/gif/site_index_hotButton.gif";
+hot_backlist.src = "/gif/backlist_hotButton.gif";
+hot_authors.src = "/gif/authors_hotButton.gif";
+hot_search.src = "/gif/search_hotButton.gif";
+hot_new_books.src = "/gif/new_books_hotButton.gif";
+    
+
+function hotLHS(imageName) {
+    if (document.images) {
+        hotText = eval("hot_" + imageName + ".src");
+        document [imageName].src = hotText;
+}}
+
+function coldLHS(imageName) {
+    if (document.images) {
+        coldText = eval("cold_" + imageName + ".src");
+        document [imageName].src = coldText;
+}}
+
+</script>
+</head>
+<body BGCOLOR=#FFFFFF>
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><table BORDER=0
+CELLPADDING=0 CELLSPACING=0><tr><td><a HREF="../../site/index.html"><img
+ALT="CSLI Publications logo" SRC=/gif/logo.gif BORDER=0 HEIGHT=68 WIDTH=180></a></td><td><img SRC="/gif/backlistTitle.gif" ALT="" HEIGHT=68 WIDTH=468></td></tr></table></td></tr><tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0 VALIGN=top><tr><td HEIGHT=276 WIDTH=87 VALIGN=top BACKGROUND="/gif/left.gif">
+
+<table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td><a HREF=../../site/new_books.html onMouseover="hotLHS('new_books')" onMouseout="coldLHS('new_books')"><img BORDER=0 SRC="/gif/new_booksButton.gif" NAME=new_books HEIGHT=20 WIDTH=87 ALT="new_books"></a></td></tr><tr><td><a HREF=../../site/backlist.html onMouseover="hotLHS('backlist')" onMouseout="coldLHS('backlist')"><img BORDER=0 SRC="/gif/backlistButton.gif" NAME=backlist HEIGHT=20 WIDTH=87 ALT="backlist"></a></td></tr><tr><td><a HREF=../../site/site_index.html onMouseover="hotLHS('site_index')" onMouseout="coldLHS('site_index')"><img BORDER=0 SRC="/gif/site_indexButton.gif" NAME=site_index HEIGHT=20 WIDTH=87 ALT="site_index"></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/contact.html onMouseover="hotLHS('contact')" onMouseout="coldLHS('contact')"><img BORDER=0 SRC="/gif/contactButton.gif" NAME=contact HEIGHT=20 WIDTH=87 ALT="contact"></a></td></tr><tr><td><a HREF=../../site/authors.html onMouseover="hotLHS('authors')" onMouseout="coldLHS('authors')"><img BORDER=0 SRC="/gif/authorsButton.gif" NAME=authors HEIGHT=20 WIDTH=87 ALT="authors"></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/order.html onMouseover="hotLHS('order')" onMouseout="coldLHS('order')"><img BORDER=0 SRC=/gif/orderButton.gif NAME=order HEIGHT=20 WIDTH=87 ALT=order></a></td></tr><tr><td><img SRC="/gif/pixel.gif" ALT="" HEIGHT=5 WIDTH=1></td></tr><tr><td><a HREF=../../site/search.html onMouseover="hotLHS('search')" onMouseout="coldLHS('search')"><img BORDER=0 SRC=/gif/searchButton.gif NAME=search HEIGHT=20 WIDTH=87 ALT=search></a></td></tr></table></td>
+<td HEIGHT=276 WIDTH=474 VALIGN=top BGCOLOR=#FFFFFF>
+<table BORDER=0 CELLPADDING=7 CELLSPACING=0><tr><td>
+<tr><td>
+<h1>
+Proceedings of the 17th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg10.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg10.pdf"-->) with page numbers.
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+
+<li>Katya Alahverdzhieva and Alex Lascarides (University of Edinburgh)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Analysing Speech and Co-Speech Gesture in Constraint-based Grammars
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-al.shtml">abstract</a>, <a href="alahverdzhieva-lascarides.pdf">pages 6&ndash;26</a>
+
+<li>Anke Assmann, Fabian Heck, Johannes Hein, Stefan Keine and Gereon Müller (Universität Leipzig)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Does Chain Hybridization in Irish Support Movement-Based Approaches to Long-Distance Dependencies?
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ahhkm.shtml">abstract</a>, <a href="assmann-heck-hein-keine-mueller.pdf">pages 27&ndash;46</a>
+
+
+
+<li>Doug Arnold and Robert D. Borsley (University of Essex)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Auxiliary-Stranding Relative Clauses
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ab.shtml">abstract</a>, <a href="arnold-borsley.pdf">pages 47&ndash;67</a>
+
+
+<li>Felix Bildhauer and Philippa Cook  (Freie Universität Berlin) 
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">German Multiple Fronting and Expected Topic-Hood
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-bc.shtml">abstract</a>, <a href="bildhauer-cook.pdf">pages 68&ndash;79</a>
+
+<li>Robert D. Borsley (University of Essex)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">An HPSG Approach to Welsh Unbounded Dependencies
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-borsley.shtml">abstract</a>, <a href="borsley.pdf">pages 80&ndash;100</a>
+
+
+<li>Rui P. Chaves 
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">On the Syntax and Semantics of <em>vice versa</em>
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-chaves.shtml">abstract</a>, <a href="chaves.pdf">pages 101&ndash;121</a>
+
+<li>Philippa Cook and Bjarne Ørsnes (Freie Universität Berlin)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Coherence with adjectives in German
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-coe.shtml">abstract</a>, <a href="cook-oersnes.pdf">pages 122&ndash;142</a>
+
+
+<li>Dan Flickinger (Stanford University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Prescription and Explanation &ndash; Using an HPSG implementation to teach writing skills
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-flickinger.shtml">abstract</a>, paper not submitted
+
+<li>Barbara Hemforth (LPNCog, CNRS, IUPPD-Université Paris-Descartes), Michel Fayol (LAPSCO, CNRS, Université Blaise Pascal, Clermont-Ferrand), and Sébastien Pacton (LPNCog, CNRS, IUPPD-Université Paris-Descartes)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Usage-based Preferences in Written Sentence Production: The Role of Local and Global Statistics
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-hfp.shtml">abstract</a>, <a href="hemforth-fayol-pacton.pdf">pages 143&ndash;157</a>
+
+
+<li>Md. Sadiqul Islam, Mahmudul Hasan Masum, Md. Shariful Islam Bhuyan and Reaz Ahmed (Bangladesh University of Engineering and Technology, Dhaka, Bangladesh)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Arabic Nominals in HPSG: A Verbal Noun Perspective
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-imiba.shtml">abstract</a>, <a href="imiba.pdf">pages 158&ndash;178</a>
+
+
+<li>Jong-Bok Kim (Kyung Hee), Jaehyung Yang (Kangnam) and Sanghoun Song (U. of Washington)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Korean Comparative Constructions: A Constraint-Based Approach and Computational Implementation
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-kys.shtml">abstract</a>, <a href="kim-yang-song.pdf">pages 179&ndash;190</a>
+
+
+
+<li>Jean-Pierre Koenig and Karin Michelson (Buffalo)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Invariance in argument realization: The case of Iroquoian
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;">abstract and paper not submitted
+
+<li>Robert Levine (Ohio State University)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Polarity and auxiliaryhood (pseudo)entanglement: the ellipsis pattern of modal need
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;">abstract and paper not submitted
+
+<li>Jacob Maché (Freie Universität Berlin) 
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Towards a compositional analysis of verbless directives in German 
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-mache.shtml">abstract</a>, paper submitted to journal, please contact author
+
+
+<li>Nurit Melnik (Oranim AC)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Modal Predicates in Modern Hebrew
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-melnik.shtml">abstract</a>, paper not submitted
+
+
+
+
+<li>Manfred Sailer (University of Göttingen)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">The Family of English Cognate Object Constructions
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-sailer.shtml">abstract</a>, <a href="sailer.pdf">pages 191&ndash;211</a>
+
+<li>Pollet Samvelian and Jesse Tseng
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Persian Object Clitics and the Syntax-Morphology Interface
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-st.shtml">abstract</a>, <a href="samvelian-tseng.pdf">pages 212&ndash;232</a>
+
+
+
+
+</ul>
+<li>Contributions to the Workshop
+<ul>
+
+
+<li>Farrell Ackerman (UCSD) & Rob Malouf (San Diego State)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Paradigms: The Low Entropy Conjecture
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;">abstract and paper not submitted
+
+
+<li>Dunstan Brown (University of Surrey) and Roger Evans (University of Brighton)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Inflectional Defaults and Principal Parts: an Empirical Investigation
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-be.shtml">abstract</a>, <a href="brown-evans.pdf">pages 234&ndash;254</a>
+
+
+<li>Greville G. Corbett (University of Surrey)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Classic Problems at the Syntax-Morphology Interface: Whose are They?
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-corbett.shtml">abstract</a>, <a href="corbett.pdf">pages 255&ndash;268</a>
+
+<li>Berthold Crysmann (Universität Bonn and Universität des Saarlandes)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Discontinuous Negation in Hausa
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-crysmann.shtml">abstract</a>, <a href="crysmann.pdf">pages 269&ndash;287</a>
+
+
+<li>Jean-Léo Léonard (Paris 3, IUF) and Alain Kihm (CNRS, Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Verb inflection in Chiquihuitlán Mazatec: a fragment and a PFM approach (abstract)
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-lk.shtml">abstract</a>, <a href="leonard-kihm.pdf">pages 288&ndash;306</a>
+
+
+<li>Smriti Singh and Vaijayanthi M. Sarma (Indian Institute of Technology Bombay, India)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;"> Hindi Noun Inflection and Distributed Morphology
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-ss.shtml">abstract</a>, <a href="singh-sarma.pdf">pages 307&ndash;321</a>
+
+<li>Andrew J. Spencer (University of Essex)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Lexical Relatedness and the Lexical Entry &ndash; a Formal Unification
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-spencer.shtml">abstract</a>, <a href="spencer.pdf">pages 322&ndash;340</a>
+
+<li>Gregory Stump (Kentucky)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">Paradigm templates, stem patterns and lexical representations
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-stump.shtml">abstract</a>, paper not submitted
+
+<li>Delphine Tribout (LLF and Université Paris Diderot-Paris 7)
+<p align="left" style="margin-top:4pt; margin-bottom:4pt; margin-left:1em;">How Many Conversions from Verb to Noun Are There in French?
+<p align="left" style="margin-top:0pt; margin-bottom:0pt; margin-left:1em;"><a href="abstr-tribout.shtml">abstract</a>, <a href="tribout.pdf">pages 341&ndash;357</a>
+
+</ul>
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Created: October 13, 2010
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+
+</td></tr><tr HEIGHT=30><td valign=bottom></td></tr></table></td>
+
+<td valign=top><img SRC="/gif/CSINRight.gif" ALT="" WIDTH=89 HEIGHT=1 BORDER=0></td>
+</table></td><td VALIGN=top><img SRC="/gif/backlistRight.gif" ALT="" HEIGHT=276 WIDTH=87></td></tr>
+<tr><td><table BORDER=0 CELLPADDING=0 CELLSPACING=0><tr><td HEIGHT=68 WIDTH=268>
+
+<table BORDER=0 CELLPADDING=5 CELLSPACING=0 BACKGROUND=/gif/bottom.gif><tr><td HEIGHT=68 WIDTH=268 VALIGN=bottom ALIGN=right>
+<font FACE="arial, helvetica" SIZE=-1 COLOR=#000055><a HREF=mailto:pubs@roslin.stanford.edu>pubs@roslin.stanford.edu</a>
+</font></td></tr></table></td>
+<td><img SRC="/gif/logo_bottom.gif" ALT="" HEIGHT=68 WIDTH=380></td></tr></table></td></tr></table></body></html>

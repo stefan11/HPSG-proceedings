@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Yoo, Eun-Jung: Transparent Free Relatives in English
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Transparent Free Relatives in English">
+<meta name="citation_author"           content="Yoo, Eun-Jung">
+<meta name="citation_conference_title" content="Proceedings of the 15th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2008">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="294">
+<meta name="citation_lastpage"         content="304">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2008/yoo.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Yoo, Eun-Jung: Transparent Free Relatives in English
+</h1>
+
+<div class="blurb"
+<p>
+Transparent free relatives (TFRs) are constituents involving a
+WH-gap dependency in which the phrase that is predicated
+of the gap associated with 'what', not the wh-phrase
+itself, functions as the syntactic and semantic "nucleus."
+Previous analyses have either treated TFRs as a construction
+radically different from ordinary FRs, utilizing such mechanisms
+as parenthetical placement or grafts, or assimilated them to
+ordinary FRs, relying on abstract/empty head elements and a vague
+semantic relation holding between the gap and the predicate
+phrase. In this paper, we investigate how the puzzling properties
+of English TFRs can be accounted for in HPSG. The paper shows that
+the transparency effect of TRFs can be handled by feature
+inheritance from the nucleus predicate phrase, together with a
+constructional constraint that deals with the exocentric property
+of TFRs.
+  
+<P>
+<ul>
+<li><a href="yoo.pdf">download PDF</a>
+<li><a href="yoo.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 14, 2008
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Dąbkowski, Maksymilian: Yucatecan Control and Lexical Categories in SBCG
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="Yucatecan Control and Lexical Categories in SBCG">
+<meta name="citation_author"           content="Dąbkowski, Maksymilian">
+<meta name="citation_conference_title" content="Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2017">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="162">
+<meta name="citation_lastpage"         content="178">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2017/hpsg2017-dabkowski.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Dąbkowski, Maksymilian: Yucatecan Control and Lexical Categories in SBCG
+</h1>
+
+<div class="blurb"
+<p>
+This paper explores the conundrum posed by two different control constructions in Yucatec Maya, a Mayan language spoken by around 800,000 speakers in the Yucatán Peninsula and northern Belize. Basic syntactic structure of the language is introduced, and a general SBCG treatment of control in YM is presented, alongside with an example of motion verbs as control matrices. The unruly case of intransitive subjunctive control, where the controllee appears with an unexpected status (incompletive) and without set-A morphology, is discussed and a proposal to treat it as nominalization is evaluated. The nominalization proposal is rejected based on the following grounds: (1) nominalization tends to attract definitive morphology, which is absent from intransitive subjunctive control constructions, (2) nominalization does not truly explain the lack of set-A morphology if one desires to provide a unified account of set-A morphemes, (3) verbs bereft of otherwise expected set-A morphemes have an independent motivation in the form of agent focus constructions.
+<p>
+The <a href="http://cslipublications.stanford.edu/HPSG/2017/dabkowski-yucatec-signature.pdf">grammar signature</a> is not part of the proceedings but can be downloaded here: <a href="http://cslipublications.stanford.edu/HPSG/2017/dabkowski-yucatec-signature.pdf">grammar signature</a>.
+  
+<P>
+<ul>
+<li><a href="hpsg2017-dabkowski.pdf">download PDF</a>
+<li><a href="dabkowski.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 21, 2017
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

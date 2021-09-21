@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Bjerre, Anne: An Analysis of Danish Free Relatives
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!-- for google scholar -->
+<meta name="citation_title"            content="An Analysis of Danish Free Relatives">
+<meta name="citation_author"           content="Bjerre, Anne">
+<meta name="citation_conference_title" content="Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_firstpage"        content="45">
+<meta name="citation_lastpage"         content="63">
+<meta name="citation_pdf_url" content="http://www.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/bjerre.pdf">
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Bjerre, Anne: An Analysis of Danish Free Relatives
+</h1>
+
+<div class="blurb"
+<p>
+This paper presents an analysis of Danish free relative constructions. Fol- lowing Bresnan and
+Grimshaw (1978) we will adopt a wh-head (in Danish hv-head) analysis where the hv-phrase is the head
+of an NP. Also following Bresnan and Grimshaw (1978) we will propose an analysis which does not
+involve a filler-gap dependency between the hv-phrase and the gap in the sis- ter clause. Instead we
+will propose that the gap in the sister clause is bound off by a constructional constraint. In this
+way the analysis will be shown to differ from previous HPSG wh-head analyses of free relatives.
+  
+<P>
+<ul>
+<li><a href="bjerre.pdf">download PDF</a>
+<li><a href="bjerre.bib">BibTeX Entry</a>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 12, 2012
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

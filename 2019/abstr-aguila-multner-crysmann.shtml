@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+Aguila-Multner, Gabriel &amp; Crysmann, Berthold: French clitic climbing as periphrasis
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">Aguila-Multner, Gabriel &amp; Crysmann, Berthold: French clitic climbing as periphrasis
+</h1>
+
+<div class="blurb"
+<p>
+In this paper, we shall propose a treatment of French clitic climbing as an instance of morphological periphrasis. In particular we shall reexamine the evidence in favour of argument composition and a flat VP structure with tense auxiliaries (Abeillé & Godard, 2002) and show (i) that the V (vs. VP) status of the complement does not strictly correlate with the possibility of clitic climbing, (ii) that transparency in bounded dependencies transcends the class of argument composition verbs, and (iii) that a flat VP structure complicates the treatment of modification and coordination. Adopting an approach in terms of periphrastic realisation along the lines of Bonami (2015), we can provide a
+treatment of the climbing facts that does full justice to the limited mobility and their morphologically bound status (Miller, 1992) without having to rely on a flat VP structure. Finally, we shall show that the pronominalisation and extraction facts can be dealt with in a uniform fashion by way of constraints on
+canonical vs. non-canonical argument realisation.
+  
+<P>
+<ul>
+</ul>
+
+<hr>
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+
+<br>
+<br>Created: October 15 2019
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>

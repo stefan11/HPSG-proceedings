@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>HPSG 2020 Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+<meta name="citation_conference_title" content="Proceedings of the 27th International Conference on Head-Driven Phrase Structure Grammar">
+<meta name="citation_author"           content="MÃ¼ller, Stefan & Holler, Anke">
+<meta name="citation_publication_date" content="2020">
+<meta name="citation_issn"             content="15351793">
+<meta name="citation_pdf_url" content="http://cslipublications.stanford.edu/HPSG/2020/hpsg2020.pdf">
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</head>
+
+<body>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+
+<table><tr><td>
+
+<h1 class="smalL">
+Proceedings of the 27th International Conference on Head-Driven Phrase Structure Grammar
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+<div class="blurb">
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="hpsg2020.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="hpsg2020.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+<li>Aguila-Multner, Gabriel and Crysmann, Berthold (Université de Paris,
+Laboratoire de linguistique formelle, CNRS)<p class="arttitle">An inside-out approach to
+French causatives</p><p class="artlinks"><a href="abstr-aguila-multner-crysmann.shtml">abstract</a>, <a href="hpsg2020-aguila-multner-crysmann.pdf">pages 5&ndash;25</a></p>
+<li>Augustinus, Liesbeth (University of Leuven)<p class="arttitle">A head-supplement analysis of Dutch quotative van</p><p class="artlinks"><a href="abstr-augustinus.shtml">abstract</a>, paper not submitted</p>
+<li>Borsley, Robert D. (University of Essex and Bangor University)<p class="arttitle">On a family of Welsh constructions</p><p class="artlinks"><a href="abstr-borsley.shtml">abstract</a>, <a href="hpsg2020-borsley.pdf">pages 26&ndash;46</a></p>
+<li>Bouma, Gosse (University of Groningen)<p class="arttitle">Enhanced Universal Dependencies and its relationship to
+HPSG</p><p class="artlinks"><a href="abstr-bouma.shtml">abstract</a>, paper not submitted</p>
+<li>Chaves, Rui P. (University at Buffalo,
+SUNY), Kay, Paul (University of California, Berkeley) and Michaelis, Laura A. (University of Colorado at Boulder)<p class="arttitle">Unrealized arguments in SBCG</p><p class="artlinks"><a href="abstr-ckm.shtml">abstract</a>, <a href="hpsg2020-ckm.pdf">pages 47&ndash;67</a></p>
+<li>Gyorfi, David (University of Surrey)<p class="arttitle">Challenges in Kazakh Auxiliary Selection</p><p class="artlinks"><a href="abstr-gyorfi.shtml">abstract</a>, <a href="hpsg2020-gyorfi.pdf">pages 68&ndash;87</a></p>
+<li>Haugereid, Petter (Western Norway University of Applied Sciences)<p class="arttitle">An incremental approach to verb clusters in German</p><p class="artlinks"><a href="abstr-haugereid.shtml">abstract</a>, <a href="hpsg2020-haugereid.pdf">pages 88&ndash;105</a></p>
+<li>Koenig, Jean-Pierre and Michelson, Karin (Department of Linguistics and Center for Cognitive Science,
+University at Buffalo)<p class="arttitle">What does being a noun or a verb mean?</p><p class="artlinks"><a href="abstr-koenig-michelson.shtml">abstract</a>, <a href="hpsg2020-koenig-michelson.pdf">pages 106&ndash;126</a></p>
+<li>Richter, Frank (Goethe Universität Frankfurt am Main)<p class="arttitle">Recursive adjectival modification in CLLRS</p><p class="artlinks"><a href="abstr-richter.shtml">abstract</a>, <a href="hpsg2020-richter.pdf">pages 127&ndash;135</a></p>
+<li>Sailer, Manfred (Goethe-University Frankfurt a.M.) and Dörner, Annika (University of Erfurt)<p class="arttitle">A
+Smurf-based Approach to Placeholder Expressions</p><p class="artlinks"><a href="abstr-sailer-doerner.shtml">abstract</a>, <a href="hpsg2020-sailer-doerner.pdf">pages 136&ndash;156</a></p>
+<li>Van Eynde, Frank (University of Leuven) and Kim, Jong-Bok (Kyung Hee University)<p class="arttitle">Pseudo-partitives in
+English</p><p class="artlinks"><a href="abstr-vaneynde-kim.shtml">abstract</a>, paper not submitted</p>
+<li>Webelhuth, Gert (Goethe University Frankfurt)<p class="arttitle">On c-command constraints in German: A corpus-based
+investigation</p><p class="artlinks"><a href="abstr-webelhuth.shtml">abstract</a>, paper not submitted</p>
+<li>Yatabe, Shûichi (University of Tokyo)<p class="arttitle">The internal readings of symmetrical adjectives and
+adverbials</p><p class="artlinks"><a href="abstr-yatabe.shtml">abstract</a>, paper not submitted</p>
+<li>Zamaraeva, Olga (University of Washington) and Emerson, Guy (University of Cambridge)<p class="arttitle">Multiple Question Fronting without Relational Constraints:  An Analysis of Russian as a Basis for Cross-Linguistic Modeling</p><p class="artlinks"><a href="abstr-zamaraeva-emerson.shtml">abstract</a>, <a href="hpsg2020-zamaraeva-emerson.pdf">pages 157&ndash;177</a></p>
+</ul>
+
+<hr>
+
+<address>
+Maintained by <a href="https://hpsg.hu-berlin.de/~stefan/">Stefan Müller</a>
+<br>
+<br>Automatically Created: 15.04.2021 (10:43:18)
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>
