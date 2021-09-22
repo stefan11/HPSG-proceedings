@@ -1,0 +1,1579 @@
+#!/usr/local/bin/perl
+#
+# CC-BY Stefan Müller (HU Berlin)
+#
+
+# This script takes PDFs of single papers in Include/ and generates a wrapper with a title page that
+# includes the pdf.
+# It also creates a LaTeX file including all single papers with titles to create a single volume
+# with all papers.
+# Both the single volume and the individual papers are included into a large XML file.
+# Stefan Müller 22.09.2021
+
+use File::Copy;
+
+use Encode;
+
+use utf8;
+
+use Term::ANSIColor;
+
+use MIME::Base64 qw(encode_base64);
+
+
+require './config.pl';
+
+$url = "http://www.stanford.edu/group/cslipublications/cslipublications/${conf_name}/${year}";
+
+$location = Encode::decode("utf8", $location);
+$maintainer = Encode::decode("utf8", $maintainer);
+$editors_string = Encode::decode("utf8", $editor);
+
+$today = $today = `date +'%Y-%m-%d'`; chop($today);
+
+# global counters for the whole XML document
+
+$publication_id = 0;
+$author_id      = 0;
+
+
+# probably you do not want to change anything below
+###################################################################################################
+
+$conf_file  = lc($conf_name) . $year;
+
+
+$proc_titlepage = $proc_title;
+$proc_titlepage =~ s/on Head-Driven/on\\par Head-Driven/;
+$location_tex = transform_to_latex($location);
+$location_tex_without_br = $location_tex;
+$location_tex_without_br =~ s/\\\\/ /g;
+
+if ($location_short) {
+    $proc_title_location = "$proc_title, " . $location_short;
+} else {
+    $proc_title_location = "$proc_title, " . $location_tex_without_br;
+}
+$proc_title_location_tex = "{" . transform_to_latex($proc_title_location) . "}";
+
+unless (-e "Includes/ccby-eps-converted-to.pdf") {
+print STDERR "Please provide ccby-eps-converted-to.pdf in the directory Includes/";
+exit(0);
+}
+
+
+open(BIB, ">${conf_file}.bib");
+
+$editor_tex = $editors_string;
+
+$editor_tex =~ s/&/and/g;
+
+$editor_tex = transform_to_latex($editor_tex); 
+
+print BIB <<EOF;
+\@proceedings{$crossref,
+  editor    = {$editor_tex},
+  title     = {$proc_title_location_tex},
+  booktitle = {$proc_title_location_tex},
+  url       = {http://cslipublications.stanford.edu/HPSG/${year}/},
+  publisher = {CSLI Publications},
+  address   = {Stanford, CA},
+  OPTissn   = {$issn},
+  year      = {$year},
+}
+
+EOF
+
+open (TOC, ">:utf8", "toc.shtml");
+
+print TOC <<EOF;
+<html>
+<head>
+<title>HPSG ${year} Proceedings, Table of Contents</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+<meta name="citation_conference_title" content="${proc_title}">
+<meta name="citation_author"           content="$editor_g">
+<meta name="citation_publication_date" content="${year}">
+<meta name="citation_issn"             content="${issn}">
+<meta name="citation_pdf_url" content="http://cslipublications.stanford.edu/HPSG/${year}/${conf_file}.pdf">
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</head>
+
+<body>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+
+<table><tr><td>
+
+<h1 class="smalL">
+$proc_title
+</h1>
+<h2>
+Table of Contents
+</h2>
+
+<div class="blurb">
+
+<ul type="disc">
+<li>Download all of the following pdf files as <a href="${conf_file}.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="${conf_file}.pdf"-->).
+<br><br>
+<li>Contributions to the Main Conference
+<ul>
+
+EOF
+
+open (PROCTMP, ">:utf8", "${conf_file}.tmp");
+
+if ($editors_string =~ /&/) {
+    $editors = "Editors";
+} else {
+    $editors = "Editor";
+}
+
+
+$editors_fn_ln       = author_first_name_last_name($editors_string);
+$editors_fn_ln_latex = transform_author_first_name_last_name($editors_string);
+
+
+print PROCTMP <<EOF;
+\\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
+                    % For some reasons some old HPSG proceedings have pdf 1.6
+\\documentclass[11pt,a4paper,fleqn]{article}
+\\usepackage{times}
+\\thispagestyle{empty}
+
+
+
+\\usepackage[T1]{fontenc}   % Silbentrennung
+
+\\usepackage[utf8x]{inputenc}
+                                                                                                                             
+\\hyphenation{Acad-e-my}
+
+\\usepackage[bookmarks=true,bookmarksopen=true,%
+breaklinks=true,%
+draft=false,plainpages=false,hyperfootnotes=false,%
+pdfauthor={$editors_fn_ln ($editors)},%
+pdftitle={$proc_title},%
+pdfkeywords={HPSG}%,
+pdftex=true%
+%ps2pdf=true  %ohne diesen Treiber geht der Zeilenumbruch in URLs
+]{hyperref}% for pdf files
+\\hypersetup{colorlinks=false, pdfborder={0 0 0}}
+
+\\usepackage{pdfpages}
+\\pdfinclusioncopyfonts=1
+
+\\usepackage{orcidlink}
+
+\\newcommand\\formatauthor[2]{\\begin{tabular}[t]{\@{}c\@{}}
+  {\\LARGE#1\\strut}\\\\
+  {\\small#2\\strut}\\\\
+  \\rule{\\dimexpr0.5\\linewidth-1em}{0pt}
+  \\end{tabular}\\xhfill\\ignorespaces}
+\\newcommand\\xhfill{\\hspace{1em plus 1fill}}
+
+\\begin{document}
+
+\\begin{center}
+{\\Large
+                {\\bfseries $proc_titlepage\\par}
+
+                \\vspace{8ex}
+
+                     $location_tex\\\\[\\baselineskip]
+
+                        $editors_fn_ln_latex ($editors)\\\\[\\baselineskip]
+
+                                $year\\\\[\\baselineskip]
+
+%                          CSLI Publications\\\\[\\baselineskip]
+
+%              http://csli-publications.stanford.edu/$conf_name/$year \\\\[4\\baselineskip]
+
+The papers are published under a \\href{http://creativecommons.org/licenses/by/4.0/}{CC-BY license}:\\\\[3pt]
+\\href{http://creativecommons.org/licenses/by/4.0/}{http://creativecommons.org/licenses/by/4.0/}
+}
+\\end{center}
+\\newpage
+\\tableofcontents
+
+\\newpage
+
+\\section*{Editor's note}
+\\addcontentsline{toc}{section}{Editor's note}
+EOF
+close(PROCTMP);
+
+#copy("${conf_file}.tmp proc-prefix.tex", ">${conf_file}.tex") or die("Cannot copy tex files: $!\n");
+system("cat ${conf_file}.tmp editors-note.tex >${conf_file}.tex");
+
+open (PROC, ">>:utf8", "${conf_file}.tex");
+
+# let's check whether there was a workshop
+if (-e "workshop.txt") {
+   $workshop = "yes";
+   open(WS, "<:encoding(UTF-8)", 'workshop.txt' );
+}
+
+# We only have the Part-Pages if there was both a conference and a workshop
+if ($workshop) { 
+
+print PROC <<EOF;
+
+
+\\newpage
+\\part{Contributions to the Main Conference}
+\\thispagestyle{empty}
+EOF
+
+} # end if workshop
+
+print PROC "\\newpage\n";
+
+# the abstract can span multiple lines, so records have to be separated by lines with no content.
+$/ = "\n\n";
+
+##########################################################################################
+# print XML header and opening
+
+open (XML, ">:utf8", "$conf_file.xml");
+
+
+$filesize = -s "$conf_file.pdf";
+
+print XML <<EOF;
+<?xml version='1.0' encoding='UTF-8'?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="1" access_status="1" url_path="" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+    <description locale="en_US">&lt;p class="author"&gt;$location&lt;br&gt;$conf_date&lt;/p&gt;&#xD;
+        &lt;p class="author"&gt;Editors: $editors_fn_ln&lt;/p&gt;</description>
+    <issue_identification>
+        <year>$year</year>
+        <title locale="en_US">$proc_title</title>
+    </issue_identification>
+    <date_published>$today</date_published>
+    <last_modified>$today</last_modified>
+  <issue_galleys>
+    <issue_galley locale="en_US">
+      <label>PDF</label>
+      <issue_file>
+        <file_name>$conf_file.pdf</file_name>
+        <file_type>application/pdf</file_type>
+        <file_size>$filesize</file_size>
+        <content_type>1</content_type>
+        <original_file_name>$conf_file.pdf</original_file_name>
+        <date_uploaded>$today</date_uploaded>
+        <date_modified>$today</date_modified>
+        <embed encoding="base64">
+EOF
+
+
+open (FILE, "$conf_file.pdf") or die "$!";
+while (read(FILE, $buf, 60*57)) {
+    print XML encode_base64($buf);
+}
+  print XML <<EOF;
+        </embed>
+      </issue_file>
+    </issue_galley>
+  </issue_galleys>
+<articles>
+EOF
+
+
+
+open(CONF, "<:encoding(UTF-8)", 'conference.txt' )    or die("Cannot open 'conference.txt': $!\n");
+
+          $page_offset++ if ($workshop);
+
+$page_end = $page_offset;
+
+
+# initialize the authors list. Needed to be able to deal with frequent names (Lee, Wang, ...)
+%authors = {};
+
+# initialize the filenames list. Needed to be able to deal with multiple submissions by the same
+# author(s): dekuthy-meurers, dekuthy-meurers-2
+%filenames = {};
+
+while (<CONF>) {
+
+# comment
+   if (/^\/\//) {
+      next;
+  };
+
+# empty lines
+   next unless /#/;
+
+
+
+# Author1 & Author 2 # Affiliation1 & Affiliation2  # Title                                        # Date                # page start # page end 
+
+@record=split(/#/);
+
+   $publication_id +=1;
+
+   process_record(@record);
+
+}
+
+if ($workshop) {
+print TOC <<EOF;
+</ul>
+<li>Contributions to the Workshop
+<ul>
+EOF
+
+print PROC <<EOF;
+\\part{Contributions to the Workshop}
+\\thispagestyle{empty}
+\\newpage
+EOF
+
+$page_end++;
+
+
+
+
+while (<WS>) {
+
+# comment
+   if (/^\/\//) {
+      next;
+  };
+
+# empty lines
+   next unless /#/;
+
+
+
+# Author1 & Author 2 # Affiliation1 & Affiliation2  # Title                                        # Date                # page start # page end 
+
+@record=split(/#/);
+
+
+   process_record(@record);
+
+}
+
+print TOC "</ul>\n";
+
+} # end if workshop
+
+#$date = localtime(time);
+$date = `date +'%d.%m.%Y (%T)'`; chop($date);
+
+print TOC <<EOF;
+</ul>
+
+<hr>
+
+<address>
+Maintained by $maintainer
+<br>
+<br>Automatically Created: $date
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>
+EOF
+
+print PROC <<EOF;
+\\end{document}
+EOF
+
+close(TOC);
+close($bib_fh);
+
+# finally we write the index.shtml file.
+
+open(INDEX, ">:utf8", 'index.shtml') or die("Cannot open 'index.shtml': $!\n");
+
+# including this is correct but breaks the layout ...
+# <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+print INDEX <<EOF;
+<html>
+<head>
+<title>$proc_title</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+
+<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
+<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
+
+<!--#include virtual="../Includes/HPSG-head" -->
+
+</HEAD>
+
+
+<BODY>
+
+<!--#include virtual="../Includes/HPSG-body-top" -->
+
+<table><tr><td>
+
+<h1 class="smalL">
+$proc_title
+</h1>
+
+<p class="author">
+${location}<br>
+${conf_date}</p>
+
+<p class="author">
+$editors: $editors_fn_ln<br>
+$year &copy; <a href="http://cslipublications.stanford.edu/">CSLI Publications</a><br>
+ISSN $issn
+</p>
+
+<div class="blurb"
+<p>
+
+<a href="toc.shtml">Table of Contents</a>
+
+
+<hr> 
+
+<h2>
+Editor's Note
+</h2>
+EOF
+
+# we read in editors-note.tex. For doing this, we set the line separator to one line again:
+$/ = "\n";
+
+# the mighty ed
+open(ED, "<:utf8", 'editors-note.tex') or die("Cannot open 'editors-note.tex': $!\n");
+          while ($line = <ED>) {
+# comment
+   if (/^%/) {
+      next;
+  };
+
+   $line =~ s/%.*//;                        # comments
+   $line =~ s/\\emph{(.*)}/<em>$1<\/em>/;
+
+   $line =~ s/\\-//g; # remove explicit hyphenation
+
+   $line =~ s/\\&/&/g; # replace \& by &
+
+   $line =~ s/"=/-/g; # replace german.sty hyphenation by real hyphen
+
+
+   if ($line =~ /^\s*$/) { # empty line
+       print INDEX "<p>\n";
+   } else {
+       print INDEX $line;
+   }
+          }
+
+print INDEX <<EOF;
+<p>
+
+The <a href="toc.shtml">table of contents</a> lists all the
+papers presented at the conference. Some papers were not submitted to
+the proceedings. For these papers, we suggest contacting the authors
+directly.
+
+<p>
+
+A <a href="${conf_file}.bib">list of BibTeX-Entries</a> containing bibliographic
+information is also available.
+
+
+<hr>
+
+<address>
+Maintained by $maintainer
+<br>
+<br>Automatically Created: $date
+</address> 
+</div>
+</td>
+
+<!--#include virtual="../Includes/hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../Includes/HPSG-body-bottom" --> 
+
+
+</body></html>
+EOF
+
+#############################################################
+# print closing of XML
+
+print XML <<EOF;
+</articles>
+</issue>
+EOF
+
+close(XML);
+
+exit (0);
+
+
+# creates an HTML page with the abstract
+sub make_abstract {
+	local( ($authors_string,$orcids_string,$affiliation,$title,$date,$status,$abstract,$keywords) ) = @_;
+
+#print "$author,$title,$affiliation,$date,$status \n";
+
+        $title =~ s/<br>/ /g; # remove explicit breaks
+        $title =~ s/[{}]//g;  # remove markup for BibTeX
+
+        $html_authors = $authors_string;
+        $html_authors =~ s/&/ &amp; /g;
+
+        open (ABSTR, ">:utf8", "$abstr_file");
+
+# including this is correct but breaks the layout ...
+#<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+        print ABSTR <<EOF;
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><!-- Copyright © 1998, CSLI Publications -->
+      <!-- Authored by John Niekrasz, CSLI Publications -->
+<head>
+<title>
+${html_authors}: ${title}
+</title>
+<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
+
+EOF
+if ($status ne "no") {
+
+print ABSTR <<EOF;
+<!-- for google scholar -->
+<meta name="citation_title"            content="${title}">
+EOF
+
+$n = 0;
+
+        while ($authors[$n]) {
+            print ABSTR "<meta name=\"citation_author\"           content=\"$authors[$n]\">\n";
+            $n++;
+        }
+    
+print ABSTR <<EOF;
+<meta name="citation_conference_title" content="${proc_title}">
+<meta name="citation_publication_date" content="${year}">
+<meta name="citation_issn"             content="${issn}">
+<meta name="citation_firstpage"        content="${page_start}">
+<meta name="citation_lastpage"         content="${page_end}">
+<meta name="citation_pdf_url" content="${url}/${pdf_file}">
+EOF
+}
+
+print ABSTR <<EOF;
+<!--#include virtual="../../site/Includes/style-include" -->
+<!--#include virtual="../Includes/hpsg-style" -->
+<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
+
+<table><tr><td>
+
+
+<!-- Heading -->
+<h1 class="smalL">${html_authors}: ${title}
+</h1>
+
+<div class="blurb"
+<p>
+${abstract}
+  
+<P>
+<ul>
+EOF
+
+if ($status ne "no") {
+print ABSTR <<EOF;
+<li><a href="${pdf_file}">download PDF</a>
+<li><a href="${file_name}.bib">BibTeX Entry</a>
+EOF
+}
+
+# not needed any longer, since in the sidebar
+
+#<li><a href="toc.shtml">Toc of the proceedings</a>
+print ABSTR <<EOF;
+</ul>
+
+<hr>
+<address>
+Maintained by $maintainer
+
+<br>
+<br>Created: ${date}
+<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
+</address> 
+
+</div>
+</td>
+
+<!--#include virtual="../hpsg-include" --> 
+
+</tr>
+</table>
+
+
+<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
+
+
+</body></html>
+EOF
+
+
+}
+
+sub make_filename{
+
+local( $authors_string ) = @_;
+
+        my @authors=split(/&/,$authors_string);
+
+        s{\s+}{}g foreach @authors;     # remove white space (not just trainling, all white space)
+
+if ($#authors < 1) { # single author
+
+# find the last name
+$authors[0] =~ /^(.*),(.*)$/;
+
+# change to lower case
+$filename = lc($1);
+
+# check if there is already an author with this name (Lee, Kim, Wang, ...)
+if ($authors{$filename}) {
+    $first_name = lc($2);
+    $filename = "$filename-$first_name";
+                       }
+
+  $authors{$filename} = 1; # set a flag that indicates that we used this name already.
+
+$filename = eliminate_special_chars($filename);
+
+} elsif ($#authors < 2) { # two authors: max-moritz.pdf
+
+$authors[0] =~ /^(.*),/;
+
+$lastname1 = lc($1);
+
+$authors[1] =~ /^(.*),/;
+
+$lastname2 = lc($1);
+
+
+$filename = eliminate_special_chars("$lastname1-$lastname2");
+
+} else { # more than two authors: mmx.pdf
+
+    $initials = "";
+
+foreach my $author (@authors) {
+
+$author =~ /^(.*),/;
+
+$initials = $initials . lc(substr($1,0,1));  # get the first character and turn it into lowercase.
+
+}
+
+    $filename = eliminate_special_chars($initials);
+
+} # else
+
+$filenames{$filename} ++;
+
+if ($filenames{$filename} > 1) {
+    $filename = $filename . "-${filenames{$filename}}";
+}
+
+return $filename;
+
+}
+
+
+sub make_bibtex {
+	local( ($authors_string,$orcids,$affiliation,$title,$date,$status,$abstract,$keywords) ) = @_;
+
+
+        $bib_file  = $file_name . ".pdf";
+
+        open (AUBIB, ">${file_name}.bib");
+
+        $authors_string =~ s/&/ and /g;
+
+
+
+        $authors_tex = transform_to_latex($authors_string);
+
+        $title = transform_to_latex($title);
+        $title =~ s/\\\\//g;
+
+        print AUBIB <<EOF;
+\@inproceedings{${file_name}:${year},
+  author    = {$authors_tex},
+  title     = {$title},
+  booktitle = {$proc_title_location_tex},
+  editor    = {$editor_tex},
+  OPTissn   = {$issn},
+  url       = {http://cslipublications.stanford.edu/HPSG/${year}/${pdf_file}},
+  publisher = {CSLI Publications},
+  address   = {Stanford, CA},
+  pages     = {$page_start--$page_end},
+  year      = {$year},
+}
+
+\@inproceedings{${file_name}:${year}-cr,
+  crossref  = {$crossref},
+  author    = {$authors_tex},
+  title     = {$title},
+  url       = {http://cslipublications.stanford.edu/HPSG/${year}/${pdf_file}},
+  pages     = {$page_start--$page_end},
+}
+
+\@proceedings{$crossref,
+  editor    = {$editor_tex},
+  title     = {$proc_title_location_tex},
+  booktitle = {$proc_title_location_tex},
+  publisher = {CSLI Publications},
+  address   = {Stanford, CA},
+  OPTissn   = {$issn},
+  url       = {http://cslipublications.stanford.edu/HPSG/${year}/},
+  year      = {$year},
+}
+
+EOF
+        print BIB <<EOF;
+\@inproceedings{${file_name}:${year},
+  author    = {$authors_tex},
+  title     = {$title},
+  booktitle = {$proc_title_location_tex},
+  editor    = {$editor_tex},
+  OPTissn   = {$issn},
+  url       = {http://cslipublications.stanford.edu/HPSG/${year}/${pdf_file}},
+  publisher = {CSLI Publications},
+  address   = {Stanford, CA},
+  pages     = {$page_start--$page_end},
+  year      = {$year},
+}
+
+\@inproceedings{${file_name}:${year}-cr,
+  crossref  = {$crossref},
+  author    = {$authors_tex},
+  title     = {$title},
+  url       = {http://cslipublications.stanford.edu/HPSG/${year}/${pdf_file}},
+  pages     = {$page_start--$page_end},
+}
+
+EOF
+
+}
+
+sub make_toc_entry {
+	local( ($authors_string,$orcids,$affiliation,$title,$date,$status,$abstract,$keywords) ) = @_;
+
+        $title =~ s/<br>/ /g; # remove explicit breaks
+        $title =~ s/[{}]//g;  # remove markup for BibTeX
+
+        print TOC "<li>";
+
+        $i = 0;
+        
+        while ($i < $no_of_authors) {
+
+          
+            # if there is an affiliation, we check whether it is identical to the next one
+            # if so, we do not print anything
+            if ($i + 1 < $no_of_affiliations && @affiliations[$i] eq @affiliations[$i+1] ) {
+              print TOC @authors[$i];
+            } 
+            # if there is just one affiliation, we assume that it holds for all
+            elsif ($i >= $no_of_affiliations && $no_affiliations > 2) {
+                  print_warning("No affiliation for ". @authors[$i] . "\n");
+                  print TOC @authors[$i];
+            } elsif ($no_of_affiliations == 1) { 
+              if ($i + 1 == $no_of_authors) {  # only print the affiliation at the very end
+                $affiliation_with_comma = @affiliations[$0];
+                $affiliation_with_comma =~ s/\s*§\s*/, /g;
+
+                # for extra long affiliations the string may contain linebreaks (\\ TeX), we remove them here
+                $affiliation_with_comma =~ s/\s*\\\\\s*/ /g;
+
+                print TOC @authors[$i];
+                print TOC " (" . $affiliation_with_comma .")" unless ($affiliation_with_comma eq "no");   # if field is filled by "no" do not print anything
+              } else {
+                print TOC @authors[$i];
+              }
+            } else { 
+              $affiliation_with_comma = @affiliations[$i];
+              $affiliation_with_comma =~ s/\s*§\s*/, /g;
+
+              # for extra long affiliations the string may contain linebreaks (\\ TeX), we remove them here
+              $affiliation_with_comma =~ s/\s*\\\\\s*/ /g;
+
+              print TOC @authors[$i];
+              print TOC " (" . $affiliation_with_comma .")" unless ($affiliation_with_comma eq "no");   # if field is filled by "no" do not print anything
+            } 
+
+          if ($i + 2 < $no_of_authors) { # i = 0 and authors = 3
+            print TOC ", ";
+          } elsif ($i +1 < $no_of_authors) { # i = 0 and authors = 2 or i = 1 and authors = 3
+            print TOC " and ";
+          }
+
+          $i++;
+        }
+
+        print TOC "<p class=\"arttitle\">$title</p>";
+
+
+
+print TOC "<p class=\"artlinks\">";
+if ($status eq "pending") {
+    print TOC "<font color=\"#FF0000\">nothing submitted yet</font>";
+} else {
+    if (-e $abstr_file){
+        print TOC "<a href=\"$abstr_file\">abstract</a>, ";
+    } else {
+       print TOC "abstract not submitted, ";
+     } 
+    if ($status eq "no") { 
+        print TOC "paper not submitted";
+    } else {
+        print TOC "<a href=\"$pdf_file\">pages $page_start&ndash;$page_end</a>";
+    }
+}
+
+        print TOC "</p>\n";
+
+}
+
+
+sub make_proceedings_part {
+	local( ($authors_string,$orcids,$affiliation,$title,$date,$status,$abstract,$keywords) ) = @_;
+
+        $authors_fn_ln = transform_author_first_name_last_name($authors_string);
+
+#        $authors_string =~ s/&/and/;
+
+        $title_w_br = $title;
+
+#       keep the breaks
+        $title_w_br =~ s/<br>/\\par/g; 
+
+        $title_w_br = transform_to_latex($title_w_br);
+
+        $title_tex = transform_to_latex($title);
+
+        print PROC <<EOF;
+        \\setcounter{page}{$page_start}
+        \\phantomsection
+        \\addcontentsline{toc}{section}{$authors_fn_ln: $title_tex}
+EOF
+
+        print_title_page(PROC);
+
+        print PROC <<EOF;
+\\includepdf[pages=-,pagecommand=\\thispagestyle{plain}]{Includes/${pdf_include_file}}
+EOF
+
+
+open (TEXFILE, ">:utf8", "${tex_file}") or die("Cannot open '${tex_file}': $!\n");
+
+        print TEXFILE <<EOF;
+\\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
+                    % For some reasons some old HPSG proceedings have pdf 1.6
+\\documentclass[a4paper,11pt]{article}
+\\usepackage{times}
+\\usepackage{ogonek} % Dąbkowski
+\\hyphenation{Acad-e-my}
+\\usepackage{pdfpages}
+\\pdfinclusioncopyfonts=1
+\\usepackage[utf8]{inputenc}
+        \\usepackage{hyperref}
+        \\hypersetup{colorlinks=false, pdfborder={0 0 0}}
+        \\setcounter{page}{$page_start}
+\\usepackage{orcidlink}
+
+        \\begin{document}
+
+\\newcommand\\formatauthor[2]{\\begin{tabular}[t]{\@{}c\@{}}
+  {\\LARGE#1\\strut}\\\\
+  {\\small#2\\strut}\\\\
+  \\rule{\\dimexpr0.5\\linewidth-1em}{0pt}
+  \\end{tabular}\\xhfill\\ignorespaces}
+\\newcommand\\xhfill{\\hspace{1em plus 1fill}}
+EOF
+
+    print_title_page(TEXFILE);
+
+print TEXFILE <<EOF;
+\\includepdf[pages=-,pagecommand=\\thispagestyle{plain}]{Includes/${pdf_include_file}}
+        \\end{document}
+EOF
+
+    close(TEXFILE);
+
+#print stderr "$tex_file\n";
+        `pdflatex $tex_file`;
+
+}
+
+
+sub print_title_page {
+  local( $file ) = @_;
+
+#  $apa_authors = $authors_string;
+#  $apa_authors =~ s/&/,/g;          # Meurers, W. Detmar, De Kuthy, Kordula
+
+
+  $apa_title = $title;
+  $apa_title =~ s/<br>/ /g;          # Can there be a <br> in the title? I thought it is \\
+  $apa_title =~ s/\\\\/ /g;
+  $apa_title = transform_to_latex($apa_title);
+
+#@authors=split(/&/,$authors_string);
+# remove trainling white space
+#s{^\s+|\s+$}{}g foreach @authors;
+
+ $apa_authors = create_apa_name_list(@authors);
+
+# Authors: Write out the last name and initials for all authors of a particular work. Use an ampersand (&) instead of the word "and" when listing multiple authors of a single work. e.g. Smith, J. D., & Jones, M.
+
+# Titles: Capitalize only the first word of a title or subtitle, and any proper names that are part of
+#    a title.
+
+# Pagination: Use the abbreviation p. or pp. to designate page numbers of articles from periodicals
+#  that do not use volume numbers, especially newspapers. These abbreviations are also used to
+#      designate pages in encyclopedia articles and chapters from edited books.
+
+#Indentation*: The first line of the entry is flush with the left margin, and all subsequent lines are indented (5 to 7 spaces) to form a "hanging indent".
+
+# Underlining vs. Italics*: It is appropriate to use italics instead of underlining for titles of books and journals.
+
+# http://blog.apastyle.org/apastyle/2011/07/punctuating-the-reference-list-entry.html
+
+# check whether the last item ends in a dot, otherwise add one
+  if ($apa_authors !~ /\.$/) {
+     $apa_authors = $apa_authors . ".";
+  }
+
+# to do 
+
+  @editors=split(/&/,$editors_string);
+
+  s{^\s+|\s+$}{}g foreach @editors;
+
+  $apa_editors= create_apa_name_list(@editors);
+  if (@editors > 1) {
+    $Eds = "Eds";
+  } else {
+    $Eds = "Ed";
+  }
+
+
+# check title for exclamation or question mark
+  if ($apa_title !~ /[!\.\?][}]*$/) {
+    $apa_title = $apa_title . ".";
+  }
+
+# we print a APA style reference at the bottom of the title page.
+# Yu, S. Y., Li, W. G., Huang, Q. S., Zhi-Huang, C., & Hou, C. (1991). A preliminary report on the
+#  intervention trials of primary liver cancer in high-risk populations with nutritional
+#  supplementation of selenium in China. \emph{Biological trace element research}, 29(3), 289-294. 
+
+# http://www.library.cornell.edu/resrch/citmanage/apa
+# Hammond, K. R., & Adelman, L. (1986). Science, values, and human judgment. In H. R. Arkes &
+#  K. R. Hammond (Eds.), Judgement and decision making: An interdisciplinary reader (pp. 127-143). Cambridge, England: Cambridge University Press.
+#
+
+      $authors_with_affiliations = typeset_authors_affiliations();
+
+  print $file <<EOF;
+\\thispagestyle{empty}
+
+\\begin{center}
+  {\\huge\\bfseries $title_w_br\\par}
+
+  \\bigskip
+
+~\\\\
+\\begingroup
+\\setlength{\\leftskip}{0pt plus 1fill}
+\\setlength{\\rightskip}{0pt plus 1fill}
+\\setlength{\\parindent}{0pt}
+\\setlength{\\parfillskip}{0pt}
+  $authors_with_affiliations
+\\par\\endgroup
+
+  \\vspace*{8ex}
+
+  $proc_titlepage
+
+  \\bigskip
+
+  $location_tex
+
+  \\medskip
+
+  $editors_fn_ln ($editors)
+
+  \\medskip
+
+  $year
+
+  \\medskip
+
+%  CSLI Publications
+
+  \\medskip
+
+  pages $page_start--$page_end
+
+  \\medskip
+
+%  \\url{http://csli-publications.stanford.edu/$conf_name/$year}
+\\end{center}
+\\vfill
+
+\\noindent
+EOF
+if ($keywords) {
+  print $file "Keywords: $keywords\n";
+}
+else {
+  print $file "\n";
+}
+
+  $doi = "10.21248/hpsg.$year.$publication_id";
+  print $file <<EOF;
+
+
+\\vfill
+\\noindent
+% APA Style
+$apa_authors $year. $apa_title In $apa_editors ($Eds.), \\emph{$proc_title_location_tex},
+$page_start--$page_end. DOI: \\href{http://doi.org/$doi}{$doi}. \\hfill\\href{http://creativecommons.org/licenses/by/4.0/}{\\includegraphics[height=.75em]{Includes/ccby-eps-converted-to.pdf}}
+
+\\newpage
+EOF
+
+}
+
+
+sub process_record {
+	local( @record ) = @_;
+
+# remove trailing white space
+s{^\s+|\s+$}{}g foreach @record; 
+
+# remove whitespace before and after separator in authors, orcids, and affiliations
+@record[0]=~ s/\s*&\s*/&/g;
+@record[1]=~ s/\s*&\s*/&/g;
+@record[2]=~ s/\s*&\s*/&/g;
+
+
+    @authors=split(/&/,$record[0]);
+
+    # remove trailing white space
+    # not needed any longer, since done in the beginning
+    # s{^\s+|\s+$}{}g foreach @authors;
+
+    $no_of_authors = @authors;
+
+    @orcids=split(/&/,$record[1]);
+
+
+    @affiliations=split(/&/,$record[2]);
+
+    $no_of_affiliations = @affiliations;
+
+
+   $file_name = make_filename($record[0]); # record[0] = the authors
+
+   $pdf_include_file  = $file_name . ".pdf";
+
+   # The paper prefix is something like hpsg2018. Earlier proceedings do not have this.
+   # Introducing it now would change the URLs.
+   if ($paper_prefix) {
+   $pdf_file  = $paper_prefix . "-" . $file_name . ".pdf";
+
+   $tex_file  = $paper_prefix . "-" . $file_name . ".tex";
+
+   } else {
+          $pdf_file  = $file_name . ".pdf";
+
+          $tex_file  = $file_name . ".tex";
+   }
+
+   if ($record[6] =~ /^\s*pdf/) {
+        $abstr_file = "abstr-${file_name}.pdf";
+      }
+   else {
+       $abstr_file = "abstr-${file_name}.shtml";
+   }
+
+       print STDERR "processing: $file_name, $record[0],$record[2] \n";
+
+   if ($record[5] ne "pending") {
+
+       if ($record[5] ne "no" && $record[5] ne "pending") {
+
+        $numberofpages = `pdftk Includes/$pdf_include_file dump_data | grep NumberOfPages`;
+
+        chop($numberofpages);
+
+        $numberofpages =~ s/NumberOfPages: //;
+
+        $numberofpages++;  # we have to add 1 since the title page is not in the PDF
+
+        $page_start = $page_end   + 1;
+        $page_end   = $page_start + $numberofpages - 1;
+
+
+        #print "$pdf_file: ($numberofpages) $page_start-$page_end\n";
+
+           make_bibtex(@record);
+           
+          print_warning("Keywords empty!") unless ($record[6]);
+
+          make_proceedings_part(@record);
+           
+       };
+       if ($record[6] ne "" && $record[6] !~ /^\s*pdf/) {make_abstract(@record); };  # make an abstract page, if there is an abstract
+   };
+     
+   make_toc_entry(@record);
+
+
+    @authors=split(/&/,$record[0]);
+    #print STDERR "@authors\n\n\n";
+
+    #$abstract=$record[6];
+
+    #print STDERR "$abstract\n\n\n";
+
+#print STDERR "$record[1],$record[3],$record[4],$record[6],$record[7]\n";
+#print STDERR "$record[1]\n";
+
+ #print_record_xml($record[0],$pdf_file,$page_start,$page_end,$title,$date,$abstract,$keywords);
+ print_record_xml($record[0],$record[1],$record[2],$pdf_file,$page_start,$page_end,$record[3],$record[4],$record[6],$record[7])
+ unless $record[5] eq "no";
+
+}
+
+
+
+sub author_first_name_last_name{
+	local($names_string) = @_;
+
+        @names=split(/&/,$names_string);
+
+        @names_fn_ln = ();
+
+        foreach my $name (@names) {
+ 	  $name =~ /\s*(.*),\s*(.*)\s*/;
+          $firstname = $2;
+          $lastname = $1;
+#          $firstname =~ s/^\s+|\s+$//g;  # remove trainling space
+#          $lastname =~ s/^\s+|\s+$//g;
+#          print "firstname: '${firstname}' lastname: '${lastname}'\n"; 
+          push(@names_fn_ln, "$firstname $lastname" );
+        } 
+
+        return join(", ", @names_fn_ln);
+
+}
+
+
+sub transform_author_first_name_last_name{
+	local($names_string) = @_;
+
+        return transform_to_latex(author_first_name_last_name($names_string));
+
+}
+
+sub create_apa_name_list{
+	local(@authors) = @_;
+
+  # number of names = @authors
+  my $no_of_names = @authors;
+
+  $i = 0;
+  $apa_name_list = "";
+        while ($authors[$i]) {
+            $apa_name_list = $apa_name_list . $authors[$i];
+
+            if ($i + 1 < $no_of_names) {
+                $apa_name_list = $apa_name_list . ", ";
+            }
+            if ($i + 2 == $no_of_names) {
+                $apa_name_list = $apa_name_list . "\\& ";
+            }
+            $i++;
+        }
+          return $apa_name_list;
+}
+
+
+sub typeset_authors_affiliations{
+
+
+    $a_af = "";
+
+    $i = 0;
+
+    # parallel to the top entry.        
+    while ($i < $no_of_authors) {
+
+
+        @authors[$i] =~ /\s*(.*),\s*(.*)\s*/;
+        $firstname = $2;
+        $lastname = $1;
+
+        $a_af = $a_af . "\\formatauthor{$firstname" . " " . $lastname;
+        if (@orcids[$i]) {
+          $a_af = $a_af . "\\,\\orcidlink{@orcids[$i]}";
+        }
+        $a_af = $a_af . "}";
+        
+
+        if ($no_of_affiliations == 1) { 
+           $affiliations_w_break = @affiliations[0];
+        } elsif ($i <= $no_of_affiliations) {
+           $affiliations_w_break = @affiliations[$i];
+        }
+        if ($affiliations_w_break eq "no") {
+          $affiliations_w_break =""; # nothing provided
+        } else {
+          $affiliations_w_break =~ s/§/\\\\/g;
+        }
+        $a_af = $a_af . "{\\begin{tabular}{\@{}c\@{}}" . $affiliations_w_break . "\\end{tabular}}\n";
+
+        $i++;
+    }
+ 
+    return $a_af;
+
+}
+
+
+sub transform_to_latex {
+	local($string) = @_;
+
+%utf8_character_map =
+    (
+     'Æ', '\AE',
+#     '\'{A}', '&#193;',
+#     '\^{A}', '&#194;', 
+#     '\`{A}', '&#192;' ,
+#     '\AA'  , '&#197;' ,
+#     '\~{A}', '&#195;' ,
+#     '\"{A}', '&#196;' ,
+#     '\c{C}', '&#199;' ,
+#     '\'{E}', '&#201;' ,
+#     '\^{E}', '&#202;' ,
+#     '\`{E}', '&#200;' ,
+#     '\"{E}', '&#203;' ,
+#     "'"    , '&#180;' ,
+#     '\'{I}', '&#205;' ,
+#     '\^{I}', '&#206;' ,
+#     '\`{I}', '&#204;' ,
+#     '\"{I}', '&#207;' ,
+#     '\~{N}', '&#209;' ,
+      'Ø',   '{\O}', 
+#     '\^{O}', '&#212;' ,
+#     '`{O}', '&#210;' ,  # \`
+#     '\O'   , '&#216;' ,
+#     '\~{O}', '&#213;' ,
+#     '\"{O}', '&#214;' ,
+#     '\P'   , '&#182;' ,
+#     '\S'   , '&#167;' ,
+#     '\'{U}', '&#218;' ,
+#     '\^{U}', '&#219;' ,
+#     '\`{U}', '&#217;' ,
+#     '\"{U}', '&#220;' ,
+#     '\'{Y}', '&#221;' ,
+#     '\'{a}', '&#225;' ,
+#     '\^{a}', '&#226;' ,
+     'æ', '\ae',
+#     '`{a}', '&#224;' , # \'
+#     '&'    , '&amp;' ,
+#     '\^{a}', '&#229;' ,
+#     '\~{a}', '&#227;' ,
+      'ä',     '\"{a}', 
+     'ă',     '\u{a}',
+          'ą', '\k{a}',
+#     '\c{c}', '&#231;' ,
+#     '\c'   , '&#184;' ,
+#     '\^{}' , '^' ,
+#     '\copyright', '&#169;' ,
+      'é',  '{\\\'e}', 
+#     '\^{e}', '&#234;' ,
+      'è',  '\`{e}', 
+#     '\v{o}', '&#240;' ,
+#     '\"{e}', '&#235;' ,
+#     '!`'   , '&#161;' ,
+#     '>'    , '&#62;' ,
+#     '\'{i}', '&#237;' ,    # this was taken from latex2html but seems to be wrong
+#     '\'\i',  '&#237;' ,    
+#     '^{i}', '&#238;',    # I do not understand this backslash business in i_j_rx expression below, but this works
+#     '\`{i}', '&#236;' ,
+#     '\"{i}', '&#239;' ,
+#     '<'    , '&lt;' ,
+#     '\~{n}', '&#241;' ,
+      'ó', '{\\\'o}', 
+#     '\^{o}', '&#244;' ,
+#      '\`{o}', 
+      'ø', '{\o}',
+#     '\~{o}', '&#245;' ,
+     'ö', '{\\"o}',
+#     '&#175;' , '\={}',
+#     '&#163;' , '\pounds',
+#     '&#191;' , '?`',
+#     '&#183;' , '\^{}',
+     'ß', '\ss',
+#     '\"{s}', '&#223;' ,
+#     '\~{}' , '&#126;' ,
+#     '\'{u}', '&#250;' ,
+     'û', '{\^u}',
+#     '\`{u}', '&#249;' ,
+     'ü',  '{\\"u}',
+#     '\'{y}', '&#253;' ,
+#     '\"{y}', '&#255;' ,
+
+#     '\'{c}', '&#263;' ,
+      'ć',  '{\\\'c}',
+#     '\'{C}', 'C' ,
+#     '\v{c}', '&#269;',
+
+#     '\'{n}', '&#324;' ,   # some Polish stuff
+#     '\'{N}', '&#323;' ,
+
+#     '\'{s}', '&#347;' ,
+#     '{\'s}', '&#347;' ,
+      'ś', '{\\\'s}',
+#     '\'{S}', 'S' ,
+     'ż', '\.z',
+     'ń', '\\\'n',
+     '′', '$\'$'
+
+);
+
+	$string =~ s/((ä|ă|ą|ö|ü|ÄÖ|Ü|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
+
+#       this cannot cope with nesting
+#        $string =~ s/<em>(.*)<\/em>/\\emph{$1}/g;
+        $string =~ s/<em>/\\emph{/g;
+        $string =~ s/<\/em>/}/g;
+
+        $string =~ s/<q>(.*)<\/q>/``$1''/g;
+
+        $string =~ s/<br>/\\\\/g;  # remove explicit breaks
+
+        $string =~ s/&ndash;/--/g;
+
+        $string =~ s/&mdash;/---/g;
+
+	return $string;
+}
+
+
+sub eliminate_special_chars{
+	local($string) = @_;
+
+%utf8_character_map =
+    (
+     'Æ', 'Ae',
+     'æ', 'ae',
+     'ă', 'a',
+     'ą', 'a',
+     'á', 'a',
+     'é', 'e',
+     'è', 'e',
+     'ó', 'o', 
+     'Ø', 'Oe',
+     'ø', 'oe',
+     'ö', 'oe',
+     'ß', 'ss',
+     'ś', 's',
+     'ć', 'c',
+     'û', 'u',
+     'î', 'i',
+     'í', 'i',
+     'ï', 'i',
+     'ü',  'ue',
+     'ñ', 'n',
+
+
+);
+
+	$string =~ s/((ä|ă|á|ą|ö|ü|Ä|Ö|Ü|î|í|ï|ś|ć|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ñ))/$utf8_character_map{"$1"}/geo;    
+
+
+	return $string;
+}
+
+
+sub print_warning{
+	local($warning) = @_;
+
+
+          print STDERR color('red');
+          print STDERR "Warning:"; 
+          print STDERR color('reset');
+          print STDERR $warning;
+} 
+
+
+sub print_record_xml{
+	local( ($authors,$orcids,$affiliations,$pdf_file,$page_start,$page_end,$title,$date,$abstract,$keywords) ) = @_;
+
+$filesize = -s $pdf_file;
+
+$abstract=~ s/\&/\&amp;/g;
+
+  print XML <<EOF;
+  <article status="3" submission_progress="0" stage="production" date_submitted="$date">
+    <submission_file id="1" file_id="1" stage="proof" updated_at="$today" viewable="false" genre="Article Text" uploader="ojs_admin">
+      <name locale="en_US">$pdf_file</name>
+      <file id="1" filesize="$filesize" extension="pdf">
+        <embed encoding="base64">
+EOF
+
+
+open (FILE, $pdf_file) or die "$!";
+while (read(FILE, $buf, 60*57)) {
+    print XML encode_base64($buf);
+}
+  print XML <<EOF;
+</embed>
+      </file>
+    </submission_file>
+    <publication locale="en_US" version="1" status="3" seq="$publication_id" date_published="$date" section_ref="ART" access_status="0">
+      <title locale="en_US">$title</title>
+      <abstract locale="en_US">
+&lt;p&gt;$abstract&lt;/p&gt;</abstract>
+      <copyrightYear>2021</copyrightYear>
+EOF
+
+print_authors_xml($authors,$orcids,$affiliations);
+
+
+
+  print XML <<EOF;
+      <article_galley locale="en_US" approved="false">
+        <name locale="en_US">PDF</name>
+        <seq>0</seq>
+        <submission_file_ref id="1"/>
+      </article_galley>
+      <issue_identification>
+        <year>$year</year>
+        <title locale="en_US">$proc_title</title>
+      </issue_identification>
+      <pages>$page_start-$page_end</pages>
+    </publication>
+  </article>
+EOF
+
+# was before year but is not needed since there is only one volume per year.  <volume>$volume</volume>
+
+
+
+}
+
+
+sub print_authors_xml{
+	local( ($authors,$orcids,$affiliations) ) = @_;
+
+    my $author_seq = 0;
+
+    @authors=split(/&/,$authors);
+    @orcids =split(/&/,$orcids);
+
+#s{^\s+|\s+$}{}g foreach @orcids; # I do not understand why we still have space here.
+
+    @affiliations=split(/&/,$affiliations); # The number of affiliations can be less or equal to the
+                                # number of authors. Authors can have the same affiliation.
+
+        $i = 0;
+
+       print XML <<EOF;
+<authors>
+EOF
+
+        while ($i < @authors) {
+
+        @authors[$i] =~ /\s*(.*),\s*(.*)\s*/;
+        $firstname = $2;
+        $lastname = $1;
+
+        $author_seq +=1;
+        $author_id  +=1;
+
+$no_affs=@affiliations;
+
+#print STDERR "@affiliations[0], $no_affs\n";
+        if (@affiliations == $i) { # The number of affiliations is smaller than our author number. 
+                                # i = 0, 1, 2. aff=1 oder 2
+           $affiliation = @affiliations[$no_affs-1];   # take the last affiliation that is availible
+#print STDERR "aff: $affiliation\n";
+
+        } else {
+           $affiliation = @affiliations[$i];                # take the affiliation corresponding to
+                                                            # the author number
+        } 
+#        <givenname locale="en_US">Berthold</givenname>
+#        <familyname locale="en_US">Crysmann</familyname>
+#    <affiliation locale="en_US">HU Berlin</affiliation>
+#        <country>FK</country>
+#    
+#          <email>https://example.com</email>
+#    <url>https://example.com</url>
+#    <orcid>0000-0000-0000-0000</orcid>
+#    <biography locale="en_US">Lorem Ipsum</biography>
+
+     @orcids[$i] = "0000-0000-0000-0000" unless @orcids[$i];
+
+print XML <<EOF;
+        <author include_in_browse="true" user_group_ref="Author" seq="$author_seq" id="$author_id">
+        <givenname locale="en_US">$firstname</givenname>
+        <familyname locale="en_US">$lastname</familyname>
+        <affiliation locale="en_US">$affiliation</affiliation>
+        <country>FK</country>
+        <email>zaspil\@ojs.example</email>
+        <orcid>@orcids[$i]</orcid>
+        </author>
+EOF
+
+
+        $i++;
+       } 
+        print XML "</authors>\n";
+
+}
