@@ -84,51 +84,6 @@ print BIB <<EOF;
 
 EOF
 
-open (TOC, ">:utf8", "toc.shtml");
-
-print TOC <<EOF;
-<html>
-<head>
-<title>HPSG ${year} Proceedings, Table of Contents</title>
-<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
-<meta name="citation_conference_title" content="${proc_title}">
-<meta name="citation_author"           content="$editor_g">
-<meta name="citation_publication_date" content="${year}">
-<meta name="citation_issn"             content="${issn}">
-<meta name="citation_pdf_url" content="http://cslipublications.stanford.edu/HPSG/${year}/${conf_file}.pdf">
-
-<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
-<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
-
-<!--#include virtual="../Includes/HPSG-head" -->
-
-</head>
-
-<body>
-
-<!--#include virtual="../Includes/HPSG-body-top" -->
-
-
-<table><tr><td>
-
-<h1 class="smalL">
-$proc_title
-</h1>
-<h2>
-Table of Contents
-</h2>
-
-<div class="blurb">
-
-<ul type="disc">
-<li>Download all of the following pdf files as <a href="${conf_file}.pdf" rel="nofollow"><b><u>one big document</u></b></a> (<!--#fsize virtual="${conf_file}.pdf"-->).
-<br><br>
-<li>Contributions to the Main Conference
-<ul>
-
-EOF
 
 open (PROCTMP, ">:utf8", "${conf_file}.tmp");
 
@@ -242,13 +197,104 @@ print PROC "\\newpage\n";
 # the abstract can span multiple lines, so records have to be separated by lines with no content.
 $/ = "\n\n";
 
+
+open(CONF, "<:encoding(UTF-8)", 'conference.txt' )    or die("Cannot open 'conference.txt': $!\n");
+
+          $page_offset++ if ($workshop);
+
+$page_end = $page_offset;
+
+
+# initialize the authors list. Needed to be able to deal with frequent names (Lee, Wang, ...)
+%authors = {};
+
+# initialize the filenames list. Needed to be able to deal with multiple submissions by the same
+# author(s): dekuthy-meurers, dekuthy-meurers-2
+%filenames = {};
+
+while (<CONF>) {
+
+# comment
+   if (/^\/\//) {
+      next;
+  };
+
+# empty lines
+   next unless /#/;
+
+
+
+# Author1 & Author 2 # Affiliation1 & Affiliation2  # Title                                        # Date                # page start # page end 
+
+@record=split(/#/);
+
+   $publication_id +=1;
+
+   process_record(@record);
+
+}
+
+if ($workshop) {
+
+print PROC <<EOF;
+\\part{Contributions to the Workshop}
+\\thispagestyle{empty}
+\\newpage
+EOF
+
+$page_end++;
+
+
+
+
+while (<WS>) {
+
+# comment
+   if (/^\/\//) {
+      next;
+  };
+
+# empty lines
+   next unless /#/;
+
+
+
+# Author1 & Author 2 # Affiliation1 & Affiliation2  # Title                                        # Date                # page start # page end 
+
+@record=split(/#/);
+
+
+   process_record(@record);
+
+}
+
+} # end if workshop
+
+#$date = localtime(time);
+$date = `date +'%d.%m.%Y (%T)'`; chop($date);
+
+
+print PROC <<EOF;
+\\end{document}
+EOF
+
+close(PROC);
+close($bib_fh);
+
+print STDERR "latexing the whole volume, first pass.\n";
+        `pdflatex $conf_file`;
+print STDERR "latexing the whole volume, second pass.\n";
+        `pdflatex $conf_file`;
+
+$filesize = -s "$conf_file.pdf";
+
+
+
 ##########################################################################################
 # print XML header and opening
 
 open (XML, ">:utf8", "$conf_file.xml");
 
-
-$filesize = -s "$conf_file.pdf";
 
 print XML <<EOF;
 <?xml version='1.0' encoding='UTF-8'?>
@@ -288,14 +334,11 @@ while (read(FILE, $buf, 60*57)) {
 <articles>
 EOF
 
+# now loop throgh the separate papers
 
-
-open(CONF, "<:encoding(UTF-8)", 'conference.txt' )    or die("Cannot open 'conference.txt': $!\n");
-
-          $page_offset++ if ($workshop);
+# first reinitialize the counters and lists and set back the file handle
 
 $page_end = $page_offset;
-
 
 # initialize the authors list. Needed to be able to deal with frequent names (Lee, Wang, ...)
 %authors = {};
@@ -303,6 +346,9 @@ $page_end = $page_offset;
 # initialize the filenames list. Needed to be able to deal with multiple submissions by the same
 # author(s): dekuthy-meurers, dekuthy-meurers-2
 %filenames = {};
+
+# go back to the beginning
+seek CONF, 0, 0;
 
 while (<CONF>) {
 
@@ -316,33 +362,22 @@ while (<CONF>) {
 
 
 
-# Author1 & Author 2 # Affiliation1 & Affiliation2  # Title                                        # Date                # page start # page end 
+# Author1 & Author 2 # ORCID1 & ORCID2 # Affiliation1 & Affiliation2  # Title                                        # Date                # page start # page end 
 
 @record=split(/#/);
 
    $publication_id +=1;
 
-   process_record(@record);
+   process_record_xml(@record);
 
 }
 
 if ($workshop) {
-print TOC <<EOF;
-</ul>
-<li>Contributions to the Workshop
-<ul>
-EOF
-
-print PROC <<EOF;
-\\part{Contributions to the Workshop}
-\\thispagestyle{empty}
-\\newpage
-EOF
 
 $page_end++;
 
 
-
+seek WS, 0, 0;
 
 while (<WS>) {
 
@@ -361,169 +396,15 @@ while (<WS>) {
 @record=split(/#/);
 
 
-   process_record(@record);
+   process_record_xml(@record);
 
 }
 
-print TOC "</ul>\n";
-
 } # end if workshop
 
-#$date = localtime(time);
-$date = `date +'%d.%m.%Y (%T)'`; chop($date);
-
-print TOC <<EOF;
-</ul>
-
-<hr>
-
-<address>
-Maintained by $maintainer
-<br>
-<br>Automatically Created: $date
-</address> 
-
-</div>
-</td>
-
-<!--#include virtual="../hpsg-include" --> 
-
-</tr>
-</table>
 
 
-<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
 
-
-</body></html>
-EOF
-
-print PROC <<EOF;
-\\end{document}
-EOF
-
-close(TOC);
-close($bib_fh);
-
-# finally we write the index.shtml file.
-
-open(INDEX, ">:utf8", 'index.shtml') or die("Cannot open 'index.shtml': $!\n");
-
-# including this is correct but breaks the layout ...
-# <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-print INDEX <<EOF;
-<html>
-<head>
-<title>$proc_title</title>
-<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
-
-
-<link rel="stylesheet" type="text/css" href="../../site/Includes/cslipubs.css">
-<link rel="stylesheet" type="text/css" href="../Includes/hpsg-style.css">
-
-<!--#include virtual="../Includes/HPSG-head" -->
-
-</HEAD>
-
-
-<BODY>
-
-<!--#include virtual="../Includes/HPSG-body-top" -->
-
-<table><tr><td>
-
-<h1 class="smalL">
-$proc_title
-</h1>
-
-<p class="author">
-${location}<br>
-${conf_date}</p>
-
-<p class="author">
-$editors: $editors_fn_ln<br>
-$year &copy; <a href="http://cslipublications.stanford.edu/">CSLI Publications</a><br>
-ISSN $issn
-</p>
-
-<div class="blurb"
-<p>
-
-<a href="toc.shtml">Table of Contents</a>
-
-
-<hr> 
-
-<h2>
-Editor's Note
-</h2>
-EOF
-
-# we read in editors-note.tex. For doing this, we set the line separator to one line again:
-$/ = "\n";
-
-# the mighty ed
-open(ED, "<:utf8", 'editors-note.tex') or die("Cannot open 'editors-note.tex': $!\n");
-          while ($line = <ED>) {
-# comment
-   if (/^%/) {
-      next;
-  };
-
-   $line =~ s/%.*//;                        # comments
-   $line =~ s/\\emph{(.*)}/<em>$1<\/em>/;
-
-   $line =~ s/\\-//g; # remove explicit hyphenation
-
-   $line =~ s/\\&/&/g; # replace \& by &
-
-   $line =~ s/"=/-/g; # replace german.sty hyphenation by real hyphen
-
-
-   if ($line =~ /^\s*$/) { # empty line
-       print INDEX "<p>\n";
-   } else {
-       print INDEX $line;
-   }
-          }
-
-print INDEX <<EOF;
-<p>
-
-The <a href="toc.shtml">table of contents</a> lists all the
-papers presented at the conference. Some papers were not submitted to
-the proceedings. For these papers, we suggest contacting the authors
-directly.
-
-<p>
-
-A <a href="${conf_file}.bib">list of BibTeX-Entries</a> containing bibliographic
-information is also available.
-
-
-<hr>
-
-<address>
-Maintained by $maintainer
-<br>
-<br>Automatically Created: $date
-</address> 
-</div>
-</td>
-
-<!--#include virtual="../Includes/hpsg-include" --> 
-
-</tr>
-</table>
-
-
-<!--#include virtual="../Includes/HPSG-body-bottom" --> 
-
-
-</body></html>
-EOF
 
 #############################################################
 # print closing of XML
@@ -537,119 +418,6 @@ close(XML);
 
 exit (0);
 
-
-# creates an HTML page with the abstract
-sub make_abstract {
-	local( ($authors_string,$orcids_string,$affiliation,$title,$date,$status,$abstract,$keywords) ) = @_;
-
-#print "$author,$title,$affiliation,$date,$status \n";
-
-        $title =~ s/<br>/ /g; # remove explicit breaks
-        $title =~ s/[{}]//g;  # remove markup for BibTeX
-
-        $html_authors = $authors_string;
-        $html_authors =~ s/&/ &amp; /g;
-
-        open (ABSTR, ">:utf8", "$abstr_file");
-
-# including this is correct but breaks the layout ...
-#<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-        print ABSTR <<EOF;
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html><!-- Copyright © 1998, CSLI Publications -->
-      <!-- Authored by John Niekrasz, CSLI Publications -->
-<head>
-<title>
-${html_authors}: ${title}
-</title>
-<link rel="SHORTCUT ICON" HREF="http://cslipublications.stanford.edu/site/favicon.ico">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta NAME="keywords" CONTENT="Head-Drive Phrase Structure Grammar (HPSG)">
-
-EOF
-if ($status ne "no") {
-
-print ABSTR <<EOF;
-<!-- for google scholar -->
-<meta name="citation_title"            content="${title}">
-EOF
-
-$n = 0;
-
-        while ($authors[$n]) {
-            print ABSTR "<meta name=\"citation_author\"           content=\"$authors[$n]\">\n";
-            $n++;
-        }
-    
-print ABSTR <<EOF;
-<meta name="citation_conference_title" content="${proc_title}">
-<meta name="citation_publication_date" content="${year}">
-<meta name="citation_issn"             content="${issn}">
-<meta name="citation_firstpage"        content="${page_start}">
-<meta name="citation_lastpage"         content="${page_end}">
-<meta name="citation_pdf_url" content="${url}/${pdf_file}">
-EOF
-}
-
-print ABSTR <<EOF;
-<!--#include virtual="../../site/Includes/style-include" -->
-<!--#include virtual="../Includes/hpsg-style" -->
-<!--#include virtual="../../site/Includes/CP-top-nt-HPSG" -->
-
-<table><tr><td>
-
-
-<!-- Heading -->
-<h1 class="smalL">${html_authors}: ${title}
-</h1>
-
-<div class="blurb"
-<p>
-${abstract}
-  
-<P>
-<ul>
-EOF
-
-if ($status ne "no") {
-print ABSTR <<EOF;
-<li><a href="${pdf_file}">download PDF</a>
-<li><a href="${file_name}.bib">BibTeX Entry</a>
-EOF
-}
-
-# not needed any longer, since in the sidebar
-
-#<li><a href="toc.shtml">Toc of the proceedings</a>
-print ABSTR <<EOF;
-</ul>
-
-<hr>
-<address>
-Maintained by $maintainer
-
-<br>
-<br>Created: ${date}
-<br>Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->
-</address> 
-
-</div>
-</td>
-
-<!--#include virtual="../hpsg-include" --> 
-
-</tr>
-</table>
-
-
-<!--#include virtual="../../site/Includes/CP-bottom-nt" --> 
-
-
-</body></html>
-EOF
-
-
-}
 
 sub make_filename{
 
@@ -791,85 +559,6 @@ EOF
 }
 
 EOF
-
-}
-
-sub make_toc_entry {
-	local( ($authors_string,$orcids,$affiliation,$title,$date,$status,$abstract,$keywords) ) = @_;
-
-        $title =~ s/<br>/ /g; # remove explicit breaks
-        $title =~ s/[{}]//g;  # remove markup for BibTeX
-
-        print TOC "<li>";
-
-        $i = 0;
-        
-        while ($i < $no_of_authors) {
-
-          
-            # if there is an affiliation, we check whether it is identical to the next one
-            # if so, we do not print anything
-            if ($i + 1 < $no_of_affiliations && @affiliations[$i] eq @affiliations[$i+1] ) {
-              print TOC @authors[$i];
-            } 
-            # if there is just one affiliation, we assume that it holds for all
-            elsif ($i >= $no_of_affiliations && $no_affiliations > 2) {
-                  print_warning("No affiliation for ". @authors[$i] . "\n");
-                  print TOC @authors[$i];
-            } elsif ($no_of_affiliations == 1) { 
-              if ($i + 1 == $no_of_authors) {  # only print the affiliation at the very end
-                $affiliation_with_comma = @affiliations[$0];
-                $affiliation_with_comma =~ s/\s*§\s*/, /g;
-
-                # for extra long affiliations the string may contain linebreaks (\\ TeX), we remove them here
-                $affiliation_with_comma =~ s/\s*\\\\\s*/ /g;
-
-                print TOC @authors[$i];
-                print TOC " (" . $affiliation_with_comma .")" unless ($affiliation_with_comma eq "no");   # if field is filled by "no" do not print anything
-              } else {
-                print TOC @authors[$i];
-              }
-            } else { 
-              $affiliation_with_comma = @affiliations[$i];
-              $affiliation_with_comma =~ s/\s*§\s*/, /g;
-
-              # for extra long affiliations the string may contain linebreaks (\\ TeX), we remove them here
-              $affiliation_with_comma =~ s/\s*\\\\\s*/ /g;
-
-              print TOC @authors[$i];
-              print TOC " (" . $affiliation_with_comma .")" unless ($affiliation_with_comma eq "no");   # if field is filled by "no" do not print anything
-            } 
-
-          if ($i + 2 < $no_of_authors) { # i = 0 and authors = 3
-            print TOC ", ";
-          } elsif ($i +1 < $no_of_authors) { # i = 0 and authors = 2 or i = 1 and authors = 3
-            print TOC " and ";
-          }
-
-          $i++;
-        }
-
-        print TOC "<p class=\"arttitle\">$title</p>";
-
-
-
-print TOC "<p class=\"artlinks\">";
-if ($status eq "pending") {
-    print TOC "<font color=\"#FF0000\">nothing submitted yet</font>";
-} else {
-    if (-e $abstr_file){
-        print TOC "<a href=\"$abstr_file\">abstract</a>, ";
-    } else {
-       print TOC "abstract not submitted, ";
-     } 
-    if ($status eq "no") { 
-        print TOC "paper not submitted";
-    } else {
-        print TOC "<a href=\"$pdf_file\">pages $page_start&ndash;$page_end</a>";
-    }
-}
-
-        print TOC "</p>\n";
 
 }
 
@@ -1165,12 +854,91 @@ s{^\s+|\s+$}{}g foreach @record;
           make_proceedings_part(@record);
            
        };
-       if ($record[6] ne "" && $record[6] !~ /^\s*pdf/) {make_abstract(@record); };  # make an abstract page, if there is an abstract
+   };
+}
+
+
+sub process_record_xml {
+	local( @record ) = @_;
+
+# remove trailing white space
+s{^\s+|\s+$}{}g foreach @record; 
+
+# remove whitespace before and after separator in authors, orcids, and affiliations
+@record[0]=~ s/\s*&\s*/&/g;
+@record[1]=~ s/\s*&\s*/&/g;
+@record[2]=~ s/\s*&\s*/&/g;
+
+
+    @authors=split(/&/,$record[0]);
+
+    # remove trailing white space
+    # not needed any longer, since done in the beginning
+    # s{^\s+|\s+$}{}g foreach @authors;
+
+    $no_of_authors = @authors;
+
+    @orcids=split(/&/,$record[1]);
+
+
+    @affiliations=split(/&/,$record[2]);
+
+    $no_of_affiliations = @affiliations;
+
+
+   $file_name = make_filename($record[0]); # record[0] = the authors
+
+   $pdf_include_file  = $file_name . ".pdf";
+
+   # The paper prefix is something like hpsg2018. Earlier proceedings do not have this.
+   # Introducing it now would change the URLs.
+   if ($paper_prefix) {
+   $pdf_file  = $paper_prefix . "-" . $file_name . ".pdf";
+
+   $tex_file  = $paper_prefix . "-" . $file_name . ".tex";
+
+   } else {
+          $pdf_file  = $file_name . ".pdf";
+
+          $tex_file  = $file_name . ".tex";
+   }
+
+   if ($record[6] =~ /^\s*pdf/) {
+        $abstr_file = "abstr-${file_name}.pdf";
+      }
+   else {
+       $abstr_file = "abstr-${file_name}.shtml";
+   }
+
+       print STDERR "processing: $file_name, $record[0],$record[2] \n";
+
+   if ($record[5] ne "pending") {
+
+       if ($record[5] ne "no" && $record[5] ne "pending") {
+
+        $numberofpages = `pdftk Includes/$pdf_include_file dump_data | grep NumberOfPages`;
+
+        chop($numberofpages);
+
+        $numberofpages =~ s/NumberOfPages: //;
+
+        $numberofpages++;  # we have to add 1 since the title page is not in the PDF
+
+        $page_start = $page_end   + 1;
+        $page_end   = $page_start + $numberofpages - 1;
+
+
+        #print "$pdf_file: ($numberofpages) $page_start-$page_end\n";
+
+           make_bibtex(@record);
+           
+          print_warning("Keywords empty!") unless ($record[6]);
+
+          make_proceedings_part(@record);
+           
+       };
    };
      
-   make_toc_entry(@record);
-
-
     @authors=split(/&/,$record[0]);
     #print STDERR "@authors\n\n\n";
 
