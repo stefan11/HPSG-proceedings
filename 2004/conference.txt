@@ -2,7 +2,7 @@
 
 
 
-Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # Universite Paris 7 # The Syntax of French N′ Phrases # October 14, 2004 # # 
+Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # 0000-0002-9187-2298 & 0000-0003-0688-3855 & & # Universite Paris 7 # The Syntax of French N′ Phrases # October 14, 2004 # # 
 Of all French functional elements, the form <em>de</em> has without question the widest
 variety of uses, and presents the greatest challenge for linguistic description
 and analysis.  Historically a preposition, it still has a number of
@@ -15,10 +15,10 @@ at a distance", and negative contexts) which have been not been considered to be
 related in previous accounts.
 
 
-Ackerman, Farrell  &  Nikolaeva, Irina &  Malou, Rob # UC San Diego & University of London & San Diego State University  # Possessive Relatives and Cooperating Constructions #  # no #
+Ackerman, Farrell  &  Nikolaeva, Irina &  Malou, Rob # & & # UC San Diego & University of London & San Diego State University  # Possessive Relatives and Cooperating Constructions #  # no #
 
 
-Arnold, Doug  # University of Essex # Non-Restrictive Relative Clauses in Construction Based HPSG # October 12, 2004 # #
+Arnold, Doug # # University of Essex # Non-Restrictive Relative Clauses in Construction Based HPSG # October 12, 2004 # #
 This paper presents an account of English non-restrictive (`appositive') relative
 clauses (NRCs) in the framework of `construction based' HPSG.
 Specifically, it shows how the account of restrictive relative clause
@@ -31,7 +31,7 @@ point is that, in contrast with many other approaches, it employs only existing,
 independently motivated theoretical apparatus, and requires absolutely no new
 structures, features, or types.
 
-Beavers, John & Sag, Ivan A. # University of Texas & Standford University # Coordinate Ellipsis and Apparent Non-Constituent Coordination # October 25, 2004 # #
+Beavers, John & Sag, Ivan A. # & # University of Texas & Standford University # Coordinate Ellipsis and Apparent Non-Constituent Coordination # October 25, 2004 # #
 Within the tradition of Categorial Grammar, so-called
 `non-constituent' coordination (`argument cluster' coordination and
 `right node raising') has been analyzed in terms of the coordination
@@ -48,7 +48,7 @@ reassess the relevant English data in small but important ways, and
 develop our own ellipsis analysis, building on Yatabe's and
 Crysmann's insights.
 
-Borsley, Robert D.  # University of Essex # An Approach to English Comparative Correlatives # October 11, 2004 # # 
+Borsley, Robert D. # 0000-0002-4856-4732 # University of Essex # An Approach to English Comparative Correlatives # October 11, 2004 # # 
 Recent syntactic theory has highlighted the importance of peripheral
 constructions such as the comparative correlative construction. This
 construction involves a pair of filler-gap constructions with unusual
@@ -63,7 +63,7 @@ analyzed as a non-standard head-adjunct phrase, in which the head and the
 phrase have different categories.
 
 
-Daniels, Michael W. & Meurers, W. Detmar  # Ohio State University # GIDLP: A Grammar Format For Linearization-based HPSG # October 2004 # #
+Daniels, Michael W. & Meurers, W. Detmar # & 0000-0002-9740-7442 # Ohio State University # GIDLP: A Grammar Format For Linearization-based HPSG # October 2004 # #
 Linearization-based HPSG theories are widely used for analyzing languages with
 relatively free constituent order. This paper introduces the Generalized ID/LP
 (GIDLP) grammar format, which supports a direct encoding of such theories, and
@@ -75,7 +75,7 @@ order. As a result, GIDLP grammars supportmore modular and compact grammar
 encodings and require fewer edges in parsing.
 
 
-de Swart, Henriette  # Universiteit Utrecht # A Typology of Negation in a Constraint-Based Framework of Syntax and Semantics # October 2004 # #
+de Swart, Henriette # # Universiteit Utrecht # A Typology of Negation in a Constraint-Based Framework of Syntax and Semantics # October 2004 # #
 Negation and negative indefinites raise problems for the principle of compositionality 
 of meaning, because we find both double and single negation readings in natural 
 languages. De Swart and Sag (2002) solve the compositionality problem in a polyadic 
@@ -94,7 +94,7 @@ items within the scope of negation. The bi-directional set-up is essential, for 
 and semantic variation go hand in hand.
 
 
-Egg, Markus  # Universität Saarbrücken # Mismatches at the Syntax-Semantics Interface # October 2004 # #
+Egg, Markus # # Universität Saarbrücken # Mismatches at the Syntax-Semantics Interface # October 2004 # #
 Recent analyses of mismatches at the syntax-semantics interface 
 investigate e.g. modification of agentive nouns (Larson, 1998), 
 modification of quantifying pronouns (Abney, 1987), or recursive 
@@ -110,7 +110,7 @@ surface-oriented syntactic analysis. This analysis generalises
 easily to the mismatches at the morphology-semantics interface for 
 German separable-prefix verbs that were discussed in <a href=http://hpsg.fu-berlin.de/~stefan/Pub/paradox.html>(Müller, 2003)</a>. 
 
-Flickinger, Dan  & Bender,  Emily  # Standford University & University of Washington # Semantic Selection in a Cross-Linguistic Framework # October 2004 # no # 
+Flickinger, Dan  & Bender,  Emily # 0000-0001-7959-999X & 0000-0001-5384-6227 # Standford University & University of Washington # Semantic Selection in a Cross-Linguistic Framework # October 2004 # no # 
 This paper discusses support in the LinGO Grammar Matrix (Bender et al
 2002) for describing semantic selection.  We first distinguish between
 defeasible semantic constraints and `grammaticized' semantic selection
@@ -122,11 +122,11 @@ while ruling out ungrammatical strings.  There are two mechanisms of
 semantic selection, corresponding to the semantic and syntactic head
 paths: a feature SORT on indices and a feature KEY inside HEAD.
 
-Ellingsen, Liv # University of Oslo # Norwegian Word Order in HPSG # # no #
+Ellingsen, Liv # # University of Oslo # Norwegian Word Order in HPSG # # no #
 
 
 
-Ginzburg, Jonathan  # King's College London # HPSG in Constructive Type Theory # October 2004 # no #
+Ginzburg, Jonathan # 0000-0001-5737-0991 # King's College London # HPSG in Constructive Type Theory # October 2004 # no #
 In the talk I propose, following the lead of some recent work by Robin Cooper
 (Cooper (2005a,b)), that constructive type theory (CTT, Ranta (1994), see also
 Constable (2002) for a elementary introduction) is an attractive framework to underpin HPSG.
