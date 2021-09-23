@@ -2,7 +2,7 @@
 
 
 
-Abeillé, Anne  # # Universite Paris 7 # A Lexicon- and Construction-Based Approach to Coordinations # October 2003 # #
+Abeillé, Anne # 0000-0002-9187-2298 # Universite Paris 7 # A Lexicon- and Construction-Based Approach to Coordinations # October 2003 # #
 Leaving aside elliptical coordinations, it is striking that no agreement
 has been reached on the structure of basic coordinate constructions. We
 propose that:
@@ -50,7 +50,7 @@ well-formedness.  Thus the need for categorial well-formedness is
 nullified, providing an analysis with greater cross-linguistic import,
 being compatible with languages without determiners.
 
-Bonami, Olivier  & Godard, Daniele  # # Universite Rennes & Universite Paris 7 # Incidental Adjuncts: An Overlooked Type of Adjunction #  October 2003 # no #
+Bonami, Olivier  & Godard, Daniele # 0000-0003-0688-3855 & # Universite Rennes & Universite Paris 7 # Incidental Adjuncts: An Overlooked Type of Adjunction #  October 2003 # no #
 Incidental adjuncts are adjuncts which are intonationally set apart from the
 rest of the sentence (e.g. 'John was here, it seems.'). Incidentality
 is a phonological/syntactic property, distinct from the semantic/pragmatic
@@ -63,7 +63,7 @@ and requires only conservative extensions to phrase structure grammar, along
 the lines of Reape's (1994) work on order domains.
 
 
-Bouma, Gosse  # # Rijskuniversiteit Groningen # Verb Clusters and the Scope of Adjuncts in Dutch # October 2003 # no #
+Bouma, Gosse # 0000-0003-1106-3181 # Rijskuniversiteit Groningen # Verb Clusters and the Scope of Adjuncts in Dutch # October 2003 # no #
 In this paper, we present an analysis of adjunct scope
 which combines the adjuncts-as-complements analysis with underspecified
 semantics. By imposing a single constraint on the dependency and
@@ -89,7 +89,7 @@ year      = "2003"
 </pre>
 </ul>
 
-Choi, Incheol  & Wechsler, Stephen # # University of Texas at Austin # The Korean Dative # October 2003 # no # 
+Choi, Incheol  & Wechsler, Stephen # 0000-0002-5344-9085 & 0000-0003-4753-0212 # University of Texas at Austin # The Korean Dative # October 2003 # no # 
 Like many oblique case markers and adpositions, the Korean dative suffix
 expresses a semantic relation between coarguments of the verb.  Specifically,
 Korean dative encodes a locative relation between Location and Theme, as well
@@ -105,7 +105,7 @@ semantic CONTENT values of the verb and the dative marker, together with the
 rules of semantic composition.
 
 
-Chung, Chan  & Kim, Jong-Bok # # Dongseo University & Kyung Hee University # Capturing Word Order Asymmetries in English # October 2003 # #
+Chung, Chan  & Kim, Jong-Bok # & 0000-0003-3286-0446 # Dongseo University & Kyung Hee University # Capturing Word Order Asymmetries in English # October 2003 # #
 Left-Peripheral Constructions: A Domain-Based Approach
 Even though the word order in English is rather straightforward,
 the distributional possibilities of left-peripheral elements like
@@ -126,7 +126,7 @@ precedes a focus element, and (ii) in English a  <em>wh</em>-phrase
 and a complementizer competes with each other for the same
 position.
 
-De Kuthy, Kordula & Meurers, W. Detmar # # Ohio State University # Dealing with Optional Complements in HPSG-Based Grammar Implementations # October 2003 # #
+De Kuthy, Kordula & Meurers, W. Detmar # & 0000-0002-9740-7442 # Ohio State University # Dealing with Optional Complements in HPSG-Based Grammar Implementations # October 2003 # #
 This paper discusses how the English Resource Grammar (ERG)
 captures the optionality of certain complements of verbs based on
 a single lexical entry coupled with an ontology of markings
@@ -150,7 +150,7 @@ HPSG-based grammars should include both universal implicational
 principles as well as definite clauses over feature terms.
 
 
-De Kuthy, Kordula & Meurers, W. Detmar # # Ohio State University # The Secret Life of Focus Exponents, and What it Tells Us about Fronted Verbal Projections # October 2003 # #
+De Kuthy, Kordula & Meurers, W. Detmar # & 0000-0002-9740-7442 # Ohio State University # The Secret Life of Focus Exponents, and What it Tells Us about Fronted Verbal Projections # October 2003 # #
 The paper investigates a complex word order phenomenon in German
 and the interaction of syntax and information structure it
 exemplifies: the occurrence of subjects as part of a fronted
@@ -232,7 +232,7 @@ clauses in general, and to cope with the particular properties of the
 <em>wh</em>-relative construction.
 
 
-Jaeger, Florian # # Stanford University # Topics First! In- and Outside of Bulgarian <em>Wh</em>-Interrogatives # October 2003 # #
+Jaeger, Florian # 0000-0002-1158-7308 # Stanford University # Topics First! In- and Outside of Bulgarian <em>Wh</em>-Interrogatives # October 2003 # #
 In Jaeger (to appear) I have described clitic doubling in Bulgarian
 <em>wh</em>-interrogatives which constitutes a type of Superiority violation that cannot
 be accounted for by any existing analyses. By showing that clitic doubling of
@@ -261,7 +261,7 @@ alternative to an Optimality Theoretic system of ranked violable
 constraints.
 
 
-Koenig, Jean-Pierre & Davis, Anthony ## University at Buffalo, SUNY # Semantically Transparent Linking in HPSG # October 2003 # #
+Koenig, Jean-Pierre & Davis, Anthony # 0000-0002-5431-5978 & # University at Buffalo, SUNY # Semantically Transparent Linking in HPSG # October 2003 # #
 Most researchers now agree that subcategorization correlates
 significantly with semantics. But this semantic component of linking has
 proved elusive. Most, if not all, theories of linking have, in pratice,
@@ -282,7 +282,7 @@ restricts the range of possible lexical items.
 
 
 
-Levine, Robert D. & Sag, Ivan A. ## Ohio State University & Stanford University # Some Empirical Issues in the Grammar of Extraction # October 2003 # #
+Levine, Robert D. & Sag, Ivan A. # # Ohio State University & Stanford University # Some Empirical Issues in the Grammar of Extraction # October 2003 # #
 This paper compares transformation-based and constraint-based treatments of
 unbounded filler-gap dependencies, the latter specifically as articulated in
 terms of HPSG, and argues, contrary to the commonly made allegations of
@@ -294,7 +294,7 @@ found in parasitic gap constructions, or (in general) for the well-known
 across-the-board effects within coordinate structures.
 
 
-Levy, Roger & Oshima, David Yoshikazu # # Stanford University # Non-Transitive Information Flow in Japanese Noun-Classifier Matching # October 2003 # #
+Levy, Roger & Oshima, David Yoshikazu # 0000-0002-4493-8864 & 0000-0003-2788-8866 # Stanford University # Non-Transitive Information Flow in Japanese Noun-Classifier Matching # October 2003 # #
 In Japanese, as in other classifier languages like Chinese and Malay, numerals
 do not directly quantize nouns, but first combine with a classifier to form a
 measure phrase (MP; cf. Aikhenvald 2000). From the perspective of
@@ -364,7 +364,7 @@ for participles, base form infinitives, and <em>zu</em> infinitives irrespective
 of their usage in active or passive like structures.
 
 
-Paris, Luis & Koenig, Jean-Pierre # # University at Albany, SUNY & University at Buffalo, SUNY # What Does It Mean to Be a Complement? # October 2003 # #
+Paris, Luis & Koenig, Jean-Pierre # 0000-0001-9073-0012 & 0000-0002-5431-5978 # University at Albany, SUNY & University at Buffalo, SUNY # What Does It Mean to Be a Complement? # October 2003 # #
 This paper shows that the Gerund Phrase (GP) in the Spanish Gerund Construction
 (e.g., El jefe entró a su oficina corriendo, lit.  The boss entered his office
 running ) is sometimes a complement (in SGCC) and sometimes an adjunct (in
@@ -381,7 +381,7 @@ satisfied in a particular SGCC sentence determines what subkind of SGCC is
 involved.
 
 
-Penn, Gerald & Hoetmer, Kenneth # # University of Toronto # In Search of Epistemic Primitives in the English Resource Grammar (or Why HPSG Can't Live without Higher-Order Datatypes)# October 2003 # #
+Penn, Gerald & Hoetmer, Kenneth # 0000-0003-3553-8305 & # University of Toronto # In Search of Epistemic Primitives in the English Resource Grammar (or Why HPSG Can't Live without Higher-Order Datatypes)# October 2003 # #
 This paper seeks to improve HPSG engineering through the design of more terse,
 readable and intuitive type signatures. It argues against the exclusive use of
 IS-A networks and, with reference to the English Resource Grammar, demonstrates
@@ -390,7 +390,7 @@ contemporary HPSG design. Some default specification conventions to assist in
 maximizing the utility of higher-order type constructors are also discussed.
 
 
-Purver, Matthew & Ginzburg, Jonathan ## King's College London # Clarifying Noun Phrase Semantics in HPSG # October 2003 # #
+Purver, Matthew & Ginzburg, Jonathan # 0000-0003-2297-1273 & 0000-0001-5737-0991 # King's College London # Clarifying Noun Phrase Semantics in HPSG # October 2003 # #
 This paper examines reprise questions: questions which request clarification of
 the meaning intended by a speaker when uttering a word or phrase. As such they
 can act as semantic probes, providing information about what meaning can be
@@ -400,7 +400,7 @@ to the usual treatments of semantics in HPSG, and to the traditional
 generalised quantifier view of NPs as sets of sets. Instead we outline an
 analysis of NPs as (possibly functional) sets of individuals.
 
-Runner, Jeffrey T. & Aranovich, Raul  ## University of Rochester & University of California Davis # Noun Incorporation and Rule Interaction in the Lexicon # October 2003 # #
+Runner, Jeffrey T. & Aranovich, Raul  # 0000-0001-6818-0632 & # University of Rochester & University of California Davis # Noun Incorporation and Rule Interaction in the Lexicon # October 2003 # #
 Wasow (1977) argues that linguistic theory should recognize two qualitatively
 distinct types of rules: syntactic rules, which can affect more "superficial"
 grammatical function properties; and lexical rules, which affect deeper lexical
@@ -425,7 +425,7 @@ Applicative Formation in the Paleo-Siberian language Chukchi and the isolate
 language Ainu.
 
 
-Schlangen, David & Lascarides, Alex ## University of Edinburgh # A Compositional and Constraint-Based Approach to Non-Sentential Utterances # October 2003 # #
+Schlangen, David & Lascarides, Alex # 0000-0002-2686-6887 & 0000-0003-1704-1864 # University of Edinburgh # A Compositional and Constraint-Based Approach to Non-Sentential Utterances # October 2003 # #
 We present an approach to the interpretation of non-sentential
 utterances like B's utterance in the following mini-dialogue:
 <p>
@@ -442,7 +442,7 @@ their context, and constraint-based because resolution is
 based on collecting contextual constraints.
 
 
-Sells, Peter # Stanford University ## Negatives of imperatives # October 2003 # no #
+Sells, Peter # 0000-0003-4284-6947 # Stanford University # Negatives of imperatives # October 2003 # no #
 In this paper I investigate some empirical and theoretical issues
 regarding the presence of negation in imperatives, focussing on
 Korean.  Korean has a special form of negation which appears in
@@ -476,7 +476,7 @@ year = 2003
 </pre>
 </ul>
 
-Tanenhaus, Michael K. ## University of Rochester # Interactions with Context in Language Comprehension: Implications and Challenges # October 2003 # no #
+Tanenhaus, Michael K. # # University of Rochester # Interactions with Context in Language Comprehension: Implications and Challenges # October 2003 # no #
 During the last decade, psycholinguists have begun to
 investigate language comprehension using natural tasks in which the
 participants have well-defined behavioral goals.  The results of these
@@ -492,7 +492,7 @@ relevant existing work.  Some of the easier challenges involve the
 discourse "meaning" of phrasal and clausal constructions; harder
 challenges involve the plasticity of the processing system.
 
-Van Eynde, Frank ## University of Leuven # On the Notion `Determiner'# October 2003 # #
+Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # On the Notion `Determiner'# October 2003 # #
 Following a common practice in generative grammar, HPSG treats the 
 determiners as members of a separate functional part of speech (Det).
 The status of the functional parts of speech is a matter of debate and
@@ -515,7 +515,7 @@ Netter (1994), but it can smoothly be integrated in the
 functor treatment of the prenominals in Allegranza (1998) and 
 Van Eynde (2002). 
 
-Yoo, Eun-Jung ## Seoul National University # Specificational Pseudoclefts in English # October 2003 # #
+Yoo, Eun-Jung # # Seoul National University # Specificational Pseudoclefts in English # October 2003 # #
 Specificational pseudoclefts (SPCs) have been a great challenge for a syntactic theory, 
 because, despite the surface division between the pre- and post-copular elements, 
 the post-copular `pivot' behaves as if it occupied the gap position in the precopular 
@@ -530,7 +530,7 @@ pragmatic properties of the construction, and argues that the connectivity probl
 should be approached from such an integrated view.
 
 
-Yoshimoto, Kei & Kobayashi, Masahiro  ## Tohoku University #Floating Quantifiers in Japanese as Non-Floating Anaphora # October 2003 # no #
+Yoshimoto, Kei & Kobayashi, Masahiro  # & # Tohoku University #Floating Quantifiers in Japanese as Non-Floating Anaphora # October 2003 # no #
 Floating quantifiers (FQs) in Japanese, i.e. quantifiers occurring after their host NPs floated
 from their normal prenominal position, have aroused heated discussion owing to their
 puzzling behavior (see e.g. Shibatani 1977, Miyagawa 1989, Yatabe 1990, and Fukushima
