@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Bonami, Olivier  & Boyé,  Gilles  # Université Paris-Sorbonne & LLF & Université Bordeaux 3 & ERSS  # Deriving Inflectional Irregularity # October 14, 2005 # #
+Bonami, Olivier & Boyé, Gilles # 0000-0003-0688-3855 & 0000-0002-2190-7598 # Université Paris-Sorbonne & LLF & Université Bordeaux 3 & ERSS  # Deriving Inflectional Irregularity # October 14, 2005 # #
 Conventional wisdom holds that productive morphology is regular
 morphology. Drawing evidence from French, we argue that the description of many
 lexeme formation processes is simplified if we hold that a productive rule may
@@ -13,14 +13,14 @@ irregularities occur when a lexeme specifies a stem space violating the default
 relations. Derived irregularity is then the effect of a productive lexeme
 formation rule which specifies an irregular stem space for its output.
 
-Brindle, Jonathan Allen # Norges Teknisk-Naturvitenskapelige Universitet # Uncovering regularities: On Bare and Evaluated Controllers in Tigrinya # October 15, 2006 # #
+Brindle, Jonathan Allen # # Norges Teknisk-Naturvitenskapelige Universitet # Uncovering regularities: On Bare and Evaluated Controllers in Tigrinya # October 15, 2006 # #
 The "flexibility" of gender in Tigrinya is uncovered by (i) setting a value
 for gender for each noun at the lexical level (i.e. <em>bare</em> controllers) and (ii)
 analysing  gender shifts as signals for evaluations (i.e. <em>evaluated</em>
 controllers). The analysis is formalized as lexical rules which change the
 value of <font style="font-variant:small-caps;">gend</font> and add an elementary predication in the  <font style="font-variant:small-caps;">rels</font> list.
 
-Hahm, Hyun-Jong  # The University of Texas at Austin # Number Agreement in Russian Predicates # October 21, 2006 # #
+Hahm, Hyun-Jong # # The University of Texas at Austin # Number Agreement in Russian Predicates # October 21, 2006 # #
 Russian shows the mixed agreement with the polite pronoun <em>vy</em> and pluralia
 tantum nouns, both of which have plural number in form but either singular
 or plural number in meaning. Two different forms of adjectives &ndash; short form
@@ -36,7 +36,7 @@ agreement with the null anaphor 'one'. The different number values of LF
 adjectives results from index agreement between the null anaphor and the
 subject of the sentence. 
 
-Richter, Frank  & Soehn, Jan-Philipp # University of Tübingen # <em>Braucht niemanden zu scheren</em>: A Survey of NPI Licensing in German# October 15, 2006 # #
+Richter, Frank & Soehn, Jan-Philipp # & # University of Tübingen # <em>Braucht niemanden zu scheren</em>: A Survey of NPI Licensing in German# October 15, 2006 # #
 In this contribution we will argue that negative polarity is a collocational
 phenomenon that does not follow from other properties of the respective lexical
 elements. With German data as evidence, we will follow a proposal by van der
@@ -49,9 +49,9 @@ by Zwarts. Besides a more fine-grained semantic licenser hierarchy, we will
 establish syntactic licensing domains and general collocational restrictions of
 NPIs.
 
-van Eynde, Frank  # Universiteit Leuven # A regular treatment of some irregular constructions # # no #
+van Eynde, Frank # 0000-0002-6172-442X # Universiteit Leuven # A regular treatment of some irregular constructions # # no #
 
-Venkova, Tzvetomira  # Sofia University St. Kliment Ohridski # Unexpressed Object Alternations of Bulgarian verbs in HPSG# August 26, 2006 # #
+Venkova, Tzvetomira # 0000-0002-7325-8446 # Sofia University St. Kliment Ohridski # Unexpressed Object Alternations of Bulgarian verbs in HPSG# August 26, 2006 # #
 This paper proposes a projectionist account of the unexpressed object
 alternations in HPSG. The approach is based on the two-level mapping mechanism,
 developed in Manning and Sag (1998) and Sag et al (2003). The proposed analysis
