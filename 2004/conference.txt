@@ -210,9 +210,9 @@ Semantics and Interaction in Dialogue, Stanford: California: CSLI Publications a
 
 
 
-Kiss, Tibor  # Ruhr-Universität Bochum # Exempt Reflexives and Psych Verbs # # no #
+Kiss, Tibor # 0000-0003-1857-3686 # Ruhr-Universität Bochum # Exempt Reflexives and Psych Verbs # # no #
 
-Koenig, Jean-Pierre  & Davis, Anthony R.  # University at Buffalo, The State University of New York & StreamSage, Inc. # Raising Doubts about Russian Impersonals # October 17, 2004 # #
+Koenig, Jean-Pierre  & Davis, Anthony R. # 0000-0002-5431-5978 & # University at Buffalo, The State University of New York & StreamSage, Inc. # Raising Doubts about Russian Impersonals # October 17, 2004 # #
 The Russian data presented in Perlmutter and Moore (2002) seem to
 call into question the standard analysis of raising within Head-driven Phrase
 Structure Grammar (HPSG): In Russian, the case marking of the raising target 
@@ -225,7 +225,7 @@ ourselves of a rich network of language-specific constructional schemata, a
 stance recently advocated within HPSG, following the lead of Construction
 Grammar.
 
-Kordoni, Valia  # Saarland University # Between Shifts and Alternations: Ditransitive Constructions # October 25, 2004 # #
+Kordoni, Valia # # Saarland University # Between Shifts and Alternations: Ditransitive Constructions # October 25, 2004 # #
 In this paper I present two classes of double object constructions in Modern 
 Greek, i.e., the genitive, as well as the double accusative, ditransitive 
 constructions. I show that these two classes differ from one another in that 
@@ -237,7 +237,7 @@ Modern Greek are formalized using the Minimal Recursion Semantics (MRS)
 framework of Copestake et al. (2001) and Copestake et al. (2003).
 
 
-Maekawa, Takafumi  # University of Essex # Constituency, Word Order and Focus Projection # October 17, 2004 # #
+Maekawa, Takafumi # # University of Essex # Constituency, Word Order and Focus Projection # October 17, 2004 # #
 In this study we show that constituency is of limited importance for a proper treatment of 
 the interaction between the linear position of a wa-marked nominal in a Japanese sentence 
 and possible domains of contrastive focus, and that constraints concerning contrastive focus 
@@ -247,7 +247,7 @@ Some constraints are provided in terms of order domains, and it is shown that th
 constraints can deal with the phenomena in question, and that the cases problematic for the 
 constituency-based analyses can also be accounted for by our analysis.
 
-Marshall, Ian  & Safar,  Eva  # University of East Anglia # Sign Language Generation in an ALE HPSG # October 18, 2004 # #
+Marshall, Ian  & Safar, Eva # & # University of East Anglia # Sign Language Generation in an ALE HPSG # October 18, 2004 # #
 During the past fifty years sign languages have been
 recognised as genuine languages with their own syntax and
 distinctive phonology. In the case of sign languages,
@@ -266,7 +266,7 @@ assimilation of SL morphological features to generate signs
 which respect positional agreement in signing space are
 emphasised.
 
-Müller, Stefan  # Universität Bremen # An Analysis of Depictive Secondary Predicates in German without Discontinuous Constituents # August 11, 2004 # #    
+Müller, Stefan # 0000-0003-4413-5313 # Universität Bremen # An Analysis of Depictive Secondary Predicates in German without Discontinuous Constituents # August 11, 2004 # #    
 In <a href="http://hpsg.fu-berlin.de/~stefan/Pub/mehr-vf-lb.html">Müller, 2005</a> I provide evidence that suggests that linearization approaches
 that analyze German clause structure with discontinuous constituents
 cannot account for the German clause structure in an insightful way. 
@@ -282,7 +282,7 @@ out and it is shown how linearization constraints regarding depictive predicate 
 can be modeled.
 
 
-Przepiórkowski, Adam  & Rosen, Alexandr  # Polish Academy of Sciences & Charles University, Prague # Obligatory, Optional and Impossible Case Transmission in Control Constructions # August 25, 2004 # no #
+Przepiórkowski, Adam  & Rosen, Alexandr # 0000-0002-4398-2636 & 0000-0003-2210-4268 # Polish Academy of Sciences & Charles University, Prague # Obligatory, Optional and Impossible Case Transmission in Control Constructions # August 25, 2004 # no #
 According to standard assumptions of most generative theories, both
 Chomskyan and non-Chomskyan, raising and so-called Exceptional Case
 Marking constructions, but not control constructions, should allow for
@@ -302,7 +302,7 @@ these two grammar modules are required to successfully account for the
 curious case transmission facts in Czech and Polish.
 
 
-Sailer, Manfred  # Universität Göttingen # Propositional Relative Clauses in German # October 17, 2004 # #
+Sailer, Manfred # 0000-0002-1693-8859 # Universität Göttingen # Propositional Relative Clauses in German # October 17, 2004 # #
 This paper discusses a special kind of syntax-semantics mismatch: a
 noun with a relative clause is interpreted as if it were a complement
 clause. An analysis in terms of Lexical Resource Semantics is
@@ -310,7 +310,7 @@ developed which provides a uniform account for ``normal'' relative
 clauses and for the discussed type of relative clause.
 
 
-Siegel, Melanie  & Bender, Emily M.  # University of Saarbrücken & University of Washington # Head-Initial Constructions in Japanese # October 15, 2004 # #
+Siegel, Melanie  & Bender, Emily M. # 0000-0002-5064-5750 & 0000-0001-5384-6227 # University of Saarbrücken & University of Washington # Head-Initial Constructions in Japanese # October 15, 2004 # #
 Japanese is often taken to be strictly head-final in its syntax. In our work on
 a broad-coverage, precision implemented HPSG for Japanese, we have found that
 while this is generally true, there are nonetheless a few minor exceptions to
@@ -323,7 +323,7 @@ a means of testing linguistic hypotheses.
 
 
 
-Soehn, Jan-Philipp  # University of Jena # License to Coll: How to Bind Bound Words and Readings to their Contexts # September 30, 2004 # #
+Soehn, Jan-Philipp # # University of Jena # License to Coll: How to Bind Bound Words and Readings to their Contexts # September 30, 2004 # #
 In this contribution we propose a new module for handling idioms and
 distributional idiosyncrasies. Based on the concept by Richter/Sailer (1999)
 the new feature COLL (context of lexical licensing) plays the central role in
@@ -338,7 +338,7 @@ proposal with alternative approaches and give some ideas regarding further
 applications beyond idiomaticity.
 
 
-Taghvaipour, Mehran A.  # University of Essex # An HPSG Analysis of Persian Relative Clauses # October 15, 2004 # #
+Taghvaipour, Mehran A. # # University of Essex # An HPSG Analysis of Persian Relative Clauses # October 15, 2004 # #
 Relative clauses (RCs) in Persian are head-modifying constituents, all
 typically introduced by the invariant complementizer ke. Persian RCs are
 Unbounded Dependency Constructions (UDCs), containing either a gap or a
@@ -359,7 +359,7 @@ BIND, which has a nonempty set as value.
 
 
 
-Trawinski, Beata  # University of Tübingen # Towards Licensing of Adverbial Noun Phrases in HPSG # October 15, 2004 # #
+Trawinski, Beata # # University of Tübingen # Towards Licensing of Adverbial Noun Phrases in HPSG # October 15, 2004 # #
 This paper focuses on aspects of the licensing of adverbial noun phrases
 (AdvNPs) in the HPSG grammar framework. In the first part, empirical issues
 will be discussed. A number of AdvNPs will be examined with respect to various
@@ -376,7 +376,7 @@ phrasal implicational constraints and does not require any radical
 modifications or extensions of the standard HPSG geometry of Pollard and Sag
 (1994).
 
-Van Eynde, Frank  # Universiteit Leuven # Pied Piping is a Local Dependency # October 15, 2004 # #
+Van Eynde, Frank # 0000-0002-6172-442X # Universiteit Leuven # Pied Piping is a Local Dependency # October 15, 2004 # #
 To model the pied piping in interrogative and exclamative clauses Ginzburg & Sag (2000) proposes a
 nonlocal head-driven treatment, thus emphasizing the resemblances with extraction. This treatment
 has a number of drawbacks: it relies on poorly motivated lexical rules and nonbranching phrase
@@ -387,7 +387,7 @@ is integrated in the CATEGORY objects, and the propagation of its values is mode
 which are independently needed for the treatment of other phenomena.
 
 
-Yatabe, Shûichi  # University of Tokyo # A Comprehensive Theory of Coordination of Unlikes # October 15, 2004 # #
+Yatabe, Shûichi # 0000-0003-2092-6073 # University of Tokyo # A Comprehensive Theory of Coordination of Unlikes # October 15, 2004 # #
 The principal aim of this paper is to present a comprehensive theory of
 coordination of unlikes, i.e., a theory that is capable of dealing with
 every phenomenon resulting from coordination of unlikes.

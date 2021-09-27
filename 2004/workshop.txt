@@ -1,4 +1,4 @@
-Beermann, Dorothee & Hellan, Lars # NTNU Trondheim # A treatment of directionals in implemented HPSG Grammars # October 2004 # #
+Beermann, Dorothee & Hellan, Lars # 0000-0002-8906-5235 & 0000-0003-3043-120X # NTNU Trondheim # A treatment of directionals in implemented HPSG Grammars # October 2004 # #
 This article proposes a semantics of directional expressions in Norwegian and
 German, regarded as VP modifiers. The analysis uses Minimal Recursion
 Semantics, as an integrated part of Matrix-based HPSG grammars. Directional
@@ -7,7 +7,7 @@ dependent directionals like here receive a decomposed analysis. Telicity values
 reflecting various types of directional and locative expressions are computed.
 
 
-Copestake, Ann # University of Cambridge # Semantics and Generation # October 2004 # no #
+Copestake, Ann # 0000-0003-0347-946X # University of Cambridge # Semantics and Generation # October 2004 # no #
 Natural language generation utilising linguistically-motivated, 
 general-purpose, grammars can conveniently be thought of as involving two 
 components. The first component involves constructing some logical form that 
@@ -55,7 +55,7 @@ Minimal Recursion Semantics: An introduction
 Research on Language and Computation
 in press
 
-Crysmann, Berthold  # DFKI, Saarland University # Underspecification of Intersective Modifier Attachment: Some Arguments from German # October 2004 # # 
+Crysmann, Berthold # 0000-0003-0230-502X # DFKI, Saarland University # Underspecification of Intersective Modifier Attachment: Some Arguments from German # October 2004 # # 
 In this paper, I shall discuss the semantic attachment of intersective
 modifiers in German coherent constructions. I shall show that a purely
 syntactic solution to the observable attachment ambiguity is undesirable for
@@ -73,7 +73,7 @@ implementation where semantic attachment is unfolded by means of retrieval
 rules.
 
 
-Frank, Anette  & Spreyer, Kathrin  & Drożdżyński, Witold  &  Krieger, Hans-Ulrich & Schäfer, Ulrich # DFKI Saarbrücken # Constraint-Based RMRS Construction from Shallow Grammars # October 2004 # #
+Frank, Anette  & Spreyer, Kathrin  & Drożdżyński, Witold  &  Krieger, Hans-Ulrich & Schäfer, Ulrich # 0000-0003-4706-9817 & & & & 0000-0003-2649-3731 # DFKI Saarbrücken # Constraint-Based RMRS Construction from Shallow Grammars # October 2004 # #
 We present a constraint-based syntax-semantics interface 
 for the construction of RMRS (Robust Minimal Recursion 
 Semantics) representations from shallow grammars. The 
@@ -85,7 +85,7 @@ a typed feature structure formalism that allow flexible
 adaptation to alternative grammars and different languages.
 
 
-Haugereid, Petter  # NTNU Trondheim # Linking in Constructions # October 2004 # #
+Haugereid, Petter # 0000-0003-3077-8983 # NTNU Trondheim # Linking in Constructions # October 2004 # #
 In this paper I will make an attempt to show how the linking normally done in
 the lexicon also can be done in constructions. The motivation behind this is
 the flexibility it gives the grammar writer in underspecifying lexical
@@ -95,7 +95,7 @@ one lexical entry, or alternatively, lexical rules which are not
 morphologically motivated. The aim is to show that this can be avoided by
 letting constructions introduce the linking information instead.
 
-Penn, Gerald  & Richter, Frank  # University of Toronto & Universität Tübingen # Lexical Resource Semantics: From Theory to Implementation # October 2004 # #
+Penn, Gerald  & Richter, Frank # 0000-0003-3553-8305 & # University of Toronto & Universität Tübingen # Lexical Resource Semantics: From Theory to Implementation # October 2004 # #
 This paper summarizes the architecture of Lexical Resource Semantics
 (LRS).  It demonstrates how to encode the language of two-sorted
 theory (Ty2; Gallin, 1975) in typed feature logic (TFL), and then
@@ -106,7 +106,7 @@ Rules (CHR; Fruehwirth & Abdennadher, 1997} for the purposes of
 implementation is also presented.
 
 
-Søgaard, Anders  # Katholieke Universiteit Leuven # A Compound Matrix # October 2004 # #
+Søgaard, Anders # 0000-0001-5250-4276 # Katholieke Universiteit Leuven # A Compound Matrix # October 2004 # #
 This paper presents a suplement to the Grammar Matrix, namely what I call a
 Compound Matrix ; in reality, it is not a matrix, since the type file includes
 a fully specified cross-linguistic inventory of compound types. The idea is
