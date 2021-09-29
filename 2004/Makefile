@@ -1,40 +1,38 @@
-all: example.pdf hpsg2004.pdf guidelines.pdf toc.shtml
+YEAR=2004
+all: example.pdf hpsg$(YEAR).xml guidelines.pdf
 
-PROGRAM=~stefan/bin/gen-hpsg-proceedings
+#all: example.pdf hpsg$(YEAR).xml guidelines.pdf toc.shtml
+
+PROGRAM=../gen-hpsg-proceedings-xml
+
+FILES=config.pl 
+
 
 example.pdf: example.tex
-	pdflatex example.tex
+	xelatex example.tex
 	bibtex example
-	pdflatex example.tex
-	pdflatex example.tex
+	xelatex example.tex
+	xelatex example.tex
 
 guidelines.pdf: guidelines.tex
-	pdflatex guidelines.tex
-	pdflatex guidelines.tex
+	xelatex guidelines.tex
+	xelatex guidelines.tex
 
-hpsg2004.tex: editors-note.tex conference.txt workshop.txt config.pl $(PROGRAM)
-	gen-hpsg-proceedings
+hpsg$(YEAR).xml: editors-note.tex conference.txt $(PROGRAM) $(FILES)
+	$(PROGRAM)
 
-hpsg2004.pdf: hpsg2004.tex
+hpsg$(YEAR).pdf: hpsg$(YEAR).tex 
 	chmod 755 *.pdf
-	pdflatex hpsg2004.tex
-	pdflatex hpsg2004.tex
-
-index.shtml: config.pl $(PROGRAM)
-	gen-hpsg-proceedings
-
-toc.shtml: conference.txt  $(PROGRAM)
-	gen-hpsg-proceedings
+	pdflatex hpsg$(YEAR).tex
+	pdflatex hpsg$(YEAR).tex
 
 
-o-public: toc.shtml index.shtml hpsg2004.pdf 
-	rsync -a -e ssh . stefanm@cardinal.stanford.edu:/afs/ir.stanford.edu/group/cslipublications/WWW/cslipublications/HPSG/2004/
-
-html-public: 
-	scp -p  *.shtml stefanm@turing2.stanford.edu:/afs/ir.stanford.edu/group/cslipublications/WWW/cslipublications/HPSG/2004/
 
 clean:
-	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc
+	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc *.tmp *~
 
 realclean: clean
-	rm -f *.pdf *.bib abstr-* hpsg2004.tex
+	rm -f *.pdf *.html *.xml *.shtml hpsg$(YEAR)*.tex
+	mv editors-note.tex guidelines.tex example.tex example.bib backup/
+	rm -f *.tex *.bib
+	mv backup/* .
