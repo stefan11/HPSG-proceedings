@@ -1,5 +1,5 @@
 $year       = "2015";
-$conf_date  = "August 10&ndash;14, $year";
+$conf_date  = "August 10–14, $year";
 $proc_title = "Proceedings of the 22nd International Conference on Head-Driven Phrase Structure Grammar";
 $location   = "Nanyang Technological University (NTU), Singapore";
 $conf_name  = "HPSG";
