@@ -11,3 +11,10 @@ example.pdf: example.tex
 guidelines.pdf: guidelines.tex
 	xelatex guidelines.tex
 	xelatex guidelines.tex
+
+
+clean:
+	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc *.tmp *~
+
+realclean: clean
+	rm -f *.pdf 
