@@ -8,6 +8,7 @@ $editor_g   = "Müller, Stefan";
 $crossref   = "Mueller${year}a-ed";
 $issn       = "15351793";
 $maintainer = "<a href=\"http://hpsg.fu-berlin.de/~stefan/\">Stefan Müller</a>";
+$published = "2003-10-20";
 
 # numbers of pages for the cover and editor's note.
 $page_offset = 4;

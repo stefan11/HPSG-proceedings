@@ -6,14 +6,14 @@
 mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 YEAR := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
 
-
-all: example.pdf hpsg$(YEAR).xml guidelines.pdf
-
-#all: example.pdf hpsg$(YEAR).xml guidelines.pdf toc.shtml
-
 PROGRAM=../gen-hpsg-proceedings-xml
 
 FILES=config.pl 
+
+
+all: hpsg$(YEAR).xml 
+
+
 
 
 
