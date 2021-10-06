@@ -18,7 +18,7 @@ related in previous accounts.
 Ackerman, Farrell  &  Nikolaeva, Irina &  Malou, Rob # & & # UC San Diego & University of London & San Diego State University  # Possessive relatives and cooperating constructions #  # no #
 
 
-Arnold, Doug # # University of Essex # Non-restrictive relative clauses in construction based HPSG # 2004-10-12 # #
+Arnold, Doug # # University of Essex # Non-restrictive relative clauses in Construction Based HPSG # 2004-10-12 # #
 This paper presents an account of English non-restrictive (`appositive') relative
 clauses (NRCs) in the framework of `construction based' HPSG.
 Specifically, it shows how the account of restrictive relative clause
@@ -129,9 +129,9 @@ paths: a feature SORT on indices and a feature KEY inside HEAD.
 Ellingsen, Liv # # University of Oslo # Norwegian word order in HPSG # # no #
 
 
-Ginzburg, Jonathan # 0000-0001-5737-0991 # King's College London # HPSG in constructive type theory # 2004-10-01 # no #
+Ginzburg, Jonathan # 0000-0001-5737-0991 # King's College London # HPSG in Constructive Type Theory # 2004-10-01 # no #
 In the talk I propose, following the lead of some recent work by Robin Cooper
-(Cooper (2005a,b)), that constructive type theory (CTT, Ranta (1994), see also
+(Cooper (2005a,b)), that Constructive Type Theory (CTT, Ranta (1994), see also
 Constable (2002) for a elementary introduction) is an attractive framework to underpin HPSG.
 <P>
     HPSG is a framework in which detailed and explicit analysis of a wide range of
@@ -172,6 +172,7 @@ and HPSG.
 <p>
      After introducing the basics of CTT, I discuss three main application areas:
 ontology, grammatical description, and dialogue processing.
+</p>
 <ul>
 <li>       Ontology: I show that CTT allows us to recast the semantic ontology developed in Ginzburg and Sag (2000). In the latter work, non-well-founded set
        theory (using tools developed by Seligman and Moss (1997)) was employed

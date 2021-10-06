@@ -172,8 +172,7 @@ analysis is formalized in HPSG using Lexical Sharing, from Wescoat
 (2002).
 
 
-Kubota, Yusuke # 0000-0002-8468-5857 # Ohio State University # Toward a unified analysis of the scope interpretation of complex # 2005-10-16 # #
-Predicates in Japanese: Evidence from the Light Verb Construction 
+Kubota, Yusuke # 0000-0002-8468-5857 # Ohio State University # Toward a unified analysis of the scope interpretation of complex predicates in Japanese: Evidence from the light verb construction # 2005-10-16 # #
 In this paper, I first make an observation that there is a certain
 parallelism in the scope interpretation possibilities of adverbs and
 quantifiers with respect to different types complex predicates in

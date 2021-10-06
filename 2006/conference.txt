@@ -159,7 +159,7 @@ metalinguistic negation. Our analysis integrates both negative types of
 negative forms with their formal and pragmatic properties.
 
 
-Hahm, Hyun-Jong # # The University of Texas at Austin # Person and number agreement in American sign language # 2006-10-21 # #
+Hahm, Hyun-Jong # # The University of Texas at Austin # Person and number agreement in American Sign Language # 2006-10-21 # #
 American Sign Language (ASL) has a group of verbs showing agreement with the
 subject or/and object argument. There has not been analysis on especially
 number agreement. This paper analyzes person and number agreement within the
