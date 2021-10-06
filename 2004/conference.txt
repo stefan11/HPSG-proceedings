@@ -2,7 +2,7 @@
 
 
 
-Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # 0000-0002-9187-2298 & 0000-0003-0688-3855 & & # Universite Paris 7 # The Syntax of French N′ Phrases # October 14, 2004 # # 
+Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # 0000-0002-9187-2298 & 0000-0003-0688-3855 & & # Universite Paris 7 # The syntax of French N′ phrases # 2004-10-14 # # 
 Of all French functional elements, the form <em>de</em> has without question the widest
 variety of uses, and presents the greatest challenge for linguistic description
 and analysis.  Historically a preposition, it still has a number of
@@ -15,10 +15,10 @@ at a distance", and negative contexts) which have been not been considered to be
 related in previous accounts.
 
 
-Ackerman, Farrell  &  Nikolaeva, Irina &  Malou, Rob # & & # UC San Diego & University of London & San Diego State University  # Possessive Relatives and Cooperating Constructions #  # no #
+Ackerman, Farrell  &  Nikolaeva, Irina &  Malou, Rob # & & # UC San Diego & University of London & San Diego State University  # Possessive relatives and cooperating constructions #  # no #
 
 
-Arnold, Doug # # University of Essex # Non-Restrictive Relative Clauses in Construction Based HPSG # October 12, 2004 # #
+Arnold, Doug # # University of Essex # Non-restrictive relative clauses in construction based HPSG # 2004-10-12 # #
 This paper presents an account of English non-restrictive (`appositive') relative
 clauses (NRCs) in the framework of `construction based' HPSG.
 Specifically, it shows how the account of restrictive relative clause
@@ -31,7 +31,8 @@ point is that, in contrast with many other approaches, it employs only existing,
 independently motivated theoretical apparatus, and requires absolutely no new
 structures, features, or types.
 
-Beavers, John & Sag, Ivan A. # & # University of Texas & Standford University # Coordinate Ellipsis and Apparent Non-Constituent Coordination # October 25, 2004 # #
+
+Beavers, John & Sag, Ivan A. # & # University of Texas & Standford University # Coordinate ellipsis and apparent non-constituent coordination # 2004-10-25 # #
 Within the tradition of Categorial Grammar, so-called
 `non-constituent' coordination (`argument cluster' coordination and
 `right node raising') has been analyzed in terms of the coordination
@@ -48,7 +49,8 @@ reassess the relevant English data in small but important ways, and
 develop our own ellipsis analysis, building on Yatabe's and
 Crysmann's insights.
 
-Borsley, Robert D. # 0000-0002-4856-4732 # University of Essex # An Approach to English Comparative Correlatives # October 11, 2004 # # 
+
+Borsley, Robert D. # 0000-0002-4856-4732 # University of Essex # An approach to English comparative correlatives # 2004-10-11 # # 
 Recent syntactic theory has highlighted the importance of peripheral
 constructions such as the comparative correlative construction. This
 construction involves a pair of filler-gap constructions with unusual
@@ -63,7 +65,7 @@ analyzed as a non-standard head-adjunct phrase, in which the head and the
 phrase have different categories.
 
 
-Daniels, Michael W. & Meurers, W. Detmar # & 0000-0002-9740-7442 # Ohio State University # GIDLP: A Grammar Format For Linearization-based HPSG # October 2004 # #
+Daniels, Michael W. & Meurers, W. Detmar # & 0000-0002-9740-7442 # Ohio State University # GIDLP: A grammar format for linearization-based HPSG # 2004-10-01 # #
 Linearization-based HPSG theories are widely used for analyzing languages with
 relatively free constituent order. This paper introduces the Generalized ID/LP
 (GIDLP) grammar format, which supports a direct encoding of such theories, and
@@ -75,7 +77,7 @@ order. As a result, GIDLP grammars supportmore modular and compact grammar
 encodings and require fewer edges in parsing.
 
 
-de Swart, Henriette # # Universiteit Utrecht # A Typology of Negation in a Constraint-Based Framework of Syntax and Semantics # October 2004 # #
+de Swart, Henriette # # Universiteit Utrecht # A typology of negation in a constraint-based framework of syntax and semantics # 2004-10-01 # #
 Negation and negative indefinites raise problems for the principle of compositionality 
 of meaning, because we find both double and single negation readings in natural 
 languages. De Swart and Sag (2002) solve the compositionality problem in a polyadic 
@@ -94,7 +96,7 @@ items within the scope of negation. The bi-directional set-up is essential, for 
 and semantic variation go hand in hand.
 
 
-Egg, Markus # # Universität Saarbrücken # Mismatches at the Syntax-Semantics Interface # October 2004 # #
+Egg, Markus # # Universität Saarbrücken # Mismatches at the syntax-semantics interface # 2004-10-01 # #
 Recent analyses of mismatches at the syntax-semantics interface 
 investigate e.g. modification of agentive nouns (Larson, 1998), 
 modification of quantifying pronouns (Abney, 1987), or recursive 
@@ -108,9 +110,10 @@ the mismatches are handled locally in the CONT feature. Its pivot is
 an elaborate syntax-semantics interface that is based on a 
 surface-oriented syntactic analysis. This analysis generalises 
 easily to the mismatches at the morphology-semantics interface for 
-German separable-prefix verbs that were discussed in <a href=http://hpsg.fu-berlin.de/~stefan/Pub/paradox.html>(Müller, 2003)</a>. 
+German separable-prefix verbs that were discussed in <a href=http://hpsg.fu-berlin.de/~stefan/Pub/paradox.html>(Müller, 2003)</a>.
 
-Flickinger, Dan  & Bender,  Emily # 0000-0001-7959-999X & 0000-0001-5384-6227 # Standford University & University of Washington # Semantic Selection in a Cross-Linguistic Framework # October 2004 # no # 
+
+Flickinger, Dan  & Bender,  Emily # 0000-0001-7959-999X & 0000-0001-5384-6227 # Standford University & University of Washington # Semantic selection in a cross-linguistic framework # 2004-10-01 # no # 
 This paper discusses support in the LinGO Grammar Matrix (Bender et al
 2002) for describing semantic selection.  We first distinguish between
 defeasible semantic constraints and `grammaticized' semantic selection
@@ -122,11 +125,11 @@ while ruling out ungrammatical strings.  There are two mechanisms of
 semantic selection, corresponding to the semantic and syntactic head
 paths: a feature SORT on indices and a feature KEY inside HEAD.
 
-Ellingsen, Liv # # University of Oslo # Norwegian Word Order in HPSG # # no #
+
+Ellingsen, Liv # # University of Oslo # Norwegian word order in HPSG # # no #
 
 
-
-Ginzburg, Jonathan # 0000-0001-5737-0991 # King's College London # HPSG in Constructive Type Theory # October 2004 # no #
+Ginzburg, Jonathan # 0000-0001-5737-0991 # King's College London # HPSG in constructive type theory # 2004-10-01 # no #
 In the talk I propose, following the lead of some recent work by Robin Cooper
 (Cooper (2005a,b)), that constructive type theory (CTT, Ranta (1994), see also
 Constable (2002) for a elementary introduction) is an attractive framework to underpin HPSG.
@@ -209,10 +212,10 @@ Semantics and Interaction in Dialogue, Stanford: California: CSLI Publications a
 
 
 
+Kiss, Tibor # 0000-0003-1857-3686 # Ruhr-Universität Bochum # Exempt reflexives and psych verbs # # no #
 
-Kiss, Tibor # 0000-0003-1857-3686 # Ruhr-Universität Bochum # Exempt Reflexives and Psych Verbs # # no #
 
-Koenig, Jean-Pierre  & Davis, Anthony R. # 0000-0002-5431-5978 & # University at Buffalo, The State University of New York & StreamSage, Inc. # Raising Doubts about Russian Impersonals # October 17, 2004 # #
+Koenig, Jean-Pierre  & Davis, Anthony R. # 0000-0002-5431-5978 & # University at Buffalo, The State University of New York & StreamSage, Inc. # Raising doubts about Russian impersonals # 2004-10-17 # #
 The Russian data presented in Perlmutter and Moore (2002) seem to
 call into question the standard analysis of raising within Head-driven Phrase
 Structure Grammar (HPSG): In Russian, the case marking of the raising target 
@@ -225,7 +228,8 @@ ourselves of a rich network of language-specific constructional schemata, a
 stance recently advocated within HPSG, following the lead of Construction
 Grammar.
 
-Kordoni, Valia # # Saarland University # Between Shifts and Alternations: Ditransitive Constructions # October 25, 2004 # #
+
+Kordoni, Valia # # Saarland University # Between shifts and alternations: Ditransitive constructions # 2004-10-25 # #
 In this paper I present two classes of double object constructions in Modern 
 Greek, i.e., the genitive, as well as the double accusative, ditransitive 
 constructions. I show that these two classes differ from one another in that 
@@ -237,7 +241,7 @@ Modern Greek are formalized using the Minimal Recursion Semantics (MRS)
 framework of Copestake et al. (2001) and Copestake et al. (2003).
 
 
-Maekawa, Takafumi # # University of Essex # Constituency, Word Order and Focus Projection # October 17, 2004 # #
+Maekawa, Takafumi # # University of Essex # Constituency, word order and focus projection # 2004-10-17 # #
 In this study we show that constituency is of limited importance for a proper treatment of 
 the interaction between the linear position of a wa-marked nominal in a Japanese sentence 
 and possible domains of contrastive focus, and that constraints concerning contrastive focus 
@@ -247,7 +251,8 @@ Some constraints are provided in terms of order domains, and it is shown that th
 constraints can deal with the phenomena in question, and that the cases problematic for the 
 constituency-based analyses can also be accounted for by our analysis.
 
-Marshall, Ian  & Safar, Eva # & # University of East Anglia # Sign Language Generation in an ALE HPSG # October 18, 2004 # #
+
+Marshall, Ian  & Safar, Eva # & # University of East Anglia # Sign language generation in an ALE HPSG # 2004-10-18 # #
 During the past fifty years sign languages have been
 recognised as genuine languages with their own syntax and
 distinctive phonology. In the case of sign languages,
@@ -266,7 +271,8 @@ assimilation of SL morphological features to generate signs
 which respect positional agreement in signing space are
 emphasised.
 
-Müller, Stefan # 0000-0003-4413-5313 # Universität Bremen # An Analysis of Depictive Secondary Predicates in German without Discontinuous Constituents # August 11, 2004 # #    
+
+Müller, Stefan # 0000-0003-4413-5313 # Universität Bremen # An analysis of depictive secondary predicates in German without discontinuous constituents # 2004-08-11 # #    
 In <a href="http://hpsg.fu-berlin.de/~stefan/Pub/mehr-vf-lb.html">Müller, 2005</a> I provide evidence that suggests that linearization approaches
 that analyze German clause structure with discontinuous constituents
 cannot account for the German clause structure in an insightful way. 
@@ -282,7 +288,7 @@ out and it is shown how linearization constraints regarding depictive predicate 
 can be modeled.
 
 
-Przepiórkowski, Adam  & Rosen, Alexandr # 0000-0002-4398-2636 & 0000-0003-2210-4268 # Polish Academy of Sciences & Charles University, Prague # Obligatory, Optional and Impossible Case Transmission in Control Constructions # August 25, 2004 # no #
+Przepiórkowski, Adam  & Rosen, Alexandr # 0000-0002-4398-2636 & 0000-0003-2210-4268 # Polish Academy of Sciences & Charles University, Prague # Obligatory, optional and impossible case transmission in control constructions # 2004-08-25 # no #
 According to standard assumptions of most generative theories, both
 Chomskyan and non-Chomskyan, raising and so-called Exceptional Case
 Marking constructions, but not control constructions, should allow for
@@ -302,7 +308,7 @@ these two grammar modules are required to successfully account for the
 curious case transmission facts in Czech and Polish.
 
 
-Sailer, Manfred # 0000-0002-1693-8859 # Universität Göttingen # Propositional Relative Clauses in German # October 17, 2004 # #
+Sailer, Manfred # 0000-0002-1693-8859 # Universität Göttingen # Propositional relative clauses in German # 2004-10-17 # #
 This paper discusses a special kind of syntax-semantics mismatch: a
 noun with a relative clause is interpreted as if it were a complement
 clause. An analysis in terms of Lexical Resource Semantics is
@@ -310,7 +316,7 @@ developed which provides a uniform account for ``normal'' relative
 clauses and for the discussed type of relative clause.
 
 
-Siegel, Melanie  & Bender, Emily M. # 0000-0002-5064-5750 & 0000-0001-5384-6227 # University of Saarbrücken & University of Washington # Head-Initial Constructions in Japanese # October 15, 2004 # #
+Siegel, Melanie  & Bender, Emily M. # 0000-0002-5064-5750 & 0000-0001-5384-6227 # University of Saarbrücken & University of Washington # Head-initial constructions in Japanese # 2004-10-15 # #
 Japanese is often taken to be strictly head-final in its syntax. In our work on
 a broad-coverage, precision implemented HPSG for Japanese, we have found that
 while this is generally true, there are nonetheless a few minor exceptions to
@@ -322,8 +328,7 @@ generalizations and on the other hand the usefulness of grammar engineering as
 a means of testing linguistic hypotheses.
 
 
-
-Soehn, Jan-Philipp # # University of Jena # License to Coll: How to Bind Bound Words and Readings to their Contexts # September 30, 2004 # #
+Soehn, Jan-Philipp # # University of Jena # License to coll: How to bind bound words and readings to their contexts # 2004-09-30 # #
 In this contribution we propose a new module for handling idioms and
 distributional idiosyncrasies. Based on the concept by Richter/Sailer (1999)
 the new feature COLL (context of lexical licensing) plays the central role in
@@ -338,7 +343,7 @@ proposal with alternative approaches and give some ideas regarding further
 applications beyond idiomaticity.
 
 
-Taghvaipour, Mehran A. # # University of Essex # An HPSG Analysis of Persian Relative Clauses # October 15, 2004 # #
+Taghvaipour, Mehran A. # # University of Essex # An HPSG analysis of Persian relative clauses # 2004-10-15 # #
 Relative clauses (RCs) in Persian are head-modifying constituents, all
 typically introduced by the invariant complementizer ke. Persian RCs are
 Unbounded Dependency Constructions (UDCs), containing either a gap or a
@@ -358,8 +363,7 @@ the complementizer ke that will account for the binding of SLASH by the feature
 BIND, which has a nonempty set as value.
 
 
-
-Trawinski, Beata # # University of Tübingen # Towards Licensing of Adverbial Noun Phrases in HPSG # October 15, 2004 # #
+Trawinski, Beata # # University of Tübingen # Towards licensing of adverbial noun phrases in HPSG # 2004-10-15 # #
 This paper focuses on aspects of the licensing of adverbial noun phrases
 (AdvNPs) in the HPSG grammar framework. In the first part, empirical issues
 will be discussed. A number of AdvNPs will be examined with respect to various
@@ -376,7 +380,7 @@ phrasal implicational constraints and does not require any radical
 modifications or extensions of the standard HPSG geometry of Pollard and Sag
 (1994).
 
-Van Eynde, Frank # 0000-0002-6172-442X # Universiteit Leuven # Pied Piping is a Local Dependency # October 15, 2004 # #
+Van Eynde, Frank # 0000-0002-6172-442X # Universiteit Leuven # Pied piping is a local dependency # 2004-10-15 # #
 To model the pied piping in interrogative and exclamative clauses Ginzburg & Sag (2000) proposes a
 nonlocal head-driven treatment, thus emphasizing the resemblances with extraction. This treatment
 has a number of drawbacks: it relies on poorly motivated lexical rules and nonbranching phrase
@@ -387,7 +391,7 @@ is integrated in the CATEGORY objects, and the propagation of its values is mode
 which are independently needed for the treatment of other phenomena.
 
 
-Yatabe, Shûichi # 0000-0003-2092-6073 # University of Tokyo # A Comprehensive Theory of Coordination of Unlikes # October 15, 2004 # #
+Yatabe, Shûichi # 0000-0003-2092-6073 # University of Tokyo # A comprehensive theory of coordination of unlikes # 2004-10-15 # #
 The principal aim of this paper is to present a comprehensive theory of
 coordination of unlikes, i.e., a theory that is capable of dealing with
 every phenomenon resulting from coordination of unlikes.
