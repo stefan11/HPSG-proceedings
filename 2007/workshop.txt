@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Francis, Elaine J. # Purdue University # The Role of Default Constructions in the Processing of Mismatch: the Case of Possessive Free Relatives # October 14, 2007 # #
+Francis, Elaine J. # 0000-0003-1964-3148 # Purdue University # The role of default constructions in the processing of mismatch: The case of possessive free relatives # 2007-10-14 # #
 <p>Townsend and Bever (2001) and Ferreira (2003) argue that simple 
 templates representing the most commonly used orderings of arguments 
 within a clause (e.g., NP-V-NP = Agent-Action-Patient) are used early 
@@ -19,7 +19,8 @@ that canonical templates help constrain mismatch in language by making certain k
 costly for language users. Finally, I argue that evidence for canonical templates fits best within a 
 parallel-architecture, constructionist theory of grammar.
 
-Goldberg, Adele  # Princeton University # Argument structure constructions: Lexical or Phrasal? # October 2007 # no #
+
+Goldberg, Adele # 0000-0001-8636-8890 # Princeton University # Argument structure constructions: Lexical or phrasal? # 2007-10-01 # no #
 This presentation suggested several advantages of constructions as against lexical rules including the following: <ol>
 <li>Implausible verb senses are avoided;
 <li>The possibility of representing a distinction between mismatches and matches of verb and constructional meaning is allowed for;
@@ -39,14 +40,16 @@ The presentation additionally addressed several possible concerns that a phrasal
 linking rules look more general than construction-specific form-function pairings, accurate linking rules turn out to be quite construction specific.
 </ol>
 
-Kim, Jong-Bok  & Sells, Peter # Kyung Hee University & Stanford University # Two Types of Multiple Nominative Construction: A Constructional Approach # October 22, 2007 # #
+
+Kim, Jong-Bok & Sells, Peter # 0000-0003-3286-0446 & 0000-0003-4284-6947 # Kyung Hee University & Stanford University # Two types of multiple nominative construction: A constructional approach # 2007-10-22 # #
 Multiple nominative constructions (MNCs) in Korean have two main sub-
 types: possessive and adjunct types. This paper shows that a grammar allow-
 ing the interaction of declarative constraints on types of signs - in particular,
 having constructions (phrases and clauses) - can provide a robust and efficient way of encoding generalizations for two different MNCs. The feasibility of the grammar developed here has been checked with its implementation
 into the LKB (Linguistic Knowledge Building) system
 
-Müller, Stefan # Freie Universität Berlin # Phrasal or Lexical Constructions? Some Comments on Underspecification of Constituent Order, Compositionality, and Control # September 27, 2007 # #
+
+Müller, Stefan # 0000-0003-4413-5313 # Freie Universität Berlin # Phrasal or lexical constructions? Some comments on underspecification of constituent order, compositionality, and control # 2007-09-27 # #
 This paper is a follow up on <a href="http://hpsg.fu-berlin.de/~stefan/Pub/phrasal.html">Müller, 2006</a>. It contains some
 comments on suggestions about the interaction of phrasal Constructions with constituent order that
 Adele Goldberg made at various occasions. In addition the paper discusses various HPSG analyses of
@@ -56,7 +59,8 @@ discussed as well and it is pointed out that control constructions pose problems
 analyses that do not assume empty elements but require that the subject is realized in a phrasal
 configuration.
 
-Sag, Ivan A. # Stanford University # Remarks on Locality # October 22, 2007 # #
+
+Sag, Ivan A. # # Stanford University # Remarks on locality # 2007-10-22 # #
 This paper proposes a modification of HPSG theory&mdash;Sign-Based Construction Grammar&mdash;that
 incorporates a strong theory of both selectional and constructional locality. A number of
 empirical phenomena that give the appearance of requiring nonlocal constraints are given a
@@ -64,7 +68,8 @@ principled, localist analysis consistent with this general approach, which incor
 insights from work in the tradition of Berkeley Construction Grammar, as exemplified by Fillmore
 et al. (1988), Kay and Fillmore (1999), and related work.
 
-Van Eynde, Frank  # University of Leuven # The Big Mess Construction # October 15, 2007 # #
+
+Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # The big mess construction # 2007-10-15 # #
 There is a construction in English, exemplified by 'how long a bridge',
 which is so irregular that it has been named the Big Mess Construction
 (Berman 1974). This paper first sketches its main characteristics 
