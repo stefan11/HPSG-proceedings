@@ -12,7 +12,7 @@ multimodal meaning. The integration process is constrained via construction rule
 ill-formed input. These rules are driven from an empirical corporal study which sheds light on the
 interaction between speech and deictic gesture.
 
-Ball, Douglas # Truman State University # Morphology in the `Wrong' Place: The Curious Case of Coast Tsimshian Connectives # November 16, 2011 # #
+Ball, Douglas # 0000-0002-8046-9452 # Truman State University # Morphology in the `Wrong' Place: The Curious Case of Coast Tsimshian Connectives # November 16, 2011 # #
 This paper examines the apparently odd location of case-marking
 formatives found in the Pacific Northwest language, Coast Tsimshian.
 It first argues that the case-marking formatives are actually affixes
