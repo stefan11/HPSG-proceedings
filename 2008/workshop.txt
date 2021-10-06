@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Abeillé, Anne  & Godard,  Danièle  & Sabio, Frédéric # University of Paris 7 & CNRS, France & University of Paris 7 & CNRS, France & University of Provence, Aix, France # Two types of NP preposing in French # October 16, 2008 # #
+Abeillé, Anne & Godard, Danièle & Sabio, Frédéric # 0000-0002-9187-2298 & & # University of Paris 7 & CNRS, France & University of Paris 7 & CNRS, France & University of Provence, Aix, France # Two types of NP preposing in French # 2008-10-16 # #
 We contrast two types of sentences with a preposed NP in French in a construction
 based HPSG grammar. They differ with respect to different grammatical aspects
 (syntax, semantics, pragmatics and phonology), which cluster uniquely into
@@ -13,7 +13,7 @@ preposed NP is the theme of a categorical proposition. The other construction is
 characterized pragmatically: it is associated with an independent declarative clause, a
 typical use of which is to signal a break in the interaction.
 
-Arnold, Doug  & Borsley, Robert D # University of Essex # Non-restrictive Relative Clauses, Ellipsis and Anaphora # October 16, 2008 # #
+Arnold, Doug & Borsley, Robert D # & 0000-0002-4856-4732 # University of Essex # Non-restrictive relative clauses, ellipsis and anaphora # 2008-10-16 # #
 Non-restrictive relative clauses (NRRCs) can modify constituents which undergo
 `pragmatic enrichment' when they appear in answers to questions.  For example,
 in an interchange like: `A: What did Jo think? B: That you should say nothing,
@@ -25,7 +25,7 @@ range of elliptical and anaphoric phenomena, and show that this conclusion is
 misplaced. In fact, the phenomena argue strongly in favour of a syntactically
 integrated analysis.
 
-Bildhauer, Felix  # Freie Universität Berlin # Clitic left dislocation and focus projection in Spanish # October 16, 2008 # #
+Bildhauer, Felix # 0000-0002-6567-5987 # Freie Universität Berlin # Clitic left dislocation and focus projection in Spanish # 2008-10-16 # #
 The information-structural status of clitic left dislocated arguments in
 Spanish has been argued to depend crucially on their thematic role.
 Earlier HPSG analyses of related phenomena in other languages do not
@@ -33,7 +33,7 @@ take into account this sort of information. A formalization will be
 presented which can handle differences in information-structure arising
 from different thematic roles of clitic left dislocated phrases.
 
-Bonami, Olivier  & Godard, Danièle # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # On the syntax of direct quotation in French # October 6, 2008 # #
+Bonami, Olivier & Godard, Danièle # 0000-0003-0688-3855 & # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # On the syntax of direct quotation in French # 2008-10-06 # #
 Direct quotation raises three major problems for grammatical modelling: (i) the variety of quoted
 material (which can be a non linguistic behavior, or a sign in a different language), (ii) the
 embedding of an utterance inside another one, (iii) a special denotation, the content of the
@@ -43,14 +43,14 @@ behavior demonstrated by the speaker. Syntactically, direct quotation comes in t
 be the complement of a quotative verb, or constitutes a head sentence, modified by an adjunct
 containing a quotative verb whose complement is extracted and identified with its local features.
 
-Henri, Fabiola  & Abeillé, Anne # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # Verb Form Alternations in Mauritian # October 6, 2008 # #
+Henri, Fabiola & Abeillé, Anne # 0000-0002-2491-1568 & 0000-0002-9187-2298 # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # Verb form alternations in Mauritian # 2008-10-06 # #
 This paper presents a constraint-based account of verb form alternations (Short and Long Forms)
 in Mauritian which, basically, is syntactically driven: Short Forms appear with Canonical
 complements while Long Forms are expected with no realized complements. However, in
 specific contexts, Long Forms are unexpectedly authorized in declaratives with canonical
 complements and expresses Verum Focus.
 
-Imai, Mutsumi # Keio University # Children's use of argument structure, meta-knowledge of the lexicon, and extra-linguistic contextual cues in inferring meanings of novel verbs # October 16, 2008 # #
+Imai, Mutsumi # 0000-0001-7920-8004 # Keio University # Children's use of argument structure, meta-knowledge of the lexicon, and extra-linguistic contextual cues in inferring meanings of novel verbs # 2008-10-16 # #
 Verbs are the centerpiece of the sentence, and understanding of verb meanings is essential for
 language acquisition. Yet verb learning is said to be more challenging than noun learning for young
 children for several reasons. First, while nouns tend
@@ -80,7 +80,7 @@ meanings. In the end, I evaluate the relative
 importance of structural cues among different cues
 children use in verb learning.
 
-Kubota, Yusuke & Lee, Jungmee # The Ohio State University # Reconsidering the Coordinate Structure Constraint in Japanese and Korean: Syntactic constraint or pragmatic principle? # October 15, 2008 # #
+Kubota, Yusuke & Lee, Jungmee # 0000-0002-8468-5857 & 0000-0002-1417-0575 # The Ohio State University # Reconsidering the coordinate structure constraint in Japanese and Korean: Syntactic constraint or pragmatic principle? # 2008-10-15 # #
 Whether the Coordinate Structure Constraint (CSC) (Ross, 1967) is a
 syntactic constraint has been discussed much in the literature.  This
 paper reconsiders this issue by drawing on evidence from Japanese and
@@ -92,7 +92,7 @@ many problems.  We take these results to provide strong support for
 the view that the CSC is a pragmatic principle rather than a syntactic
 constraint.
 
-Marandin, Jean-Marie # CNRS, Université Paris 7 # The Exclamative Clause Type in French # October 16, 2008 # #
+Marandin, Jean-Marie # # CNRS, Université Paris 7 # The exclamative clause type in French # 2008-10-16 # #
 My objective in this paper is to integrate scalar exclamatives into an HPSG grammar of
 French. First, a procedure to sort out scalar exclamatives from declaratives and interrogatives is
 proposed. Then, the main semantic and dialogical properties of exclamatives are presented:
