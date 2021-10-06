@@ -1,22 +1,21 @@
-YEAR=2004
-all: example.pdf hpsg$(YEAR).xml guidelines.pdf
+# This code sets YEAR to the name of the directory the Makefile resides in.
+# For .../2003 it will be 2003, for .../2004 it will be 2004.
+# For .../Garbage it will be Garbage ...
 
-#all: example.pdf hpsg$(YEAR).xml guidelines.pdf toc.shtml
+#YEAR=2003
+mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
+YEAR := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
 
 PROGRAM=../gen-hpsg-proceedings-xml
 
 FILES=config.pl 
 
 
-example.pdf: example.tex
-	xelatex example.tex
-	bibtex example
-	xelatex example.tex
-	xelatex example.tex
+all: hpsg$(YEAR).xml 
 
-guidelines.pdf: guidelines.tex
-	xelatex guidelines.tex
-	xelatex guidelines.tex
+
+
+
 
 hpsg$(YEAR).xml: editors-note.tex conference.txt $(PROGRAM) $(FILES)
 	$(PROGRAM)
@@ -32,7 +31,7 @@ clean:
 	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc *.tmp *~
 
 realclean: clean
-	rm -f *.pdf *.html *.xml *.shtml hpsg$(YEAR)*.tex
-	mv editors-note.tex guidelines.tex example.tex example.bib backup/
-	rm -f *.tex *.bib
-	mv backup/* .
+	rm -f *.pdf *.html *.xml *.shtml *.bib
+	mv editors-note.tex editors-note.tex-safe
+	rm -f *.tex 
+	mv editors-note.tex-safe editors-note.tex
