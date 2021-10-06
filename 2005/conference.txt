@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Ball, Douglas # # Stanford University # Tongan noun incorporation: Lexical sharing or argument inheritance # 2005-10-14 # # 
+Ball, Douglas # 0000-0002-8046-9452 # Stanford University # Tongan noun incorporation: Lexical sharing or argument inheritance # 2005-10-14 # # 
 As has been shown in other Polynesian languages, in Tongan, adnominal elements
 can modify incorporated nouns in the noun incorporation construction. Two
 analysis are considered in this paper for understanding this construction
