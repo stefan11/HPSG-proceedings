@@ -365,7 +365,7 @@ of application is illustrated with various examples,
 including asymmetric coordination and apposition.
 
 
-van Noord, Gertjan & Kordoni, Valia # 0000-0001-5564-6341 & # University of Groningen & Saarland University # A raising analysis of the Dutch passive # 2005-10-17 # #
+van Noord, Gertjan & Kordoni, Valia # 0000-0001-5564-6341 & 0000-0002-7515-427X # University of Groningen & Saarland University # A raising analysis of the Dutch passive # 2005-10-17 # #
 This paper focuses on passive constructions in Dutch. Specifically, we focus on
 <i>worden</i>, as well as <i>krijgen</i> passives in Dutch, for which we
 propose a uniform, raising analysis in HPSG. We also show that such an analysis
@@ -377,7 +377,7 @@ respectively, as has been proposed in <a href="http://hpsg.fu-berlin.de/~stefan/
 and <a href="http://hpsg.fu-berlin.de/~stefan/Pub/passiv-da.html">Müller (2003)</a>.
 
 
-Villavicencio, Aline & Sadler, Louisa & Arnold, Doug # 0000-0002-3731-9168 & 0000-0001-9107-9014 & # Universidade Federal do Rio Grande do Sul, Brazil & University of Essex & University of Essex # An HPSG account of closest conjunct agreement in NP coordination in Portuguese # 2005-10-15 # #
+Villavicencio, Aline & Sadler, Louisa & Arnold, Doug # 0000-0002-3731-9168 & 0000-0001-9107-9014 & 0000-0002-3685-8450# Universidade Federal do Rio Grande do Sul, Brazil & University of Essex & University of Essex # An HPSG account of closest conjunct agreement in NP coordination in Portuguese # 2005-10-15 # #
 This paper discusses the NP-internal agreement strategies observed in an
 empirical (corpus based) study of Portuguese, and proposes an analysis
 which is formalized in the framework of Head-Driven Phrase Structure

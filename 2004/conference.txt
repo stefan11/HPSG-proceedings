@@ -18,7 +18,7 @@ related in previous accounts.
 Ackerman, Farrell  &  Nikolaeva, Irina &  Malou, Rob # & & # UC San Diego & University of London & San Diego State University  # Possessive relatives and cooperating constructions #  # no #
 
 
-Arnold, Doug # # University of Essex # Non-restrictive relative clauses in Construction Based HPSG # 2004-10-12 # #
+Arnold, Doug # 0000-0002-3685-8450 # University of Essex # Non-restrictive relative clauses in Construction Based HPSG # 2004-10-12 # #
 This paper presents an account of English non-restrictive (`appositive') relative
 clauses (NRCs) in the framework of `construction based' HPSG.
 Specifically, it shows how the account of restrictive relative clause
@@ -230,7 +230,7 @@ stance recently advocated within HPSG, following the lead of Construction
 Grammar.
 
 
-Kordoni, Valia # # Saarland University # Between shifts and alternations: Ditransitive constructions # 2004-10-25 # #
+Kordoni, Valia # 0000-0002-7515-427X # Saarland University # Between shifts and alternations: Ditransitive constructions # 2004-10-25 # #
 In this paper I present two classes of double object constructions in Modern 
 Greek, i.e., the genitive, as well as the double accusative, ditransitive 
 constructions. I show that these two classes differ from one another in that 

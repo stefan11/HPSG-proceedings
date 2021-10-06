@@ -17,7 +17,7 @@ and representational accounts can accomodate hybrid dependencies. Thus, no
 argument against either approach can be made on the basis of the Irish data,
 disconfirming Huybregts's (2009) claim.
 
-Arnold, Doug  & Borsley, Robert D. # University of Essex # Auxiliary-Stranding Relative Clauses # October 14, 2010 # #
+Arnold, Doug  & Borsley, Robert D. # 0000-0002-3685-8450 & # University of Essex # Auxiliary-Stranding Relative Clauses # October 14, 2010 # #
 A little discussed feature of English are non-restrictive relative clauses in which the antecedent
 is normally not an NP and the gap follows an auxiliary, as in <em>Kim will sing, which Lee won't</em>. These
 relative clauses resemble clauses with auxiliary complement ellipsis or fronting. There are a
@@ -46,7 +46,7 @@ SLASH feature. It is possible to provide an analysis in which RPs are associated
 feature but are also the ordinary pronouns which they appear to be.
 
 
-Chaves, Rui P. # University at Buffalo # On the Syntax and Semantics of <em>vice versa</em> # October 16, 2010 # #
+Chaves, Rui P. # 0000-0003-0820-6145 # University at Buffalo # On the Syntax and Semantics of <em>vice versa</em> # October 16, 2010 # #
 This work focuses on the syntax and semantics of the expression <em>vice
 versa</em>, and shows that its syntactic distribution is much more flexible than
 semantically related expressions. Although <em>vice versa</em> usually appears in

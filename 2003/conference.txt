@@ -402,7 +402,7 @@ to the usual treatments of semantics in HPSG, and to the traditional
 generalised quantifier view of NPs as sets of sets. Instead we outline an
 analysis of NPs as (possibly functional) sets of individuals.
 
-Runner, Jeffrey T. & Aranovich, Raul  # 0000-0001-6818-0632 & # University of Rochester & University of California Davis # Noun incorporation and rule interaction in the lexicon # 2003-10-01 # #
+Runner, Jeffrey T. & Aranovich, Raul  # 0000-0001-6818-0632 & 0000-0001-6438-8815 # University of Rochester & University of California Davis # Noun incorporation and rule interaction in the lexicon # 2003-10-01 # #
 Wasow (1977) argues that linguistic theory should recognize two qualitatively
 distinct types of rules: syntactic rules, which can affect more "superficial"
 grammatical function properties; and lexical rules, which affect deeper lexical

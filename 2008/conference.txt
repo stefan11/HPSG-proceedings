@@ -47,7 +47,7 @@ node, in order to preserve the strong version of the principle of locality in su
 propose a general formal mechanism to effect this occasional transparency of heads with respect to
 certain properties of their complements.
 
-Ito, Chizuru & Chaves, Rui P. # & # Osaka University & Lisbon University # Apparent non-constituent coordination in Japanese # 2008-10-16 # #
+Ito, Chizuru & Chaves, Rui P. # & 0000-0003-0820-6145# Osaka University & Lisbon University # Apparent non-constituent coordination in Japanese # 2008-10-16 # #
 Coordination in Japanese poses various puzzles which defy the standard notion of syntactic
 category. On the one hand, one can conjoin structures which one usually would not expect to form any
 constituent, and on the other hand, there are various conjunction particles that are sensitive to

@@ -21,7 +21,7 @@ it is not only more flexible in the treatment of feature resolution, but
 also bears the further potential of representing more elaborate person
 systems, like the inclusive/exclusive distinction.<p>The paper is published in the <a href="http://doi.org/10.1007/978-3-662-57784-4">Proceedings of Formal Grammar 2018</a>. # Coordination, feature resolution, French, person hierarchy, grammar implementation, list
 
-Doug, Arnold # University of Essex # Fused Head Analyses in HPSG? # October 24, 2018 # no #
+Doug, Arnold # 0000-0002-3685-8450 # University of Essex # Fused Head Analyses in HPSG? # October 24, 2018 # no #
 The syntactic representations assumed in <em>The Cambridge Grammar of the English
 Language</em> (Huddleston, Rodney and Pullum, Geoffrey K (eds.). 2002, Cambridge:
 Cambridge University Press) are not always conventional trees.  The analyses of Noun
@@ -102,7 +102,7 @@ Moeljadi, David & Bond, Francis # Nanyang Technological University & Nanyang Tec
 Nielsen, Elizabeth & Bender, Emily M. #  University of Washington & University of Washington # Modeling Adnominal Possession in Multilingual Grammar Engineering # 15 October 2018 # # In this paper we describe insights gained from building an extension to the LinGO Grammar Matrix customization system to cover adnominal possessive phrases. We show how the wide range of such constructions attested in the world's languages can be handled with the typical major phrase types used in HPSG and discuss the value of feature bundling in the multilingual grammar engineering context. # adnominal possession, grammar engineering, computational typology, Grammar Matrix
 
 
-Park, Sang-Hee & Koenig, Jean-Pierre & Chaves, Rui P. # University at
+Park, Sang-Hee & Koenig, Jean-Pierre & Chaves, Rui P. # && 0000-0003-0820-6145 # University at
 Buffalo & University at Buffalo & University at Buffalo # Scope
 Ambiguities and Lexical Resource Semantics: The case of Gapping #
 October 16, 2018 # no # Gapping can interact with scopal operators to

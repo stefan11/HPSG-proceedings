@@ -12,7 +12,7 @@ Arka, I Wayan  # Australian National University/Udayana University # Affectednes
 October 15, 2015 # no # I discuss morphosyntactic properties of affectedness in Marori (also known as Morori/Moraori; ISO 639-3: mok; a subgroup-level isolate, TNG/Papuan, 16 fluent speakers) and beyond, with particular attention to the principles governing the morphosyntax-morphosemantic interface, contributing to the debate as to what extent syntactic argument structures are (morpho)lexically determined or constructed in syntax (cf. Müller and Wechsler 2014). The data from psych verbs in Marori highlights the role of argument-structure from the lexicon, and also provides evidence for syntactically constructed transitivity. This may give rise to mismatches in transitivity across different layers of structure (semantics, morphology and syntax). Marori provides motivation for separating argument structure from surface valence, supported by LFG (Bresnan 2001) and HPSG (Sag, Wasow, and Bender 2003).
 
 
-Arnold, Doug & Spencer, Andrew # University of Essex # A Constructional Analysis for the Skeptical # October 15, 2015 # # 
+Arnold, Doug & Spencer, Andrew # 0000-0002-3685-8450 & # University of Essex # A Constructional Analysis for the Skeptical # October 15, 2015 # # 
 This paper addresses the issue of phonologically null elements in HPSG by providing an 
 analysis of the construction exemplified by NPs such as `the rich', `the beautiful', `the
 unemployed', which lack an overt noun. The properties of this construction are explored in

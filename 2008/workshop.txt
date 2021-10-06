@@ -13,7 +13,7 @@ preposed NP is the theme of a categorical proposition. The other construction is
 characterized pragmatically: it is associated with an independent declarative clause, a
 typical use of which is to signal a break in the interaction.
 
-Arnold, Doug & Borsley, Robert D # & 0000-0002-4856-4732 # University of Essex # Non-restrictive relative clauses, ellipsis and anaphora # 2008-10-16 # #
+Arnold, Doug & Borsley, Robert D # 0000-0002-3685-8450 & 0000-0002-4856-4732 # University of Essex # Non-restrictive relative clauses, ellipsis and anaphora # 2008-10-16 # #
 Non-restrictive relative clauses (NRRCs) can modify constituents which undergo
 `pragmatic enrichment' when they appear in answers to questions.  For example,
 in an interchange like: `A: What did Jo think? B: That you should say nothing,

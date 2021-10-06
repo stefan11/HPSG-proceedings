@@ -21,7 +21,7 @@ Function Morphology. This combination of analytic tools allows us to treat the w
 periphrastic constructions as lexical in origin&mdash;no phrasal construction or multi-word lexical
 entry of any kind is required.
 
-Chaves, Rui P. # University at Buffalo, SUNY # Construction-based Cumulation and Adjunct Extraction # October 14, 2009 # #
+Chaves, Rui P. # 0000-0003-0820-6145 # University at Buffalo, SUNY # Construction-based Cumulation and Adjunct Extraction # October 14, 2009 # #
 Previous HPSG accounts of extraction blur the distinction between
 valents and adjuncts by allowing verbs to lexically control the
 modifiers that combine with their phrasal projections. However,
