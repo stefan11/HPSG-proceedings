@@ -271,7 +271,7 @@ which can handle typological variation between languages and lexical
 exceptions within a given language.
 
 
-Sato, Yo # # Department of Computer Science King's College London # A proposed lexicalised linearisation grammar &ndash; A monostratal alternative # 2006-10-08 # #
+Sato, Yo # # Department of Computer Science King's College London # A proposed lexicalised linearisation grammar: A monostratal alternative # 2006-10-08 # #
 This paper presents an overview of a proposed linearisation grammar, which
 relies solely upon information residing in lexical heads to constrain word
 order. Word order information, which encompasses discontinuity as well as

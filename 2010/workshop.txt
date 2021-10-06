@@ -73,7 +73,7 @@ been done before. The methods discussed here can be applied to other Indian lang
 as well as word generation.
 
 
-Spencer, Andrew # University of Essex # Lexical Relatedness and the Lexical Entry &ndash; a Formal Unification # October 13, 2010 # #
+Spencer, Andrew # University of Essex # Lexical Relatedness and the Lexical Entry: A Formal Unification # October 13, 2010 # #
 Based on the notion of a lexicon with default inheritance, I address the problem of how to provide a
 template for lexical representations that allows us to capture the relatedness between inflected
 word forms and canonically derived lexemes within a broadly realizational-inferential model of

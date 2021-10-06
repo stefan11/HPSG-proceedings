@@ -91,7 +91,7 @@ verbal property. Finally we provide an analysis of
 coherence with adjectives within HPSG.
 
 
-Flickinger, Dan # Stanford University # Prescription and Explanation &ndash;
+Flickinger, Dan # Stanford University # Prescription and Explanation:
 Using an HPSG implementation to teach writing skills # October 21, 2010 # no #
 Computational linguists who develop grammar implementations often begin
 with the motivation to encode their hypotheses about the particular

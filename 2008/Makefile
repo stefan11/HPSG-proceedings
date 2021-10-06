@@ -1,40 +1,35 @@
-all: example.pdf hpsg2008.pdf guidelines.pdf toc.shtml
+# This code sets YEAR to the name of the directory the Makefile resides in.
+# For .../2003 it will be 2003, for .../2004 it will be 2004.
+# For .../Garbage it will be Garbage ...
 
-PROGRAM=~stefan/bin/gen-hpsg-proceedings
+#YEAR=2003
+mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
+YEAR := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
 
-example.pdf: example.tex
-	pdflatex example.tex
-	bibtex example
-	pdflatex example.tex
-	pdflatex example.tex
+PROGRAM=../gen-hpsg-proceedings-xml
 
-guidelines.pdf: guidelines.tex
-	pdflatex guidelines.tex
-	pdflatex guidelines.tex
+FILES=config.pl 
 
-hpsg2008.tex: editors-note.tex conference.txt workshop.txt config.pl $(PROGRAM)
-	gen-hpsg-proceedings
 
-hpsg2008.pdf: hpsg2008.tex
+all: hpsg$(YEAR).xml 
+
+
+
+hpsg$(YEAR).xml: editors-note.tex conference.txt $(PROGRAM) $(FILES)
+	$(PROGRAM)
+
+hpsg$(YEAR).pdf: hpsg$(YEAR).tex 
 	chmod 755 *.pdf
-	pdflatex hpsg2008.tex
-	pdflatex hpsg2008.tex
-
-index.shtml: config.pl $(PROGRAM)
-	gen-hpsg-proceedings
-
-toc.shtml: conference.txt  $(PROGRAM)
-	gen-hpsg-proceedings
+	pdflatex hpsg$(YEAR).tex
+	pdflatex hpsg$(YEAR).tex
 
 
-o-public: toc.shtml index.shtml hpsg2008.pdf 
-	rsync -a -e ssh . stefanm@cardinal.stanford.edu:/afs/ir.stanford.edu/group/cslipublications/WWW/cslipublications/HPSG/2008/
-
-html-public: 
-	scp -p  *.shtml stefanm@turing2.stanford.edu:/afs/ir.stanford.edu/group/cslipublications/WWW/cslipublications/HPSG/2008/
 
 clean:
-	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc
+	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc *.tmp *~
 
 realclean: clean
-	rm -f *.pdf *.bib abstr-* hpsg2008.tex
+	rm -f *.pdf *.html *.xml *.shtml *.bib
+	mv editors-note.tex editors-note.tex-safe
+	rm -f *.tex 
+	mv editors-note.tex-safe editors-note.tex
