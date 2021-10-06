@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Amiridze, Nino # 0000-0001-7907-6865 # Utrecht University # Georgian Reflexives in Subject Function in Special Contexts # October 15, 2005 # #
+Amiridze, Nino # 0000-0001-7907-6865 # Utrecht University # Georgian reflexives in subject function in special contexts # 2005-10-15 # #
 Georgian is a language allowing reflexives to be marked by ergative.
 The subject use of the Georgian reflexive phrase was first
 documented with causative verbs by Asatiani (1982). The later works
@@ -16,7 +16,8 @@ could be accounted for within the approach developed in (Reuland,
 2001). However, the subject uses of the Georgian reciprocal
 <q>ertmanet-</q> leave the issue of subject anaphors open.
 
-Branco, António # 0000-0002-7174-4942 # University of Lisbon # Reflexives: Escaping Exemption via Domain Reshuffling # October 14, 2005 # #
+
+Branco, António # 0000-0002-7174-4942 # University of Lisbon # Reflexives: Escaping exemption via domain reshuffling # 2005-10-14 # #
 In this paper we argue that at least for some languages, when
 there are suitable o-commanders of its selectional domain, a
 reflexive in the bottom of its obliqueness hierarchy escapes
@@ -27,7 +28,8 @@ domain immediately upstairs, that is in the domain whose head
 predicator directly subcategorizes the domain headed by the
 predicator directly subcategorizing the reflexive.
 
-Canac-Marquis, Réjean # # Simon Fraser University # Phases and Binding of Reflexives and Pronouns in English # October 15, 2005 # #
+
+Canac-Marquis, Réjean # # Simon Fraser University # Phases and binding of reflexives and pronouns in English # 2005-10-15 # #
 This paper proposes a distinct approach to local binding effects for reflexives
 and pronominals in English whereby the nature of local binding domains is a
 by-product of the incremental interpretation of syntactic derivations
@@ -49,14 +51,16 @@ contrasts between A-chain and A-bar chain w.r.t. binding and scope
 reconstruction effects and argues that checking of the uninterpretable feature
 Case is what defines potential phase domains.
 
-Everaert, Martin # 0000-0002-4418-4126 # Utrecht University # On Binding Domains # October 17 2005 # #
+
+Everaert, Martin # 0000-0002-4418-4126 # Utrecht University # On binding domains # 2005-10-17 # #
 In this paper I want to explore reasons for replacing Binding Theory based on
 the anaphor-pronoun dichotomy by a Binding Theory allowing more domains
 restricting/defining anaphoric dependencies. This will, thus, have consequences
 for the partitioning of anaphoric elements, presupposing more types of
 'anaphors'/'pronouns' than standard Binding Theory offers us.
 
-Hellan, Lars # 0000-0003-3043-120X # NTNU, Trondheim # Implementing Norwegian Reflexives in an HPSG Grammar# October 14, 2005# #
+
+Hellan, Lars # 0000-0003-3043-120X # NTNU, Trondheim # Implementing Norwegian reflexives in an HPSG grammar # 2005-10-14 # #
 The paper reviews basic patterns of reflexive binding in Norwegian, and
 explores a possible implementation of them in an HPSG grammar using the
 LKB platform. Norwegian has two reflexive elements, with distinct
@@ -68,9 +72,11 @@ specification, partly through phrasal combination rules. Challenges are
 noted residing in the possibility for sentences to contain an unbounded
 number of reflexives.
 
-Lyutikova, Ekaterina  & Tatevosov, Sergei # 0000-0003-4439-0613 & 0000-0002-1602-0116 # Moscow State University, Russia # Event Structure and Binding # # no # 
 
-Noguchi, Tohru # # Ochanomizu University, Japan  # Semantic Composition in Reflexivization # October 14, 2005 # #
+Lyutikova, Ekaterina & Tatevosov, Sergei # 0000-0003-4439-0613 & 0000-0002-1602-0116 # Moscow State University, Russia # Event structure and binding # # no # 
+
+
+Noguchi, Tohru # # Ochanomizu University, Japan # Semantic composition in reflexivization # 2005-10-14 # #
 It has been commonly assumed since Chomsky (1981) that the distribution of reflexive 
 pronouns is subject to Binding Condition A.  Reinhart and Reuland (1993) formulate 
 Condition A in terms of the notion of <q>syntactic predicate.</q>  The proposal I will 
@@ -82,7 +88,8 @@ the proper characterization of syntactic chains, as proposed by Reinhart and Reu
  and Reuland (2001).  To the extent that this approach is successful, Binding Condition 
 A is rendered superfluous.
 
-Pollard, Carl # # Ohio State University # Remarks on Binding Theory # October 15, 2005 # #
+
+Pollard, Carl # # Ohio State University # Remarks on binding theory # 2005-10-15 # #
 We propose some reformulations of binding principle A that build on recent 
 work by Pollard and Xue, and by Runner et al. We then turn to the
 thorny issue of the status of indices, in connection with the seemingly
@@ -95,13 +102,15 @@ to the idea that referentially dependent expressions denote identity functions
 (as proposed, independently, by Pollard and Sag and by Jacobson)
 seerms to hold more promise.
 
-Reuland, Eric # 0000-0003-4485-4246 # Utrecht University # Binding Conditions:<br> How are they Derived?# October 24, 2005 # #
+
+Reuland, Eric # 0000-0003-4485-4246 # Utrecht University # Binding conditions:<br> How are they derived? # 2005-10-24 # #
 In this article I discuss binding conditions A and B. I show that important
 properties of binding need not be stipulated, but can be explained as
 consequences of general properties of the computational system underlying
 human language.
 
-Runner, Jeffrey T. & Kaiser, Elsi # 0000-0001-6818-0632 & 0000-0003-3594-4127 # University of Rochester & University of Southern California # Binding in Picture Noun Phrases: Implications for Binding Theory # October 17, 2005 # #
+
+Runner, Jeffrey T. & Kaiser, Elsi # 0000-0001-6818-0632 & 0000-0003-3594-4127 # University of Rochester & University of Southern California # Binding in picture noun phrases: Implications for binding theory # 2005-10-17 # #
 This paper investigates the binding of pronouns and reflexives in <q>picture</q>
 noun phrases, and focuses on data showing that reflexives and pronouns are not
 in complementary distribution in picture NPs with possessors. In particular, we
@@ -120,7 +129,7 @@ dependents structure, it follows that a pronoun in a picture NP with a
 possessor must be disjoint from that possessor phrase.
 
  
-Stuckardt, Roland # # Johann Wolfgang Goethe University Frankfurt am Main # Verifying Binding Constraints for Anaphor Resolution # October 7, 2005 # #
+Stuckardt, Roland # # Johann Wolfgang Goethe University Frankfurt am Main # Verifying binding constraints for anaphor resolution # 2005-10-07 # #
 Algorithmic approaches to anaphor resolution are known to benefit
 substantially from syntactic disjoint reference filters.
 Typically, however, there is a considerable gap between the scope of the
