@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Abeillé, Anne & Borsley, Robert D. & Espinal, Maria-Teresa # 0000-0002-9187-2298 & 0000-0002-4856-4732 & 0000-0002-8079-7253 # Laboratoire de Linguistique Formelle, Université Paris 7 & University of Essex, Colchester & Universitat Autònoma de Barcelona # The syntax of Comparative Correlatives in French and Spanish # October 20, 2006 # #
+Abeillé, Anne & Borsley, Robert D. & Espinal, Maria-Teresa # 0000-0002-9187-2298 & 0000-0002-4856-4732 & 0000-0002-8079-7253 # Laboratoire de Linguistique Formelle, Université Paris 7 & University of Essex, Colchester & Universitat Autònoma de Barcelona # The syntax of comparative correlatives in French and Spanish # 2006-10-20 # #
 Comparative correlative (CC) constructions have received much attention in
 recent years. Major issues have been whether they involve special constructions
 and whether they have symmetric or asymmetric structures. Evidence from Romance
@@ -11,7 +11,8 @@ constructions, one asymmetric and the other symmetric with quite different
 properties. The facts can be accommodated in a straightforward way within
 construction-based HPSG.
 
-Avgustinova, Tania # 0000-0003-4462-0511 # DFKI & Saarland University # A Functional Typology of Copular <q>be</q>: Towards an HPSG Formalisation # October 22, 2005 # #
+
+Avgustinova, Tania # 0000-0003-4462-0511 # DFKI & Saarland University # A functional typology of copular <q>be</q>: Towards an HPSG formalisation # 2005-10-22 # #
 Abstract: A functional typology of copular <q>be</q> in Russian allows us to
 systematically relate variants of predication with and without copula. The
 analysis sketched in this article does not need empty categories; neither does
@@ -20,7 +21,8 @@ morphologically signalled. With regard to HPSG formalization, the presented
 approach independently motivates the use of features and mechanisms that
 are already available in this framework.
 
-Bonami, Olivier & Delais-Roussarie, Elisabeth # 0000-0003-0688-3855 & 0000-0002-4517-1503 # Université Paris-Sorbonne & LLF & Laboratoire de Linguistique Formelle, Université Paris 7 #  Metrical Phonology in HPSG # October 10, 2005 # #
+
+Bonami, Olivier & Delais-Roussarie, Elisabeth # 0000-0003-0688-3855 & 0000-0002-4517-1503 # Université Paris-Sorbonne & LLF & Laboratoire de Linguistique Formelle, Université Paris 7 # Metrical phonology in HPSG # 2005-10-10 # #
 This paper proposes a new approach to the prosody-syntax interface in
 HPSG. Previous approaches to prosody in HPSG (Klein, 2000; Haji-Abdolhosseini,
 2003) represent prosodic information by constructing metrical constituent
@@ -41,7 +43,8 @@ syntactic constraints on relative prominence, leaving room for noncategorical
 rythmic constraints to choose between alternatives. We finish by discussing the
 interaction of the metrical grid with the rest of the prosodic grammar.</p>
 
-Borsley, Robert D. # 0000-0002-4856-4732 # University of Essex # A Linear Approach to Negative Prominence # October 15, 2006 # #
+
+Borsley, Robert D. # 0000-0002-4856-4732 # University of Essex # A linear approach to negative prominence # 2006-10-15 # #
 Languages often require negation to be realized in a prominent position. A well
 known example is Italian, which seems to require a pre-verbal realization of
 negation. Some other languages require negation to be in a prominent position
@@ -57,7 +60,8 @@ linearization-based version of Head-driven Phrase Structure Grammar (HPSG)
 developed by Kathol (2000). It seems, then, that a linear approach is
 preferable to both a structural and a selectional approach.
 
-Branco, António  & Costa, Francisco # 0000-0002-7174-4942 & # University of Lisbon # Noun Ellipsis without Empty Categories # October 15, 2006 # #
+
+Branco, António & Costa, Francisco # 0000-0002-7174-4942 & # University of Lisbon # Noun ellipsis without empty categories # 2006-10-15 # #
 In this paper, we present an analysis of noun phrases with elided
 nouns that dispenses with the positing of empty categories and
 preserves the NP structure assumed for NPs with overt nouns, modulo
@@ -67,7 +71,8 @@ towards a more lean theory of grammar, without phonetically null items.
 
 // Group for the Computation of Lexical and Grammatical Knowledge
 
-Chaves, Rui P. # # Centro de Linguística da Universidade de Lisboa # Coordination of Unlikes without Unlike Categories # October 15, 2006 # #
+
+Chaves, Rui P. # # Centro de Linguística da Universidade de Lisboa # Coordination of unlikes without unlike categories # 2006-10-15 # #
 Several analysis of Coordination of Unlikes have  been proposed within the HPSG framework.
 In some of these approaches the possible combinations of 'unlike categories' are encoded in 
 the grammar, while other accounts resort to an independently motivated ellipsis analysis.
@@ -76,7 +81,8 @@ cases of Coordination of Unlikes in certain S-adjoining constructions are left u
 We propose a general analysis of these S-adjoining constructions, and in doing so, 
 the problematic coordination cases are predicted without the need for further assumptions.
 
-Crysmann, Berthold # 0000-0003-0230-502X # German Research Centre for Artificial Intelligence (DFKI) & Saarland University # Floating Affixes in Polish # October 17, 2006 # #
+
+Crysmann, Berthold # 0000-0003-0230-502X # German Research Centre for Artificial Intelligence (DFKI) & Saarland University # Floating affixes in Polish # 2006-10-17 # #
 The morphosyntactic status of Polish past tense agreement markers has
 been a matter of considerable debate in recent years
 (Spencer 1991, Borsley &amp; Rivero 1994,
@@ -99,7 +105,8 @@ be shown that this is sufficient to capture the relevant data, and
 connect the placement of floating <q>affixes</q> to the general treatment
 of Polish word order Kupść 2000.
 
-Flouraki, Maria # # University of Essex # Constraining Aspectual Composition # October 12, 2006 # #
+
+Flouraki, Maria # # University of Essex # Constraining aspectual composition # 2006-10-12 # #
 In Modern Greek there is a rich aspectual system, which involves both
 morphologically expressed grammatical aspect and eventuality types, carried
 primarily by the meaning of the verbal predicate. Particular emphasis is paid
@@ -120,7 +127,8 @@ selects eventualities or subeventualities appropriate to its selection
 restrictions, using information that is already there in the denotation of the
 eventualities.
 
-Fokkens, Antske  & Kordoni,  Valia # 0000-0002-6628-6916 & # Dept. of Computational Linguistics,Saarland University # Control, Raising and Case: from the perspective of passives # October 12, 2006 # #
+
+Fokkens, Antske & Kordoni, Valia # 0000-0002-6628-6916 & # Dept. of Computational Linguistics, Saarland University # Control, raising and case: From the perspective of passives # 2006-10-12 # #
 Since Pollard and Sag (1994) it has been assumed that raising involves full
 structure sharing, whereas a control verb merely shares the content of one of
 the lower verb's arguments. This has been considered a property of the
@@ -138,7 +146,8 @@ may not. Therefore, we claim that the distinction between raising and control
 is found in theta-role assignment. Syntactically they tend to behave
 differently, but they may also behave in the exact same way.
 
-Godard, Danièle  & Marandin, Jean-Marie # & # CNRS, Université Paris 7 # Reinforcing Negation: the case of Italian # October 15, 2006 # #
+
+Godard, Danièle & Marandin, Jean-Marie # & # CNRS, Université Paris 7 # Reinforcing negation: The case of Italian # 2006-10-15 # #
 We study the formal and pragmatic properties of the `reinforced negation
 construction' in Italian, which, unlike the regular negative sentence, contains
 both <em>non</em> and an n-word in preverbal position. On the one hand, this
@@ -149,7 +158,8 @@ unfaithful recycling is a pattern for creating a form dedicated to
 metalinguistic negation. Our analysis integrates both negative types of
 negative forms with their formal and pragmatic properties.
 
-Hahm, Hyun-Jong # # The University of Texas at Austin # Person and Number Agreement in American Sign Language # October 21 2006 # #
+
+Hahm, Hyun-Jong # # The University of Texas at Austin # Person and number agreement in American sign language # 2006-10-21 # #
 American Sign Language (ASL) has a group of verbs showing agreement with the
 subject or/and object argument. There has not been analysis on especially
 number agreement. This paper analyzes person and number agreement within the
@@ -157,7 +167,8 @@ HPSG framework. I discuss person and number hierarchy in ASL. The argument of
 agreement verbs can be omitted as in languages like Italian. The constraints on
 the type agreement-verb have the information on argument optionality.
 
-Maekawa, Takafumi # # Department of Language and Linguistics University of Essex # Long and Short Adjunct Fronting in HPSG # October 15, 2006 # #
+
+Maekawa, Takafumi # # Department of Language and Linguistics University of Essex # Long and short adjunct fronting in HPSG # 2006-10-15 # #
 The purpose of this paper is to consider the proper treatment of short- and
 long-fronted adjuncts within HPSG.  In the earlier HPSG analyses, a rigid
 link between linear order and constituent structure determines the linear
@@ -167,7 +178,8 @@ not work as these approaches predict.  I will then show that
 linearisation-based HPSG can provide a fairly straightforward account of the
 facts.
 
-Melnik, Nurit # 0000-0002-0610-915X # University of Haifa # Hybrid Agreement as a Conflict Resolution Strategy # October 15,2006 # #
+
+Melnik, Nurit # 0000-0002-0610-915X # University of Haifa # Hybrid agreement as a conflict resolution strategy # 2006-10-15 # #
 Situations in which conflicting constraints clash can potentially provide
 linguists with insights into the architecture of grammar. This paper deals with
 such a case. When predicative modifiers of morphologically rich languages head
@@ -183,7 +195,8 @@ accounting for this non-trivial agreement pattern. Moreover, with a
 constructional approach, whereby constraints can target syntactic structures
 above the lexical level, better empirical coverage is achieved.
 
-Mouret, François # # LLF, Université Paris 7-CNRS & Université Paris 3-Sorbonne Nouvelle # A Phrase Structure Approach to Argument Cluster Coordination # October 15, 2006 # #
+
+Mouret, François # # LLF, Université Paris 7-CNRS & Université Paris 3-Sorbonne Nouvelle # A phrase structure approach to argument cluster coordination # 2006-10-15 # #
 It has often been argued that Non-Constituent Coordinations involve
 ellipsis. Focussing in this paper on so-called 'Argument Cluster Coordination',
 we provide empirical evidence drawn from French against such elliptical
@@ -195,7 +208,8 @@ constructions, deriving their unusual properties from the interplay of two
 different sets of constraints: those imposed by coordination and those imposed
 by predicates that select such clusters as arguments.
 
-Müller, Stefan # 0000-0003-4413-5313 # Universität Bremen/ Universität Potsdam # Persian Complex Predicates and the Limits of Inheritance-Based Analyses # October 2006 # no #
+
+Müller, Stefan # 0000-0003-4413-5313 # Universität Bremen/ Universität Potsdam # Persian complex predicates and the limits of inheritance-based analyses # 2006-10-01 # no #
 Persian complex predicates pose an interesting challenge for theoretical
 linguistics, since they have both word-like and phrase-like properties. For
 instance, they can feed derivational processes, but they are also separable by
@@ -215,8 +229,9 @@ of the shortcomings that classification-based analyses have and that it can
 account for both the phrasal and the word-like properties of Persian complex
 predicates.
 
-Nakanishi, Katsuaki # # Department of Language and Information Sciences University of Tokyo # A Unified Approach to Questions, Quantifiers, and
-Coordination in Japanese # October 14, 2006 # #
+
+Nakanishi, Katsuaki # # Department of Language and Information Sciences University of Tokyo # A unified approach to questions, quantifiers, and
+coordination in Japanese # 2006-10-14 # #
 The Japanese language is one of the languages where universal and
 existential quantification are expressed using wh-words with the
 conjunctive and disjunctive particles, respectively. In this paper,
@@ -228,7 +243,8 @@ can be uniformly analyzed as cases where abstracted arguments are
 questioned or quantified for verbs. We then present an HPSG
 formalization of the analysis.
 
-Nakazawa, Tsuneko # # University of Tokyo # Motion Event and Deictic Motion Verbs as Path-Conflating Verbs # October 15, 2006 # #
+
+Nakazawa, Tsuneko # # University of Tokyo # Motion event and deictic motion verbs as path-conflating verbs # 2006-10-15 # #
 This paper attempts to decompose the Motion event into such elements as Figure,
 Path, Vector, and Ground based upon Talmy's framework, which makes it possible
 to formally analyze and compare the lexical semantics of the deictic motion
@@ -242,7 +258,8 @@ elements of a Motion event contributed by each element of a verb phrase, and to
 determine the compositional fashion in which they are combined to give the
 interpretation of the verb phrase as a whole.
 
-Richter, Frank  & Sailer, Manfred # & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Modeling Typological Markedness in Semantics: The Case of Negative Concord # October 15, 2006 # #
+
+Richter, Frank  & Sailer, Manfred # & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Modeling typological markedness in semantics: The case of negative concord # 2006-10-15 # #
 We will provide an analysis of negative concord in sentential negation
 in three languages, French, Polish and German. The focus of the paper
 is (1) the typological variation with respect to the realization of
@@ -253,7 +270,8 @@ identifies a common core system and adds language-specific constraints
 which can handle typological variation between languages and lexical
 exceptions within a given language.
 
-Sato, Yo # # Department of Computer Science King's College London # A Proposed Lexicalised Linearisation Grammar &ndash; a monostratal alternative # October 8, 2006 # #
+
+Sato, Yo # # Department of Computer Science King's College London # A proposed lexicalised linearisation grammar &ndash; A monostratal alternative # 2006-10-08 # #
 This paper presents an overview of a proposed linearisation grammar, which
 relies solely upon information residing in lexical heads to constrain word
 order. Word order information, which encompasses discontinuity as well as
@@ -267,7 +285,8 @@ somewhat in generative capacity, this approach covers the key phenomena that
 motivated linearisation grammars and offers a simpler alternative to the
 standard DOM-oriented theory.
 
-Tily, Harry J.  & Sag, Ivan A. # & # Department of Linguistics, Stanford University # A Unified Analysis of French Causatives# October 18, 2006 # #
+
+Tily, Harry J. & Sag, Ivan A. # & # Department of Linguistics, Stanford University # A unified analysis of French causatives # 2006-10-18 # #
 The treatment of French causatives and pronominal affixes outlined in Miller
 and Sag (1997) and Abeill&eacute; et al. (1998) is notable for its
 comprehensive coverage and analytic detail, but it relies on a number of <i>ad
@@ -283,7 +302,8 @@ sought to expand the coverage of French beyond that of Bratt's analysis. Our
 goal here is to show that broad coverage need not come at the expense of
 linguistically significant generalizations.
 
-Vasishth, Shravan # 0000-0003-2027-1994 # University Potsdam # Locality in human sentence comprehension: Empirical and computational investigations # June 23, 2006 # no #
+
+Vasishth, Shravan # 0000-0003-2027-1994 # University Potsdam # Locality in human sentence comprehension: Empirical and computational investigations # 2006-06-23 # no #
 Locality in sentence processing is the assumption that integrating dependents and heads involves a 
 processing cost that is some function of the distance between them. Locality stands at the heart of a
  major open problem in sentence processing: how are words assembled in real time by the human parsing
