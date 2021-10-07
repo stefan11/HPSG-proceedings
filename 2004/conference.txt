@@ -216,7 +216,7 @@ Semantics and Interaction in Dialogue, Stanford: California: CSLI Publications a
 Kiss, Tibor # 0000-0003-1857-3686 # Ruhr-Universität Bochum # Exempt reflexives and psych verbs # # no #
 
 
-Koenig, Jean-Pierre  & Davis, Anthony R. # 0000-0002-5431-5978 & # University at Buffalo, The State University of New York & StreamSage, Inc. # Raising doubts about Russian impersonals # 2004-10-17 # #
+Koenig, Jean-Pierre  & Davis, Anthony R. # 0000-0002-5431-5978 & 0000-0003-2873-9555 # University at Buffalo, The State University of New York & StreamSage, Inc. # Raising doubts about Russian impersonals # 2004-10-17 # #
 The Russian data presented in Perlmutter and Moore (2002) seem to
 call into question the standard analysis of raising within Head-driven Phrase
 Structure Grammar (HPSG): In Russian, the case marking of the raising target 

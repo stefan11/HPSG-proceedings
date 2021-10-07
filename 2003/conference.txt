@@ -263,7 +263,7 @@ alternative to an Optimality Theoretic system of ranked violable
 constraints.
 
 
-Koenig, Jean-Pierre & Davis, Anthony # 0000-0002-5431-5978 & # University at Buffalo, SUNY # Semantically transparent linking in HPSG # 2003-10-01 # #
+Koenig, Jean-Pierre & Davis, Anthony # 0000-0002-5431-5978 & 0000-0003-2873-9555 # University at Buffalo, SUNY # Semantically transparent linking in HPSG # 2003-10-01 # #
 Most researchers now agree that subcategorization correlates
 significantly with semantics. But this semantic component of linking has
 proved elusive. Most, if not all, theories of linking have, in pratice,

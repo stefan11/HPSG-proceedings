@@ -23,13 +23,14 @@ use MIME::Base64 qw(encode_base64);
 
 require './config.pl';
 
-$url = "http://www.stanford.edu/group/cslipublications/cslipublications/${conf_name}/${year}";
-
 $location = Encode::decode("utf8", $location);
 $maintainer = Encode::decode("utf8", $maintainer);
 $editors_string = Encode::decode("utf8", $editor);
+$conf_date = Encode::decode("utf8", $conf_date);
 
-$today = $today = `date +'%Y-%m-%d'`; chop($today);
+$today = `date +'%Y-%m-%d'`; chop($today);
+
+$published = $today unless ($published);
 
 # global counters for the whole XML document
 
@@ -295,6 +296,8 @@ $filesize = -s "$conf_file.pdf";
 
 open (XML, ">:utf8", "$conf_file.xml");
 
+# remove newlines in location for XML
+$location =~ s/<br>//g;
 
 print XML <<EOF;
 <?xml version='1.0' encoding='UTF-8'?>
@@ -305,7 +308,7 @@ print XML <<EOF;
         <year>$year</year>
         <title locale="en_US">$proc_title</title>
     </issue_identification>
-    <date_published>$today</date_published>
+    <date_published>$published</date_published>
     <last_modified>$today</last_modified>
   <issue_galleys>
     <issue_galley locale="en_US">
@@ -339,6 +342,10 @@ EOF
 # first reinitialize the counters and lists and set back the file handle
 
 $page_end = $page_offset;
+
+$publication_id = 0;
+$author_id      = 0;
+
 
 # initialize the authors list. Needed to be able to deal with frequent names (Lee, Wang, ...)
 %authors = {};
@@ -1225,6 +1232,25 @@ sub print_record_xml{
 $filesize = -s $pdf_file;
 
 $abstract=~ s/\&/\&amp;/g;
+$abstract=~ s/</\&lt;/g;
+$abstract=~ s/>/\&gt;/g;
+$abstract=~ s/<q>/"/g;
+$abstract=~ s/<\/q>/"/g;
+$abstract=~ s/`/&#715;/g;
+
+
+
+# OJS does not allow for HTML in titles. This may be fixed sometime. For now I remove italics. St. Mü. 30.09.2021
+$title=~ s/<em>//g;
+$title=~ s/<\/em>//g;
+
+$title=~ s/<q>/"/g;
+$title=~ s/<\/q>/"/g;
+$title=~ s/`/&#715;/g;
+
+# line breaks are needed for LaTeX typesetting. Remove them in XML
+$title=~ s/<br>//g;
+
 
   print XML <<EOF;
   <article status="3" submission_progress="0" stage="production" date_submitted="$date">
@@ -1244,6 +1270,7 @@ while (read(FILE, $buf, 60*57)) {
       </file>
     </submission_file>
     <publication locale="en_US" version="1" status="3" seq="$publication_id" date_published="$date" section_ref="ART" access_status="0">
+      <id type="doi" advice="update">$doi</id>
       <title locale="en_US">$title</title>
       <abstract locale="en_US">
 &lt;p&gt;$abstract&lt;/p&gt;</abstract>
@@ -1264,7 +1291,7 @@ print_authors_xml($authors,$orcids,$affiliations);
         <year>$year</year>
         <title locale="en_US">$proc_title</title>
       </issue_identification>
-      <pages>$page_start-$page_end</pages>
+      <pages>$page_start–$page_end</pages>
     </publication>
   </article>
 EOF
@@ -1326,7 +1353,7 @@ $no_affs=@affiliations;
 #    <orcid>0000-0000-0000-0000</orcid>
 #    <biography locale="en_US">Lorem Ipsum</biography>
 
-     @orcids[$i] = "0000-0000-0000-0000" unless @orcids[$i];
+#     @orcids[$i] = "0000-0000-0000-0000" unless @orcids[$i];
 
 print XML <<EOF;
         <author include_in_browse="true" user_group_ref="Author" seq="$author_seq" id="$author_id">
@@ -1335,7 +1362,11 @@ print XML <<EOF;
         <affiliation locale="en_US">$affiliation</affiliation>
         <country>FK</country>
         <email>zaspil\@ojs.example</email>
-        <orcid>@orcids[$i]</orcid>
+EOF
+        if (@orcids[$i]) {
+            print XML "        <orcid>https://orcid.org/@orcids[$i]</orcid>\n";
+        }
+print XML <<EOF;
         </author>
 EOF
 
