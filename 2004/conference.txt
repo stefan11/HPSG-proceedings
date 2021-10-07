@@ -96,7 +96,7 @@ items within the scope of negation. The bi-directional set-up is essential, for 
 and semantic variation go hand in hand.
 
 
-Egg, Markus # # Universität Saarbrücken # Mismatches at the syntax-semantics interface # 2004-10-01 # #
+Egg, Markus # 0000-0002-7351-9175 # Universität Saarbrücken # Mismatches at the syntax-semantics interface # 2004-10-01 # #
 Recent analyses of mismatches at the syntax-semantics interface 
 investigate e.g. modification of agentive nouns (Larson, 1998), 
 modification of quantifying pronouns (Abney, 1987), or recursive 
