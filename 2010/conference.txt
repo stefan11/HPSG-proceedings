@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Alahverdzhieva, Katya  & Lascarides, Alex # UNiversity of Edinburgh # Analysing Speech and Co-Speech Gesture in Constraint-based Grammars # October 13, 2010 # #
+Alahverdzhieva, Katya & Lascarides, Alex # & 0000-0003-1704-1864 # University of Edinburgh # Analysing speech and co-speech gesture in constraint-based grammars # 2010-10-13 # #
 This paper addresses the form-meaning relation of multimodal communicative actions by means of a
 grammar that combines verbal input with hand gestures. Unlike speech, gesture signals are
 interpretable only through their semantic relation to the synchronous speech content. This relation
@@ -9,7 +9,7 @@ that by using standard linguistic methods, speech and gesture can be integrated 
 into a single derivation tree which maps to a uniform meaning representation.
 
 
-Assmann, Anke &  Heck, Fabian & Hein, Johannes & Keine, Stefan  & Müller,  Gereon # Universität Leipzig # Does Chain Hybridization in Irish Support Movement-Based Approaches to Long-Distance Dependencies? # October 15, 2010 # #
+Assmann, Anke & Heck, Fabian & Hein, Johannes & Keine, Stefan & Müller, Gereon # & & 0000-0002-3445-8197 & 0000-0002-7134-4017 & # Universität Leipzig # Does chain hybridization in Irish support movement-based approaches to long-distance dependencies? # 2010-10-15 # #
 Huybregts (2009) makes the claim that hybrid A'-chains in Irish favor
 derivational theories of syntax over representational ones such as HPSG. In
 this paper, we subject this assertion to closer scrutiny. Based on a new technical proposal, we will reach the conclusion that, in principle, both derivational
@@ -17,7 +17,7 @@ and representational accounts can accomodate hybrid dependencies. Thus, no
 argument against either approach can be made on the basis of the Irish data,
 disconfirming Huybregts's (2009) claim.
 
-Arnold, Doug  & Borsley, Robert D. # 0000-0002-3685-8450 & # University of Essex # Auxiliary-Stranding Relative Clauses # October 14, 2010 # #
+Arnold, Doug & Borsley, Robert D. # 0000-0002-3685-8450 & 0000-0002-4856-4732 # University of Essex # Auxiliary-stranding relative clauses # 2010-10-14 # #
 A little discussed feature of English are non-restrictive relative clauses in which the antecedent
 is normally not an NP and the gap follows an auxiliary, as in <em>Kim will sing, which Lee won't</em>. These
 relative clauses resemble clauses with auxiliary complement ellipsis or fronting. There are a
@@ -26,7 +26,7 @@ analysis is one where <em>which</em> is a nominal filler associated with a gap w
 non-nominal: a filler-gap mismatch analysis in other words.
 
 
-Bildhauer, Felix  & Cook, Philippa # Freie Universität Berlin# German Multiple Fronting and Expected Topic-Hood # October 13, 2010 # #
+Bildhauer, Felix & Cook, Philippa # 0000-0002-6567-5987 & # Freie Universität Berlin # German multiple fronting and expected topic-hood # 2010-10-13 # #
 This papers addresses information-structural restrictions on the occurrence of what is known as
 "multiple fronting" in German. Multiple fronting involves the realization of (what appears to be)
 more than one constituent in the first position of main clause declaratives, a clause type that
@@ -38,7 +38,7 @@ analyze in terms of two distinct constructions, each instantiating a specific pa
 meaning and contextual appropriateness.
 
 
-Borsley, Robert D # University of Essex # An HPSG Approach to Welsh Unbounded Dependencies # October 13, 2010 # #
+Borsley, Robert D. # 0000-0002-4856-4732 # University of Essex # An HPSG approach to Welsh unbounded dependencies # 2010-10-13 # #
 Welsh is a language in which unbounded dependency constructions involve both gaps and resumptive
 pronouns (RPs). Gaps and RPs appear in disjoint sets of environments. Otherwise, however, they are
 quite similar. This suggests that they involve the same mechanism, and in HPSG that they involve the
@@ -46,7 +46,7 @@ SLASH feature. It is possible to provide an analysis in which RPs are associated
 feature but are also the ordinary pronouns which they appear to be.
 
 
-Chaves, Rui P. # 0000-0003-0820-6145 # University at Buffalo # On the Syntax and Semantics of <em>vice versa</em> # October 16, 2010 # #
+Chaves, Rui P. # 0000-0003-0820-6145 # University at Buffalo # On the syntax and semantics of <em>vice versa</em> # 2010-10-16 # #
 This work focuses on the syntax and semantics of the expression <em>vice
 versa</em>, and shows that its syntactic distribution is much more flexible than
 semantically related expressions. Although <em>vice versa</em> usually appears in
@@ -62,7 +62,7 @@ along the lines of Pustejovsky (1995)), and pragmatics (drawing from independent
 work by Hobbs (1990) and Kehler (2002)).
 
 
-Cook, Philippa & Ørsnes, Bjarne # Freie Universität Berlin # Coherence with adjectives in German # October 13, 2010 # #
+Cook, Philippa & Ørsnes, Bjarne # & 0000-0003-2046-2029 # Freie Universität Berlin # Coherence with adjectives in German # 2010-10-13 # #
 Coherence generally refers to a kind of predicate formation
 where a verb forms a complex predicate with the head of its
 infinitival complement. Adjectives taking infinitival complements have
@@ -91,8 +91,8 @@ verbal property. Finally we provide an analysis of
 coherence with adjectives within HPSG.
 
 
-Flickinger, Dan # Stanford University # Prescription and Explanation:
-Using an HPSG implementation to teach writing skills # October 21, 2010 # no #
+Flickinger, Dan # 0000-0001-7959-999X # Stanford University # Prescription and explanation:
+Using an HPSG implementation to teach writing skills # 2010-10-21 # no #
 Computational linguists who develop grammar implementations often begin
 with the motivation to encode their hypotheses about the particular
 structures and the general principles which illuminate the analysis of a
@@ -163,15 +163,14 @@ Writing of Second Language Learners," in Proceedings of Coling-ACL, pp.
 1198-1204.  Montreal.
 
 
-Hemforth, Barbara & Fayol, Michel & Pacton, Sébastien # LPNCog, CNRS, IUPPD-Université Paris-Descartes & LAPSCO, CNRS, Université Blaise Pascal, Clermont-Ferrand & LPNCog, CNRS, IUPPD-Université Paris-Descartes  # Usage-based Preferences in Written Sentence
- Production: The Role of Local and Global Statistics # October 20, 2010 # #
+Hemforth, Barbara & Fayol, Michel & Pacton, Sébastien # 0000-0001-8371-1323 & & # LPNCog, CNRS, IUPPD-Université Paris-Descartes & LAPSCO, CNRS, Université Blaise Pascal, Clermont-Ferrand & LPNCog, CNRS, IUPPD-Université Paris-Descartes  # Usage-based preferences in written sentence production: The role of local and global statistics # 2010-10-20 # #
 In this paper, we will discuss the role of different levels of frequency distributions in sentence
 processing and in written production, looking at French homophones. A comparison of experimental
 data and corpus statistics will demonstrate that lexical frequencies as well as local and global
 coherences have to be taken into account to fully explain the empirically established patterns.
 
 
-Islam, Md. Sadiqul & Masum, Mahmudul Hasan & Bhuyan, Md. Shariful Islam  & Ahmed, Reaz # Bangladesh University of Engineering and Technology, Dhaka # Arabic Nominals in HPSG: A Verbal Noun Perspective # October 18, 2010 # #
+Islam, Md. Sadiqul & Masum, Mahmudul Hasan & Bhuyan, Md. Shariful Islam & Ahmed, Reaz # & & 0000-0002-2221-9439 & 0000-0003-0012-2107 # Bangladesh University of Engineering and Technology, Dhaka # Arabic nominals in HPSG: A verbal noun perspective # 2010-10-18 # #
 Semitic languages exhibit rich nonconcatenative morphological operations, which can generate a myriad of 
 derived lexemes. Especially, the feature rich, root-driven morphology in the Arabic language demonstrates the 
 construction of several verb-derived nominals (verbal nouns) such as gerunds, active participles, passive 
@@ -181,7 +180,7 @@ Arabic nominals and various verb-derived nouns. We also present the lexical type
 for generating these verb-derived nominals using the HPSG framework.
 
 
-Kim, Jong-Bok & Yang, Jaehyung & Song, Sanghoun # Kyung Hee & Kangnam & University of Washington  # Korean Comparative Constructions: A Constraint-Based Approach and Computational Implementation # October 25, 2010 # # 
+Kim, Jong-Bok & Yang, Jaehyung & Song, Sanghoun # 0000-0003-3286-0446 & & 0000-0002-4234-232X # Kyung Hee & Kangnam & University of Washington # Korean comparative constructions: A constraint-based approach and computational implementation # 2010-10-25 # # 
 The complexity of comparative constructions in each language has given challenges to both
 theoretical and computational analyses. This paper first identifies types of comparative
 constructions in Korean and discusses their main grammatical properties. It then builds a syntactic
@@ -193,19 +192,19 @@ proper semantic representations though further development is needed for a finer
 contextual information.
 
 
-Koenig, Jean-Piere & Michelson, Karin # Buffalo University # Invariance in argument realization: The case of Iroquoian # # no #
+Koenig, Jean-Piere & Michelson, Karin # 0000-0002-5431-5978 & # Buffalo University # Invariance in argument realization: The case of Iroquoian # # no #
 
 
-Levine, Robert # Ohio State University # Polarity and auxiliaryhood (pseudo)entanglement: the ellipsis pattern of modal need # # no #
+Levine, Robert # # Ohio State University # Polarity and auxiliaryhood (pseudo)entanglement: The ellipsis pattern of modal need # # no #
 
 
-Maché, Jacob # Freie Universität Berlin # Towards a compositional analysis of verbless directives in German # October 13, 2010 # no # 
+Maché, Jakob # 0000-0001-8567-1185 # Freie Universität Berlin # Towards a compositional analysis of verbless directives in German # 2010-10-13 # no # 
 This talk dealt with verbless directives in German consisting of a directive PP and a 'mit'-PP ('with'). The main claim was that a compositional analysis would be possible: first of all, the  PP+'mit'+NP pattern is not restricted to directive meaning, it can be found with 'wh'-morphology and embedded under a small class of predicates. The impossibility of declarative illocutionary force is due to the lack of finiteness. Second, it turned out that directive PPs are indeed predicates and therefore PP+'mit'+NP pattern are part of a more general phenomenon particular to all types of non-finite predicates.
 Third, it seems that the 'mit'-PP could be analysed as a manifestation of the THEME argument with structural case in the distribution of a directive phrase.
 paper not submitted, since it will appear elsewhere
 
 
-Melnik, Nurit # Oranim AC # Modal Predicates in Modern Hebrew # October 26, 2010 # no # 
+Melnik, Nurit # 0000-0002-0610-915X # Oranim AC # Modal predicates in Modern Hebrew # 2010-10-26 # no # 
 Modern Hebrew has different types of modal expressions whose syntactic
 category is subject to ongoing debates. This study focuses on a subset:
 predicative expressions which appear with infinitival VPs. The analysis
@@ -220,7 +219,7 @@ and agreement patterns, as well as evidence for a flat constituent
 structure, thus motivating a complex predicate analysis.
  
 
-Sailer, Manfred # Univesity of Göttingen # The Family of English Cognate Object Constructions # October 16, 2010 # #
+Sailer, Manfred # 0000-0002-1693-8859 # University of Göttingen # The family of English cognate object constructions # 2010-10-16 # #
 In the Cognate Object Construction (COC) a typically intransitive verb
 combines with a postverbal noun phrase whose head noun is morphologically
 or semantically cognate to the verb. I will argue that English has a
@@ -233,7 +232,7 @@ hierarchy on lexical rule sorts to model the family relations among the
 different COC types.
 
 
-Samvelian, Pollet  & Tseng, Jesse # Université de Paris 3 & CNRS & Université de Toulouse 2 # Persian Object Clitics and the Syntax-Morphology Interface # October 18, 2010 # #
+Samvelian, Pollet & Tseng, Jesse # 0000-0002-6622-4117 & # Université de Paris 3 & CNRS & Université de Toulouse 2 # Persian object clitics and the syntax-morphology interface # 2010-10-18 # #
 This paper presents a descriptive overview and formal analysis of the use of pronominal clitics for
 realizing various types of arguments in Persian, with particular emphasis on object clitics in the
 verbal domain. We argue that pronominal clitics behave more like suffixes than independent syntactic
