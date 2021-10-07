@@ -25,7 +25,7 @@ such alternations, and propose instead a model that derives alternations from
 the lexical entailments each verb associates with the alternating participant.
 
 
-Bertomeu, Núria  & Kordoni, Valia # & # Saarland University # Integrating pragmatic information in grammar. An analysis of intersentential ellipsis # 2005-10-17 # #
+Bertomeu, Núria  & Kordoni, Valia # & 0000-0002-7515-427X # Saarland University # Integrating pragmatic information in grammar. An analysis of intersentential ellipsis # 2005-10-17 # #
 In this paper we present a proposal to integrate pragmatic
 information, both from the preceding discourse and the
 extra-linguistic context, in the grammar. We provide an analysis of
@@ -69,7 +69,7 @@ the concept of a Matrix <q>module</q> and our software that enables grammar writ
 to easily produce an extensible starter grammar.
 
 
-Flickinger, Dan & Koller, Alexander & Thater, Stafan # 0000-0001-7959-999X & 0000-0002-5317-6689 & # Stanford University & Universität des Saarlands & Universität des Saarlands # A new well-formedness criterion for semantics debugging # 2005-10-17 # #
+Flickinger, Dan & Koller, Alexander & Thater, Stefan # 0000-0001-7959-999X & 0000-0002-5317-6689 & # Stanford University & Universität des Saarlands & Universität des Saarlands # A new well-formedness criterion for semantics debugging # 2005-10-17 # #
 We present a novel well-formedness condition for underspecified semantic
 representations which requires that every correct MRS representation must be a
 net. We argue that (almost) all correct MRS representations are indeed nets,

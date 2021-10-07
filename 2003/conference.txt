@@ -128,7 +128,7 @@ precedes a focus element, and (ii) in English a  <em>wh</em>-phrase
 and a complementizer competes with each other for the same
 position.
 
-De Kuthy, Kordula & Meurers, W. Detmar # & 0000-0002-9740-7442 # Ohio State University # Dealing with optional complements in HPSG-based grammar implementations # 2003-10-01 # #
+De Kuthy, Kordula & Meurers, W. Detmar # 0000-0003-2318-3754 & 0000-0002-9740-7442 # Ohio State University # Dealing with optional complements in HPSG-based grammar implementations # 2003-10-01 # #
 This paper discusses how the English Resource Grammar (ERG)
 captures the optionality of certain complements of verbs based on
 a single lexical entry coupled with an ontology of markings
@@ -152,7 +152,7 @@ HPSG-based grammars should include both universal implicational
 principles as well as definite clauses over feature terms.
 
 
-De Kuthy, Kordula & Meurers, W. Detmar # & 0000-0002-9740-7442 # Ohio State University # The secret life of focus exponents, and what it tells us about fronted verbal projections # 2003-10-01 # #
+De Kuthy, Kordula & Meurers, W. Detmar # 0000-0003-2318-3754 & 0000-0002-9740-7442 # Ohio State University # The secret life of focus exponents, and what it tells us about fronted verbal projections # 2003-10-01 # #
 The paper investigates a complex word order phenomenon in German
 and the interaction of syntax and information structure it
 exemplifies: the occurrence of subjects as part of a fronted
