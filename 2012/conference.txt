@@ -67,7 +67,7 @@ meanings, explicitly models the role of the speech time and the event times invo
 aspectual constraints of tenses into consideration.   
 
 
-Crowgey, Joshua  # University of Washington # An a priori Typology of Sentential Negation from an HPSG Perspective # October 15, 2012 # # 
+Crowgey, Joshua  # mailed # University of Washington # An a priori Typology of Sentential Negation from an HPSG Perspective # October 15, 2012 # # 
 In this paper I explore the logical range of sentential negation types predicted by the theory of
 HPSG. I find that typological surveys confirm that attested simple negation strategies neatly line
 up with the types of lexical material given by assuming Lexical Integrity and standard Phrase
@@ -75,7 +75,7 @@ Structure Grammar dependencies. I then extend the methodology to bipartite negat
 space of predicted sentential negation types. I present details of the analysis for each type and
 relevant examples where possible.  
 
-Crowgey, Joshua # University of Washington # What's a Morpheme? The Zero Dravidian Negative and Typological Universals # October 18, 2012 # no # 
+Crowgey, Joshua # mailed #University of Washington # What's a Morpheme? The Zero Dravidian Negative and Typological Universals # October 18, 2012 # no # 
 In this poster, I draw attention to a putative
 typological universal, the <q>morphemic</q> realization of negation and a potential counterexample
 found in Old Kannada.  I explore the relationship by casting the problem within the ontology

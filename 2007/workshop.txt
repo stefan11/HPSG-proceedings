@@ -60,7 +60,7 @@ analyses that do not assume empty elements but require that the subject is reali
 configuration.
 
 
-Sag, Ivan A. # # Stanford University # Remarks on locality # 2007-10-22 # #
+Sag, Ivan A. # no # Stanford University # Remarks on locality # 2007-10-22 # #
 This paper proposes a modification of HPSG theory&mdash;Sign-Based Construction Grammar&mdash;that
 incorporates a strong theory of both selectional and constructional locality. A number of
 empirical phenomena that give the appearance of requiring nonlocal constraints are given a

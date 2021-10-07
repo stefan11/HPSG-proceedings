@@ -937,11 +937,11 @@ s{^\s+|\s+$}{}g foreach @record;
 
         #print "$pdf_file: ($numberofpages) $page_start-$page_end\n";
 
-           make_bibtex(@record);
+#           make_bibtex(@record);
            
-          print_warning("Keywords empty!") unless ($record[6]);
+#          print_warning("Keywords empty!") unless ($record[6]);
 
-          make_proceedings_part(@record);
+#          make_proceedings_part(@record);
            
        };
    };
@@ -1256,7 +1256,7 @@ $title=~ s/<br>//g;
   <article status="3" submission_progress="0" stage="production" date_submitted="$date">
     <submission_file id="1" file_id="1" stage="proof" updated_at="$today" viewable="false" genre="Article Text" uploader="ojs_admin">
       <name locale="en_US">$pdf_file</name>
-      <file id="1" filesize="$filesize" extension="pdf">
+      <file id="$publication_id" filesize="$filesize" extension="pdf">
         <embed encoding="base64">
 EOF
 
@@ -1363,8 +1363,10 @@ print XML <<EOF;
         <country>FK</country>
         <email>zaspil\@ojs.example</email>
 EOF
-        if (@orcids[$i]) {
+        if (@orcids[$i] =~ /-/) { # contains dash
             print XML "        <orcid>https://orcid.org/@orcids[$i]</orcid>\n";
+        } elsif (@orcids[$i] ne "no" && @orcids[$i] ne "mailed" && @orcids[$i] ne "unknown") {
+            print_warning("No ORCID for $firstname $lastname, $affiliation!\n\n");
         }
 print XML <<EOF;
         </author>

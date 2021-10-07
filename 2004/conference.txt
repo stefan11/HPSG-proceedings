@@ -2,7 +2,7 @@
 
 
 
-Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # 0000-0002-9187-2298 & 0000-0003-0688-3855 & & # Universite Paris 7 # The syntax of French N′ phrases # 2004-10-14 # # 
+Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # 0000-0002-9187-2298 & 0000-0003-0688-3855 & & mailed # Universite Paris 7 # The syntax of French N′ phrases # 2004-10-14 # # 
 Of all French functional elements, the form <em>de</em> has without question the widest
 variety of uses, and presents the greatest challenge for linguistic description
 and analysis.  Historically a preposition, it still has a number of
@@ -32,7 +32,7 @@ independently motivated theoretical apparatus, and requires absolutely no new
 structures, features, or types.
 
 
-Beavers, John & Sag, Ivan A. # & # University of Texas & Standford University # Coordinate ellipsis and apparent non-constituent coordination # 2004-10-25 # #
+Beavers, John & Sag, Ivan A. # & no # University of Texas & Standford University # Coordinate ellipsis and apparent non-constituent coordination # 2004-10-25 # #
 Within the tradition of Categorial Grammar, so-called
 `non-constituent' coordination (`argument cluster' coordination and
 `right node raising') has been analyzed in terms of the coordination

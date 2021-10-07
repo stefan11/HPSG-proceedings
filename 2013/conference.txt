@@ -39,7 +39,7 @@ analysis addresses these issues, unifying the treatment of three types of copula
 we identify in MH. The analysis is implemented as part of a larger-scale grammar, and is extensively
 tested.
 
-Holler, Anke # University of Göttingen # Reanalyzing {German} Correlative <em>es</em> # October 15, 2013 # # 
+Holler, Anke # mailed # University of Göttingen # Reanalyzing {German} Correlative <em>es</em> # October 15, 2013 # # 
 The present article discusses several aspects of the
 so-called correlate-<em>es</em> construction in German. This complex clausal
 construction can be identified by a correlative nominal element <em>es</em>

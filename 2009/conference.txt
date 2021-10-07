@@ -81,7 +81,7 @@ We address three properties of Turkish morphology and
  implemented in a small HPSG grammar and tested against datasets
  confirming the functionality and consistency of the analysis.
 
-Holler, Anke # # University of Göttingen # Towards an analysis of the adverbial use of German interrogative <em>was</em>
+Holler, Anke # mailed # University of Göttingen # Towards an analysis of the adverbial use of German interrogative <em>was</em>
 (`what') # 2009-10-15 # #
 The paper discusses the so-called adverbial use of the <em>wh</em>-pronoun
 <em>was</em> (`what'), which establishes a non-standard interrogative
@@ -118,7 +118,7 @@ Resource Semantics, whose constraint-based composition mechanisms directly
 support a systematic syntax-semantics for negative concord with polyadic
 quantification.
 
-Kay, Paul & Sag, Ivan A. # & # University of California, Berkeley & Stanford University # How hard a problem would this be to solve? # 2009-10-14 # #
+Kay, Paul & Sag, Ivan A. # mailed & no # University of California, Berkeley & Stanford University # How hard a problem would this be to solve? # 2009-10-14 # #
 This paper analyzes the interrelation
 of two understudied phenomena of English: 
 discontinuous modifier phenomenon (<strong>so</strong> <em>willing to help
@@ -229,7 +229,7 @@ either restrict the surface representation or relate it to the underlying form.
 
 // Cognition Langues Langage Ergonomie Équipe de recherche en syntaxe et sémantique
 
-Tseng, Jesse # # CLLE-ERSS UMR 5263 CNRS § University of Toulouse # Phonological change and grammaticalization in HPSG: The case of French final consonants # 2009-10-15 # #
+Tseng, Jesse # mailed # CLLE-ERSS UMR 5263 CNRS § University of Toulouse # Phonological change and grammaticalization in HPSG: The case of French final consonants # 2009-10-15 # #
 This paper explores the use of HPSG for modeling historical phonological change and
 grammaticalization, focusing on the evolution of the pronunciation of word-final consonants in
 Modern French. The diachronic evidence is presented in detail, and interpreted as two main

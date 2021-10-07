@@ -92,7 +92,7 @@ compounds, which are fully productive; and lexical compounds, which
 are of varying productivity.
 
 
-Holler, Anke # # University of Heidelberg # On non-canonical clause linkage # 2005-10-10 # #
+Holler, Anke # mailed # University of Heidelberg # On non-canonical clause linkage # 2005-10-10 # #
 The present paper investigates a certain subset of clause linkage
 phenomena and develops a constraint-based account to the empirical
 fact that clauses need to be distinguished with respect to their degree of
@@ -145,7 +145,7 @@ individuals and degrees) rather than properties formed out of gradable
 adjectives.
 
 
-Kim, Jong-Bok & Sag, Ivan A. # 0000-0003-3286-0446 & # Kyung Hee University & Stanford University # English object extraposition:<br> A constraint-based approach # 2005-10-26 # #
+Kim, Jong-Bok & Sag, Ivan A. # 0000-0003-3286-0446 & no # Kyung Hee University & Stanford University # English object extraposition:<br> A constraint-based approach # 2005-10-26 # #
 According to the Projection Principle (Chomsky 1981), expletives have
 no semantic content and thus cannot occur in theta-marked positions. However, 
 there are many examples where expletive <em>it</em> appears as a direct object, 
@@ -186,7 +186,7 @@ analysis of the semantic structure of complex predicates that accounts
 for the empirical observation straightforwardly.
 
 
-Kupść, Anna & Tseng, Jesse # 0000-0001-7820-4757 & # Polish Academy of Sciences and CNRS, Loria & CNRS, Loria  # A new HPSG approach to Polish auxiliary constructions # 2005-10-18 # #
+Kupść, Anna & Tseng, Jesse # 0000-0001-7820-4757 & mailed # Polish Academy of Sciences and CNRS, Loria & CNRS, Loria  # A new HPSG approach to Polish auxiliary constructions # 2005-10-18 # #
 This paper presents an analysis of constructions involving the
 l-form of the verb in Polish, including primarily the past
 tense, the conditional mood, and the future tense. Previous approaches
@@ -274,7 +274,7 @@ lexical rule-based approaches.
 Runner, Jeffrey T. # 0000-0001-6818-0632 # University of Rochester # Conferential and bound variable interpretations: An experimental investigation # # no #
 
 
-Sag, Ivan A. # # Stanford University # Adverb extraction and coordination:<br> A reply to Levine # 2005-10-26 # #
+Sag, Ivan A. # no # Stanford University # Adverb extraction and coordination:<br> A reply to Levine # 2005-10-26 # #
 HPSG accounts of filler-gap dependencies hold considerable
 potential for explaining the cross-linguistic variation in
 unbounded dependency constructions (UDCs), specifically filler-gap

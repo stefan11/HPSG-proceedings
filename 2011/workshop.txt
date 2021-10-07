@@ -45,7 +45,7 @@ show that the FQ introduces new information in discourse and as default sets
 off rheme in the thematic structure. This functional analysis can provide an
 answer to several puzzling contrasts we observe in the distribution of the FQ.
 
-Light, Caitlin # # University of Pennsylvania # The information structure of subject extraposition in Early New High German # 2011-11-16 # # 
+Light, Caitlin # mailed # University of Pennsylvania # The information structure of subject extraposition in Early New High German # 2011-11-16 # # 
 This paper investigates the information-structural characteristics of extraposed subjects in Early
 New High German (ENHG). Based on new quantitative data from a parsed corpus of ENHG, I will argue
 that unlike objects, subjects in ENHG have two motivations for extraposing. First, subjects may
@@ -60,7 +60,7 @@ broader set of crosslinguistic focus phenomena which demonstrate a subject-objec
 (cf. Hartmann and Zimmermann 2007, Skopeteas and Fanselow 2010), raising important questions about
 the relationship between argument structure and information structural notions.
 
-Marandin, Jean-Marie # # CNRS, Université Paris Diderot # Subject inversion in French: The limits of information structure # 2011-11-16 # #
+Marandin, Jean-Marie # mailed # CNRS, Université Paris Diderot # Subject inversion in French: The limits of information structure # 2011-11-16 # #
 My objective here is to assess the relevance of information structural notions for analyzing subject 
 inversion in French. Subject inversion is not a unified phenomenon. In fact, there are three distinct 
 constructions featuring an inverted subject. I show that the sentences do not have the same informational 
@@ -83,7 +83,7 @@ structure-based MT system that we propose in this paper reduces the number of tr
 for Japanese and 80.23% for Korean. The dramatic reductions in the number of translations is
 expected to make a contribution to our HPSG/MRS-based MT in terms of latency as well as accuracy.
 
-Stevens, Jon # # University of Pennsylvania # Information structure as parallel tree building # 2011-11-16 # #
+Stevens, Jon # mailed # University of Pennsylvania # Information structure as parallel tree building # 2011-11-16 # #
 This paper presents a Synchronous Tree Adjoining Grammar (STAG) account of Information Structure,
 whereby Givenness-marking requires a link between nodes on a syntactic tree and LF nodes whose
 interpretation is supplied by a contextually determined set of Given semantic objects.  By

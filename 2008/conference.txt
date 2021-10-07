@@ -161,7 +161,7 @@ anaphoric constructions in classifier languages. Such an analysis does not only 
 intuition of native speakers but also have an appeal from the perspective of the universality of
 languages.
 
-Tseng, Jesse # # CNRS & University of Toulouse # The representation of syllable structure in HPSG # 2008-10-16 # #
+Tseng, Jesse # mailed # CNRS & University of Toulouse # The representation of syllable structure in HPSG # 2008-10-16 # #
 This paper proposes a representation for syllable structure in HPSG, building on previous work by
 Bird and Klein (1994), Höhle (1999), and Crysmann (2002). Instead of mapping segments into a a
 separate part of the sign where syllables are represented structurally, information about

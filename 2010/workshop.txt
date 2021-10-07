@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Brown, Dunstan & Evans, Roger # 0000-0002-8428-7592 & # University of Surrey & University of Brighton # Inflectional defaults and principal parts: An empirical investigation # 2010-10-16 # #
+Brown, Dunstan & Evans, Roger # 0000-0002-8428-7592 & mailed # University of Surrey & University of Brighton # Inflectional defaults and principal parts: An empirical investigation # 2010-10-16 # #
 We describe an empirical method to explore and contrast the roles of default and principal part
 information in the differentiation of inflectional classes. We use an unsupervised machine learning
 method to classify Russian nouns into inflectional classes, first with full paradigm information,
@@ -36,7 +36,7 @@ morphological integration of initial markers and haplology of final markers both
 feature approach over phrasal affixation.
 
 
-Léonard, Jean-Léo & Kihm, Alain # & 0000-0002-9190-2258 # Paris 3, IUF & CNRS, Paris 7 # Verb inflection in Chiquihuitlán Mazatec: A fragment and a PFM approach # 2010-10-15 # #
+Léonard, Jean-Léo & Kihm, Alain # mailed & 0000-0002-9190-2258 # Paris 3, IUF & CNRS, Paris 7 # Verb inflection in Chiquihuitlán Mazatec: A fragment and a PFM approach # 2010-10-15 # #
 Mazatec is an Eastern Otomanguean language spoken by about 200,000 people, located in the
 northeastern part of the state of Oaxaca, Mexico. The present paper aims to shed new light on
 Mazatec verb inflection within the framework of current research on Otomanguean phonology and
@@ -46,7 +46,7 @@ regular. Realizational approaches, in particular Paradigm Function Morphology (P
 adequate to capture such regularities.
 
 
-Singh, Smriti & Sarma, Vaijayanthi M # & # Indian Institute of Technology Bombay # Hindi noun inflection and distributed morphology # 2010-10-18 # #
+Singh, Smriti & Sarma, Vaijayanthi M. # unknown & unknown # Indian Institute of Technology Bombay # Hindi noun inflection and distributed morphology # 2010-10-18 # #
 This paper primarily presents an analysis of nominal inflection in Hindi within the framework of
 Distributed Morphology (Halle & Marantz 1993, 1994 and Harley and Noyer 1999). Müller (2002, 2003,
 2004) for German, Icelandic and Russian nouns respectively and Weisser (2006) for Croatian nouns
@@ -130,7 +130,7 @@ classes, and that each inflection class is itself the pairing of a PARADIGM TEMP
 stem alternation. I illustrate with examples from the declensional morphology of Sanskrit.
 
 
-Tribout, Delphine # # LLF and Université Paris Diderot-Paris 7 # How many conversions from verb to noun are there in French? # 2010-10-01 # #
+Tribout, Delphine # mailed # LLF and Université Paris Diderot-Paris 7 # How many conversions from verb to noun are there in French? # 2010-10-01 # #
 In this paper, I discuss verb to noun conversion in French. The properties of
 the input verb and the output noun are presented and a formal representation is
 proposed using the SBCG framework. The use of such a formalism based on

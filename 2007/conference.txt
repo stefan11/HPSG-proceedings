@@ -229,7 +229,7 @@ possibility of passivization. We also provide type hierarchies for verbal nouns 
 verbs.
 
 
-Tseng, Jesse # # CNRS & Université de Toulouse II # English prepositional passive constructions # 2007-10-15 # #
+Tseng, Jesse # mailed # CNRS & Université de Toulouse II # English prepositional passive constructions # 2007-10-15 # #
 An empirical overview of the properties of English prepositional
 passives is presented, followed by a discussion of formal approaches
 to the analysis of the various types of prepositional passives in

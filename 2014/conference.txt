@@ -9,7 +9,7 @@ Chaves, Rui P. & Dery, Jeruen E. # 0000-0003-0820-6145 & # University at Buffalo
 
 
 
-Cook, Philippa#Freie Universität Berlin#Between complex predicates and regular phrases: German collocational clusters#October 20,2014##
+Cook, Philippa# mailed # Freie Universität Berlin#Between complex predicates and regular phrases: German collocational clusters#October 20,2014##
 I argue for a new type of non-standard constituent in German; a modifier-collocational-cluster. This type of cluster combines (i) a modifier and (ii) a
 PP from a light-verb construction (or a Funktionsverbgefüge (FVG) as they are known in German) or a bare noun. Such strings are found in German in initial
 (prefield) position in certain cases of apparent multiple fronting. We are dealing with a syntax-semantics mismatch here since the modifier does not semantically modify the element with which it can first syntactically combine. I show that the modifier is a collocate of both its co-prefield element but also of the verb. I propose a schema which lexically licenses the building of such clusters and I show how we can encode information about what I refer to as collocational selection

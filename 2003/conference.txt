@@ -21,7 +21,7 @@ We present an HPSG analysis which treats the <Q>coordinating</Q> conjunctions as
 <Q>weak</Q> heads, with lexical subtypes, and coordinate phrases as multi-headed
 constructions, with  different subtypes.
 
-Abeillé, Anne & Godard, Danièle # 0000-0002-9187-2298 & # Université Paris 7 & LLF, CNRS # The syntactic flexibility of adverbs: French degree adverbs # 2003-10-01 # #
+Abeillé, Anne & Godard, Danièle # 0000-0002-9187-2298 & mailed # Université Paris 7 & LLF, CNRS # The syntactic flexibility of adverbs: French degree adverbs # 2003-10-01 # #
 While French degree words in French have been assigned several syntactic
 categories, we show that they are rather highy polymorphic adverbs (they occur
 in all syntactic domains), which select the expression they modify on a purely
@@ -35,7 +35,7 @@ characterize a subset of them can be shown to follow from, or be related to,
 their weight properties (Abeillé and Godard 2000). We conclude that their
 apparently idiosyncratic properties fit into a more general theory of grammar.
 
-Beavers, John # # Stanford University # More heads and less categories: A new look at noun phrase structure # 2003-10-01 # #
+Beavers, John # mailed # Stanford University # More heads and less categories: A new look at noun phrase structure # 2003-10-01 # #
 Much literature in syntax has assumed that all noun phrases are
 categorically headed by the determiner or the noun, with well-formedness
 categorial in nature.  In this paper I develop a theory of noun phrase
@@ -107,7 +107,7 @@ semantic CONTENT values of the verb and the dative marker, together with the
 rules of semantic composition.
 
 
-Chung, Chan  & Kim, Jong-Bok # & 0000-0003-3286-0446 # Dongseo University & Kyung Hee University # Capturing word order asymmetries in English # 2003-10-01 # #
+Chung, Chan  & Kim, Jong-Bok # mailed & 0000-0003-3286-0446 # Dongseo University & Kyung Hee University # Capturing word order asymmetries in English # 2003-10-01 # #
 Left-Peripheral Constructions: A Domain-Based Approach
 Even though the word order in English is rather straightforward,
 the distributional possibilities of left-peripheral elements like
@@ -190,7 +190,7 @@ will necessarily contain both highly schematic and highly idiosyncratic
 rules.
 
 
-Gundel, Jeanette # # University of Minnesota # Information structure and referential givenness/newness: How much belongs in the grammar? # 2003-10-01 # #
+Gundel, Jeanette # no # University of Minnesota # Information structure and referential givenness/newness: How much belongs in the grammar? # 2003-10-01 # #
 This paper is concerned with such concepts as <Q>topic</Q>, <Q>focus</Q> and <Q>cognitive
 status</Q> of discourse referents, which have been included under the label
 <Q>information structure</Q> (alternatively <Q>information status</Q>), as they are related
@@ -207,7 +207,7 @@ represented in the grammar since they result from interaction of the language
 system with general pragmatic principles that constrain inferential processes
 involved in language production and understanding.
 
-Haji-Abdolhosseini, Mohammad # # University of Toronto # Constraint-based approach to information structure and prosody correspondence # 2003-10-01 # #
+Haji-Abdolhosseini, Mohammad # mailed # University of Toronto # Constraint-based approach to information structure and prosody correspondence # 2003-10-01 # #
 This paper provides a constraint-based account of
 information-prosody correspondence within the HPSG framework. The
 starting point of the paper is Klein's (2000) account of prosodic
@@ -220,7 +220,7 @@ captures many of the various constraints that have been shown to
 hold in classical views of grammar.
 
 
-Holler, Anke # # University of Heidelberg § TEMIS Deutschland # An HPSG analysis of the non-integrated <em>wh</em>-relative clauses in German # 2003-10-01 # #
+Holler, Anke # mailed # University of Heidelberg § TEMIS Deutschland # An HPSG analysis of the non-integrated <em>wh</em>-relative clauses in German # 2003-10-01 # #
 In this article, the so-called <em>wh</em>-relative clause construction is
 investigated. The German <em>wh</em>-relative clauses are syntactically relevant as they
 show both, root clause and subordinate clause properties. They matter
@@ -284,7 +284,7 @@ restricts the range of possible lexical items.
 
 
 
-Levine, Robert D. & Sag, Ivan A. # # Ohio State University & Stanford University # Some empirical issues in the grammar of extraction # 2003-10-01 # #
+Levine, Robert D. & Sag, Ivan A. # mailed & no # Ohio State University & Stanford University # Some empirical issues in the grammar of extraction # 2003-10-01 # #
 This paper compares transformation-based and constraint-based treatments of
 unbounded filler-gap dependencies, the latter specifically as articulated in
 terms of HPSG, and argues, contrary to the commonly made allegations of

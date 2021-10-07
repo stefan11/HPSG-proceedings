@@ -51,7 +51,7 @@ Haugereid, Petter # Western Norway University of Applied Sciences # An increment
 
 Hepburn-Gray, Robert # University at Buffalo (SUNY) # Against Split Morphology # October 15, 2017 # # In this paper I present data from several Niger Congo languages, illustrating how the paradigms which make up the noun class systems of these languages are problematic to analyze within traditional morphosyntactic frameworks. I outline possible solutions to this problem, and argue for the introduction of an exemplar based Word and Paradigm (Blevins 2006) approach to morphology within SBCG. I then outline the consequences of this approach for the structure of the SBCG lexicon. # SBCG, Word and Paradigm morphology, noun classes, Niger-Congo
 
-Kay, Paul & Michaelis, Laura # University of California, Berkeley & University of Colorado Boulder # Partial Inversion in English # November, 1st, 2017 # # A typical
+Kay, Paul & Michaelis, Laura # mailed & # University of California, Berkeley & University of Colorado Boulder # Partial Inversion in English # November, 1st, 2017 # # A typical
 finite clause in English has a single constituent that serves as subject.  This constituent precedes
 the finite verb in non-inverted clauses like simple declarative clauses, follows the finite verb in
 inverted clauses like polar questions, agrees in person and number with the finite verb and with a

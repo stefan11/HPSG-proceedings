@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Alahverdzhieva, Katya & Lascarides, Alex # & 0000-0003-1704-1864 # University of Edinburgh # Analysing speech and co-speech gesture in constraint-based grammars # 2010-10-13 # #
+Alahverdzhieva, Katya & Lascarides, Alex # 0000-0003-3942-257X & 0000-0003-1704-1864 # University of Edinburgh # Analysing speech and co-speech gesture in constraint-based grammars # 2010-10-13 # #
 This paper addresses the form-meaning relation of multimodal communicative actions by means of a
 grammar that combines verbal input with hand gestures. Unlike speech, gesture signals are
 interpretable only through their semantic relation to the synchronous speech content. This relation
@@ -9,7 +9,7 @@ that by using standard linguistic methods, speech and gesture can be integrated 
 into a single derivation tree which maps to a uniform meaning representation.
 
 
-Assmann, Anke & Heck, Fabian & Hein, Johannes & Keine, Stefan & Müller, Gereon # & & 0000-0002-3445-8197 & 0000-0002-7134-4017 & # Universität Leipzig # Does chain hybridization in Irish support movement-based approaches to long-distance dependencies? # 2010-10-15 # #
+Assmann, Anke & Heck, Fabian & Hein, Johannes & Keine, Stefan & Müller, Gereon # mailed & mailed & 0000-0002-3445-8197 & 0000-0002-7134-4017 & mailed # Universität Leipzig # Does chain hybridization in Irish support movement-based approaches to long-distance dependencies? # 2010-10-15 # #
 Huybregts (2009) makes the claim that hybrid A'-chains in Irish favor
 derivational theories of syntax over representational ones such as HPSG. In
 this paper, we subject this assertion to closer scrutiny. Based on a new technical proposal, we will reach the conclusion that, in principle, both derivational
@@ -26,7 +26,7 @@ analysis is one where <em>which</em> is a nominal filler associated with a gap w
 non-nominal: a filler-gap mismatch analysis in other words.
 
 
-Bildhauer, Felix & Cook, Philippa # 0000-0002-6567-5987 & # Freie Universität Berlin # German multiple fronting and expected topic-hood # 2010-10-13 # #
+Bildhauer, Felix & Cook, Philippa # 0000-0002-6567-5987 & mailed # Freie Universität Berlin # German multiple fronting and expected topic-hood # 2010-10-13 # #
 This papers addresses information-structural restrictions on the occurrence of what is known as
 "multiple fronting" in German. Multiple fronting involves the realization of (what appears to be)
 more than one constituent in the first position of main clause declaratives, a clause type that
@@ -62,7 +62,7 @@ along the lines of Pustejovsky (1995)), and pragmatics (drawing from independent
 work by Hobbs (1990) and Kehler (2002)).
 
 
-Cook, Philippa & Ørsnes, Bjarne # & 0000-0003-2046-2029 # Freie Universität Berlin # Coherence with adjectives in German # 2010-10-13 # #
+Cook, Philippa & Ørsnes, Bjarne # mailed & 0000-0003-2046-2029 # Freie Universität Berlin # Coherence with adjectives in German # 2010-10-13 # #
 Coherence generally refers to a kind of predicate formation
 where a verb forms a complex predicate with the head of its
 infinitival complement. Adjectives taking infinitival complements have
@@ -163,14 +163,14 @@ Writing of Second Language Learners," in Proceedings of Coling-ACL, pp.
 1198-1204.  Montreal.
 
 
-Hemforth, Barbara & Fayol, Michel & Pacton, Sébastien # 0000-0001-8371-1323 & & # LPNCog, CNRS, IUPPD-Université Paris-Descartes & LAPSCO, CNRS, Université Blaise Pascal, Clermont-Ferrand & LPNCog, CNRS, IUPPD-Université Paris-Descartes  # Usage-based preferences in written sentence production: The role of local and global statistics # 2010-10-20 # #
+Hemforth, Barbara & Fayol, Michel & Pacton, Sébastien # 0000-0001-8371-1323 & mailed & mailed # LPNCog, CNRS, IUPPD-Université Paris-Descartes & LAPSCO, CNRS, Université Blaise Pascal, Clermont-Ferrand & LPNCog, CNRS, IUPPD-Université Paris-Descartes  # Usage-based preferences in written sentence production: The role of local and global statistics # 2010-10-20 # #
 In this paper, we will discuss the role of different levels of frequency distributions in sentence
 processing and in written production, looking at French homophones. A comparison of experimental
 data and corpus statistics will demonstrate that lexical frequencies as well as local and global
 coherences have to be taken into account to fully explain the empirically established patterns.
 
 
-Islam, Md. Sadiqul & Masum, Mahmudul Hasan & Bhuyan, Md. Shariful Islam & Ahmed, Reaz # & & 0000-0002-2221-9439 & 0000-0003-0012-2107 # Bangladesh University of Engineering and Technology, Dhaka # Arabic nominals in HPSG: A verbal noun perspective # 2010-10-18 # #
+Islam, Md. Sadiqul & Masum, Mahmudul Hasan & Bhuyan, Md. Shariful Islam & Ahmed, Reaz # mailed & mailed & 0000-0002-2221-9439 & 0000-0003-0012-2107 # Bangladesh University of Engineering and Technology, Dhaka # Arabic nominals in HPSG: A verbal noun perspective # 2010-10-18 # #
 Semitic languages exhibit rich nonconcatenative morphological operations, which can generate a myriad of 
 derived lexemes. Especially, the feature rich, root-driven morphology in the Arabic language demonstrates the 
 construction of several verb-derived nominals (verbal nouns) such as gerunds, active participles, passive 
@@ -180,7 +180,7 @@ Arabic nominals and various verb-derived nouns. We also present the lexical type
 for generating these verb-derived nominals using the HPSG framework.
 
 
-Kim, Jong-Bok & Yang, Jaehyung & Song, Sanghoun # 0000-0003-3286-0446 & & 0000-0002-4234-232X # Kyung Hee & Kangnam & University of Washington # Korean comparative constructions: A constraint-based approach and computational implementation # 2010-10-25 # # 
+Kim, Jong-Bok & Yang, Jaehyung & Song, Sanghoun # 0000-0003-3286-0446 & mailed & 0000-0002-4234-232X # Kyung Hee & Kangnam & University of Washington # Korean comparative constructions: A constraint-based approach and computational implementation # 2010-10-25 # # 
 The complexity of comparative constructions in each language has given challenges to both
 theoretical and computational analyses. This paper first identifies types of comparative
 constructions in Korean and discusses their main grammatical properties. It then builds a syntactic
@@ -195,7 +195,7 @@ contextual information.
 Koenig, Jean-Piere & Michelson, Karin # 0000-0002-5431-5978 & # Buffalo University # Invariance in argument realization: The case of Iroquoian # # no #
 
 
-Levine, Robert # # Ohio State University # Polarity and auxiliaryhood (pseudo)entanglement: The ellipsis pattern of modal need # # no #
+Levine, Robert # mailed # Ohio State University # Polarity and auxiliaryhood (pseudo)entanglement: The ellipsis pattern of modal need # # no #
 
 
 Maché, Jakob # 0000-0001-8567-1185 # Freie Universität Berlin # Towards a compositional analysis of verbless directives in German # 2010-10-13 # no # 
@@ -232,7 +232,7 @@ hierarchy on lexical rule sorts to model the family relations among the
 different COC types.
 
 
-Samvelian, Pollet & Tseng, Jesse # 0000-0002-6622-4117 & # Université de Paris 3 & CNRS & Université de Toulouse 2 # Persian object clitics and the syntax-morphology interface # 2010-10-18 # #
+Samvelian, Pollet & Tseng, Jesse # 0000-0002-6622-4117 & mailed # Université de Paris 3 & CNRS & Université de Toulouse 2 # Persian object clitics and the syntax-morphology interface # 2010-10-18 # #
 This paper presents a descriptive overview and formal analysis of the use of pronominal clitics for
 realizing various types of arguments in Persian, with particular emphasis on object clitics in the
 verbal domain. We argue that pronominal clitics behave more like suffixes than independent syntactic
