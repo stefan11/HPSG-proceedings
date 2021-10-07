@@ -297,7 +297,7 @@ $filesize = -s "$conf_file.pdf";
 open (XML, ">:utf8", "$conf_file.xml");
 
 # remove newlines in location for XML
-$location =~ s/<br>//g;
+$location =~ s/<br>/ /g;
 
 print XML <<EOF;
 <?xml version='1.0' encoding='UTF-8'?>
