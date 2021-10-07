@@ -69,7 +69,7 @@ insights from work in the tradition of Berkeley Construction Grammar, as exempli
 et al. (1988), Kay and Fillmore (1999), and related work.
 
 
-Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # The big mess construction # 2007-10-15 # #
+Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # The Big Mess Construction # 2007-10-15 # #
 There is a construction in English, exemplified by 'how long a bridge',
 which is so irregular that it has been named the Big Mess Construction
 (Berman 1974). This paper first sketches its main characteristics 

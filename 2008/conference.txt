@@ -31,7 +31,7 @@ We further propose a <q>locative</q> constraint. The transitive verbs allowing
 there-insertion will be shown to coincide with verbs that allow a
 locative analysis.
 
-Drellishak, Scott # # University of Washington # Complex case phenomena in the grammar matrix # 2008-10-16 # #
+Drellishak, Scott # # University of Washington # Complex case phenomena in the Grammar Matrix # 2008-10-16 # #
 This paper describes a number of verbal argument marking patterns found in the world's languages and
 provides HPSG analyses for them.  In addition to commonly-occurring variations of morphosyntactic
 alignment (e.g. nominative-accusative, ergative-absolutive), this paper also presents analyses of

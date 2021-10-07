@@ -110,7 +110,7 @@ the mismatches are handled locally in the CONT feature. Its pivot is
 an elaborate syntax-semantics interface that is based on a 
 surface-oriented syntactic analysis. This analysis generalises 
 easily to the mismatches at the morphology-semantics interface for 
-German separable-prefix verbs that were discussed in <a href=http://hpsg.fu-berlin.de/~stefan/Pub/paradox.html>(Müller, 2003)</a>.
+German separable-prefix verbs that were discussed in <a href=https://hpsg.hu-berlin.de/~stefan/Pub/paradox.html>(Müller, 2003)</a>.
 
 
 Flickinger, Dan  & Bender,  Emily # 0000-0001-7959-999X & 0000-0001-5384-6227 # Standford University & University of Washington # Semantic selection in a cross-linguistic framework # 2004-10-01 # no # 

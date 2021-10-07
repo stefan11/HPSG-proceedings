@@ -60,7 +60,7 @@ broader set of crosslinguistic focus phenomena which demonstrate a subject-objec
 (cf. Hartmann and Zimmermann 2007, Skopeteas and Fanselow 2010), raising important questions about
 the relationship between argument structure and information structural notions.
 
-Marandin, Jean-Marie # # CNRS, Université Paris Diderot # Subject inversion in French. The limits of information structure # 2011-11-16 # #
+Marandin, Jean-Marie # # CNRS, Université Paris Diderot # Subject inversion in French: The limits of information structure # 2011-11-16 # #
 My objective here is to assess the relevance of information structural notions for analyzing subject 
 inversion in French. Subject inversion is not a unified phenomenon. In fact, there are three distinct 
 constructions featuring an inverted subject. I show that the sentences do not have the same informational 
