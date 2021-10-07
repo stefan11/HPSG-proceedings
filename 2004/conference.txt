@@ -329,7 +329,7 @@ generalizations and on the other hand the usefulness of grammar engineering as
 a means of testing linguistic hypotheses.
 
 
-Soehn, Jan-Philipp # # University of Jena # License to coll: How to bind bound words and readings to their contexts # 2004-09-30 # #
+Soehn, Jan-Philipp # 0000-0003-3054-7085 # University of Jena # License to coll: How to bind bound words and readings to their contexts # 2004-09-30 # #
 In this contribution we propose a new module for handling idioms and
 distributional idiosyncrasies. Based on the concept by Richter/Sailer (1999)
 the new feature COLL (context of lexical licensing) plays the central role in
@@ -364,7 +364,7 @@ the complementizer ke that will account for the binding of SLASH by the feature
 BIND, which has a nonempty set as value.
 
 
-Trawinski, Beata # # University of Tübingen # Towards licensing of adverbial noun phrases in HPSG # 2004-10-15 # #
+Trawinski, Beata # 0000-0002-1705-6911 # University of Tübingen # Towards licensing of adverbial noun phrases in HPSG # 2004-10-15 # #
 This paper focuses on aspects of the licensing of adverbial noun phrases
 (AdvNPs) in the HPSG grammar framework. In the first part, empirical issues
 will be discussed. A number of AdvNPs will be examined with respect to various

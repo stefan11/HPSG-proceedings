@@ -296,7 +296,7 @@ arguing that a small modification of the BMS analysis provides a
 solution to the important problem observed by Levine.
 
 
-Soehn, Jan-Philipp # # University Tübingen # Selectional restrictions in HPSG:<br><em>I'll eat my hat!</em># 2005-10-06 # #
+Soehn, Jan-Philipp # 0000-0003-3054-7085 # University Tübingen # Selectional restrictions in HPSG:<br><em>I'll eat my hat!</em># 2005-10-06 # #
 This contribution is concerned with integrating the phenomenon of selectional
 restrictions in HPSG. Firstly, the question of treating selectional
 restrictions purely in the semantic module is tackled, as there are some
@@ -331,7 +331,7 @@ care of the dependency between the gap or the RP and the licencing constituent
 with a truly single mechanism.
 
 
-Trawinski, Beata # # University of Tübingen # Plural comitative constructions in Polish # 2005-10-15 # #
+Trawinski, Beata # 0000-0002-1705-6911 # University of Tübingen # Plural comitative constructions in Polish # 2005-10-15 # #
 This paper provides a treatment of Polish Plural Comitative Constructions
 in the paradigm of HPSG in the tradition of Pollard and Sag (1994).
 Plural Comitative Constructions (PCCs) have previously been treated in terms of 

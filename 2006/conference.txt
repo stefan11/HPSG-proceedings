@@ -196,7 +196,7 @@ constructional approach, whereby constraints can target syntactic structures
 above the lexical level, better empirical coverage is achieved.
 
 
-Mouret, François # # LLF, Université Paris 7-CNRS & Université Paris 3-Sorbonne Nouvelle # A phrase structure approach to argument cluster coordination # 2006-10-15 # #
+Mouret, François # 0000-0001-8296-5321 # LLF, Université Paris 7-CNRS & Université Paris 3-Sorbonne Nouvelle # A phrase structure approach to argument cluster coordination # 2006-10-15 # #
 It has often been argued that Non-Constituent Coordinations involve
 ellipsis. Focussing in this paper on so-called 'Argument Cluster Coordination',
 we provide empirical evidence drawn from French against such elliptical
