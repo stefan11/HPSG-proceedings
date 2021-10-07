@@ -249,7 +249,7 @@ complex ordering constraints on the left periphery are captured in a Linear
 Syntax approach (similar to but different from Kathol 2000).
 
 
-Kathol, Andreas # # University of California Berkeley # Cooperating constructions in Lai <q>lexical insertion</q> # 2003-10-01 # #
+Kathol, Andreas # mailed # University of California Berkeley # Cooperating constructions in Lai <q>lexical insertion</q> # 2003-10-01 # #
 In this paper we investigate the factors conditioning a morphological
 alternation on verbal heads in Lai.  We show that this alternation
 eludes a simple characterization and instead exhibits a many-to-many
@@ -383,7 +383,7 @@ satisfied in a particular SGCC sentence determines what subkind of SGCC is
 involved.
 
 
-Penn, Gerald & Hoetmer, Kenneth # 0000-0003-3553-8305 & # University of Toronto # In search of epistemic primitives in the English Resource Grammar (or Why HPSG can't live without higher-order datatypes)# 2003-10-01 # #
+Penn, Gerald & Hoetmer, Kenneth # 0000-0003-3553-8305 & mailed # University of Toronto # In search of epistemic primitives in the English Resource Grammar (or Why HPSG can't live without higher-order datatypes)# 2003-10-01 # #
 This paper seeks to improve HPSG engineering through the design of more terse,
 readable and intuitive type signatures. It argues against the exclusive use of
 IS-A networks and, with reference to the English Resource Grammar, demonstrates
@@ -517,7 +517,7 @@ Netter (1994), but it can smoothly be integrated in the
 functor treatment of the prenominals in Allegranza (1998) and 
 Van Eynde (2002). 
 
-Yoo, Eun-Jung # # Seoul National University # Specificational pseudoclefts in English # 2003-10-01 # #
+Yoo, Eun-Jung # mailed # Seoul National University # Specificational pseudoclefts in English # 2003-10-01 # #
 Specificational pseudoclefts (SPCs) have been a great challenge for a syntactic theory, 
 because, despite the surface division between the pre- and post-copular elements, 
 the post-copular `pivot' behaves as if it occupied the gap position in the precopular 
