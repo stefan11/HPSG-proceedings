@@ -94,7 +94,7 @@ context. This evidence supports the conclusion that the dispreference for subjec
 OSV sentences is due to violations of probabilistic constraints that favor case marking for rare
 types of subjects and such violations can be remedied by non-syntactic information. 
 
-Sato, Yo & Tam, Wai Lok # Department of Computer Science University of Hertfordshire & National Institute of Advanced Industrial Science and Technology # Ellipsis of Case-Markers and Information Structure in Japanese # October 13, 2012 # #
+Sato, Yo & Tam, Wai Lok # mailed & # Department of Computer Science University of Hertfordshire & National Institute of Advanced Industrial Science and Technology # Ellipsis of Case-Markers and Information Structure in Japanese # October 13, 2012 # #
 This paper presents an HPSG formalisation of how the ellipsis of case-marking affects the focus of
 the clause in Japanese. We restrict our attention to the nominative and accusative markers ga and o,
 and in view of the fact that the ellipsis effects on focushood vary between 1) ga and o and 2)

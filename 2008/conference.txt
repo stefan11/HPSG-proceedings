@@ -20,7 +20,7 @@ the disjunctive type Conj ... Conj, it is not the case for the conjunctive type.
 the postulation of a conjunctional status for the Romanian structure şi ... şi ('both ... and'), which is
 the most widespread view in Romanian grammars, is inadequate for the Romanian data.
 
-Bjerre, Anne & Bjerre, Tavs # 0000-0003-1622-5266 & # University of Southern Denmark & Aarhus University # <em>There</em>-constructions with transitive verbs # 2008-10-14 # #
+Bjerre, Anne & Bjerre, Tavs # 0000-0003-1622-5266 & mailed # University of Southern Denmark & Aarhus University # <em>There</em>-constructions with transitive verbs # 2008-10-14 # #
 In this paper we address the question of which transitive verbs
 allow there-insertion in Danish. We propose that two constraints
 have to be met in order for verbs to appear in Danish
@@ -31,7 +31,7 @@ We further propose a <q>locative</q> constraint. The transitive verbs allowing
 there-insertion will be shown to coincide with verbs that allow a
 locative analysis.
 
-Drellishak, Scott # # University of Washington # Complex case phenomena in the Grammar Matrix # 2008-10-16 # #
+Drellishak, Scott # mailed # University of Washington # Complex case phenomena in the Grammar Matrix # 2008-10-16 # #
 This paper describes a number of verbal argument marking patterns found in the world's languages and
 provides HPSG analyses for them.  In addition to commonly-occurring variations of morphosyntactic
 alignment (e.g. nominative-accusative, ergative-absolutive), this paper also presents analyses of
@@ -112,7 +112,7 @@ resultative phrases. A lexical rule account is given, which
 analyzes resultative phrases as adverbials and places them on
 the valence list of the main verb.
 
-Sato, Yo & Tam, Wai Lok # & # King's College § Queen Mary University of London & Tokyo University # Towards a unified account of adjuncts # 2008-10-15 # #
+Sato, Yo & Tam, Wai Lok # mailed & # King's College § Queen Mary University of London & Tokyo University # Towards a unified account of adjuncts # 2008-10-15 # #
 We present an analysis of adjuncts which, while based on the
 traditional binary adjunction schema, accommodates the phenomena that
 motivate the alternative Adjunct-as-Complement approach, such as
@@ -149,7 +149,7 @@ Korean.  Finally, the result is evaluated with reference to two Korean dictionar
 respect to a manually constructed type hierarchy.
 
 
-Tam, Wai Lok & Sato, Yo # & # Queen Mary University of London & King's College # An analysis of pseudopartitives and measure phrases that say
+Tam, Wai Lok & Sato, Yo # & mailed # Queen Mary University of London & King's College # An analysis of pseudopartitives and measure phrases that say
 no to extra rules # 2008-10-15 # #
 Our analysis of pseudopartitives and measure phrases draws on the idea of `of' as a copula in a
 pseudopartitive. The copular analysis allows us to avoid the complications caused by treating either

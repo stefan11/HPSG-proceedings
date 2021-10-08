@@ -48,7 +48,7 @@ attributing the <q>ergative</q> split in Nias to an <q>inverse</q> linking of
 intransitives instead. Under this perspective, case, agreement, and word
 order will receive a natural explanation.
 
-Desmets, Marianne & Villoing, Florence # & 0000-0002-7769-7278 # Université Paris Ouest/LLF & Université Paris Saint-Denis/SFL # French VN lexemes: Morphological compounding in HPSG # 2009-10-15 # #
+Desmets, Marianne & Villoing, Florence # mailed & 0000-0002-7769-7278 # Université Paris Ouest/LLF & Université Paris Saint-Denis/SFL # French VN lexemes: Morphological compounding in HPSG # 2009-10-15 # #
 Although the original framework of HPSG is mostly compatible with
 independent theoretical claims or analyses in lexical lexeme base morphology
 (Anderson 1992, Aronoff & Fudeman 2004, Beard 1995, Booij 2005,
@@ -68,7 +68,7 @@ multiple-dimension typed-hierarchy of lexemes and provides an account for
 semantic generalizations involved in different types of lexeme formation
 (compounding, derivation, and conversion).
 
-Fokkens, Antske & Poulson, Laurie & Bender, Emily M. # 0000-0002-6628-6916 & & 0000-0001-5384-6227 # Universität des Saarlandes & University of Washington # Inflectional morphology in Turkish VP coordination # 2009-10-16 # #
+Fokkens, Antske & Poulson, Laurie & Bender, Emily M. # 0000-0002-6628-6916 & mailed & 0000-0001-5384-6227 # Universität des Saarlandes & University of Washington # Inflectional morphology in Turkish VP coordination # 2009-10-16 # #
 We address three properties of Turkish morphology and
  VP coordination: the identification of tense and aspect values
  across conjuncts, the optional omission of affixes on non-final
@@ -105,7 +105,7 @@ WH-value models <em>wh</em>-fronting and pied-piping phenomena, the QUE value
 links syntactic and semantic information and thus keeps track of
 <em>wh</em>-phrases in-situ.
 
-Iordăchioaia, Gianina & Richter, Frank # 0000-0002-8847-6307 & # Universität Stuttgart & Universität Tübingen # Negative concord in Romanian as polyadic quantification # 2009-10-16 # #
+Iordăchioaia, Gianina & Richter, Frank # 0000-0002-8847-6307 & mailed # Universität Stuttgart & Universität Tübingen # Negative concord in Romanian as polyadic quantification # 2009-10-16 # #
 In this paper we develop an HPSG syntax-semantics of negative concord in
 Romanian. We show that n-words in Romanian can best be treated as negative
 quantifiers which may combine by resumption to form polyadic negative
@@ -137,7 +137,7 @@ structure captures linguistic generalizations, while at the same time
 accounting for idiosyncratic facts in this seemingly
 complex grammatical domain.
 
-Lahm, David # # Universität Tübingen # An alternative to the HPSG raising principle on the description-level # 2009-10-15 # #
+Lahm, David # mailed # Universität Tübingen # An alternative to the HPSG raising principle on the description-level # 2009-10-15 # #
 I reconsider the HPSG Raising Principle which is introduced in Pollard & Sag (1994) to constrain the
 way in which lexical entries describe the SUBCAT lists of the words they license. On the basis of
 whether a complement is assigned a semantic role in a lexical entry or not, this entry may not or
@@ -200,7 +200,7 @@ indefinite subjects and why preposed negation is incompatible with
 topic-binding particles.The final section presents an HPSG-analysis of preposed
 negation using Minimal Recursion Semantics (MRS).
 
-Poornima, Shakthi & Koenig, Jean-Pierre # & 0000-0002-5431-5978 # State University of New York at Buffalo # Hindi aspectual complex predicates # 2009-10-15 # #
+Poornima, Shakthi & Koenig, Jean-Pierre # mailed & 0000-0002-5431-5978 # State University of New York at Buffalo # Hindi aspectual complex predicates # 2009-10-15 # #
 This paper discusses ergative case assignment in Hindi and its interaction with aspectual verb
 complexes or complex predicate constructions. It is shown that ergative case is assigned by the last
 head in the aspectual verb complex and that ergative case on the subject of intransitive verbs
@@ -211,7 +211,7 @@ head-modifier structure. It is argued that the existence of two structures favor
 interface between syntax and semantics which do not require a uniform isomorphism between the
 semantics and syntax of aspect.
 
-Richter, Frank & Sailer, Manfred # & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Phraseological clauses in constructional HPSG # 2009-10-16 # #
+Richter, Frank & Sailer, Manfred # mailed & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Phraseological clauses in constructional HPSG # 2009-10-16 # #
 In this paper we investigate German idioms which contain phraseologically
 fixed clauses (PCl). To provide a comprehensive HPSG theory of PCls we
 extend the idiom theory of Soehn 2006 in such a way that it can
@@ -220,7 +220,7 @@ in-depth analysis of two characteristic PCls shows how our two-dimensional
 theory of idiomatic expressions can be applied and illustrates the scope
 of  the theory.
 
-Skwarski, Filip # # University of Warsaw # Accounting for underlying forms in HPSG phonology # 2009-10-04 # #
+Skwarski, Filip # unknown # University of Warsaw # Accounting for underlying forms in HPSG phonology # 2009-10-04 # #
 The paper aims to present approach to HPSG phonology which would account for underlying forms of
 phonemes. It shows some of the issues arising in monostratal analyses of phonology, and proposes a
 solution based on a notion of underlying representations. The approach presented, partly inspired by

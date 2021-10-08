@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Abeillé, Anne & Godard, Danièle & Sabio, Frédéric # 0000-0002-9187-2298 & & # University of Paris 7 & CNRS, France & University of Paris 7 & CNRS, France & University of Provence, Aix, France # Two types of NP preposing in French # 2008-10-16 # #
+Abeillé, Anne & Godard, Danièle & Sabio, Frédéric # 0000-0002-9187-2298 & mailed & # University of Paris 7 & CNRS, France & University of Paris 7 & CNRS, France & University of Provence, Aix, France # Two types of NP preposing in French # 2008-10-16 # #
 We contrast two types of sentences with a preposed NP in French in a construction
 based HPSG grammar. They differ with respect to different grammatical aspects
 (syntax, semantics, pragmatics and phonology), which cluster uniquely into
@@ -33,7 +33,7 @@ take into account this sort of information. A formalization will be
 presented which can handle differences in information-structure arising
 from different thematic roles of clitic left dislocated phrases.
 
-Bonami, Olivier & Godard, Danièle # 0000-0003-0688-3855 & # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # On the syntax of direct quotation in French # 2008-10-06 # #
+Bonami, Olivier & Godard, Danièle # 0000-0003-0688-3855 & mailed # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # On the syntax of direct quotation in French # 2008-10-06 # #
 Direct quotation raises three major problems for grammatical modelling: (i) the variety of quoted
 material (which can be a non linguistic behavior, or a sign in a different language), (ii) the
 embedding of an utterance inside another one, (iii) a special denotation, the content of the

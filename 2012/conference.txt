@@ -181,7 +181,7 @@ the VP-resolution rule, and the target predicate is connected with the source in
 representations. 
 
 
-Maekawa, Takafumi  # Hokusei Gakuen University Junior College # Negative Inversion Constructions in HPSG # October 15, 2012 # no #
+Maekawa, Takafumi  # mailed # Hokusei Gakuen University Junior College # Negative Inversion Constructions in HPSG # October 15, 2012 # no #
 The major analyses of the negative inversion (NI) constructions in the
 Minimalist/Principles-and-Parameters theory claim that the initial negative expression occupies
 [Spec,FocP]. In this paper, I argue that there is a body of data which are problematic for the

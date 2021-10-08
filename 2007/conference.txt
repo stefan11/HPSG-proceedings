@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Bjerre, Anne & Bjerre, Tavs # 0000-0003-1622-5266 & # University of Southern Denmark & Aarhus University, Denmark # Pseudocoordination in Danish # 2007-10-15 # #
+Bjerre, Anne & Bjerre, Tavs # 0000-0003-1622-5266 & mailed # University of Southern Denmark & Aarhus University, Denmark # Pseudocoordination in Danish # 2007-10-15 # #
 In this paper we propose an analysis of Danish pseudocoordination constructions. The analysis is
 based on a hybrid phrase hierarchy where phrase types are assumed to be subtypes of types that cut
 across the traditional division of phrasal types, allowing the phrase type of pseudocoordinations to
@@ -15,7 +15,7 @@ do not allow overt subjects in the second conjunct and allow transitive verbs to
 there-constructions.
 
 
-Bonami, Olivier & Godard, Danièle # 0000-0003-0688-3855 & # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # Integrating linguistic dimensions:<br> The scope of adverbs # 2007-10-20 # #
+Bonami, Olivier & Godard, Danièle # 0000-0003-0688-3855 & mailed # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # Integrating linguistic dimensions:<br> The scope of adverbs # 2007-10-20 # #
 Three distinctions seem relevant for the scope properties of adverbs: their function (adjuncts
 or complements), their prosody (incidental or integrated) and their lexical semantics (parenthetical
 or non parenthetical). We propose an analysis in which the scope of French adverbs is aligned with
@@ -83,7 +83,7 @@ system MARY is shown to be a valuable platform for testing hypotheses
 in intonation studies.
 
 
-Kropp Dakubu, Mary Esther & Hellan, Lars & Beermann, Dorothee # & 0000-0003-3043-120X & 0000-0002-8906-5235 # University of Ghana & NTNU, Trondheim & NTNU, Trondheim # Verb sequencing constraints in Ga:
+Kropp Dakubu, Mary Esther & Hellan, Lars & Beermann, Dorothee # no & 0000-0003-3043-120X & 0000-0002-8906-5235 # University of Ghana & NTNU, Trondheim & NTNU, Trondheim # Verb sequencing constraints in Ga:
 Serial verb constructions and the extended verb complex # 2007-09-27 # #
 The paper examines two verb sequencing constructions in Ga: the Serial
 Verb Construction (SVC) and the Extended Verb Complex (EVC). The former

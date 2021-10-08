@@ -73,7 +73,7 @@ feature percolation into relative head to fail. In this way I show that
 island effects in Chinese can be independently ruled out in the grammar as
 a case of contradiction.
 
-Maekawa, Takafumi # Ryukoku University  # A Beautiful Four Days in {Berlin} # October 15, 2013 # no # 
+Maekawa, Takafumi # mailed # Ryukoku University  # A Beautiful Four Days in {Berlin} # October 15, 2013 # no # 
 In this paper we look at one specific construction in English, where an
 indefinite article and a plural noun can occur together (e.g., a beautiful
 four days). Besides this number mismatch between the determiner and the
@@ -111,7 +111,7 @@ a lexical rule that is uniform across languages and hence captures the generaliz
 Przepiórkowski, Adam # Institute of Computer Science, Polish Academy of Sciences # The Syntax of Distance Distributivity in {Polish}: Preserving Generalisations with Weak Heads # October 15th, 2013 # #
 This paper presents a syntactic HPSG analysis of distance distributivity in Polish, where the challenge is to uniformly analyse a number of function lexemes PO 'each' which share their form and semantic contribution, but differ in their syntactic behaviour. To this end, the HPSG notion of <em>weak head</em> is employed in a novel way.
 
-Richter, Frank # Heinrich-Heine Universität Düsseldorf # 87, 94, 14? The Nature of Linguistic Theory
+Richter, Frank # mailed # Heinrich-Heine Universität Düsseldorf # 87, 94, 14? The Nature of Linguistic Theory
 # October 16, 2013 # no # 
 In the early days of HPSG, there was considerable emphasis on its
 formal foundations and on the 'nature of linguistic theory' that would

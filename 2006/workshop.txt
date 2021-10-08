@@ -39,7 +39,7 @@ adjectives results from index agreement between the null anaphor and the
 subject of the sentence.
 
 
-Richter, Frank & Soehn, Jan-Philipp # & 0000-0003-3054-7085 # University of Tübingen # <em>Braucht niemanden zu scheren</em>: A survey of NPI licensing in German # 2006-10-15 # #
+Richter, Frank & Soehn, Jan-Philipp # mailed & 0000-0003-3054-7085 # University of Tübingen # <em>Braucht niemanden zu scheren</em>: A survey of NPI licensing in German # 2006-10-15 # #
 In this contribution we will argue that negative polarity is a collocational
 phenomenon that does not follow from other properties of the respective lexical
 elements. With German data as evidence, we will follow a proposal by van der

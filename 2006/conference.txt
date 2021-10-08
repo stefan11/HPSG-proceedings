@@ -147,7 +147,7 @@ is found in theta-role assignment. Syntactically they tend to behave
 differently, but they may also behave in the exact same way.
 
 
-Godard, Danièle & Marandin, Jean-Marie # & # CNRS, Université Paris 7 # Reinforcing negation: The case of Italian # 2006-10-15 # #
+Godard, Danièle & Marandin, Jean-Marie # mailed & mailed # CNRS, Université Paris 7 # Reinforcing negation: The case of Italian # 2006-10-15 # #
 We study the formal and pragmatic properties of the `reinforced negation
 construction' in Italian, which, unlike the regular negative sentence, contains
 both <em>non</em> and an n-word in preverbal position. On the one hand, this
@@ -168,7 +168,7 @@ agreement verbs can be omitted as in languages like Italian. The constraints on
 the type agreement-verb have the information on argument optionality.
 
 
-Maekawa, Takafumi # # Department of Language and Linguistics University of Essex # Long and short adjunct fronting in HPSG # 2006-10-15 # #
+Maekawa, Takafumi # mailed # Department of Language and Linguistics University of Essex # Long and short adjunct fronting in HPSG # 2006-10-15 # #
 The purpose of this paper is to consider the proper treatment of short- and
 long-fronted adjuncts within HPSG.  In the earlier HPSG analyses, a rigid
 link between linear order and constituent structure determines the linear
@@ -259,7 +259,7 @@ determine the compositional fashion in which they are combined to give the
 interpretation of the verb phrase as a whole.
 
 
-Richter, Frank  & Sailer, Manfred # & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Modeling typological markedness in semantics: The case of negative concord # 2006-10-15 # #
+Richter, Frank  & Sailer, Manfred # mailed & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Modeling typological markedness in semantics: The case of negative concord # 2006-10-15 # #
 We will provide an analysis of negative concord in sentential negation
 in three languages, French, Polish and German. The focus of the paper
 is (1) the typological variation with respect to the realization of
@@ -271,7 +271,7 @@ which can handle typological variation between languages and lexical
 exceptions within a given language.
 
 
-Sato, Yo # # Department of Computer Science King's College London # A proposed lexicalised linearisation grammar: A monostratal alternative # 2006-10-08 # #
+Sato, Yo # mailed # Department of Computer Science King's College London # A proposed lexicalised linearisation grammar: A monostratal alternative # 2006-10-08 # #
 This paper presents an overview of a proposed linearisation grammar, which
 relies solely upon information residing in lexical heads to constrain word
 order. Word order information, which encompasses discontinuity as well as
@@ -286,7 +286,7 @@ motivated linearisation grammars and offers a simpler alternative to the
 standard DOM-oriented theory.
 
 
-Tily, Harry J. & Sag, Ivan A. # & # Department of Linguistics, Stanford University # A unified analysis of French causatives # 2006-10-18 # #
+Tily, Harry J. & Sag, Ivan A. # & no # Department of Linguistics, Stanford University # A unified analysis of French causatives # 2006-10-18 # #
 The treatment of French causatives and pronominal affixes outlined in Miller
 and Sag (1997) and Abeill&eacute; et al. (1998) is notable for its
 comprehensive coverage and analytic detail, but it relies on a number of <i>ad

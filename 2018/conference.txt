@@ -71,7 +71,7 @@ Kanazawa, Makoto # Hosei University, Japan # What was wrong with the Chomsky hie
 
 
 
-Lahm, David # University of Frankfurt # Plural in Lexical Resource
+Lahm, David # mailed # University of Frankfurt # Plural in Lexical Resource
 Semantics # 10.15.2018 # # The paper shows how the plural semantic
 ideas of (Sternefeld, 1998) can be captured in Lexical Resource
 Semantics, a system of underspecied semantics. It is argued that

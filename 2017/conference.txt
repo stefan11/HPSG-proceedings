@@ -76,7 +76,7 @@ strictly lexical analysis. # Derivation, Locative Inversion, Existential Inversi
 
 Lee, Sarah Hye-yeon # University of Southern California # The Syntax of the <em>not only ... but also ...</em> Construction # October 15, 2017 # # This paper investigates the syntax of the English <em>not only ... but also ...</em> construction, focusing on the linearization possibilities of <em>not only</em>. Based on novel corpus data, I argue that the <em>not only ... but also ...</em> construction exhibits different properties from the <em>not ... but ...</em> construction or the adverbial <em>only</em>. I propose that a linearization-based account, along with coordinate ellipsis, can explain the various linearization possibilities of <em>not only</em>. I also propose that the construction as a whole is a subtype of the type <em>correlative-coord-ph</em>, which is a novel subtype of <em>coord-ph</em>. Finally, I argue that subject-auxiliary inversion triggered by the clause-initial <em>not only</em> is a new subtype of the type <em>negative-inversion-ph</em>. # HPSG, linearization, not only but also, coordination, correlative coordination, inversion
 
-Maekawa, Takafumi # Ryukoku University # English prepositional numeral 
+Maekawa, Takafumi # mailed # Ryukoku University # English prepositional numeral 
 constructions # 16 October 2017 # # This paper discusses the syntactic 
 properties of 'prepositional numeral constructions (PNCs)' in English, 
 which is exemplified by ‘about 250 babies’ and ‘over 16,000 animals’. In 

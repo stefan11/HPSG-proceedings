@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Brown, Dunstan & Evans, Roger # 0000-0002-8428-7592 & mailed # University of Surrey & University of Brighton # Inflectional defaults and principal parts: An empirical investigation # 2010-10-16 # #
+Brown, Dunstan & Evans, Roger # 0000-0002-8428-7592 & 0000-0001-9506-6587 # University of Surrey & University of Brighton # Inflectional defaults and principal parts: An empirical investigation # 2010-10-16 # #
 We describe an empirical method to explore and contrast the roles of default and principal part
 information in the differentiation of inflectional classes. We use an unsupervised machine learning
 method to classify Russian nouns into inflectional classes, first with full paradigm information,

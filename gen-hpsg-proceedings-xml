@@ -1032,7 +1032,7 @@ sub typeset_authors_affiliations{
         $lastname = $1;
 
         $a_af = $a_af . "\\formatauthor{$firstname" . " " . $lastname;
-        if (@orcids[$i]) {
+        if (@orcids[$i] =~ /-/) { # 0000-0000-0000-0000 rather than "no", "mailed" or "unknown"
           $a_af = $a_af . "\\,\\orcidlink{@orcids[$i]}";
         }
         $a_af = $a_af . "}";

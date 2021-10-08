@@ -48,7 +48,7 @@ Lee, Juwon # Kyung Hee University # Semantic Taxonomies and NP-coordinations # O
  
 
 
-Maekawa, Takafumi # Ryukoku University # `Agreement mismatch' between sort/kind/type and the determiner # 15 October 2015 # # A singular countable noun 
+Maekawa, Takafumi # mailed # Ryukoku University # `Agreement mismatch' between sort/kind/type and the determiner # 15 October 2015 # # A singular countable noun 
 in English normally needs a determiner and they should agree in number. However, there is a type of noun phrase, such as ‘these sort of skills’, which
  does not conform to this generalisation. As a singular countable common noun, the noun ‘sort’ requires a determiner, but there is an agreement mismat
 ch here: ‘sort’ is singular but the determiner is plural. Rather, the determiner agrees with the NP after the preposition ‘of’. There are several po

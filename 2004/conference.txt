@@ -2,7 +2,7 @@
 
 
 
-Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # 0000-0002-9187-2298 & 0000-0003-0688-3855 & & mailed # Universite Paris 7 # The syntax of French N′ phrases # 2004-10-14 # # 
+Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # 0000-0002-9187-2298 & 0000-0003-0688-3855 & mailed & mailed # Universite Paris 7 # The syntax of French N′ phrases # 2004-10-14 # # 
 Of all French functional elements, the form <em>de</em> has without question the widest
 variety of uses, and presents the greatest challenge for linguistic description
 and analysis.  Historically a preposition, it still has a number of
@@ -32,7 +32,7 @@ independently motivated theoretical apparatus, and requires absolutely no new
 structures, features, or types.
 
 
-Beavers, John & Sag, Ivan A. # & no # University of Texas & Standford University # Coordinate ellipsis and apparent non-constituent coordination # 2004-10-25 # #
+Beavers, John & Sag, Ivan A. # mailed & no # University of Texas & Standford University # Coordinate ellipsis and apparent non-constituent coordination # 2004-10-25 # #
 Within the tradition of Categorial Grammar, so-called
 `non-constituent' coordination (`argument cluster' coordination and
 `right node raising') has been analyzed in terms of the coordination
@@ -65,7 +65,7 @@ analyzed as a non-standard head-adjunct phrase, in which the head and the
 phrase have different categories.
 
 
-Daniels, Michael W. & Meurers, W. Detmar # & 0000-0002-9740-7442 # Ohio State University # GIDLP: A grammar format for linearization-based HPSG # 2004-10-01 # #
+Daniels, Michael W. & Meurers, W. Detmar # mailed & 0000-0002-9740-7442 # Ohio State University # GIDLP: A grammar format for linearization-based HPSG # 2004-10-01 # #
 Linearization-based HPSG theories are widely used for analyzing languages with
 relatively free constituent order. This paper introduces the Generalized ID/LP
 (GIDLP) grammar format, which supports a direct encoding of such theories, and
@@ -77,7 +77,7 @@ order. As a result, GIDLP grammars supportmore modular and compact grammar
 encodings and require fewer edges in parsing.
 
 
-de Swart, Henriette # # Universiteit Utrecht # A typology of negation in a constraint-based framework of syntax and semantics # 2004-10-01 # #
+de Swart, Henriette # mailed # Universiteit Utrecht # A typology of negation in a constraint-based framework of syntax and semantics # 2004-10-01 # #
 Negation and negative indefinites raise problems for the principle of compositionality 
 of meaning, because we find both double and single negation readings in natural 
 languages. De Swart and Sag (2002) solve the compositionality problem in a polyadic 
@@ -242,7 +242,7 @@ Modern Greek are formalized using the Minimal Recursion Semantics (MRS)
 framework of Copestake et al. (2001) and Copestake et al. (2003).
 
 
-Maekawa, Takafumi # # University of Essex # Constituency, word order and focus projection # 2004-10-17 # #
+Maekawa, Takafumi # mailed # University of Essex # Constituency, word order and focus projection # 2004-10-17 # #
 In this study we show that constituency is of limited importance for a proper treatment of 
 the interaction between the linear position of a wa-marked nominal in a Japanese sentence 
 and possible domains of contrastive focus, and that constraints concerning contrastive focus 
@@ -253,7 +253,7 @@ constraints can deal with the phenomena in question, and that the cases problema
 constituency-based analyses can also be accounted for by our analysis.
 
 
-Marshall, Ian  & Safar, Eva # & # University of East Anglia # Sign language generation in an ALE HPSG # 2004-10-18 # #
+Marshall, Ian  & Safar, Eva # unknown & unknown # University of East Anglia # Sign language generation in an ALE HPSG # 2004-10-18 # #
 During the past fifty years sign languages have been
 recognised as genuine languages with their own syntax and
 distinctive phonology. In the case of sign languages,
@@ -344,7 +344,7 @@ proposal with alternative approaches and give some ideas regarding further
 applications beyond idiomaticity.
 
 
-Taghvaipour, Mehran A. # # University of Essex # An HPSG analysis of Persian relative clauses # 2004-10-15 # #
+Taghvaipour, Mehran A. # mailed # University of Essex # An HPSG analysis of Persian relative clauses # 2004-10-15 # #
 Relative clauses (RCs) in Persian are head-modifying constituents, all
 typically introduced by the invariant complementizer ke. Persian RCs are
 Unbounded Dependency Constructions (UDCs), containing either a gap or a

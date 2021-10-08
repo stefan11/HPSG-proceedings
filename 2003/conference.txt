@@ -52,7 +52,7 @@ well-formedness.  Thus the need for categorial well-formedness is
 nullified, providing an analysis with greater cross-linguistic import,
 being compatible with languages without determiners.
 
-Bonami, Olivier  & Godard, Daniele # 0000-0003-0688-3855 & # Universite Rennes & Universite Paris 7 # Incidental adjuncts: An overlooked type of adjunction #  2003-10-01 # no #
+Bonami, Olivier  & Godard, Daniele # 0000-0003-0688-3855 & mailed # Universite Rennes & Universite Paris 7 # Incidental adjuncts: An overlooked type of adjunction #  2003-10-01 # no #
 Incidental adjuncts are adjuncts which are intonationally set apart from the
 rest of the sentence (e.g. 'John was here, it seems.'). Incidentality
 is a phonological/syntactic property, distinct from the semantic/pragmatic
