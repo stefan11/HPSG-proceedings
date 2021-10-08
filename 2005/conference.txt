@@ -105,7 +105,7 @@ pragmatic properties of the clauses involved, and should hence be
 encoded in grammar.
 
 
-Keller, Frank & Alexopoulou, Theodora # & 0000-0002-4236-7906 # University of Edinburgh & University of Cambridge # Gradience and parametric variation # 2005-10-09 # no #
+Keller, Frank & Alexopoulou, Theodora # 0000-0002-8242-4362 & 0000-0002-4236-7906 # University of Edinburgh & University of Cambridge # Gradience and parametric variation # 2005-10-09 # no #
 Gradient grammaticality has received renewed attention in recent
 years, which is partly due to the introduction of the magnitude
 estimation paradigm that allows the elicitation of reliable gradient

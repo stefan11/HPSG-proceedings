@@ -15,7 +15,7 @@ all: hpsg$(YEAR).xml
 
 
 
-hpsg$(YEAR).xml: editors-note.tex conference.txt $(PROGRAM) $(FILES)
+hpsg$(YEAR).xml: editors-note.tex conference.txt workshop.txt $(PROGRAM) $(FILES)
 	$(PROGRAM)
 
 hpsg$(YEAR).pdf: hpsg$(YEAR).tex 

@@ -39,7 +39,7 @@ but the syntax-semantics account that we provide involves
 minimal changes to standard HPSG architecture.
 
 
-Coulter, Lori # # University of Illinois at Urbana Champaign # A semantic interpretation of modality in counterfactual conditionals # 2007-10-22 # #
+Coulter, Lori # mailed # University of Illinois at Urbana Champaign # A semantic interpretation of modality in counterfactual conditionals # 2007-10-22 # #
 This paper provides a background on the role of world knowledge in disambiguating modals and
 proposes treating the disambiguation of counterfactuals as a slightly more tractable sub-case of the
 general problem. Using a model theoretic possible worlds approach, counterfactuals are disambiguated
@@ -67,7 +67,7 @@ whether or not well-formed formulas and constraints hold in larger models and mo
 more fine-grained modal inferences in a larger domain.
 
 
-Crysmann, Berthold & von Böselager, Philipp # 0000-0003-0230-502X & # DFKI, Universität des Saarlandes, Universität Bonn & Universität zu Köln # Using an HPSG grammar for the generation of prosody # 2007-10-16 # #
+Crysmann, Berthold & von Böselager, Philipp # 0000-0003-0230-502X & unknown # DFKI, Universität des Saarlandes, Universität Bonn & Universität zu Köln # Using an HPSG grammar for the generation of prosody # 2007-10-16 # #
 <p>In this paper, we report on an experiment showing how
 the introduction of prosodic information from detailed syntactic
 structures into synthetic speech leads to better disambiguation of
@@ -126,7 +126,7 @@ framework of HPSG and is based on the distribution of weak pronouns and TAM
 markers.
 
 
-Kaufmann, Tobias & Pfister, Beat # & # ETH Zürich # Applying licenser rules to a grammar with continuous constituents # 2007-10-16 # #
+Kaufmann, Tobias & Pfister, Beat # mailed & mailed # ETH Zürich # Applying licenser rules to a grammar with continuous constituents # 2007-10-16 # #
 Licenser rules have originally been introduced in Müller (1999) as
 a part of a grammar based on discontinuous constituents. We propose
 licenser rules as a means to avoid underspecified empty elements in
@@ -140,7 +140,7 @@ performance. In our experiment, the use of licenser rules reduced the
 parse time by a factor of 13.5.
 
 
-Kim, Jong-Bok & Yang, Jaehyung # 0000-0003-3286-0446 & # Kyung Hee University & Kangnam University # Syntax and semantics of Korean numeral classifier constructions # 2007-10-22 # #
+Kim, Jong-Bok & Yang, Jaehyung # 0000-0003-3286-0446 & mailed # Kyung Hee University & Kangnam University # Syntax and semantics of Korean numeral classifier constructions # 2007-10-22 # #
 The so-called floating quantifier constructions in languages like
 Korean display intriguing properties whose successful processing can
 prove the robustness of a parsing system. This paper shows that a
@@ -243,7 +243,7 @@ types of prepositional passives in English, and the ordinary NP
 passive.
 
 
-Wang, Lulu & Liu, Haitao # & # Communication University of China # A description of Chinese NPs using Head-Driven Phrase Structure Grammar # 2007-10-15 # #
+Wang, Lulu & Liu, Haitao # mailed & mailed # Communication University of China # A description of Chinese NPs using Head-Driven Phrase Structure Grammar # 2007-10-15 # #
 This paper aims at making a general description of Chinese NPs using Head-Driven Phrase Structure
 Grammar. The paper introduces the basic and complex structures of Chinese NPs and then shed light on
 the noun-classifier matching problem when implemented in HPSG. To solve this problem, the paper

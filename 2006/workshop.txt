@@ -14,7 +14,7 @@ relations. Derived irregularity is then the effect of a productive lexeme
 formation rule which specifies an irregular stem space for its output.
 
 
-Brindle, Jonathan Allen # # Norges Teknisk-Naturvitenskapelige Universitet # Uncovering regularities: On bare and evaluated controllers in Tigrinya # 2006-10-15 # #
+Brindle, Jonathan Allen # mailed # Norges Teknisk-Naturvitenskapelige Universitet # Uncovering regularities: On bare and evaluated controllers in Tigrinya # 2006-10-15 # #
 The "flexibility" of gender in Tigrinya is uncovered by (i) setting a value
 for gender for each noun at the lexical level (i.e. <em>bare</em> controllers) and (ii)
 analysing  gender shifts as signals for evaluations (i.e. <em>evaluated</em>
@@ -22,7 +22,7 @@ controllers). The analysis is formalized as lexical rules which change the
 value of <font style="font-variant:small-caps;">gend</font> and add an elementary predication in the  <font style="font-variant:small-caps;">rels</font> list.
 
 
-Hahm, Hyun-Jong # # The University of Texas at Austin # Number agreement in Russian predicates # 2006-10-21 # #
+Hahm, Hyun-Jong # mailed # The University of Texas at Austin # Number agreement in Russian predicates # 2006-10-21 # #
 Russian shows the mixed agreement with the polite pronoun <em>vy</em> and pluralia
 tantum nouns, both of which have plural number in form but either singular
 or plural number in meaning. Two different forms of adjectives &ndash; short form

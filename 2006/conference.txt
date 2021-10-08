@@ -61,7 +61,7 @@ developed by Kathol (2000). It seems, then, that a linear approach is
 preferable to both a structural and a selectional approach.
 
 
-Branco, António & Costa, Francisco # 0000-0002-7174-4942 & # University of Lisbon # Noun ellipsis without empty categories # 2006-10-15 # #
+Branco, António & Costa, Francisco # 0000-0002-7174-4942 & mailed # University of Lisbon # Noun ellipsis without empty categories # 2006-10-15 # #
 In this paper, we present an analysis of noun phrases with elided
 nouns that dispenses with the positing of empty categories and
 preserves the NP structure assumed for NPs with overt nouns, modulo
@@ -106,7 +106,7 @@ connect the placement of floating <q>affixes</q> to the general treatment
 of Polish word order Kupść 2000.
 
 
-Flouraki, Maria # # University of Essex # Constraining aspectual composition # 2006-10-12 # #
+Flouraki, Maria # mailed # University of Essex # Constraining aspectual composition # 2006-10-12 # #
 In Modern Greek there is a rich aspectual system, which involves both
 morphologically expressed grammatical aspect and eventuality types, carried
 primarily by the meaning of the verbal predicate. Particular emphasis is paid
@@ -159,7 +159,7 @@ metalinguistic negation. Our analysis integrates both negative types of
 negative forms with their formal and pragmatic properties.
 
 
-Hahm, Hyun-Jong # # The University of Texas at Austin # Person and number agreement in American Sign Language # 2006-10-21 # #
+Hahm, Hyun-Jong # mailed # The University of Texas at Austin # Person and number agreement in American Sign Language # 2006-10-21 # #
 American Sign Language (ASL) has a group of verbs showing agreement with the
 subject or/and object argument. There has not been analysis on especially
 number agreement. This paper analyzes person and number agreement within the
@@ -230,7 +230,7 @@ account for both the phrasal and the word-like properties of Persian complex
 predicates.
 
 
-Nakanishi, Katsuaki # # Department of Language and Information Sciences University of Tokyo # A unified approach to questions, quantifiers, and
+Nakanishi, Katsuaki # mailed # Department of Language and Information Sciences University of Tokyo # A unified approach to questions, quantifiers, and
 coordination in Japanese # 2006-10-14 # #
 The Japanese language is one of the languages where universal and
 existential quantification are expressed using wh-words with the
@@ -244,7 +244,7 @@ questioned or quantified for verbs. We then present an HPSG
 formalization of the analysis.
 
 
-Nakazawa, Tsuneko # # University of Tokyo # Motion event and deictic motion verbs as path-conflating verbs # 2006-10-15 # #
+Nakazawa, Tsuneko # mailed # University of Tokyo # Motion event and deictic motion verbs as path-conflating verbs # 2006-10-15 # #
 This paper attempts to decompose the Motion event into such elements as Figure,
 Path, Vector, and Ground based upon Talmy's framework, which makes it possible
 to formally analyze and compare the lexical semantics of the deictic motion
@@ -286,7 +286,7 @@ motivated linearisation grammars and offers a simpler alternative to the
 standard DOM-oriented theory.
 
 
-Tily, Harry J. & Sag, Ivan A. # & no # Department of Linguistics, Stanford University # A unified analysis of French causatives # 2006-10-18 # #
+Tily, Harry J. & Sag, Ivan A. # mailed & no # Department of Linguistics, Stanford University # A unified analysis of French causatives # 2006-10-18 # #
 The treatment of French causatives and pronominal affixes outlined in Miller
 and Sag (1997) and Abeill&eacute; et al. (1998) is notable for its
 comprehensive coverage and analytic detail, but it relies on a number of <i>ad

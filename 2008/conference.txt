@@ -47,7 +47,7 @@ node, in order to preserve the strong version of the principle of locality in su
 propose a general formal mechanism to effect this occasional transparency of heads with respect to
 certain properties of their complements.
 
-Ito, Chizuru & Chaves, Rui P. # & 0000-0003-0820-6145# Osaka University & Lisbon University # Apparent non-constituent coordination in Japanese # 2008-10-16 # #
+Ito, Chizuru & Chaves, Rui P. # mailed & 0000-0003-0820-6145# Osaka University & Lisbon University # Apparent non-constituent coordination in Japanese # 2008-10-16 # #
 Coordination in Japanese poses various puzzles which defy the standard notion of syntactic
 category. On the one hand, one can conjoin structures which one usually would not expect to form any
 constituent, and on the other hand, there are various conjunction particles that are sensitive to
@@ -71,7 +71,7 @@ sufficient and turn then to a framework which allows the derivation of
 syntactic (and semantic) generalizations from linguistic data without
 taking recourse to introspective judgments.
 
-Ko, Kil Soo # # University Paris 7 # Korean postpositions as weak syntactic heads # 2008-10-16 # #
+Ko, Kil Soo # unknown # University Paris 7 # Korean postpositions as weak syntactic heads # 2008-10-16 # #
 This paper deals with Korean postpositions. They are treated as suffixes in recent lexicalist
 works. But they differ syntactically from suffixes and we will propose to treat them as clitics,
 i.e. words combining with a phrase in the syntax and attaching to its last lexical item in the
@@ -82,7 +82,7 @@ divide postpositions into three subtypes: marking, oblique and semantic postposi
 their distributional properties, such as optionality, non-nominal marking and stacking, etc. Finally
 we show how our analysis can be described in the HPSG model.
 
-Laurens, Frédéric # # Université Paris 7 # French predicative verbless utterances # 2008-10-16 #
+Laurens, Frédéric # mailed # Université Paris 7 # French predicative verbless utterances # 2008-10-16 #
 This paper focuses on a specific type of verbless utterance, labeled PVU, which is defined by two properties: 
 <ul>
 <li>PVUs are not discourse fragments.</li>
@@ -112,7 +112,7 @@ resultative phrases. A lexical rule account is given, which
 analyzes resultative phrases as adverbials and places them on
 the valence list of the main verb.
 
-Sato, Yo & Tam, Wai Lok # mailed & # King's College § Queen Mary University of London & Tokyo University # Towards a unified account of adjuncts # 2008-10-15 # #
+Sato, Yo & Tam, Wai Lok # mailed & mailed # King's College § Queen Mary University of London & Tokyo University # Towards a unified account of adjuncts # 2008-10-15 # #
 We present an analysis of adjuncts which, while based on the
 traditional binary adjunction schema, accommodates the phenomena that
 motivate the alternative Adjunct-as-Complement approach, such as
@@ -123,7 +123,7 @@ underspecified. Thus the selectional property of the modifiee
 percolates as well as that of the modifier, dispensing with the need
 to endow adjuncts a complement-like status.
 
-Steinicke, Karen & Penn, Gerald # & 0000-0003-3553-8305 # Universität Tübingen & University of Toronto # Memory management for unification-based processing of typed feature structures # 2008-10-29 # #
+Steinicke, Karen & Penn, Gerald # unknown & 0000-0003-3553-8305 # Universität Tübingen & University of Toronto # Memory management for unification-based processing of typed feature structures # 2008-10-29 # #
 We consider two alternatives for memory management in
 typed-feature-structure-based parsers by identifying structural
 properties of grammar signatures that may be of some predictive
@@ -149,7 +149,7 @@ Korean.  Finally, the result is evaluated with reference to two Korean dictionar
 respect to a manually constructed type hierarchy.
 
 
-Tam, Wai Lok & Sato, Yo # & mailed # Queen Mary University of London & King's College # An analysis of pseudopartitives and measure phrases that say
+Tam, Wai Lok & Sato, Yo # mailed & mailed # Queen Mary University of London & King's College # An analysis of pseudopartitives and measure phrases that say
 no to extra rules # 2008-10-15 # #
 Our analysis of pseudopartitives and measure phrases draws on the idea of `of' as a copula in a
 pseudopartitive. The copular analysis allows us to avoid the complications caused by treating either

@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Abeillé, Anne & Godard, Danièle & Sabio, Frédéric # 0000-0002-9187-2298 & mailed & # University of Paris 7 & CNRS, France & University of Paris 7 & CNRS, France & University of Provence, Aix, France # Two types of NP preposing in French # 2008-10-16 # #
+Abeillé, Anne & Godard, Danièle & Sabio, Frédéric # 0000-0002-9187-2298 & mailed & mailed # University of Paris 7 & CNRS, France & University of Paris 7 & CNRS, France & University of Provence, Aix, France # Two types of NP preposing in French # 2008-10-16 # #
 We contrast two types of sentences with a preposed NP in French in a construction
 based HPSG grammar. They differ with respect to different grammatical aspects
 (syntax, semantics, pragmatics and phonology), which cluster uniquely into
@@ -92,7 +92,7 @@ many problems.  We take these results to provide strong support for
 the view that the CSC is a pragmatic principle rather than a syntactic
 constraint.
 
-Marandin, Jean-Marie # # CNRS, Université Paris 7 # The exclamative clause type in French # 2008-10-16 # #
+Marandin, Jean-Marie # mailed # CNRS, Université Paris 7 # The exclamative clause type in French # 2008-10-16 # #
 My objective in this paper is to integrate scalar exclamatives into an HPSG grammar of
 French. First, a procedure to sort out scalar exclamatives from declaratives and interrogatives is
 proposed. Then, the main semantic and dialogical properties of exclamatives are presented:

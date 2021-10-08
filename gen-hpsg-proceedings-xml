@@ -856,7 +856,7 @@ s{^\s+|\s+$}{}g foreach @record;
 
            make_bibtex(@record);
            
-          print_warning("Keywords empty!") unless ($record[6]);
+          print_warning("Keywords empty!\n") unless ($record[6]);
 
           make_proceedings_part(@record);
            

@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Bîlbîie, Gabriela & Laurens, Frédéric # 0000-0002-4547-1645 & # LLF, Université Paris Diderot Paris 7 # A construction-based analysis of verbless relative adjuncts in French and Romanian # 2009-10-15 # #
+Bîlbîie, Gabriela & Laurens, Frédéric # 0000-0002-4547-1645 & mailed # LLF, Université Paris Diderot Paris 7 # A construction-based analysis of verbless relative adjuncts in French and Romanian # 2009-10-15 # #
 French and Romanian verbless relative adjuncts are incidental adjuncts which 
 have been described as elliptical relative clauses. We show that this analysis 
 is not empirically adequate and propose an alternative non-elliptical analysis. 
