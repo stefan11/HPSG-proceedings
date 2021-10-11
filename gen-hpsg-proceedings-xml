@@ -229,7 +229,7 @@ while (<CONF>) {
 
 @record=split(/#/);
 
-   $publication_id +=1;
+   #$publication_id +=1;
 
    process_record(@record);
 
@@ -264,6 +264,7 @@ while (<WS>) {
 
 @record=split(/#/);
 
+   #$publication_id +=1;
 
    process_record(@record);
 
@@ -373,7 +374,7 @@ while (<CONF>) {
 
 @record=split(/#/);
 
-   $publication_id +=1;
+   #$publication_id +=1;
 
    process_record_xml(@record);
 
@@ -402,6 +403,7 @@ while (<WS>) {
 
 @record=split(/#/);
 
+   #$publication_id +=1;
 
    process_record_xml(@record);
 
@@ -785,8 +787,21 @@ EOF
 sub process_record {
 	local( @record ) = @_;
 
+
+
 # remove trailing white space
 s{^\s+|\s+$}{}g foreach @record; 
+
+   if ($record[5] eq "no") { # not submitted
+
+#print STDERR "not submitted!!!!\n\n";
+
+      return;
+   }
+
+# we need this in the first pass already to get the DOI right.
+   $publication_id +=1;
+
 
 # remove whitespace before and after separator in authors, orcids, and affiliations
 @record[0]=~ s/\s*&\s*/&/g;
@@ -838,7 +853,7 @@ s{^\s+|\s+$}{}g foreach @record;
 
    if ($record[5] ne "pending") {
 
-       if ($record[5] ne "no" && $record[5] ne "pending") {
+#       if ($record[5] ne "no" && $record[5] ne "pending") {
 
         $numberofpages = `pdftk Includes/$pdf_include_file dump_data | grep NumberOfPages`;
 
@@ -860,7 +875,7 @@ s{^\s+|\s+$}{}g foreach @record;
 
           make_proceedings_part(@record);
            
-       };
+#       };
    };
 }
 
@@ -868,8 +883,21 @@ s{^\s+|\s+$}{}g foreach @record;
 sub process_record_xml {
 	local( @record ) = @_;
 
+
+
 # remove trailing white space
 s{^\s+|\s+$}{}g foreach @record; 
+
+   if ($record[5] eq "no") { # not submitted
+
+#print STDERR "not submitted!!!!\n\n";
+
+      return;
+   }
+
+   $publication_id +=1;
+
+  $doi = "10.21248/hpsg.$year.$publication_id";
 
 # remove whitespace before and after separator in authors, orcids, and affiliations
 @record[0]=~ s/\s*&\s*/&/g;
@@ -921,7 +949,7 @@ s{^\s+|\s+$}{}g foreach @record;
 
    if ($record[5] ne "pending") {
 
-       if ($record[5] ne "no" && $record[5] ne "pending") {
+ #      if ($record[5] ne "no" && $record[5] ne "pending") {
 
         $numberofpages = `pdftk Includes/$pdf_include_file dump_data | grep NumberOfPages`;
 
@@ -943,7 +971,7 @@ s{^\s+|\s+$}{}g foreach @record;
 
 #          make_proceedings_part(@record);
            
-       };
+#       };
    };
      
     @authors=split(/&/,$record[0]);
@@ -957,8 +985,7 @@ s{^\s+|\s+$}{}g foreach @record;
 #print STDERR "$record[1]\n";
 
  #print_record_xml($record[0],$pdf_file,$page_start,$page_end,$title,$date,$abstract,$keywords);
- print_record_xml($record[0],$record[1],$record[2],$pdf_file,$page_start,$page_end,$record[3],$record[4],$record[6],$record[7])
- unless $record[5] eq "no";
+ print_record_xml($record[0],$record[1],$record[2],$pdf_file,$page_start,$page_end,$record[3],$record[4],$record[6],$record[7]);
 
 }
 
@@ -1229,6 +1256,7 @@ sub print_warning{
 sub print_record_xml{
 	local( ($authors,$orcids,$affiliations,$pdf_file,$page_start,$page_end,$title,$date,$abstract,$keywords) ) = @_;
 
+
 $filesize = -s $pdf_file;
 
 $abstract=~ s/\&/\&amp;/g;
@@ -1365,7 +1393,7 @@ print XML <<EOF;
 EOF
         if (@orcids[$i] =~ /-/) { # contains dash
             print XML "        <orcid>https://orcid.org/@orcids[$i]</orcid>\n";
-        } else {#if (@orcids[$i] ne "no" && @orcids[$i] ne "mailed" && @orcids[$i] ne "unknown") {
+        } elsif (@orcids[$i] ne "no" && @orcids[$i] ne "mailed" && @orcids[$i] ne "unknown") {
             print_warning("No ORCID for $firstname $lastname, $affiliation!\n\n");
         }
 print XML <<EOF;
