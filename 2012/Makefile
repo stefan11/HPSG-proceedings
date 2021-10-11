@@ -1,38 +1,35 @@
-all: example.pdf hpsg2012.pdf guidelines.pdf toc.shtml
+# This code sets YEAR to the name of the directory the Makefile resides in.
+# For .../2003 it will be 2003, for .../2004 it will be 2004.
+# For .../Garbage it will be Garbage ...
 
-PROGRAM=~stefan/bin/gen-hpsg-proceedings
+#YEAR=2003
+mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
+YEAR := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
 
-example.pdf: example.tex
-	pdflatex example.tex
-	bibtex example
-	pdflatex example.tex
-	pdflatex example.tex
+PROGRAM=../gen-hpsg-proceedings-xml
 
-guidelines.pdf: guidelines.tex
-	pdflatex guidelines.tex
-	pdflatex guidelines.tex
+FILES=config.pl 
 
-hpsg2012.tex: editors-note.tex conference.txt workshop.txt $(PROGRAM)
-	gen-hpsg-proceedings
 
-hpsg2012.pdf: hpsg2012.tex
+all: hpsg$(YEAR).xml 
+
+
+
+hpsg$(YEAR).xml: editors-note.tex conference.txt workshop.txt $(PROGRAM) $(FILES)
+	$(PROGRAM)
+
+hpsg$(YEAR).pdf: hpsg$(YEAR).tex 
 	chmod 755 *.pdf
-	pdflatex hpsg2012.tex
-	pdflatex hpsg2012.tex
+	pdflatex hpsg$(YEAR).tex
+	pdflatex hpsg$(YEAR).tex
 
 
-toc.shtml: conference.txt workshop.txt $(PROGRAM)
-	gen-hpsg-proceedings
-
-
-o-public: toc.shtml hpsg2012.pdf 
-	rsync -a -e ssh . stefanm@cardinal.stanford.edu:/afs/ir.stanford.edu/group/cslipublications/WWW/cslipublications/HPSG/2012/
-
-html-public: 
-	scp -p  *.shtml stefanm@cardinal.stanford.edu:/afs/ir.stanford.edu/group/cslipublications/WWW/cslipublications/HPSG/2012/
 
 clean:
-	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out
+	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc *.tmp *~
 
 realclean: clean
-	rm -f hpsg2011.pdf
+	rm -f *.pdf *.html *.xml *.shtml *.bib
+	mv editors-note.tex editors-note.tex-safe
+	rm -f *.tex 
+	mv editors-note.tex-safe editors-note.tex
