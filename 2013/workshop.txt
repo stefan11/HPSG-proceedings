@@ -6,7 +6,7 @@ This paper shows how certain differences in the nature of Voice systems  across 
 for the behavior of passives, dispositional middles and also regulate the distribution of deponency.
   
 
-Culicover, Peter W. # # The Ohio State University # {Simpler Syntax} and explanation # 2013-09-18 #        # 
+Culicover, Peter W. # mailed # The Ohio State University # {Simpler Syntax} and explanation # 2013-09-18 #        # 
 Simpler Syntax is an approach to grammar that calls for very restrictive limits on the notion of
 'grammatical competence'. Specifically, it does not account for unacceptability judgments for
 sentences that are well-formed if they are fully licensed by the constructions of the language. SS

@@ -2,7 +2,7 @@
 
 Ackerman, Farrell & Malouf, Robert & Moore, John # & & # University of California, San Diego & San Diego State University & University of California, San Diego # Symmetric objects in Moro # # no # pdf
 
-Alotaibi, Mansour & Borsley, Robert D. # & 0000-0002-4856-4732 # University of Essex, Salman bin Abdulaziz University & University of Essex # Gaps and resumptive pronouns in {Modern Standard Arabic} # 2013-10-15 # # Unbounded dependencies in Modern Standard Arabic often involve not a gap but a null resumptive pronoun. The facts are quite complex, but it is not too difficult to extend the SLASH mechanism of HPSG to handle dependencies with a null resumptive pronoun. It is also not too difficult to restrict the distribution of gaps appropriately.
+Alotaibi, Mansour & Borsley, Robert D. # mailed & 0000-0002-4856-4732 # University of Essex, Salman bin Abdulaziz University & University of Essex # Gaps and resumptive pronouns in {Modern Standard Arabic} # 2013-10-15 # # Unbounded dependencies in Modern Standard Arabic often involve not a gap but a null resumptive pronoun. The facts are quite complex, but it is not too difficult to extend the SLASH mechanism of HPSG to handle dependencies with a null resumptive pronoun. It is also not too difficult to restrict the distribution of gaps appropriately.
 
 Bonami, Olivier & Crysmann, Berthold # 0000-0003-0688-3855 & 0000-0003-0230-502X # Université Paris-Sorbonne § Institut universitaire de France § LLF (UMR 7110) & CNRS §  LLF  (UMR 7110) # Morphotactics in an information-based model of realisational morphology # 2013-10-17 # # 
 In most recent work, Crysmann and Bonami (2012) suggest to reconcile the insights of
@@ -60,7 +60,7 @@ constraint-based analysis is developed that takes both empirical
 observations into account, the verb-class dependence and the janus-faced
 nature. 
 
-Jin, Dawei # # University at Buffalo, SUNY # Information structure constraints and complex NP islands in {Chinese} # 2013-10-26 # #
+Jin, Dawei # mailed # University at Buffalo, SUNY # Information structure constraints and complex NP islands in {Chinese} # 2013-10-26 # #
 This paper presents an analysis of the complex NP island effects in
 Chinese. I follow Ginzburg & Sag (2000)'s analysis of <em>in situ
 wh</em>-interrogative
@@ -146,7 +146,7 @@ We know HPSG in 1987 and in 1994. My modest aim is to present
 HPSG 2014.
 
 
-Ryu, Byong-Rae # # Chungnam National University # Multiple case marking as case copying: A unified approach to multiple nominative and accusative constructions in {Korean} # 2013-10-18 ## 
+Ryu, Byong-Rae # mailed # Chungnam National University # Multiple case marking as case copying: A unified approach to multiple nominative and accusative constructions in {Korean} # 2013-10-18 ## 
 This paper presents a unified approach to multiple nominative and accusative constructions in
 Korean. We identify 16 semantic relations holding between two consecutive NPs in multiple case
 marking constructions, and propose each semantic relation as a licensing condition on double case

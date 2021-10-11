@@ -56,7 +56,7 @@ specifier. Finally, I show that HPSG's valence value and an optional lexical rul
 elegant treatment of the construction; SPR list in a sentence level can be utilized for the
 sentential specifier (cf. Kim et al. 2007). 
 
-Costa, Francisco & Branco, António # & 0000-0002-7174-4942 # University of Lisbon # Backshift and tense decomposition # 2012-10-15 # #
+Costa, Francisco & Branco, António # mailed & 0000-0002-7174-4942 # University of Lisbon # Backshift and tense decomposition # 2012-10-15 # #
 Backshift is a phenomenon affecting verb tense that is visible as a mismatch
 between some specific embedded contexts and other environments.  For instance,
 the indirect speech equivalent of a sentence like 'Kim likes reading', with
@@ -110,7 +110,7 @@ of unstressed pronoun objects with regard to sentence adverbials, no
 extra assumptions need to be made in the proposed account.
 
 
-Haugereid, Petter & Morey, Mathieu # 0000-0003-3077-8983 & # Nanyang Technological University, Singapore and University of Haifa, Israel & Aix-Marseille Université, France # A left-branching grammar design for incremental parsing # 2012-10-15 # #
+Haugereid, Petter & Morey, Mathieu # 0000-0003-3077-8983 & mailed # Nanyang Technological University, Singapore and University of Haifa, Israel & Aix-Marseille Université, France # A left-branching grammar design for incremental parsing # 2012-10-15 # #
 This paper presents a left-branching constructionalist grammar design
 where the phrase structure tree does not correspond to the
 conventional constituent structure. The constituent structure is
