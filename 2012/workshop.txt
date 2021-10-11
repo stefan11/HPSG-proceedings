@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Ahn, Hee-Don & Cho, Sungeun # & # Konkuk University & Yeungnam University # Fragments vs. null arguments in Korean # 2012-10-15 # # 
+Ahn, Hee-Don & Cho, Sungeun # mailed & mailed # Konkuk University & Yeungnam University # Fragments vs. null arguments in Korean # 2012-10-15 # # 
 Korean has two types of answers shorter than full sentential answers: Fragments and null argument
 constructions. Apparently the two constructions have the same interpretative processes. However,
 there are some cases where the fragment and null argument construction behave differently: e.g.,
@@ -58,7 +58,7 @@ languages, and it is only the wh-phrase(s) that is retained:
 <li>Toosarvandani, M. 2008. Wh-movement and the syntax of sluicing. Journal of Linguistics. 44: 677-722. 
 </ul>
 
-Kim, Yae-Jee & Cho, Sae-Youn # & # State University of New York at Buffalo & Kangwon National University
+Kim, Yae-Jee & Cho, Sae-Youn # mailed & mailed # State University of New York at Buffalo & Kangwon National University
 # Tense and honorific interpretations in Korean gapping construction:<br> A constraint- and construction-based approach # 2012-10-20 # # 
 Chung (2001) claims that non-final conjuncts without overt tense morphemes which produce asymmetric
 tense interpretations are to be analyzed as TP; and Lee (2005) argues that the verbal honorific
@@ -83,7 +83,7 @@ transformational community are naturally seen as equivalent descriptions at diff
 LF-copying approach to ellipsis resolution is best seen as a description of the parser, whereas the
 phonological deletion approach a description of the underlying relation between form and meaning. 
 
-Lee, Hanjung & Kim, Nayoun # & # Sungkyunkwan University # Non-canonical word order and subject-object asymmetry in Korean case ellipsis # 2012-10-12 # #
+Lee, Hanjung & Kim, Nayoun # mailed & mailed # Sungkyunkwan University # Non-canonical word order and subject-object asymmetry in Korean case ellipsis # 2012-10-12 # #
 The dispreference for subject case ellipsis in OSV sentences has been analyzed as resulting from a
 violation of a structural requirement on the position of bare subject NPs (Ahn and Cho 2006a, 2006b,
 2007). In this study, we present evidence from an acceptability rating experiment demonstrating that
