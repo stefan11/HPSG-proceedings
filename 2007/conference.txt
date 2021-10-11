@@ -140,7 +140,7 @@ performance. In our experiment, the use of licenser rules reduced the
 parse time by a factor of 13.5.
 
 
-Kim, Jong-Bok & Yang, Jaehyung # 0000-0003-3286-0446 & mailed # Kyung Hee University & Kangnam University # Syntax and semantics of Korean numeral classifier constructions # 2007-10-22 # #
+Kim, Jong-Bok & Yang, Jaehyung # 0000-0003-3286-0446 & 0000-0002-2228-8223 # Kyung Hee University & Kangnam University # Syntax and semantics of Korean numeral classifier constructions # 2007-10-22 # #
 The so-called floating quantifier constructions in languages like
 Korean display intriguing properties whose successful processing can
 prove the robustness of a parsing system. This paper shows that a

@@ -35,7 +35,7 @@ characterize a subset of them can be shown to follow from, or be related to,
 their weight properties (Abeillé and Godard 2000). We conclude that their
 apparently idiosyncratic properties fit into a more general theory of grammar.
 
-Beavers, John # mailed # Stanford University # More heads and less categories: A new look at noun phrase structure # 2003-10-01 # #
+Beavers, John # 0000-0002-7040-9982 # Stanford University # More heads and less categories: A new look at noun phrase structure # 2003-10-01 # #
 Much literature in syntax has assumed that all noun phrases are
 categorically headed by the determiner or the noun, with well-formedness
 categorial in nature.  In this paper I develop a theory of noun phrase
@@ -107,7 +107,7 @@ semantic CONTENT values of the verb and the dative marker, together with the
 rules of semantic composition.
 
 
-Chung, Chan  & Kim, Jong-Bok # mailed & 0000-0003-3286-0446 # Dongseo University & Kyung Hee University # Capturing word order asymmetries in English # 2003-10-01 # #
+Chung, Chan  & Kim, Jong-Bok # 0000-0002-2744-7051 & 0000-0003-3286-0446 # Dongseo University & Kyung Hee University # Capturing word order asymmetries in English # 2003-10-01 # #
 Left-Peripheral Constructions: A Domain-Based Approach
 Even though the word order in English is rather straightforward,
 the distributional possibilities of left-peripheral elements like
@@ -284,7 +284,7 @@ restricts the range of possible lexical items.
 
 
 
-Levine, Robert D. & Sag, Ivan A. # mailed & no # Ohio State University & Stanford University # Some empirical issues in the grammar of extraction # 2003-10-01 # #
+Levine, Robert D. & Sag, Ivan A. # 0000-0001-8938-1839 & no # Ohio State University & Stanford University # Some empirical issues in the grammar of extraction # 2003-10-01 # #
 This paper compares transformation-based and constraint-based treatments of
 unbounded filler-gap dependencies, the latter specifically as articulated in
 terms of HPSG, and argues, contrary to the commonly made allegations of
@@ -517,7 +517,7 @@ Netter (1994), but it can smoothly be integrated in the
 functor treatment of the prenominals in Allegranza (1998) and 
 Van Eynde (2002). 
 
-Yoo, Eun-Jung # mailed # Seoul National University # Specificational pseudoclefts in English # 2003-10-01 # #
+Yoo, Eun-Jung # 0000-0002-5116-0907 # Seoul National University # Specificational pseudoclefts in English # 2003-10-01 # #
 Specificational pseudoclefts (SPCs) have been a great challenge for a syntactic theory, 
 because, despite the surface division between the pre- and post-copular elements, 
 the post-copular `pivot' behaves as if it occupied the gap position in the precopular 

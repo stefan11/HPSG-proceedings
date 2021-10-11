@@ -180,7 +180,7 @@ Arabic nominals and various verb-derived nouns. We also present the lexical type
 for generating these verb-derived nominals using the HPSG framework.
 
 
-Kim, Jong-Bok & Yang, Jaehyung & Song, Sanghoun # 0000-0003-3286-0446 & mailed & 0000-0002-4234-232X # Kyung Hee & Kangnam & University of Washington # Korean comparative constructions: A constraint-based approach and computational implementation # 2010-10-25 # # 
+Kim, Jong-Bok & Yang, Jaehyung & Song, Sanghoun # 0000-0003-3286-0446 & 0000-0002-2228-8223 & 0000-0002-4234-232X # Kyung Hee & Kangnam & University of Washington # Korean comparative constructions: A constraint-based approach and computational implementation # 2010-10-25 # # 
 The complexity of comparative constructions in each language has given challenges to both
 theoretical and computational analyses. This paper first identifies types of comparative
 constructions in Korean and discusses their main grammatical properties. It then builds a syntactic
@@ -195,7 +195,7 @@ contextual information.
 Koenig, Jean-Piere & Michelson, Karin # 0000-0002-5431-5978 & # Buffalo University # Invariance in argument realization: The case of Iroquoian # # no #
 
 
-Levine, Robert # mailed # Ohio State University # Polarity and auxiliaryhood (pseudo)entanglement: The ellipsis pattern of modal need # # no #
+Levine, Robert # 0000-0001-8938-1839 # Ohio State University # Polarity and auxiliaryhood (pseudo)entanglement: The ellipsis pattern of modal need # # no #
 
 
 Maché, Jakob # 0000-0001-8567-1185 # Freie Universität Berlin # Towards a compositional analysis of verbless directives in German # 2010-10-13 # no # 

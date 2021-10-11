@@ -19,7 +19,7 @@ paradigmatic opposition with a general distinction between expression and condit
 
 
 
-Hahn, Michael # University of Tübingen # Word Order Variation in Khoekhoe # October 15, 2013 # # 
+Hahn, Michael # 0000-0003-4828-4834 # University of Tübingen # Word Order Variation in Khoekhoe # October 15, 2013 # # 
 Khoekhoe, a Central Khoisan language, has been claimed to have a clause-second position and
 topological fields similar to German and Dutch. The position in front of the clause-second position
 can be occupied by either the matrix verb or a dependent. We argue that monomoraic words are exempt

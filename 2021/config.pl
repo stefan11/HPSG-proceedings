@@ -1,7 +1,7 @@
 $year       = "2021";
 $conf_date  = "July 28–30, $year";
 $proc_title = "Proceedings of the 28th International Conference on Head-Driven Phrase Structure Grammar";
-$location   = "Online (Frankfurt)";
+$location   = "Online (Frankfurt/Main)";
 $conf_name  = "HPSG";
 $paper_prefix = "hpsg2021";
 $editor     = "Müller, Stefan & Melnik, Nurit";

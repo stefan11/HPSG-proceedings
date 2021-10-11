@@ -13,7 +13,7 @@ properties of nouns. This offers both a better account of the data, and
 preserves the more restrictive theory of the morphology-syntax interface.
 
 
-Beavers, John # mailed # CSLI, Stanford University # Towards a semantic analysis of argument/oblique alternations in HPSG # 2005-10-15 # #
+Beavers, John # 0000-0002-7040-9982 # CSLI, Stanford University # Towards a semantic analysis of argument/oblique alternations in HPSG # 2005-10-15 # #
     I examine the semantic contrasts exhibited by argument/oblique alternations 
 (argument realization alternations where one or more participants may
 be realized either as a direct argument or an oblique). Previous HPSG accounts 

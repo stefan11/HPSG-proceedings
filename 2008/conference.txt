@@ -190,7 +190,7 @@ are composed in the syntax. Third, the count/mass properties of nouns suggest
 an interleaving of conceptual and grammatical information in semantic
 composition.
 
-Yoo, Eun-Jung # mailed # Seoul National University # Transparent free relatives in English # 2008-10-14 # #
+Yoo, Eun-Jung # 0000-0002-5116-0907 # Seoul National University # Transparent free relatives in English # 2008-10-14 # #
 Transparent free relatives (TFRs) are constituents involving a
 WH-gap dependency in which the phrase that is predicated
 of the gap associated with 'what', not the wh-phrase

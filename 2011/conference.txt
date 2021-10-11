@@ -32,7 +32,7 @@ analyses. We find that the analysis of free word order (Fokkens, 2010) provided 
 Matrix customization system can be adapted to handle the Basque facts, and that the constructional
 approach taken in that analysis supports the integration of negation.
 
-Hahn, Michael # mailed # University of Tübingen # Null conjuncts and bound pronouns in Arabic # 2011-11-15 # #
+Hahn, Michael # 0000-0003-4828-4834 # University of Tübingen # Null conjuncts and bound pronouns in Arabic # 2011-11-15 # #
 This paper presents a descriptive overview and a formal analysis of the
 syntax of pronominal arguments, pronominal conjuncts and bound pronouns
 in Arabic. I argue that Arabic allows first conjuncts to be null and that this
@@ -86,7 +86,7 @@ that the PET system, originally developed for the HPSG grammar framework,
 outperforms the OpenCCG parser by a factor of 8&ndash;10 in the time domain and a
 factor of 4&ndash;5 in the space domain.
 
-Levine, Robert # mailed # Ohio State University # Linearization and its discontents # 2011-11-21 # #
+Levine, Robert # 0000-0001-8938-1839 # Ohio State University # Linearization and its discontents # 2011-11-21 # #
 Much recent work on coordination in the HPSG
 framework seeks to deal with some of the most intractable issues this
 phenomenon poses for a constraint-based phrase structure architecture

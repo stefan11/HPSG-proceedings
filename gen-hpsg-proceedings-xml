@@ -1254,7 +1254,7 @@ $title=~ s/<br>//g;
 
   print XML <<EOF;
   <article status="3" submission_progress="0" stage="production" date_submitted="$date">
-    <submission_file id="1" file_id="1" stage="proof" updated_at="$today" viewable="false" genre="Article Text" uploader="ojs_admin">
+    <submission_file id="$publication_id" file_id="$publication_id" stage="proof" updated_at="$today" viewable="false" genre="Article Text" uploader="ojs_admin">
       <name locale="en_US">$pdf_file</name>
       <file id="$publication_id" filesize="$filesize" extension="pdf">
         <embed encoding="base64">
@@ -1285,7 +1285,7 @@ print_authors_xml($authors,$orcids,$affiliations);
       <article_galley locale="en_US" approved="false">
         <name locale="en_US">PDF</name>
         <seq>0</seq>
-        <submission_file_ref id="1"/>
+        <submission_file_ref id="$publication_id"/>
       </article_galley>
       <issue_identification>
         <year>$year</year>
@@ -1365,7 +1365,7 @@ print XML <<EOF;
 EOF
         if (@orcids[$i] =~ /-/) { # contains dash
             print XML "        <orcid>https://orcid.org/@orcids[$i]</orcid>\n";
-        } elsif (@orcids[$i] ne "no" && @orcids[$i] ne "mailed" && @orcids[$i] ne "unknown") {
+        } else {#if (@orcids[$i] ne "no" && @orcids[$i] ne "mailed" && @orcids[$i] ne "unknown") {
             print_warning("No ORCID for $firstname $lastname, $affiliation!\n\n");
         }
 print XML <<EOF;

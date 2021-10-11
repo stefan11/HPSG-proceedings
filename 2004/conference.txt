@@ -32,7 +32,7 @@ independently motivated theoretical apparatus, and requires absolutely no new
 structures, features, or types.
 
 
-Beavers, John & Sag, Ivan A. # mailed & no # University of Texas & Standford University # Coordinate ellipsis and apparent non-constituent coordination # 2004-10-25 # #
+Beavers, John & Sag, Ivan A. # 0000-0002-7040-9982 & no # University of Texas & Standford University # Coordinate ellipsis and apparent non-constituent coordination # 2004-10-25 # #
 Within the tradition of Categorial Grammar, so-called
 `non-constituent' coordination (`argument cluster' coordination and
 `right node raising') has been analyzed in terms of the coordination

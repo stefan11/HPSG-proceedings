@@ -92,7 +92,7 @@ and syntagmatic position classes, and show that this distinction can readily be 
 while keeping the amorphous assumption. 
 
 
-Hahn, Michael  # University of Tübingen # Arabic Relativization Patterns:<br> A Unified HPSG Analysis # October 15, 2012 # #
+Hahn, Michael  # 0000-0003-4828-4834 # University of Tübingen # Arabic Relativization Patterns:<br> A Unified HPSG Analysis # October 15, 2012 # #
 Classical Arabic and Modern Standard Arabic have several relativization patterns, including relative clauses with and without relativizers and adjectival modification patterns. Previous generative work has targeted several phenomena, but there is no analysis which covers all relativization patterns in any generative framework. We present an HPSG analysis that covers these phenomena in a uniform manner. Based on Doron and Reintges (2005), we show that the crosslinguistically unusual syntax of adjectival modifiers is a language-internally expected variant of participial modifiers as found in English. We also present the first HPSG analysis of Arabic broad subjects and argue that they are selected as specifiers, accounting for the similarities between broad subjects and ordinary subjects.
 
 
