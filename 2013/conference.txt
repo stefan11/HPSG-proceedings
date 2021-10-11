@@ -1,10 +1,10 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # abstract
 
-Ackerman, Farrell & Malouf, Robert & Moore, John # University of California, San Diego & San Diego State University & University of California, San Diego #	Symmetric objects in Moro # # no # pdf
+Ackerman, Farrell & Malouf, Robert & Moore, John # & & # University of California, San Diego & San Diego State University & University of California, San Diego # Symmetric objects in Moro # # no # pdf
 
-Alotaibi, Mansour & Borsley, Robert D. # University of Essex, Salman bin Abdulaziz University & University of Essex # Gaps and Resumptive Pronouns in {Modern Standard Arabic} # October 15, 2013 # # Unbounded dependencies in Modern Standard Arabic often involve not a gap but a null resumptive pronoun. The facts are quite complex, but it is not too difficult to extend the SLASH mechanism of HPSG to handle dependencies with a null resumptive pronoun. It is also not too difficult to restrict the distribution of gaps appropriately.
+Alotaibi, Mansour & Borsley, Robert D. # & 0000-0002-4856-4732 # University of Essex, Salman bin Abdulaziz University & University of Essex # Gaps and resumptive pronouns in {Modern Standard Arabic} # 2013-10-15 # # Unbounded dependencies in Modern Standard Arabic often involve not a gap but a null resumptive pronoun. The facts are quite complex, but it is not too difficult to extend the SLASH mechanism of HPSG to handle dependencies with a null resumptive pronoun. It is also not too difficult to restrict the distribution of gaps appropriately.
 
-Bonami, Olivier & Crysmann, Berthold #  Université Paris-Sorbonne § Institut universitaire de France § LLF (UMR 7110) & CNRS §  LLF  (UMR 7110) # Morphotactics in an Information-Based Model of Realisational Morphology # October 17, 2013 # # 
+Bonami, Olivier & Crysmann, Berthold # 0000-0003-0688-3855 & 0000-0003-0230-502X # Université Paris-Sorbonne § Institut universitaire de France § LLF (UMR 7110) & CNRS §  LLF  (UMR 7110) # Morphotactics in an information-based model of realisational morphology # 2013-10-17 # # 
 In most recent work, Crysmann and Bonami (2012) suggest to reconcile the insights of
 inferential-realisational morphology (Anderson, 1992; Stump, 2001; Brown and Hippisley, 2012) with
 the full typology of variable morphotactics: situations where the expression of analogous feature
@@ -19,7 +19,7 @@ paradigmatic opposition with a general distinction between expression and condit
 
 
 
-Hahn, Michael # 0000-0003-4828-4834 # University of Tübingen # Word Order Variation in Khoekhoe # October 15, 2013 # # 
+Hahn, Michael # 0000-0003-4828-4834 # University of Tübingen # Word order variation in Khoekhoe # 2013-10-15 # # 
 Khoekhoe, a Central Khoisan language, has been claimed to have a clause-second position and
 topological fields similar to German and Dutch. The position in front of the clause-second position
 can be occupied by either the matrix verb or a dependent. We argue that monomoraic words are exempt
@@ -30,7 +30,7 @@ analysis that has a wider scope than the previous Minimalist analyses of Khoekho
 compatible with evidence from tonology.
 
 
-Haugereid, Petter & Melnik, Nurit & Wintner, Shuly # University of Bergen § The Open University of Israel § University of Haifa & The Open University of Israel & University of Haifa # Nonverbal Predicates in {Modern Hebrew} # October 12, 2013 # # 
+Haugereid, Petter & Melnik, Nurit & Wintner, Shuly # 0000-0003-3077-8983 & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Bergen § The Open University of Israel § University of Haifa & The Open University of Israel & University of Haifa # Nonverbal predicates in {Modern Hebrew} # 2013-10-12 # # 
 Nonverbal predicates in Modern Hebrew have been the subject of investigation in a number of
 studies. However, to our knowledge, none of them was corpus-based. Corpus searches reveal that the
 nonverbal constructions which are most commonly addressed in the literature are not the most
@@ -39,7 +39,7 @@ analysis addresses these issues, unifying the treatment of three types of copula
 we identify in MH. The analysis is implemented as part of a larger-scale grammar, and is extensively
 tested.
 
-Holler, Anke # mailed # University of Göttingen # Reanalyzing {German} Correlative <em>es</em> # October 15, 2013 # # 
+Holler, Anke # mailed # University of Göttingen # Reanalyzing {German} correlative <em>es</em> # 2013-10-15 # # 
 The present article discusses several aspects of the
 so-called correlate-<em>es</em> construction in German. This complex clausal
 construction can be identified by a correlative nominal element <em>es</em>
@@ -60,7 +60,7 @@ constraint-based analysis is developed that takes both empirical
 observations into account, the verb-class dependence and the janus-faced
 nature. 
 
-Jin, Dawei # University at Buffalo, SUNY # 	Information Structure Constraints and Complex NP Islands in {Chinese} # October 26, 2013 # #
+Jin, Dawei # # University at Buffalo, SUNY # Information structure constraints and complex NP islands in {Chinese} # 2013-10-26 # #
 This paper presents an analysis of the complex NP island effects in
 Chinese. I follow Ginzburg & Sag (2000)'s analysis of <em>in situ
 wh</em>-interrogative
@@ -73,7 +73,7 @@ feature percolation into relative head to fail. In this way I show that
 island effects in Chinese can be independently ruled out in the grammar as
 a case of contradiction.
 
-Maekawa, Takafumi # mailed # Ryukoku University  # A Beautiful Four Days in {Berlin} # October 15, 2013 # no # 
+Maekawa, Takafumi # mailed # Ryukoku University # A beautiful four days in {Berlin} # 2013-10-15 # no # 
 In this paper we look at one specific construction in English, where an
 indefinite article and a plural noun can occur together (e.g., a beautiful
 four days). Besides this number mismatch between the determiner and the
@@ -83,7 +83,7 @@ four beautiful days). There are at least two analyses that might be
 proposed within HPSG, a lexical analysis and a constructional analysis,
 but we argue that the latter is the best analysis.
 
-Miller, Philip # EA 3967 CLILLAC-ARP, Université Paris Diderot  # Usage Preferences: The Case of the {English} Verbal Anaphor <em>do so</em> # November 5, 2013  #  # 
+Miller, Philip # 0000-0002-1436-9533 # EA 3967 CLILLAC-ARP, Université Paris Diderot # Usage preferences: The case of the {English} verbal anaphor <em>do so</em> # 2013-11-05  #  # 
 In this paper I introduce the notion of Usage Preferences (UPs), which are statistically significant
 preferences in usage which can concern any aspect of linguistics. I suggest that multiple violations
 of UPs can have additive effects, causing grammatical sentences to be judged as unacceptable. A new
@@ -95,7 +95,7 @@ acceptability and to remarks on the methodological importance of taking UPs into
 linguistic theorizing and in the construction of acceptability experiments.
 
 
-Müller, Stefan & Ørsnes, Bjarne  # Freie Universität Berlin   # Passive in {Danish}, {English}, and {German}                           # September 20th, 2013 # #
+Müller, Stefan & Ørsnes, Bjarne # 0000-0003-4413-5313 & 0000-0003-2046-2029 # Freie Universität Berlin # Passive in {Danish}, {English}, and {German} # 2013-09-20 # #
 We show how the variation in the passive in Danish, English, and German can be accounted for. The dimensions in which the three languages differ are 
 <ul>
 <li>the existence of a morphological passive in Danish
@@ -108,8 +108,9 @@ mapping processes that insert expletives in Danish. The passive in general is ac
 a lexical rule that is uniform across languages and hence captures the generalization regarding passive.
 
 
-Przepiórkowski, Adam # Institute of Computer Science, Polish Academy of Sciences # The Syntax of Distance Distributivity in {Polish}: Preserving Generalisations with Weak Heads # October 15th, 2013 # #
+Przepiórkowski, Adam # 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences # The syntax of distance distributivity in {Polish}: Preserving generalisations with weak heads # 2013-10-15 # #
 This paper presents a syntactic HPSG analysis of distance distributivity in Polish, where the challenge is to uniformly analyse a number of function lexemes PO 'each' which share their form and semantic contribution, but differ in their syntactic behaviour. To this end, the HPSG notion of <em>weak head</em> is employed in a novel way.
+
 
 Richter, Frank # 0000-0003-1929-5489 # Heinrich-Heine Universität Düsseldorf # 87, 94, 14? The Nature of Linguistic Theory
 # October 16, 2013 # no # 
@@ -145,7 +146,7 @@ We know HPSG in 1987 and in 1994. My modest aim is to present
 HPSG 2014.
 
 
-Ryu, Byong-Rae # Chungnam National University # Multiple Case Marking as Case Copying: A Unified Approach to Multiple Nominative and Accusative Constructions in {Korean} # October 18, 2013 ## 
+Ryu, Byong-Rae # # Chungnam National University # Multiple case marking as case copying: A unified approach to multiple nominative and accusative constructions in {Korean} # 2013-10-18 ## 
 This paper presents a unified approach to multiple nominative and accusative constructions in
 Korean. We identify 16 semantic relations holding between two consecutive NPs in multiple case
 marking constructions, and propose each semantic relation as a licensing condition on double case
@@ -157,7 +158,7 @@ problems such as how the additional same-case NPs are licensed, and in what resp
 nominative marking and the multiple accusative marking are alike and different from each other.
 
 
-Szécsényi, Tibor # University of Szeged, Hungary # Argument Inheritance and Left Periphery in {Hungarian} Infinitival Constructions # October 20, 2013 # #
+Szécsényi, Tibor # 0000-0002-7679-8317 # University of Szeged, Hungary # Argument inheritance and left periphery in {Hungarian} infinitival constructions # 2013-10-20 # #
 Hungarian infinitival constructions have both mono-clausal
 and bi-clausal properties at the same time. The arguments of the infinitive behave the same way as
 the arguments of the finite verb do, but the non-finite verb has its own left periphery. After
@@ -168,7 +169,7 @@ constructions. The analysis lexically distinguishes the left peripheral argument
 from its complements, and allows the infinitive and its left peripheral arguments to form
 constituents, while the complements of the infinitive are inherited to the finite verb.
 
-Van Eynde, Frank & Augustinus, Liesbeth # Centre for Computational Linguistics, University of Leuven & Centre for Computational Linguistics, University of Leuven # Why and How to Differentiate Complement Raising from Subject Raising in {Dutch} # October 15, 2013 # #
+Van Eynde, Frank & Augustinus, Liesbeth # 0000-0002-6172-442X & 0000-0002-3238-4622 # Centre for Computational Linguistics, University of Leuven & Centre for Computational Linguistics, University of Leuven # Why and how to differentiate complement raising from subject raising in {Dutch} # 2013-10-15 # #
 In Dutch V-final clauses the verbs tend to form a cluster in which the main verb is separated from
 its syntactic arguments by one or more other verbs.  In HPSG the link between the main verb and its
 arguments is canonically modeled in terms of <i>argument inheritance</i>, also known as <i>argument

@@ -1,12 +1,12 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
 
-Alexiadou, Artemis # Universität Stuttgart # Where is Non-Active Morphology? # 15.10.13 # #
+Alexiadou, Artemis # 0000-0002-6790-232X # Universität Stuttgart # Where is non-active morphology? # 2013-10-15 # #
 This paper shows how certain differences in the nature of Voice systems  across languages are responsible
 for the behavior of passives, dispositional middles and also regulate the distribution of deponency.
   
 
-Culicover, Peter W.   # The Ohio State University   # {Simpler Syntax} and Explanation                                   # September 18, 2013 #        # 
+Culicover, Peter W. # # The Ohio State University # {Simpler Syntax} and explanation # 2013-09-18 #        # 
 Simpler Syntax is an approach to grammar that calls for very restrictive limits on the notion of
 'grammatical competence'. Specifically, it does not account for unacceptability judgments for
 sentences that are well-formed if they are fully licensed by the constructions of the language. SS
@@ -20,8 +20,7 @@ grammar per se, e.g., processing complexity, semantic or pragmatic well-formedne
 coherence, etc. I review several examples that suggest that the line that SS draws between
 competence on the one hand and performance and other mechanisms on the other is on the right track. 
 
-Kiss, Tibor # Ruhr Universität Bochum #	Gauging the progress in linguistics (Gedanken ohne Inhalt
-sind leer, Anschauungen ohne Begriffe sind blind.) # June 18, 2013 # no # In this talk, I will argue that socio-political and methodological problems lie at the heart of the
+Kiss, Tibor # 0000-0003-1857-3686 # Ruhr Universität Bochum # Gauging the progress in linguistics (Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind.) # 2013-06-18 # no # In this talk, I will argue that socio-political and methodological problems lie at the heart of the
 decreasing progress in and success of linguistics as a field. Socio-politically, two large schools
 focus on empty theorizing or collecting data without theoretical guidance, respectively. Schools
 progress from communities in which issues can be openly discussed to communities in which certain
@@ -35,8 +34,7 @@ To support my claim, I shall discuss picture-NP-reflexives in binding theory and
 obligatoriness throughout. 
 
 
-Müller, Gereon # University of Leipzig # Derivational Syntax: Arguments and Challenges # October 31,
-2013 # no # Strong arguments for a derivational organization of syntax are
+Müller, Gereon # # University of Leipzig # Derivational syntax: Arguments and challenges # 2013-10-31 # no # Strong arguments for a derivational organization of syntax are
 provided by opaque interactions of grammatical building blocks (like
 rules, constraints, or schemata), i.e., by counter-bleeding and
 counter-feeding phenomena. Some of these opaque interactions can be
@@ -71,7 +69,7 @@ simple way.
 </ul>
 
 
-Müller, Stefan # Freie Universität Berlin # Some Remarks on the State of the Field and on Ways to Ensure Progress: Description, Analysis, Formalization, Implementation # October 15, 2013 # no #
+Müller, Stefan # 0000-0003-4413-5313 # Freie Universität Berlin # Some remarks on the state of the field and on ways to ensure progress: Description, analysis, formalization, implementation # 2013-10-15 # no #
 One problem of current theorizing in mainstream generative grammar (MGG) is the impressionistic use
 of data (Fanselow, 2009). Another problem is that constructs that are manifested in one language or
 a language class are taken as evidence for invisible structures in other languages (Chinque, 1999;
@@ -132,12 +130,12 @@ Benjamins Publishing Co., volume 38 of Linguistik Aktuell/Linguistics Today.
 <li>Ross, John Robert. 2011. Letter to the MIT Linguistics Department for its 50th Anniversary. <a href="http://ling50.mit.edu/replies/haj-ross">http://ling50.mit.edu/replies/haj-ross</a>, 26.08.2013.
 </ul>
 
-Pankau, Andreas # Univ Frankfurt/Main #	Arc-Pair Grammar and extraction: unbounded dependencies and
+Pankau, Andreas # # Univ Frankfurt/Main # Arc-pair grammar and extraction: Unbounded dependencies and
 grammatical relations # # no #
 In this talk, I aim to show two things. First, that the <em>wh</em>-copying construction in German cannot be given a simple analysis in the dominating frameworks. And second, that the Arc Pair Grammar framework makes such a simple analysis available.
  
 
-Stefanowitsch, Anatol # Freie Universität Berlin # Usage, grammar and stochastic cryptotypes # # no # 
+Stefanowitsch, Anatol # 0000-0002-8780-775X # Freie Universität Berlin # Usage, grammar and stochastic cryptotypes # # no # 
 The relationship between usage and grammar is even more contentious than that between function and form. At one extreme, authors like Hoppper (1987) argue that grammar is nothing more than an emergent property of language use, at the other extreme, authors like Newmeyer (2003) argue that usage is only a fragmentary manifestation of grammar. Cognitive Grammar takes a middle ground, granting grammar an existence based in, but separate from usage (e.g. Langacker 1987). If the latter view is right, as I believe it is, then the grammatical system in place at a given time should exert a systemic pressure on usage. For example, gaps in grammatical paradigms should force (or encourage) speakers to invent usage patterns that fill these gaps; the same should be true, more generally, of  categories that are frequently observed in the grammar of human languages but happen to be missing from a particular grammar. In my talk, I will show that such patterns, which I call “stochastic cryptotypes”, can indeed be identified with the appropriate quantitative corpus-linguistic methods.
 <h2>References</h2>
 <ul class="pub">
@@ -146,7 +144,7 @@ The relationship between usage and grammar is even more contentious than that be
 <li>Newmeyer, Frederick J. (2003) Grammar is grammar and usage is usage. Language 79: 682–707.
 </ul> 
 
-Vincent, Nigel # University of Manchester #	Before and between theories # October 31, 2013 # no # 
+Vincent, Nigel # 0000-0002-2494-1652 # University of Manchester # Before and between theories # 2013-10-31 # no # 
 In my paper, rather than consider the merits and demerits of one particular theory, I want to address three general issues, which are relevant to advocates of all theories:
 <ol>
 <li style="list-style-type:lower-latin !important;">	To what extent is it possible, or indeed necessary, to agree on a common vocabulary within which to couch descriptions of basic linguistic data? And should we refer to such a vocabulary as a ‘theory’, as in Dixon’s (2010) ‘Basic Linguistic Theory’, or should we consider these terms/concepts as pre-theoretical in the sense of Lyons (1977: §1.6)? For exemplification I will draw on the history of the various uses of the term ‘conative’ in recent descriptive and theoretical work (Vincent, to appear).
