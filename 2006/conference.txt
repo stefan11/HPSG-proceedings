@@ -259,7 +259,7 @@ determine the compositional fashion in which they are combined to give the
 interpretation of the verb phrase as a whole.
 
 
-Richter, Frank  & Sailer, Manfred # mailed & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Modeling typological markedness in semantics: The case of negative concord # 2006-10-15 # #
+Richter, Frank  & Sailer, Manfred # 0000-0003-1929-5489 & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Modeling typological markedness in semantics: The case of negative concord # 2006-10-15 # #
 We will provide an analysis of negative concord in sentential negation
 in three languages, French, Polish and German. The focus of the paper
 is (1) the typological variation with respect to the realization of

@@ -111,7 +111,7 @@ a lexical rule that is uniform across languages and hence captures the generaliz
 Przepiórkowski, Adam # Institute of Computer Science, Polish Academy of Sciences # The Syntax of Distance Distributivity in {Polish}: Preserving Generalisations with Weak Heads # October 15th, 2013 # #
 This paper presents a syntactic HPSG analysis of distance distributivity in Polish, where the challenge is to uniformly analyse a number of function lexemes PO 'each' which share their form and semantic contribution, but differ in their syntactic behaviour. To this end, the HPSG notion of <em>weak head</em> is employed in a novel way.
 
-Richter, Frank # mailed # Heinrich-Heine Universität Düsseldorf # 87, 94, 14? The Nature of Linguistic Theory
+Richter, Frank # 0000-0003-1929-5489 # Heinrich-Heine Universität Düsseldorf # 87, 94, 14? The Nature of Linguistic Theory
 # October 16, 2013 # no # 
 In the early days of HPSG, there was considerable emphasis on its
 formal foundations and on the 'nature of linguistic theory' that would

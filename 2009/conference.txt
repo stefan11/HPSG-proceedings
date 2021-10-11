@@ -105,7 +105,7 @@ WH-value models <em>wh</em>-fronting and pied-piping phenomena, the QUE value
 links syntactic and semantic information and thus keeps track of
 <em>wh</em>-phrases in-situ.
 
-Iordăchioaia, Gianina & Richter, Frank # 0000-0002-8847-6307 & mailed # Universität Stuttgart & Universität Tübingen # Negative concord in Romanian as polyadic quantification # 2009-10-16 # #
+Iordăchioaia, Gianina & Richter, Frank # 0000-0002-8847-6307 & 0000-0003-1929-5489 # Universität Stuttgart & Universität Tübingen # Negative concord in Romanian as polyadic quantification # 2009-10-16 # #
 In this paper we develop an HPSG syntax-semantics of negative concord in
 Romanian. We show that n-words in Romanian can best be treated as negative
 quantifiers which may combine by resumption to form polyadic negative
@@ -211,7 +211,7 @@ head-modifier structure. It is argued that the existence of two structures favor
 interface between syntax and semantics which do not require a uniform isomorphism between the
 semantics and syntax of aspect.
 
-Richter, Frank & Sailer, Manfred # mailed & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Phraseological clauses in constructional HPSG # 2009-10-16 # #
+Richter, Frank & Sailer, Manfred # 0000-0003-1929-5489 & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Phraseological clauses in constructional HPSG # 2009-10-16 # #
 In this paper we investigate German idioms which contain phraseologically
 fixed clauses (PCl). To provide a comprehensive HPSG theory of PCls we
 extend the idiom theory of Soehn 2006 in such a way that it can
