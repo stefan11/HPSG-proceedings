@@ -75,7 +75,47 @@
 
 \pagestyle{empty}
 
-\usepackage[sectionbib]{natbib}
+%\usepackage[sectionbib]{natbib}
+
+\usepackage[
+	natbib=true,
+	% \iflsUndecapitalize
+	% style=\bstpath biblatex-langsci-unified-undecap,
+	% \else
+	% style=\bstpath biblatex-langsci-unified,
+	% \fi
+%	style=\bbxpath biblatex-sp-unified,
+%	citestyle=\cbxpath sp-authoryear-comp,
+%	style=stmue-langsci-unified,
+%	citestyle=stmue-langsci-unified,
+%	datamodel=stmue-langsci,   % add authauthor and autheditor as possible fields to
+                                % bibtex entries
+	style=langsci-unified,
+	citestyle=langsci-unified,
+	datamodel=langsci,   % add authauthor and autheditor as possible fields to
+                                % bibtex entries
+	useprefix = true, %sort von, van, de where they should appear
+	%refsection=chapter,
+	maxbibnames=99,
+	mincrossrefs=99,
+	maxcitenames=2,
+        uniquename=false,
+	isbn=false,
+	doi=true,
+	url=true,
+	eprint=false,
+        useprefix=true,
+	backend=biber,
+	indexing=cite,
+        autolang=hyphen,
+%        sorting=ydnt,
+%  datamodel=\bstpath langsci   % add authauthor and autheditor as possible fields to bibtex entries
+]{biblatex}
+
+\let\citew\citet
+
+\bibliography{example}
+
 
 %% Use this to add space in glossings e.g. for a "[" in the original you write \hapsceThis{[}
 %% hspace over width of something without showing it
@@ -107,8 +147,8 @@
 
 % For URLs load the style file url.sty , You may then type \url{http://hpsg.fu-berlin.de/~stefan/}
 % without any hassle regarding the `~'. 
-\usepackage[hyphens]{url}
-\urlstyle{same}
+%\usepackage[hyphens]{url}
+%\urlstyle{same}
 
 \usepackage[bookmarks=true,bookmarksopen=true,hyperindex=true,breaklinks=true,draft=false,plainpages=false,hyperfootnotes=false,%
 colorlinks=false, pdfborder={0 0 0}%
@@ -137,7 +177,10 @@ I thank X and Y.}
 \section{Introduction}
 
 I want to show how phenomenon X can be dealt with within the framework of HPSG
-\citep{PS87a,PS94a}.
+\citep{PS87a,PS94a}. This has also been shown in earlier publications
+\parencites[145]{PS87a}[256]{PS94a}.
+
+For an overview see \citew{BC2021a}.
 
 \section{Conclusion}
 
@@ -147,9 +190,10 @@ Some conclusions.
 See also: \url{http://very-long-url.url-home-for-very-long-urls.com/~long/yes-indeed-very/long/}
 
 
-\bibliographystyle{unified} 
-\bibliography{example}
 
+{\sloppy
+\printbibliography[heading=subbibliography,notkeyword=this] 
+}
 
 
 \end{document}

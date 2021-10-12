@@ -4,7 +4,7 @@ all: example.pdf guidelines.pdf
 
 example.pdf: example.tex
 	xelatex example.tex
-	bibtex example
+	biber example
 	xelatex example.tex
 	xelatex example.tex
 
