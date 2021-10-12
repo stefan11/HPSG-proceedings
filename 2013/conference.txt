@@ -60,7 +60,7 @@ constraint-based analysis is developed that takes both empirical
 observations into account, the verb-class dependence and the janus-faced
 nature. 
 
-Jin, Dawei # mailed # University at Buffalo, SUNY # Information structure constraints and complex NP islands in {Chinese} # 2013-10-26 # #
+Jin, Dawei # 0000-0001-7992-4940 # University at Buffalo, SUNY # Information structure constraints and complex NP islands in {Chinese} # 2013-10-26 # #
 This paper presents an analysis of the complex NP island effects in
 Chinese. I follow Ginzburg & Sag (2000)'s analysis of <em>in situ
 wh</em>-interrogative

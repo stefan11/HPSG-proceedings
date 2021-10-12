@@ -358,6 +358,8 @@ $author_id      = 0;
 # go back to the beginning
 seek CONF, 0, 0;
 
+$section_ref = "CONFERENCE";
+
 while (<CONF>) {
 
 # comment
@@ -386,6 +388,8 @@ $page_end++;
 
 
 seek WS, 0, 0;
+
+$section_ref = "WORKSHOP";
 
 while (<WS>) {
 
@@ -1297,7 +1301,7 @@ while (read(FILE, $buf, 60*57)) {
 </embed>
       </file>
     </submission_file>
-    <publication locale="en_US" version="1" status="3" seq="$publication_id" date_published="$date" section_ref="ART" access_status="0">
+    <publication locale="en_US" version="1" status="3" seq="$publication_id" date_published="$date" section_ref="$section_ref" access_status="0">
       <id type="doi" advice="update">$doi</id>
       <title locale="en_US">$title</title>
       <abstract locale="en_US">
