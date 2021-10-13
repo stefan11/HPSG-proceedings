@@ -7,7 +7,7 @@ $paper_prefix = "hpsg2021";
 $editor     = "Müller, Stefan & Melnik, Nurit";
 $editor_g   = "Müller, Stefan & Melnik, Nurit";
 $crossref   = "HPSG${year}";
-$issn       = "15351793";
+$issn       = "1535-1793";
 $maintainer = "<a href=\"https://hpsg.hu-berlin.de/~stefan/\">Stefan Müller</a>";
 
 # numbers of pages for the cover and editor's note.

@@ -4,6 +4,7 @@ $proc_title = "Proceedings of the 13th International Conference on Head-Driven P
 $location   = "Linguistic Modelling Laboratory,<br>Institute for Parallel Processing,<br>Bulgarian Academy of Sciences,<br>Sofia,<br>Held in Varna";
 $location_short = "Varna";
 $conf_name  = "HPSG";
+$paper_prefix = "hpsg2006";
 $editor     = "Müller, Stefan";
 $editor_g   = "Müller, Stefan";
 $crossref   = "Mueller${year}a-ed";

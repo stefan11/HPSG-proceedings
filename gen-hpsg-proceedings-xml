@@ -98,14 +98,53 @@ if ($editors_string =~ /&/) {
 $editors_fn_ln       = author_first_name_last_name($editors_string);
 $editors_fn_ln_latex = transform_author_first_name_last_name($editors_string);
 
+        $title_pdfa = transform_to_plain_ascii($title);
+
+        $editors_fn_ln_pdfa = $editors_fn_ln;
+        $editors_fn_ln_pdfa =~ s/,/\\sep /g;
+
+# \\begin{filecontents*}[overwrite]{\\jobname.xmpdata}
+#         \\Title{$proc_title}
+#         \\Author{$editors_fn_ln_pdfa ($editors)}
+#         \\Language{en-US}
+#%         \\Author{$editors_fn_ln_pdfa}
+# %        \\Subject{$abstract}
+#         \\Keywords{HPSG\\sep syntax\\sep grammar}
+#         \\Copyright{CC-BY: the authors}
+# %        \\Journaltitle: (prism:issueName) The title of the journal in which the document was published.
+#         \\Journalnumber{$issn}
+# %\Volume: Journal volume.
+# %\Issue: Journal issue/number.
+# %\Firstpage:First page number of the published version of the document.
+# %\Lastpage:
+# %        \\Doi{$doi}
+#     \\end{filecontents*}
+
+# %\\usepackage[bookmarks=true,bookmarksopen=true,%
+# %breaklinks=true,%
+# %draft=false,plainpages=false,hyperfootnotes=false,%
+# %pdfauthor={$editors_fn_ln ($editors)},%
+# %pdftitle={$proc_title},%
+# %pdfkeywords={HPSG}%,
+# %pdftex=true%
+# %ps2pdf=true  %ohne diesen Treiber geht der Zeilenumbruch in URLs
+# %]{hyperref}% for pdf files
+
 
 print PROCTMP <<EOF;
 \\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
                     % For some reasons some old HPSG proceedings have pdf 1.6
+\\begin{filecontents*}[overwrite]{\\jobname.xmpdata}
+         \\Title{$proc_title}
+         \\Language{en-US}
+         \\Author{$editors_fn_ln_pdfa}
+         \\Keywords{HPSG\\sep syntax\\sep grammar\\sep linguistics}
+         \\Copyright{CC-BY: the authors}
+         \\Journalnumber{$issn}
+     \\end{filecontents*}
 \\documentclass[11pt,a4paper,fleqn]{article}
 \\usepackage{times}
 \\thispagestyle{empty}
-
 
 
 \\usepackage[T1]{fontenc}   % Silbentrennung
@@ -113,16 +152,11 @@ print PROCTMP <<EOF;
 \\usepackage[utf8x]{inputenc}
                                                                                                                              
 \\hyphenation{Acad-e-my}
+\\usepackage{colorprofiles}
+\\usepackage[a-2b,mathxmp]{pdfx}[2018/12/22]
+%    \hypersetup{pdfstartview=}
 
-\\usepackage[bookmarks=true,bookmarksopen=true,%
-breaklinks=true,%
-draft=false,plainpages=false,hyperfootnotes=false,%
-pdfauthor={$editors_fn_ln ($editors)},%
-pdftitle={$proc_title},%
-pdfkeywords={HPSG}%,
-pdftex=true%
-%ps2pdf=true  %ohne diesen Treiber geht der Zeilenumbruch in URLs
-]{hyperref}% for pdf files
+
 \\hypersetup{colorlinks=false, pdfborder={0 0 0}}
 
 \\usepackage{pdfpages}
@@ -592,6 +626,14 @@ sub make_proceedings_part {
 
         $title_tex = transform_to_latex($title);
 
+        $title_pdfa = transform_to_plain_ascii($title);
+
+        $keywords_pdfa = $keywords;
+        $keywords_pdfa =~ s/,/\\sep /g;
+        
+        $authors_fn_ln_pdfa = $authors_fn_ln;
+        $authors_fn_ln_pdfa =~ s/,/\\sep /g;
+
         print PROC <<EOF;
         \\setcounter{page}{$page_start}
         \\phantomsection
@@ -610,10 +652,29 @@ open (TEXFILE, ">:utf8", "${tex_file}") or die("Cannot open '${tex_file}': $!\n"
         print TEXFILE <<EOF;
 \\pdfminorversion=6 % this is needed to be able to include pdf 1.6. 
                     % For some reasons some old HPSG proceedings have pdf 1.6
+\\begin{filecontents*}[overwrite]{\\jobname.xmpdata}
+        \\Title{$title_pdfa}
+        \\Author{$authors_fn_ln_pdfa}
+        \\Language{en-US}
+        \\Subject{$abstract}
+        \\Keywords{$keywords_pdfa}
+        \\Copyright{CC-BY: $authors_fn_ln}
+        \\Doi{$doi}
+        %\Volume: Journal volume.
+%\Issue: Journal issue/number.
+\\Journaltitle{$proc_title}
+\\Journalnumber{$issn}
+\\Firstpage{$page_start}
+\\Lastpage{$page_end}
+
+    \\end{filecontents*}
 \\documentclass[a4paper,11pt]{article}
 \\usepackage{times}
 \\usepackage{ogonek} % Dąbkowski
 \\hyphenation{Acad-e-my}
+\\usepackage{colorprofiles}
+\\usepackage[a-2b,mathxmp]{pdfx}[2018/12/22]
+%    \hypersetup{pdfstartview=}
 \\usepackage{pdfpages}
 \\pdfinclusioncopyfonts=1
 \\usepackage[utf8]{inputenc}
@@ -1191,7 +1252,11 @@ sub transform_to_latex {
 
 );
 
-	$string =~ s/((ä|ă|ą|ö|ü|ÄÖ|Ü|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
+
+# is this needed? We can do unicode now, can't we?
+# The ` of X-bar does not work it needs utf8x/utf8 and hangs. 12.10.2021
+#	$string =~ s/((ä|ă|ą|ö|ü|ÄÖ|Ü|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
+	$string =~ s/((ă|ą|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
 
 #       this cannot cope with nesting
 #        $string =~ s/<em>(.*)<\/em>/\\emph{$1}/g;
@@ -1208,6 +1273,7 @@ sub transform_to_latex {
 
 	return $string;
 }
+
 
 
 sub eliminate_special_chars{
@@ -1246,6 +1312,28 @@ sub eliminate_special_chars{
 }
 
 
+sub transform_to_plain_ascii {
+	local($string) = @_;
+
+
+#       this cannot cope with nesting
+#        $string =~ s/<em>(.*)<\/em>/\\emph{$1}/g;
+        $string =~ s/<em>//g;
+        $string =~ s/<\/em>//g;
+
+        $string =~ s/<q>(.*)<\/q>/"$1"/g;
+
+        $string =~ s/<br>//g;  # remove explicit breaks
+
+        $string =~ s/&ndash;/–/g;
+
+        $string =~ s/&mdash;/–/g;
+
+	return $string;
+}
+
+
+
 sub print_warning{
 	local($warning) = @_;
 
@@ -1282,6 +1370,11 @@ $title=~ s/`/&#715;/g;
 
 # line breaks are needed for LaTeX typesetting. Remove them in XML
 $title=~ s/<br>//g;
+
+# remove decapitalization protection for LaTeX, which was used in some years
+$title=~ s/{//g;
+$title=~ s/}//g;
+
 
 
   print XML <<EOF;

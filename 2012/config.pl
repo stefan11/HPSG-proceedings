@@ -3,6 +3,7 @@ $conf_date  = "July 18–21, $year";
 $proc_title = "Proceedings of the 19th International Conference on Head-Driven Phrase Structure Grammar";
 $location   = "Chungnam National University Daejeon";
 $conf_name  = "HPSG";
+$paper_prefix = "hpsg2012";
 $editor     = "Müller, Stefan";
 $editor_g   = "Müller, Stefan";
 $crossref   = "Mueller${year}a-ed";

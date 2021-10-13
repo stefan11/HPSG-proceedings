@@ -15,9 +15,7 @@ all: hpsg$(YEAR).xml
 
 
 
-
-
-hpsg$(YEAR).xml: editors-note.tex conference.txt $(PROGRAM) $(FILES)
+hpsg$(YEAR).xml: editors-note.tex conference.txt workshop.txt $(PROGRAM) $(FILES)
 	$(PROGRAM)
 
 hpsg$(YEAR).pdf: hpsg$(YEAR).tex 
@@ -28,7 +26,7 @@ hpsg$(YEAR).pdf: hpsg$(YEAR).tex
 
 
 clean:
-	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc *.tmp *~ *.xmpdata *.xmpi
+	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc *.tmp *~
 
 realclean: clean
 	rm -f *.pdf *.html *.xml *.shtml *.bib

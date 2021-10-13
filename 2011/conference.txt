@@ -69,7 +69,7 @@ grammar. In particular, we show that English BNP is a nominal juxtaposition
 construction whose special syntactic constraints are linked to semantic
 relations like a subject-predicate relation.
 
-Krieger, Hans-Ulrich & Kiefer, Bernd # no & mailed # DFKI, Saarbrücken # Converting CCGs into typed feature structure grammars # 2011-11-11 # #
+Krieger, Hans-Ulrich & Kiefer, Bernd # no & 0000-0003-2323-091X # DFKI, Saarbrücken # Converting CCGs into typed feature structure grammars # 2011-11-11 # #
 In this paper, we report on a transformation scheme that turns a Categorial
 Grammar, more specifically, a Combinatory Categorial Grammar (CCG; see
 Baldridge, 2002) into a derivation- and meaning-preserving typed feature
@@ -95,7 +95,7 @@ Reape 1993. The research in question utilizes the mismatch between
 linear phonological sequences on the one hand and phrasal
 configuration on the other to underwrite a particular interpretation
 of ellipsis in which multiple structural objects with identical or
-near-identical descriptions are mapped to a single {\it dom-object}
+near-identical descriptions are mapped to a single <em>dom-object</em>
 token. This mapping apparently allows a variety of problematic cases,
 such as right node raising, dependent cluster coordination, and unlike
 category coordination to be reinterpreted as instances of ordinary
@@ -154,7 +154,7 @@ commonalities between the three languages while being able to account for the di
 Sag, Ivan A. & Nykiel, Joanna # no & 0000-0002-4646-747X # Stanford University & University of Silesia # Remarks on sluicing # 2011-11-19 # #
 Sluicing is widely regarded as requiring an analysis via deletion
 operations, a potentially problematic conclusion for
-non-transformational frameworks like \HPSG. We examine critically and
+non-transformational frameworks like HPSG. We examine critically and
 reassess the motivation for a deletion analysis of Sluicing, offering
 cross-linguistic and language-internal evidence in support of a
 fundamentally semantic constructional alternative like the

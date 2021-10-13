@@ -104,7 +104,7 @@ theory (Ty2; Gallin, 1975) in typed feature logic (TFL), and then
 presents a formal constraint language that can be used to extend
 conventional description logics for TFL to make direct reference to
 Ty2 terms.   A reduction of this extension to Constraint Handling
-Rules (CHR; Fruehwirth & Abdennadher, 1997} for the purposes of
+Rules (CHR; Fruehwirth & Abdennadher, 1997) for the purposes of
 implementation is also presented.
 
 
