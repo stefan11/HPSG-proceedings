@@ -154,6 +154,11 @@ print PROCTMP <<EOF;
 \\hyphenation{Acad-e-my}
 \\usepackage{colorprofiles}
 \\usepackage[a-2b,mathxmp]{pdfx}[2018/12/22]
+\\hypersetup{bookmarksopen=true,
+pdfauthor={$editors_fn_ln ($editors)},%
+pdftitle={$proc_title},%
+pdfkeywords={HPSG, syntax, grammar, linguistics}%,
+}
 %    \hypersetup{pdfstartview=}
 
 

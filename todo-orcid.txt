@@ -36,5 +36,11 @@ Chizuru Ito (asked Rui, but no)
 
 Mathieu Morey, Aix-Marseille Université, France!
 
+An: 
+mathieu.morey@irit.fr
+
+An: 
+"Alotaibi, Mansour Q" <mqalot@essex.ac.uk>
+
 
 Spent the last week migrating the HPSG proceedings from the CSLI webpage to an OJS instance. I added ORCID-IDs to make everybody identifiable even if they move around or change names. PDFs are linked and the OJS pages as well. 
