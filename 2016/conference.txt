@@ -1,0 +1,598 @@
+// Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # keywords # abstract
+
+Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # # University of Haifa & University of Haifa & The Open
+University of Israel & University of Haifa # Reference patterns in
+subjunctive complement clauses of Modern Standard Arabic # December
+16, 2016 # # In this paper we investigate the status of control
+constructions in Modern Standard Arabic (MSA). MSA has several
+embedded clause constructions, some of which resemble control in
+English (and other languages). However, these constructions exhibit
+some notable differences. Chief among them is the fact that the
+embedded verb carries agreement features that can indicate both
+coreference and disjoint reference between a matrix argument and the
+understood subject of the complement clause. We conducted a thorough
+corpus-based investigation of such constructions, with a special focus
+on a search for obligatory control in the language. We show that our
+findings contradict accepted generalizations (and predictions)
+proposed by state-of-the-art theories of control, as they indicate
+that there are no "real" control predicates in MSA. We outline an HPSG
+analysis that accounts for the MSA data. # control, coreference,
+corpus study, Modern Standard Arabic
+
+
+Arka, I Wayan  # # Australian National University / Udayana University #
+Externally and internally headed relative clauses in Marori #
+2016-12-16 ## This paper discusses relative clauses (RCs) in Marori,
+showing that this language unusually has almost all of relative clause
+types, from headed/headless, externally/internally headed,
+single-/double-headed, to pre-/post-head, to attached/detached
+RCs. Special attention is given to internally headed relative clauses
+(IHRC). It is argued that Marori IHRCs are of the restrictive or
+non-maximalising type, which accounts for certain intriguing
+properties, such as their indefiniteness constraints and the
+possibility for RC stacking. # relative clauses, information
+structure, definiteness constraints, Papuan languages, discontinuous
+expressions
+
+Arnold, Doug  & Lucas, Christopher # # University of Essex & SOAS,
+University of London # One of Those Constructions that Really Needs a
+Proper Analysis # December 16, 2016 # # We describe, and provide an
+HPSG account of, a hitherto little studied English construction (of
+which the title of the paper is an instance) involving an agreement
+mismatch: a partitive construction in which a plural nominal is
+apparently modified by a singular relative clause.
+# HPSG, English, syntax, semantics, agreement mismatch
+
+Augustinus, Liesbeth  # #  KU Leuven # Word order variation in Dutch and German verb clusters # # no # #
+
+Beermann, Dorothee & Hellan, Lars # # Norwegian University of Science
+and Technology, Trondheim, Norway # Switched control and other
+'uncontrolled' cases of obligatory control # December 16, 2016 # #The
+paper presents an analysis of <b>control switch</b> in German and Norwegian,
+as exemplified in the German pair <i>Ich verspreche ihm zu kommen</i> 'I
+promise him to come' vs. <i>Ich verspreche ihm kommen zu dürfen</i> 'I
+promise him to be allowed to come'. The phenomenon is induced by
+deontic modals in the context of suasive verbs of communication. The
+analysis is cast both in LFG and HPSG framework, in both cases
+deploying a pronounced feature-based semantic component. Our core
+assumption is that a <b>normative agent</b> is computed on top of control
+relations. # deontic modal,  deontic infinitives, suasive verbs
+
+Belyaev, Oleg # # Lomonosov Moscow State University and Institute of Linguistics RAS# Ergative gender
+agreement in Dargwa ``backward control'' or feature sharing? # December
+16, 2016 ## Dargwa languages have two types of agreement at clause
+level: gender and person agreement. In the general case, person
+agreement is hierarchical (speech act participants prefered to 3rd
+persons), while gender agreement is with the absolutive (S/P)
+argument. Two exceptions to this pattern have been observed in some
+dialects: first, some auxiliary verbs have a gender agreement slot
+which can be controlled by both ergative and absolutive arguments;
+second, adverbials agreeing in gender can agree with either ergative
+or absolutive if they are located at clause edges. A proposed
+explanation of this behaviour is through effectively splitting each
+clause into two layers, with the top layer having its own zero
+absolutive position, coreferential with either the subject or the
+direct object of the lower layer. In this way, the general rule that
+gender agreement is with the absolutive can be preserved. In this
+paper, I argue that the data of Ashti Dargwa do not support the
+Backward Control theory. Peripheral adverb agreement and auxiliary
+gender agreement are independent phenomena, while auxiliary agreement
+can be explained by splitting the 3rd person based on topicality, as
+in proximateobviative systems. This allows us to preserve the
+conventional account of clause structure while framing the data of
+Dargwa in a wider typological context.
+#agreement, person hierarchy, gender, obviation, Dargwa
+
+Bögel, Tina # #  University of Konstanz # The Swabian first person singular pronoun at the syntax-prosody interface # # no # #
+
+Bonami, Olivier & Borsley, Robert D. & Tallerman, Maggie # #
+Université Paris Diderot & University of Essex & Newcastle
+University # On pseudo-non-finite clauses in Welsh # December 16, 2016
+## Languages differ in how they employ finite and non-finite
+clauses. Welsh finite and non-finite clauses have a similar
+distribution to their counterparts in English. However, it doesn’t
+look like this because Welsh has certain finite clauses which look
+rather like non-finite clauses.  We examine two types of
+pseudo-non-finite clauses: finite "bod" clauses and finite "i"
+clauses. We argue that both cases are instances of a mismatch between
+syntax and morphology, while the latter only involves periphrasis. We
+provide an HPSG analysis capturing similarities and differences
+between these two constructions and canonical finite and nonfinite
+clauses. # Welsh, finiteness, syntax-morphology relation, periphrasis.
+
+Börjars, Kersti & Ghadgoud, Khawla & Payne, John # # The University of
+Manchester # Aspectual object marking in Libyan Arabic # December 16,
+2016 # # In Libyan Arabic, the preposition <i>fi</i> 'in' has
+developed into a marker of continuous or habitual aspect. While
+structurally remaining a preposition which marks the objects of the
+non-tensed forms of dynamic transitive verbs, it serves to attribute
+an aspectual interpretation to the clause as a whole. We argue that
+this aspectual object marking is naturally modeled by an inside-out
+functional designator, and provide arguments that the aspectual value
+contributed by aspectual <i>fi</i> is best treated as an f-structure
+feature. # aspectual object marking, Libyan Arabic, inside-out
+designators, anaphoric control
+
+Börjars, Kersti & Payne, John # #  University of Manchester # Adjectival definiteness marking and noun-phrase internal functions # # no # #
+
+Butt, Miriam & Sulger, Sebastian & Rahman, Mutee U & Ahmed, Tafseer # #
+University of Konstanz & University of Konstanz & Isra University &
+DHA Suffa University # Adverb agreement in Urdu, Sindhi and Punjabi #
+December 16, 2016 ## We discuss agreeing adverbs in Urdu, Sindhi and
+Punjabi. We adduce crosslinguistic evidence that is based mainly on
+similar patterns in Romance and posit that there is a close connection
+between resultatives and so-called pseudo-resultatives, which the
+agreeing adverbs appear to instantiate.  We propose a diachronic
+relationship by which the originally predicative part of a resultative
+is reinterpreted as an adjunct that modifies the overall event
+predication, not just the result. # Urdu, Sindhi, Punjabi, agreeing
+adverbs, resultatives
+
+Ćavar, Damir & Moe, Lwin & Hu, Hai & Steimel,
+Kenneth ## Indiana University # Preliminary
+results from the Free Linguistic Environment project # December 16,
+2016 ## The Free Linguistic Environment (FLE) project focuses on the
+development of an open and free library of natural language processing
+functions and a grammar engineering platform for Lexical Functional
+Grammar (LFG) and related grammar frameworks. In its present state the
+code-base of FLE contains basic essential elements for LFG-parsing. It
+uses finite-state-based morphological analyzers and syntactic
+unification parsers to generate parse-trees and related functional
+representations for input sentences based on a grammar.  It can
+process a variety of grammar formalisms, which can be used
+independently or serve as backbones for the LFG parser. Among the
+supported formalisms are Context-free Grammars (CFG), Probabilistic
+Contextfree Grammars (PCFG), and all formal grammar components of the
+XLEgrammar formalism. The current implementation of the LFG-parser
+includes the possibility to use a PCFG backbone to model probabilistic
+c-structures.  It also includes f-structure representations that allow
+for the specification or calculation of probabilities for complete
+f-structure representations, as well as for sub-paths in f-structure
+trees. Given these design features, FLE enables various forms of
+probabilistic modeling of c-structures and f-structures for input or
+output sentences that go beyond the capabilities of other technologies
+based on the LFG framework.
+# parser, Free Linguistic Environment, implementation, grammar engineering,
+natural language processing
+
+Chiruzzo, Luis & Wonsever, Dina # # Universidad de la República, Montevideo, Uruguay # Transforming the AnCora corpus to
+HPSG # December 16, 2016 # # We present the construction of a HPSG corpus for Spanish, based
+on the transformation of the AnCora Spanish corpus into a HPSG
+compatible format. We describe the transformation process and the
+evaluation of the resulting corpus. #HPSG, Spanish, Corpus, AnCora
+
+Clément, Lionel & Diao, Sekou # # University of Bordeaux # For a unified treatment of particle verbs #
+December 22, 2016 # no # In this paper, we propose an analysis of particle verbs which allows to construct with
+the same optimized lexicon non-compositional (idiomatic) and productive
+compositional particle verb constructions. In the latter case, we do not need
+any special mechanism to compose a verb and a semantically pertinent particle.
+<p>
+In the case of idiomatic particle verb constructions, a mechanism specific to
+XLFG was used. This allowed us to propose a preferential choice of the idiomatic
+expression by adding a special entry in the lexicon.
+<p>
+This way of prioritizing an idiomatic construction, if it exists, and fall back
+on a compositional construction by default, seems to be coherent with both the
+FLG formalism and an approach where the lexicon takes a prominent place in the
+analysis of such phenomena.
+#
+Particle verb, Idiomatic constructions, XLFG
+
+
+
+Crysmann, Berthold # # Laboratoire de linguistique formelle,
+CNRS and U Paris-Diderot # An underspecification approach to Hausa resumption #
+December 16, 2016 ## Within recent work on the treatment of resumption
+in HPSG, there is growing consensus that resumptive unbounded
+dependency constructions (=UDCs) should be modelled on a par with
+gap-type UDCs (Alotaibi and Borsley, 2013; Borsley, 2010; Crysmann,
+2012b; Taghvaipour, 2005), using a single feature for both types of
+dependencies, rather than separate features, as proposed by Vaillette
+(2001a,b). Yet, authors disagree as to where exactly in the grammar
+the resumptive function of pronominals should be established: while
+Crysmann (2012b, 2015) advances an ambiguity approach that has
+pronominal synsem objects being ambiguous between a resumptive and an
+ordinary pronoun use, Borsley (2010); Alotaibi and Borsley (2013), by
+contrast, treat all pronominals, resumptive or not, as ordinary
+pronouns and effect their resumptive use by means of tailoring the
+amalgamation principle to potentially include pronominal
+indices. While their decision provides a straightforward account of
+McCloskey’s generalisation that resumptives always look like the
+ordinary pronouns of the language, it fails to capture the difference
+in semantics between ordinary pronominal and resumptive uses.  In this
+paper, I shall reexamine the evidence from Hausa and propose to
+synthesise the approaches put forth by Alotaibi and Borsley (2013) and
+Crysmann (2012b), and propose that the potential for pronominal and
+resumptive function (including their difference w.r.t. semantics and
+non-local features) is captured by means of underspecification, yet
+the decision as to canonical vs.  non-canonical use is made at the
+level of the governing head (Borsley, 2010; Alotaibi and Borsley,
+2013). I shall argue that this division of labour is sufficient to
+derive the correct gap-like semantics for resumptives, maintains
+standard deterministic amalgamation, and, finally, provides an answer
+to McCloskey’s generalisation. # Hausa, resumption, underspecification, islands
+
+Duncan, Lachlan # # no # On the perfect tense-aspect in K'ichee'an
+Mayan: An LFG approach # December 16, 2016 ## Previous accounts of the
+perfect tense-aspect in the K'ichee'an languages have concluded that
+the category or part-of-speech of the perfect is a verb, or less
+often, a participle. We believe otherwise. Empirical support is
+presented for the hypothesis that the perfect is expressed using
+either a deverbal participial adjective or a deverbal possessed
+nominal in the form of a detransitivized non-verbal predicate. We show
+that the perfect always consists of a one-place intransitive but that
+it, nonetheless, retains the capacity to express two argument
+roles. Further, we argue that the perfect is, in fact, a perfect. We
+present the various semantic types of perfect, including the perfect
+of result and the experiential perfect, and also show the temporal
+restrictions that constrain the perfect. The analyses are implemented
+using the syntactic architecture of LFG. # perfect tense-aspect, K'ichee'an Mayan
+
+
+Faghiri, Pegah & Samvelian, Pollet # # Université Sorbonne Nouvelle Paris 3 # How much structure is needed: The case of the Persian VP # December 16, 2016 ## The aim of
+this paper is to tease apart two available views of the VP in
+Persian. The prevailing view of the Persian VP initially suggested in
+generative studies assumes a hierarchical structure with two object
+positions, mainly motivated by the existence of differential object
+marking in Persian.  Building on quantitative studies, we revisit this
+hierarchical view and show that it is not born out by the data. A flat
+structure view of the VP, on the contrary, is in line with the data.
+#Persian, phrase structure, Differential Object Marking (DOM), empirical/usage-based methods
+
+Findlay, Jamie Y. # # University of Oxford # The prepositional passive in
+Lexical Functional Grammar # December 16, 2016 ## The aim of this
+paper is to provide an adequate analysis in LFG of the prepositional
+passive, e.g. <i>That problem has been dealt with, My pen has been written
+with.</I> This construction has been examined in LFG before by Bresnan
+(1982), Lødrup (1991), and Alsina (2009), but empirical and
+theoretical problems, some well-documented, some new, mean that such
+proposals cannot be maintained. Instead, I offer an account couched in
+recent work on the mapping between grammatical functions and arguments
+(Asudeh et al., 2014; Findlay, 2014a) that treats the defining
+characteristic of the prepositional passive not as purely syntactic,
+but rather as being located at the interface between syntax and
+semantics. # passive, syntax-semantics interface, argument linking
+
+
+Fiotaki, Alexandra & Tzortzi, Katerina # # University of Ioannina &
+University of Crete # Exhaustive object control constructions in
+Greek: an LFG/XLE treatment # December 16,, 2016 ## In this paper we
+propose an LFG/XLE treatment of Exhaustive Object Control (EOC)
+constructions in Greek na clauses. We draw on data retrieved from the
+Hellenic National Corpus (HNC) in order to define the verbs that allow
+EOC. We treat EOC using anaphoric control. We take the subject of the
+subordinate na clause (controllee) to be a PRO marked with nominative
+case that is anaphorically related to the object of the matrix clause
+(controller). We implement this analysis in our LFG/XLE Grammar by
+adding the new feature ANAPH_C_BY. # exhaustive object control, na
+clauses, PRO, anaphoric control, Greek
+
+Goldstein, David M. & Haug, Dag T. T. # # University of California, Los
+Angeles & University of Oslo # Second-position clitics and the
+syntax-phonology interface: The case of ancient Greek # December 16,
+2016 ## In this paper we discuss second position clitics in Ancient
+Greek, which show a remarkable ability to break up syntactic
+constituents. We argue against attempts to capture such data in terms
+of a mismatch between c-structure yield and surface string and instead
+propose to enrich c-structure by using a multiple context free grammar
+with explicit yield functions rather than an ordinary CFG. # Ancient
+Greek, second-position clitics, syntax-prosody interface, multiple
+context-free grammars
+
+Hahm, Hyun Jong #   University of Guam # # Politeness and number in Chuukese # # no # #
+
+Jones, Stephen # University of Oxford # # The syntax-prosody interface
+in Korean: resolving ambiguity in questions # December 16, 2016 ## The paper
+considers a phenomenon in Korean where ambiguity in the written
+language is resolved prosodically. An LFG analysis is provided which
+extends the proposals of Mycock and Lowe (2013) to Korean, based on
+experimental evidence on the prosodic expression of focus in Korean
+which challenges the phrase-boundary based account of Jun and Oh
+(1996), and suggests that considering expanded pitch range may give a
+more robust account of focus expression.
+# Korean, prosody, syntax, experimental, questions
+
+Kibort, Anna # #  University of Oxford # The argument structure of causatives # # no # #
+
+King, Tracy Holloway # # A9 Amazon # Theoretical linguistics and grammar
+engineering as mutually constraining disciplines # December 16, 2016
+## This paper desribes four areas in which grammar engineers and
+theoretical linguists can interact.  These include: using grammar
+engineering to confirm linguistic hypotheses; linguistic issues
+highlighted by grammar engineering; implementation capabilities
+guiding theoretical analyses; and insights into architecture
+issues. It is my hope that we will see more work in these areas in the
+future and more collaboration among grammar engineers and theoretical
+linguists.  This is an area in which HPSG and LFG as a distinct
+advantage, given the strong communities and resources available.
+# grammar engineering, indeterminacy, restriction, LFG, HPSG
+
+Laczkó, Tibor # #  University of Debrecen # Fully syntactic, fully lexical, or in-between? Remarks on the architectures of generative grammars # # no # #
+
+
+Lahm, David  # # University of Frankfurt # Refining the semantics of
+lexical rules in HPSG # December 16, 2016 ##This paper points out
+certain flaws in the semantics for lexical rule specifications
+developed in Meurers (2001). Under certain circumstances, certain
+words may not be licit inputs to a rule according to this semantics
+while one would expect them to be from inspecting the specification of
+the rule. The reasons for this are shown to be that whether properties
+of paths should be transferred from the input of a rule to its output
+is decided considering only the respective paths and their properties
+in isolation, ignoring the ‘non-local’ effects that transferring their
+properties can have. Furthermore, the semantics is insensitive to the
+possible shapes of inputs to the rule, which also makes it possible
+that inputs of certain shapes are unexpectedly not accepted. An
+alternative semantics is developed that does not suffer from these
+deficits.
+# lexical rules, SRL, semantics of lexical rules
+
+Lødrup, Helge # # University of Oslo # Verbal
+present participles in Norwegian: Controlled complements or parts of
+complex predicates #December 16, 2016 ## Norwegian has a limited option for verbal
+present participles. These participles only exist with a small number
+of verbs, and they are selected by a handful of predicates. The
+analysis of sentences with these participles raises some
+challenges. Taking the analysis of Thurén (2008) as my point of
+departure, I argue that verbal present participles have two possible
+analyses, as controlled complements, or as parts of complex
+predicates. The presentational focus construction gives important
+evidence for this analysis. # complex predicates, present participles,
+presentational focus, Norwegian syntax, Scandinavian syntax
+
+
+Lowe, John # # University of Oxford # Participles, gerunds and syntactic
+categories #December 16, 2016 ## The phenomenon of so-called ‘mixed’
+categories, whereby a word heads a phrase which appears to display
+some features of one lexical category, and some features of another,
+raises questions regarding the criteria used for distinguishing
+syntactic categories. In this paper I critically assess some recent
+work in LFG which provides ‘mixed category’ analyses. I show that
+three types of evidence are typically utilized in analyses of supposed
+mixed category phenomena, and I argue that two of these are not, in
+fact, crucial for determining category status. I show that two
+distinct phenomena have become conflated under the ‘mixed category’
+heading, and argue that the term ‘mixed category’ should be reserved
+for only one of these.
+# mixed categories, English gerund, participles, morphology
+
+Maekawa, Takafumi # # Ryukoku University # Seminumerals, determiners and
+nouns in English # December 16, 2016 ## A singular countable noun in
+English normally requires a determiner and they should agree in
+number. However, there is a type of noun phrase, such as <em>those
+thousand teachers</em>, which does not conform to this generalisation. As
+a subtype of singular countable noun, <em>thousand</em> requires a
+determiner, but the determiner has number agreement with the head
+noun <em>teachers</em>. The standard HPSG treatment, in which the determiner
+requirement and the determiner-noun agreement are both represented in
+the SPR specifications of the head noun, cannot capture this special
+agreement pattern.  Our analysis, in which the determiner requirement
+and the determiner-noun agreement are dissociated from each other,
+can provide a straightforward account of the data. # seminumerals, 
+singular countable nouns, determiners, agreement, noun phrase syntax
+
+Moeljadi, David & Bond, Francis & Morgado da Costa,  Luís # # Nanyang
+Technological University & Nanyang Technological University & Nanyang
+Technological University # Basic copula clauses in Indonesian #
+December 16, 2016 ## We want to show how basic copula clauses in
+Indonesian can be dealt with within the framework of Head Driven
+Phrase Structure Grammar (HPSG) (Pollard & Sag, 1994). We analyzed
+three types of basic copula clauses in Indonesian: copula clauses with
+noun phrase complements (NP) expressing the notions of 'proper
+inclusion' and 'equation', adjective phrases (AP) expressing
+'attribution', and prepositional phrases (PP) expressing relationships
+such as 'location'. Our analysis is implemented in the Indonesian
+Resource Grammar (INDRA), a computational grammar for Indonesian
+(Moeljadi et al., 2015).
+# copula, Indonesian, HPSG
+
+
+Müller, Stefan # # Humboldt Universität zu Berlin # Flexible phrasal constructions, constituent structure and (cross-linguistic) generalizations:<br> A discussion of template-based phrasal LFG approaches # July 25, 2016 # # 
+This paper discusses recent LFG proposals on resultative and benefactive constructions. I show that
+neither resultative nor benefactive constructions are fully fixed and that this flexibility requires
+traces or a stipulation of constructional templates at several unrelated places in the grammar,
+something that is not necessary in lexical approaches.
+A second part of the paper deals with the active/passive alternation and shows that
+language-internal generalizations are missed if constraints are assumed to be contributed by phrase
+structure rules. A third part examines the parallel constructions in German and shows that
+cross-linguistic generalizations are not captured by phrasal approaches.
+# LFG, template, lexicalism, Construction Grammar
+
+
+Otoguro, Ryo & Snijders, Liselotte # # Waseda University & Waseda
+University # Syntactic, semantic and information structures of
+floating quantifiers # December 16, 2016 ## Quantifiers canonically
+attach to nouns or noun phrases as modifiers to specify the amount or
+number of the entity expressed by the noun. However, it has been
+observed that quantifiers can be positioned outside of the noun
+phrase. These so-called floating quantifiers (FQs) exhibit intriguing
+syntactic and semantic characteristics. On the one hand, they appear
+to have a closerelationship with a noun; semantically they quantify a
+noun in the same way as non-floating quantifiers, and quite often they
+exhibit agreement with the noun. On the other hand, their phrase
+structure distribution is very similar to that of VP-adverbs. In this
+paper, we argue that the distribution of FQs is constrained not purely
+by syntax, but also by information structure. We show that FQs play a
+focus role whereas modified nouns are reference-oriented topic
+expressions. Building upon Dalrymple and Nikolaeva’s (2011) recent
+proposal, we formulate the interaction between syntactic, semantic and
+information structure features of FQs within LFG’s projection
+architecture. # quantifier floating, information structure, English, Dutch, Japanese
+
+
+ 
+Pankau, Andreas  # # Freie Universität Berlin  # Quirky subjects in
+Icelandic, Faroese, and German: A Relational Grammar account # December 16, 2016
+## This paper presents a new analysis of quirky subjects according to
+which quirky subjects bear multiple grammatical relations and hence
+differ syntactically from regular subjects. This contrasts with the
+standard analysis of quirky subjects according to which quirky
+subjects are regular subjects bearing lexical case and therefore
+differ only morphologically from regular subjects. Based on the
+behavior of quirky subjects in Faroese and German, I argue that the
+syntactic account is superior. Faroese shows that the case borne by a
+quirky subject is not lexical, whereas German shows that quirky
+subjects are not regular subjects to begin with. The behavior of
+quirky subjects in Icelandic, on which the standard analysis is based,
+is argued to be the result of a morphosyntactic peculiarity of
+Icelandic.
+# quirky subjects, Germanic languages, multistratalism, subject tests, Arc
+Pair Grammar
+
+
+
+Patejuk, Agnieszka # # Institute of Computer Science, Polish Academy of
+Sciences  # Integrating a rich external valency dictionary with an
+implemented XLE/LFG grammar  # December 16, 2016
+## This paper shows how Walenty, a valency dictionary of Polish, was automatically
+converted in order to be used with an XLE/LFG grammar of Polish,
+discussing issues such as the grammatical function assignment under unlike
+category coordination and imposing constraints for lexicalised
+dependents.
+# valence, grammatical functions, grammar engineering, phraseology, coordination
+
+Patejuk, Agnieszka & Przepiórkowski,  Adam # # Institute of Computer Science, Polish Academy of
+Sciences & Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy,
+University of Warsaw # Reducing grammatical functions in LFG # December 16, 2016
+## The aim of this paper is to reexamine the rich repertoire of
+grammatical functions assumed in LFG and provide novel arguments for
+the claim, voiced earlier for example in Alsina et al. 2005, that most
+of them are redundant. We also demonstrate that a textbook LFG test
+for the sameness of grammatical functions of different predicates
+fails on closer scrutiny. Constructively, we propose a more
+constrained approach to grammatical functions, which, however, has the
+advantage of formalising the grammatical function hierarchy, assumed
+in LFG analyses of diverse phenomena but apparently not previously
+formalised.
+# grammatical functions, obliqueness, functional hierarchy, coordination
+
+
+Przepiórkowski, Adam # # Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy,
+University of Warsaw # How <em>not</em>
+to distinguish arguments from adjuncts in LFG # December 16, 2016 ##
+The paper briefly reexamines arguments for the argument–adjunct
+dichotomy, commonly assumed in contemporary linguistics, showing that
+they do not stand up to scrutiny. It demonstrates that – perhaps
+surprisingly – LFG currently only assumes this dichotomy in its
+f-structure feature geometry, and does not rely on it in any crucial
+way. Building on this observation, the paper presents a way of getting
+rid of this dichotomy altogether.
+# argument–adjunct distinction, dependents, argument structure, adjuncts, modifiers
+
+Ramhöj, Rickard  # # University of Gothenburg # On the argument structure
+of raising-to-subject with passive predicates in Swedish # December
+16, 2016 # # This paper concerns the argument structure analysis of
+raising-to-subject with passive predicates in Swedish and other
+Germanic languages. Support is given for the analysis in which the
+raising-to-subject construction constitutes a regular passive, the
+passive counterpart of active raising-to-object. The fact that there
+does not seem to be an active counterpart for certain predicates, such
+as the predicate say, as well as the fact that raising-to-subject does
+not seem to be possible with the periphrastic passive in Swedish is
+attributed to certain semantic restrictions on the raising-to-object
+construction and the periphrastic passive construction, respectively.
+# raising-to-subject, raising-to-object, passive predicates, Swedish, evidentiality
+
+Richter, Frank # # Goethe Universität Frankfurt a.M. # Categorematic
+unreducible polyadic quantifiers in Lexical Resource Semantics #
+December 16, 2016 ## Early work on quantification in natural languages showed that
+sentences like `Every ape picked different berries', on the reading
+that the sets of berries picked by any two apes are not the same, can
+be logically represented with a single polyadic quantifier for the
+two nominal phrases. However, since that quantifier cannot be
+decomposed into two quantifiers for the two nominal phrases, a
+compositional semantic analysis of this reading is not possible
+under standard assumptions about syntax and semantics. This paper
+shows how a constraint-based semantics with Lexical Resource
+Semantics can define a systematic syntax-semantics interface which
+captures the reading in question with a polyadic quantifier. # constraint-based
+semantics, polyadic quantifiers, unreducible quantifiers,
+compositionality
+
+Ritchie, Sandy # # SOAS # Two cases of prominent internal possessor
+constructions # December 16, 2016 ## This paper outlines a new analysis of
+the syntactic structure and discourse function of a ‘prominent
+internal possessor construction’ (PIPC) in Chimane (unclassified,
+Bolivia) and compares it with an existing analysis of a different kind
+of PIPC found in Maithili (Indo- Aryan, India/Nepal). PIPCs in Chimane
+and Maithili involve an apparently non-local agreement relation
+between verbs and possessors which are internal to possessive NPs. In
+Chimane, it is argued that internal possessors are able to control
+object agreement via a clause-level ‘proxy’ of the internal possessor
+– see also Ritchie (under review). The paper goes on to compare this
+construction with PIPCs in Maithili, and shows that speakers use PIPCs
+in discourse to indicate the information structure role of the
+internal possessor. In the case of Chimane, it seems that internal
+possessors which bear the secondary topic role are more likely to
+control object agreement, while in Maithili, other semantic and
+information structural features of internal possessors are at
+play. The contributions of the various levels of sentence structure
+are modelled using the LFG architecture developed in Dalrymple &
+Nikolaeva (2005; 2011).
+# possession, prominence, internal possessors, Chimane, Tsimane', Maithili
+
+
+
+Sailer, Manfred  & Am-David, Assif # # Goethe University Frankfurt a. M. & Goethe University Frankfurt a. M. # Definite meaning and
+definite marking # December 16, 2016 # # We look at definite marking
+in Esperanto, Papiamentu, and Yiddish considering three semantically
+definite contexts: the referential use of proper names and unique
+nouns, as well as anaphoric definites. We argue for a
+three-dimensional analysis of definiteness: an individual denotation,
+an existence presupposition, and a uniqueness conventional
+implicature. We present an HPSG encoding of this system and model the
+central aspects of the definite marking systems of our three object
+languages.
+# definite article, Lexical Resource Semantics, Yiddish, Papiamentu, Esperanto
+
+Shiraïshi, Aoi  & Abeillé, Anne   # # LLF, University Paris
+Diderot & LLF, University Paris Diderot and IUF # Peripheral ellipsis and verb mismatch # December 16, 2016
+## Right-node raising is usually set apart from other elliptical
+constructions for imposing a strict identity condition between the
+omitted and the peripheral elements. Since Pullum & Zwicky (1986), it
+is assumed that only syncretic forms may resolve a feature conflict
+between the two conjuncts (<i>I certainly will and you already have set
+the record straight. </i>). We present an empirical study of RNR with
+final verb in English and French that shows that verb mismatch does
+occur in corpora with and without syncretic forms, i.e. that
+syncretism does not appear to play a role. We present an acceptability
+judgement task on French that confirms this hypothesis. We therefore
+propose a new HPSG analysis of RNR that is based on sharing LID
+features and not morphophonological forms.
+# French, English, syncretism, Right-node raising, ellipsis
+
+Van Eynde, Frank # # University of Leuven # How regular a pattern in
+these labyrinths of constructions! # # no # The paper discusses two types of noun phrases with 
+idiosyncratic properties: the Big Mess Construction and the 
+Binominal Noun Phrase Construction.
+Employing the framework of constructivist Head-driven Phrase 
+Structure Grammar I develop an analysis of these constructions 
+with equal attention for their regular and irregular properties. 
+For this purpose I make use of a bidimensional hierarchy of phrase 
+types, in which the higher (less specific) types capture the regularities, 
+in which the maximally specific types capture the idiosyncracies, 
+and in which the intermediate types cover the zone in between. 
+The resulting treatment is compared with a number of alternative 
+treatments, both transformational and monostratal ones. 
+The more general purpose of the paper is to show how the treatment 
+of idiosyncratic constructions can be integrated in a framework that 
+allows for a continuum between the regular and the idiosyncratic, 
+rather than for a dichotomy between them.  
+# Big Mess Construction, Binominal Noun Phrase Construction, 
+Head-driven Phrase Structure Grammar, phrase type hierarchy.
+ 
+
+Vincent, Nigel & Börjars, Kersti # #   University of Manchester # Heads
+and history # # no # #
+
+Yatabe, Shûichi # # University of Tokyo # Medial left-node raising in
+Japanese # December 16, 2016 ## In this paper, it is demonstrated that
+there is a phenomenon that can be viewed as a mirror image of medial
+right-node raising and thus might be designated as medial left-node
+raising, and it is argued that the properties of this phenomenon are
+consistent with the predictions of the HPSG-based theory of
+non-constituent coordination first proposed in Yatabe (2001) and
+modified in later works such as Yatabe (2015). # right-node raising, non-constituent coordination, linearization
+
+
+
