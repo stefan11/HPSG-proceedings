@@ -1,10 +1,10 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # abstract
 
-AlQurashi, Issa S. # # Taif University # An analysis of simple and construct-state noun phrases in Modern Standard Arabic # 2015-10-13 # # This paper aims to propose an HPSG analysis for simple and construct-state noun phrases in Modern Standard Arabic (MSA). To the best of my knowledge, there are no major HPSG analyses of MSA noun phrases (NPs). A parallel phenomenon in Hebrew has been discussed quite extensively in the same framework by Wintner (2000). Most of the discussion will be devoted for the construct-state noun phrase in which the order of the elements within it is NP AP PP. Three different analyses will be outlined within the HPSG framework: the extra complement analysis, the special complement analysis, and the head-adjunct-complement analysis. These analyses will be evaluated and it will be concluded that the last analysis seems to be the best and the most promising approach to Arabic NPs.
+AlQurashi, Issa S. # mailed # Taif University # An analysis of simple and construct-state noun phrases in Modern Standard Arabic # 2015-10-13 # # This paper aims to propose an HPSG analysis for simple and construct-state noun phrases in Modern Standard Arabic (MSA). To the best of my knowledge, there are no major HPSG analyses of MSA noun phrases (NPs). A parallel phenomenon in Hebrew has been discussed quite extensively in the same framework by Wintner (2000). Most of the discussion will be devoted for the construct-state noun phrase in which the order of the elements within it is NP AP PP. Three different analyses will be outlined within the HPSG framework: the extra complement analysis, the special complement analysis, and the head-adjunct-complement analysis. These analyses will be evaluated and it will be concluded that the last analysis seems to be the best and the most promising approach to Arabic NPs.
 
 
 
-Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # & & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Development of maximally reusable grammars: Parallel development of Hebrew and Arabic grammars # 2015-10-15 # #
+Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # mailed & mailed & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Development of maximally reusable grammars: Parallel development of Hebrew and Arabic grammars # 2015-10-15 # #
 We show how linguistic grammars of two different yet related languages can be developed and implemented in parallel, with language-independent fragments serving as shared resources, and language-specific ones defined separately for each language. The two grammars in the focus of this paper are of Modern Hebrew and Modern Standard Arabic, and the basic infrastructure, or core, of the grammars is based on "standard" HPSG. We identify four types of relations that exist between the grammars of two languages and demonstrate how the different types of relations can be implemented in parallel grammars with maximally shared resources. The examples pertain to the grammars of Modern Hebrew and Modern Standard Arabic, yet similar issues and considerations are applicable to other pairs of languages that have some degree of similarity.
 
 
@@ -21,7 +21,7 @@ constructional approach is empirically superior. This is interesting, theoretica
 because empirical differences between such approaches have proved elusive hitherto.
 
 
-Bond, Francis & Ho, Jia Qian & Flickinger, Dan # 0000-0003-4973-8068 & & 0000-0001-7959-999X # Nanyang Technological University & Nanyang University & Stanford University # Feeling our way to an analysis of English possessed idioms # 2015-10-15 # #
+Bond, Francis & Ho, Jia Qian & Flickinger, Dan # 0000-0003-4973-8068 & mailed & 0000-0001-7959-999X # Nanyang Technological University & Nanyang University & Stanford University # Feeling our way to an analysis of English possessed idioms # 2015-10-15 # #
 This paper describes an analysis for possessive idioms in English (e.g. `I twiddle my thumbs' ``I am idle'').  The analysis  relies on matching at the semantic level, to allow for syntactic variation.  It has been implemented in the English Resource Grammar, and tested by parsing a subset of the British National Corpus.  In addition to the syntactic analysis, we have linked the idioms to entries in the Princeton Wordnet, to allow for further lexical semantic analysis.
 
 
@@ -29,7 +29,7 @@ Emerson, Guy & Copestake, Ann # 0000-0002-3136-9682 & 0000-0003-0347-946X # Univ
 Standard accounts of HPSG assume a distinction between morphology and syntax. However, despite decades of research, no cross-linguistically valid definition of 'word' has emerged (Haspelmath, 2010), suggesting that no sharp distinction is justified. Under such a view, the basic units are morphemes, rather than words, but it has been argued this raises problems when analysing phenomena such as zero inflection, syncretism, stem alternations, and extended exponence. We argue that with existing HPSG machinery, a morpheme-based approach can in fact deal with such issues. To illustrate this, we consider Slovene nominal declension and Georgian verb agreement, which have both been used to argue against constructive morpheme-based approaches. We overcome these concerns through use of a type hierarchy, and give a morpheme-based analysis which is simpler than the alternatives. Furthermore, we can recast notions from Word-and-Paradigm morphology, such as 'rule of referral' and 'stem space', in our framework. We conclude that using HPSG as a unified morphosyntactic theory is not only feasible, but also yields fruitful insights.
 
 
-Fan, Zhenzhen & Song, Sanghoun & Bond, Francis # & 0000-0002-4234-232X & 0000-0003-4973-8068 # National University of Singapore & Incheon National University & Nanyang Technological University # Building Zhong, a Chinese HPSG shared-grammar# 2015-10-15 # # 
+Fan, Zhenzhen & Song, Sanghoun & Bond, Francis # mailed & 0000-0002-4234-232X & 0000-0003-4973-8068 # National University of Singapore & Incheon National University & Nanyang Technological University # Building Zhong, a Chinese HPSG shared-grammar# 2015-10-15 # # 
 This paper describes some of our attempts in extending Zhong, a Chinese HPSG shared-grammar. New analyses for two Chinese specific phenomena, reduplication and the SUO-DE structure, are introduced. The analysis of reduplication uses lexical rules to capture both the syntactic and semantic properties (amplification in adjectives and diminishing in verbs). Words showing non-productive reduplication are entered in the lexicon, and the semantic relations will be captured in an external resource (the Chinese Open Wordnet). The SUO-DE structure constrains the meanings of relative clauses to a gapped-object interpretation.
 
 
@@ -37,7 +37,7 @@ Haugereid, Petter # 0000-0003-3077-8983 # Bergen University College # Unique lex
 Function words like prepositions, adverbs, particles, and complementizers may be assigned more than one category due to the different functions they can have. In this paper I present an approach that assumes unique lexical entries for words that are assigned more than one category. I will focus on prepositions and how they may function as heads of modifying PPs, selected prepositions, or as particles.
 
 
-Herzig Sheinfux, Livnat & Arad Greshler, Tali & Melnik, Nurit & Wintner, Shuly # & & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Hebrew verbal multi-word expressions # 2015-10-15 # # 
+Herzig Sheinfux, Livnat & Arad Greshler, Tali & Melnik, Nurit & Wintner, Shuly # mailed & mailed & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Hebrew verbal multi-word expressions # 2015-10-15 # # 
 Multi-word expressions (MWEs) are challenging for grammatical theories and grammar development since they blur the traditional distinction between the lexicon and the grammar, and vary in the degree of idiosyncrasy with respect to their semantic, syntactic, and morphological behavior. Nevertheless, the need to incorporate MWEs into grammars is unquestionable, especially in light of estimates claiming that MWEs account for approximately half of the entries in the lexicon. In this study we focus on verbal MWEs in Modern Hebrew: we consider different types of this class of MWEs, and propose an analysis in the framework of HPSG. Moreover, we incorporate this analysis into HeGram, a deep linguistic processing grammar of Modern Hebrew.
 
 
@@ -79,11 +79,11 @@ than the first treatment. The talk is based on part II of
 Frank Van Eynde (2015), Predicative Constructions, CSLI Publications.
 
 
-Wang, Wenjie & Song, Sanghoun & Bond, Francis # & 0000-0002-4234-232X & 0000-0003-4973-8068 # Nanyang Technological University & Incheon National University & Nanyang Technological University # 
+Wang, Wenjie & Song, Sanghoun & Bond, Francis # mailed & 0000-0002-4234-232X & 0000-0003-4973-8068 # Nanyang Technological University & Incheon National University & Nanyang Technological University # 
 A constraint-based analysis of A-NOT-A questions in Mandarin Chinese # 2015-10-15 # # The A-NOT-A structure is one way to express polar questions in Mandarin Chinese. The present study provides a constraint-based analysis of A-NOT-A questions in Mandarin Chinese within the framework of HPSG (Pollard & Sag, 1994) and MRS (Copestake et al., 2005). We propose two possible approaches to analysing the A-NOT-A structure — a morphological/lexical approach as well as a syntactic approach — and illustrate their implementation, as well as their respective strengths and weaknesses.
 
 
-Yatsuhiro, Kazuko # # Centre for General Linguistics (ZAS) # The reverse partitive construction in Japanese # 2015-10-15 # no #
+Yatsuhiro, Kazuko # mailed # Centre for General Linguistics (ZAS) # The reverse partitive construction in Japanese # 2015-10-15 # no #
 In Japanese noun phrases, quantificational expressions are frequently
 marked with genitive case. Genitive case attached to nouns marks
 possession or partitivity, but on quantifiers it has been regarded as

@@ -40,8 +40,7 @@ Sauerland, Uli # 0000-0003-2175-535X # Zentrum für Allgemeine Sprachwissenschaf
 The talk articulates a formal model of a one-word stage of communication to then show the model is provable not capable of expressing a general negation.  However, a small extension of the model incorporating implicature computation offers a way to express negation under certain circumstances.  We then argue that the new model might provide a new perspective on recent work in language acquisition.
 
 
-Sio, Joanna Ut-Seong # 0000-0002-0949-5957 # Nanyang Technological University # Scalarity and the Cantonese post-verbal
-particle <em>can1</em> # 2015-10-16 # # 
+Sio, Joanna Ut-Seong # 0000-0002-0949-5957 # Nanyang Technological University # Scalarity and the Cantonese post-verbal particle <em>can1</em> # 2015-10-16 # # 
 This paper provides an analysis of the Cantonese post-verbal particle <em>can1</em>. We argue that <em>can1</em> is a resultative particle encoding the meaning of ‘a small degree’. It is only compatible with (i) verbs that entail a specific resulted state of the theme argument and (ii) verbs that encode a potential change of the theme argument (Beavers, 2011, 2013). Assuming that change of state verbs involve a property scale (Hay et al., 1999), we propose that <em>can1</em> makes the property scale bounded by providing an end-point. This endpoint, however, is not precise. It consists of a range of values on the lower end of the scale.
 
 
