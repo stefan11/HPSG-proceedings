@@ -1,18 +1,17 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # abstract
 
-AlQurashi, Issa S. # Taif University # An Analysis of Simple and Construct-State Noun Phrases in Modern Standard Arabic # October 13, 2015 # # This paper aims to propose an HPSG analysis for simple and construct-state noun phrases in Modern Standard Arabic (MSA). To the best of my knowledge, there are no major HPSG analyses of MSA noun phrases (NPs). A parallel phenomenon in Hebrew has been discussed quite extensively in the same framework by Wintner (2000). Most of the discussion will be devoted for the construct-state noun phrase in which the order of the elements within it is NP AP PP. Three different analyses will be outlined within the HPSG framework: the extra complement analysis, the special complement analysis, and the head-adjunct-complement analysis. These analyses will be evaluated and it will be concluded that the last analysis seems to be the best and the most promising approach to Arabic NPs.
+AlQurashi, Issa S. # # Taif University # An analysis of simple and construct-state noun phrases in Modern Standard Arabic # 2015-10-13 # # This paper aims to propose an HPSG analysis for simple and construct-state noun phrases in Modern Standard Arabic (MSA). To the best of my knowledge, there are no major HPSG analyses of MSA noun phrases (NPs). A parallel phenomenon in Hebrew has been discussed quite extensively in the same framework by Wintner (2000). Most of the discussion will be devoted for the construct-state noun phrase in which the order of the elements within it is NP AP PP. Three different analyses will be outlined within the HPSG framework: the extra complement analysis, the special complement analysis, and the head-adjunct-complement analysis. These analyses will be evaluated and it will be concluded that the last analysis seems to be the best and the most promising approach to Arabic NPs.
 
 
 
-Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Development of Maximally Reusable Grammars: Parallel Development of Hebrew and Arabic Grammars # October 15, 2015 # #
+Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # & & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Development of maximally reusable grammars: Parallel development of Hebrew and Arabic grammars # 2015-10-15 # #
 We show how linguistic grammars of two different yet related languages can be developed and implemented in parallel, with language-independent fragments serving as shared resources, and language-specific ones defined separately for each language. The two grammars in the focus of this paper are of Modern Hebrew and Modern Standard Arabic, and the basic infrastructure, or core, of the grammars is based on "standard" HPSG. We identify four types of relations that exist between the grammars of two languages and demonstrate how the different types of relations can be implemented in parallel grammars with maximally shared resources. The examples pertain to the grammars of Modern Hebrew and Modern Standard Arabic, yet similar issues and considerations are applicable to other pairs of languages that have some degree of similarity.
 
 
-Arka, I Wayan  # Australian National University/Udayana University # Affectedness and Psych Predicates in Marori and beyond #
-October 15, 2015 # no # I discuss morphosyntactic properties of affectedness in Marori (also known as Morori/Moraori; ISO 639-3: mok; a subgroup-level isolate, TNG/Papuan, 16 fluent speakers) and beyond, with particular attention to the principles governing the morphosyntax-morphosemantic interface, contributing to the debate as to what extent syntactic argument structures are (morpho)lexically determined or constructed in syntax (cf. Müller and Wechsler 2014). The data from psych verbs in Marori highlights the role of argument-structure from the lexicon, and also provides evidence for syntactically constructed transitivity. This may give rise to mismatches in transitivity across different layers of structure (semantics, morphology and syntax). Marori provides motivation for separating argument structure from surface valence, supported by LFG (Bresnan 2001) and HPSG (Sag, Wasow, and Bender 2003).
+Arka, I Wayan # 0000-0002-2819-6186 # Australian National University/Udayana University # Affectedness and psych predicates in Marori and beyond # 2015-10-15 # no # I discuss morphosyntactic properties of affectedness in Marori (also known as Morori/Moraori; ISO 639-3: mok; a subgroup-level isolate, TNG/Papuan, 16 fluent speakers) and beyond, with particular attention to the principles governing the morphosyntax-morphosemantic interface, contributing to the debate as to what extent syntactic argument structures are (morpho)lexically determined or constructed in syntax (cf. Müller and Wechsler 2014). The data from psych verbs in Marori highlights the role of argument-structure from the lexicon, and also provides evidence for syntactically constructed transitivity. This may give rise to mismatches in transitivity across different layers of structure (semantics, morphology and syntax). Marori provides motivation for separating argument structure from surface valence, supported by LFG (Bresnan 2001) and HPSG (Sag, Wasow, and Bender 2003).
 
 
-Arnold, Doug & Spencer, Andrew # 0000-0002-3685-8450 & # University of Essex # A Constructional Analysis for the Skeptical # October 15, 2015 # # 
+Arnold, Doug & Spencer, Andrew # 0000-0002-3685-8450 & 0000-0002-0687-9939 # University of Essex # A constructional analysis for the skeptical # 2015-10-15 # # 
 This paper addresses the issue of phonologically null elements in HPSG by providing an 
 analysis of the construction exemplified by NPs such as `the rich', `the beautiful', `the
 unemployed', which lack an overt noun. The properties of this construction are explored in
@@ -22,56 +21,51 @@ constructional approach is empirically superior. This is interesting, theoretica
 because empirical differences between such approaches have proved elusive hitherto.
 
 
-Bond, Francis & Ho, Jia Qian & Flickinger, Dan # Nanyang Technological University & NanyanUniversity & Stanford University #Feeling our way to an analysis of English possessed idioms# October 15, 2015 # #
+Bond, Francis & Ho, Jia Qian & Flickinger, Dan # 0000-0003-4973-8068 & & 0000-0001-7959-999X # Nanyang Technological University & Nanyang University & Stanford University # Feeling our way to an analysis of English possessed idioms # 2015-10-15 # #
 This paper describes an analysis for possessive idioms in English (e.g. `I twiddle my thumbs' ``I am idle'').  The analysis  relies on matching at the semantic level, to allow for syntactic variation.  It has been implemented in the English Resource Grammar, and tested by parsing a subset of the British National Corpus.  In addition to the syntactic analysis, we have linked the idioms to entries in the Princeton Wordnet, to allow for further lexical semantic analysis.
 
 
-Emerson, Guy & Copestake, Ann # University of Cambridge & University of Cambridge # Lacking Integrity: HPSG as a Morphosyntactic Theory # October 16, 2015 # # 
+Emerson, Guy & Copestake, Ann # 0000-0002-3136-9682 & 0000-0003-0347-946X # University of Cambridge & University of Cambridge # Lacking integrity: HPSG as a morphosyntactic theory # 2015-10-16 # # 
 Standard accounts of HPSG assume a distinction between morphology and syntax. However, despite decades of research, no cross-linguistically valid definition of 'word' has emerged (Haspelmath, 2010), suggesting that no sharp distinction is justified. Under such a view, the basic units are morphemes, rather than words, but it has been argued this raises problems when analysing phenomena such as zero inflection, syncretism, stem alternations, and extended exponence. We argue that with existing HPSG machinery, a morpheme-based approach can in fact deal with such issues. To illustrate this, we consider Slovene nominal declension and Georgian verb agreement, which have both been used to argue against constructive morpheme-based approaches. We overcome these concerns through use of a type hierarchy, and give a morpheme-based analysis which is simpler than the alternatives. Furthermore, we can recast notions from Word-and-Paradigm morphology, such as 'rule of referral' and 'stem space', in our framework. We conclude that using HPSG as a unified morphosyntactic theory is not only feasible, but also yields fruitful insights.
 
 
-Fan, Zhenzhen & Song, Sanghoun & Bond, Francis # National University of Singapore & Incheon National University & Nanyang Technological University # Building Zhong, a Chinese HPSG Shared-Grammar# October 15, 2015 # # 
+Fan, Zhenzhen & Song, Sanghoun & Bond, Francis # & 0000-0002-4234-232X & 0000-0003-4973-8068 # National University of Singapore & Incheon National University & Nanyang Technological University # Building Zhong, a Chinese HPSG shared-grammar# 2015-10-15 # # 
 This paper describes some of our attempts in extending Zhong, a Chinese HPSG shared-grammar. New analyses for two Chinese specific phenomena, reduplication and the SUO-DE structure, are introduced. The analysis of reduplication uses lexical rules to capture both the syntactic and semantic properties (amplification in adjectives and diminishing in verbs). Words showing non-productive reduplication are entered in the lexicon, and the semantic relations will be captured in an external resource (the Chinese Open Wordnet). The SUO-DE structure constrains the meanings of relative clauses to a gapped-object interpretation.
 
 
-Haugereid, Petter # Bergen University College # Unique lexical entries in a subconstructional grammar # October 15, 2015 # #
+Haugereid, Petter # 0000-0003-3077-8983 # Bergen University College # Unique lexical entries in a subconstructional grammar # 2015-10-15 # #
 Function words like prepositions, adverbs, particles, and complementizers may be assigned more than one category due to the different functions they can have. In this paper I present an approach that assumes unique lexical entries for words that are assigned more than one category. I will focus on prepositions and how they may function as heads of modifying PPs, selected prepositions, or as particles.
 
 
-Herzig Sheinfux, Livnat & Arad Greshler, Tali & Melnik, Nurit & Wintner, Shuly # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Hebrew Verbal Multi-Word Expressions # October 15, 2015 # # 
+Herzig Sheinfux, Livnat & Arad Greshler, Tali & Melnik, Nurit & Wintner, Shuly # & & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Hebrew verbal multi-word expressions # 2015-10-15 # # 
 Multi-word expressions (MWEs) are challenging for grammatical theories and grammar development since they blur the traditional distinction between the lexicon and the grammar, and vary in the degree of idiosyncrasy with respect to their semantic, syntactic, and morphological behavior. Nevertheless, the need to incorporate MWEs into grammars is unquestionable, especially in light of estimates claiming that MWEs account for approximately half of the entries in the lexicon. In this study we focus on verbal MWEs in Modern Hebrew: we consider different types of this class of MWEs, and propose an analysis in the framework of HPSG. Moreover, we incorporate this analysis into HeGram, a deep linguistic processing grammar of Modern Hebrew.
 
 
+Lee, Juwon # mailed # Kyung Hee University # Semantic taxonomies and NP-coordinations # 2015-10-15 # no # In this paper I discuss the novel data of Korean NP-coordination constructions in which a non-final conjunct is incompatible with the main verb. The question is how to derive the appropriate verbal meanings related to the conjuncts semantically incompatible with the main verbs. This is of empirical and theoretical importance, since to my knowledge, this kind of data has not been discussed before, and the syntax-semantics interface involved in the phenomenon poses significant challenges to prior analyses of coordinations. I propose the hypothesis that some hypernym or sister of the main verb in semantic taxonomy is selected as the verbal meaning for the incompatible conjunct in the construction. I also argue that a directly compositional constructional analysis of the interface in Head-driven Phrase Structure Grammar (Pollard and Sag 1994, Sag et al. 2003) and Categorial Grammar (e.g., Dowty 1988, Steedman 1996, Jacobson 1996) can account for the data straightforwardly compared to alternative approaches.       
 
 
-Lee, Juwon # mailed # Kyung Hee University # Semantic Taxonomies and NP-coordinations # October 15, 2015 # no # In this paper I discuss the novel data of Korean NP-coordination constructions in which a non-final conjunct is incompatible with the main verb. The question is how to derive the appropriate verbal meanings related to the conjuncts semantically incompatible with the main verbs. This is of empirical and theoretical importance, since to my knowledge, this kind of data has not been discussed before, and the syntax-semantics interface involved in the phenomenon poses significant challenges to prior analyses of coordinations. I propose the hypothesis that some hypernym or sister of the main verb in semantic taxonomy is selected as the verbal meaning for the incompatible conjunct in the construction. I also argue that a directly compositional constructional analysis of the interface in Head-driven Phrase Structure Grammar (Pollard and Sag 1994, Sag et al. 2003) and Categorial Grammar (e.g., Dowty 1988, Steedman 1996, Jacobson 1996) can account for the data straightforwardly compared to alternative approaches.       
- 
-
-
-Maekawa, Takafumi # mailed # Ryukoku University # `Agreement mismatch' between sort/kind/type and the determiner # 15 October 2015 # # A singular countable noun 
+Maekawa, Takafumi # mailed # Ryukoku University # `Agreement mismatch' between sort/kind/type and the determiner # 2015-10-15 # # A singular countable noun 
 in English normally needs a determiner and they should agree in number. However, there is a type of noun phrase, such as ‘these sort of skills’, which
  does not conform to this generalisation. As a singular countable common noun, the noun ‘sort’ requires a determiner, but there is an agreement mismat
 ch here: ‘sort’ is singular but the determiner is plural. Rather, the determiner agrees with the NP after the preposition ‘of’. There are several po
 ssible analyses that might be proposed, but the best analysis is the one in which ‘sort’ and the preposition ‘of’ are ‘functors’, non-heads selecting heads.
 
 
-
-Oshima, David Y. # Nagoya University # Ellipsis of SAY, THINK, and DO in Japanese subordinate clauses: A constructional analysis # October 15, 2015 # #
+Oshima, David Y. # 0000-0003-2788-8866 # Nagoya University # Ellipsis of SAY, THINK, and DO in Japanese subordinate clauses: A constructional analysis # 2015-10-15 # #
 This paper addresses some Japanese constructions where the predicate heading a subordinate clause &ndash; specifically, a suspensive form of IU 'say', OMOU 'think' or SURU  'do' &ndash;  appears to be elided. I will discuss that these elliptic constructions are subject to certain syntactic and interpretative constraints which do not apply to their non-elliptic counterparts, and develop an SBCG-analysis that aims to model these constraints without postulating a covert element in the place of the missing verb.
 
 
-Sio, Joanna Ut-Seong & Song, Sanghoun  # Nanyang Technological University & Incheon National University # Divergence in Expressing Definiteness between {Mandarin} and {Cantonese} # 
-October 15, 2015 # # In this paper, we model the dialectal variation in the expression of definiteness in Mandarin and Cantonese adopting the Head-Driven Phrase Structure Grammar (HPSG) framework (Pollard & Sag, 1994) and Minimal Recursion Semantics (MRS) (Copestake et al., 2005).
+Sio, Joanna Ut-Seong & Song, Sanghoun # 0000-0002-0949-5957 & 0000-0002-4234-232X # Nanyang Technological University & Incheon National University # Divergence in expressing definiteness between {Mandarin} and {Cantonese} # 
+2015-10-15 # # In this paper, we model the dialectal variation in the expression of definiteness in Mandarin and Cantonese adopting the Head-Driven Phrase Structure Grammar (HPSG) framework (Pollard & Sag, 1994) and Minimal Recursion Semantics (MRS) (Copestake et al., 2005).
 
-Song, Sanghoun & Bo, Chen & Sio, Joanna Ut-Seong & Bond, Francis # NTU, Singapore & Wuhan Univ., China & NTU, Singapore & NTU, Singapore # An HPSG-based Analysis of Resultative Compounds in Chinese # October 15, 2015 # no #
+Song, Sanghoun & Bo, Chen & Sio, Joanna Ut-Seong & Bond, Francis # 0000-0002-4234-232X & & 0000-0002-0949-5957 & 0000-0003-4973-8068 # NTU, Singapore & Wuhan Univ., China & NTU, Singapore & NTU, Singapore # An HPSG-based analysis of resultative compounds in Chinese # 2015-10-15 # no #
 Commonly in the Chinese languages (Cheng et al., 1997), two lexical items (typically verbs and adjectives) can form a compound. The sequence of predicates syntactically behaves as a single unit and semantically involves a resultative interpretation. The first component (henceforth, V1) expresses an event, and the second component (henceforth, V2) conveys a resulting state. With respect to constructing the causal relation, the resultative compounds in Chinese exhibit some intriguing properties. In this paper, we model resultative compounds in Chinese using HPSG (Pollard and Sag, 1994) and MRS (Copestake et al., 2005).
 
 
+Uszkoreit, Hans # 0000-0002-5109-9552 # DFKI and Saarland University # Syntax and semantics in the automatic extraction of relations from texts # # no #
 
-Uszkoreit, Hans  # DFKI and Saarland University # Syntax and Semantics in the Automatic Extraction of Relations from Texts # # no #
 
-
-Van Eynde, Frank #University of Leuven # Binding, agreement and predicative complements # # no #
+Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # Binding, agreement and predicative complements # # no #
 The talk presents and compares two ways of analyzing clauses with a 
 predicative complement. One treats the predicate selecting verbs, 
 such as <em>be</em> and <em>become</em>, as subject raisers and assumes that their 
@@ -84,14 +78,12 @@ line with independently motivated theories of binding and agreement
 than the first treatment. The talk is based on part II of 
 Frank Van Eynde (2015), Predicative Constructions, CSLI Publications.
 
-  
 
-Wang, Wenjie & Song, Sanghoun & Bond, Francis # Nanyang Technological University & Incheon National University & Nanyang Technological University # 
-A Constraint-based Analysis of A-NOT-A Questions in Mandarin Chinese # October 15, 2015 ## The A-NOT-A structure is one way to express polar questions in Mandarin Chinese. The present study provides a constraint-based analysis of A-NOT-A questions in Mandarin Chinese within the framework of HPSG (Pollard & Sag, 1994) and MRS (Copestake et al., 2005). We propose two possible approaches to analysing the A-NOT-A structure — a morphological/lexical approach as well as a syntactic approach — and illustrate their implementation, as well as their respective strengths and weaknesses.
-
+Wang, Wenjie & Song, Sanghoun & Bond, Francis # & 0000-0002-4234-232X & 0000-0003-4973-8068 # Nanyang Technological University & Incheon National University & Nanyang Technological University # 
+A constraint-based analysis of A-NOT-A questions in Mandarin Chinese # 2015-10-15 # # The A-NOT-A structure is one way to express polar questions in Mandarin Chinese. The present study provides a constraint-based analysis of A-NOT-A questions in Mandarin Chinese within the framework of HPSG (Pollard & Sag, 1994) and MRS (Copestake et al., 2005). We propose two possible approaches to analysing the A-NOT-A structure — a morphological/lexical approach as well as a syntactic approach — and illustrate their implementation, as well as their respective strengths and weaknesses.
 
 
-Yatsuhiro, Kazuko # Centre for General Linguistics (ZAS) # The Reverse Partitive Construction in Japanese # October 15, 2015 # no #
+Yatsuhiro, Kazuko # # Centre for General Linguistics (ZAS) # The reverse partitive construction in Japanese # 2015-10-15 # no #
 In Japanese noun phrases, quantificational expressions are frequently
 marked with genitive case. Genitive case attached to nouns marks
 possession or partitivity, but on quantifiers it has been regarded as
