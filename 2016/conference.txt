@@ -1,7 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # keywords # abstract
 
-Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # & & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open
-University of Israel & University of Haifa # Reference patterns in
+Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # & & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Reference patterns in
 subjunctive complement clauses of Modern Standard Arabic # 2016-12-16 # # In this paper we investigate the status of control
 constructions in Modern Standard Arabic (MSA). MSA has several
 embedded clause constructions, some of which resemble control in
@@ -33,9 +32,7 @@ possibility for RC stacking. # relative clauses, information
 structure, definiteness constraints, Papuan languages, discontinuous
 expressions
 
-Arnold, Doug & Lucas, Christopher # 0000-0002-3685-8450 & 0000-0002-5339-9655 # University of Essex & SOAS,
-University of London # One of those constructions that really needs a
-proper analysis # 2016-12-16 # # We describe, and provide an
+Arnold, Doug & Lucas, Christopher # 0000-0002-3685-8450 & 0000-0002-5339-9655 # University of Essex & SOAS, University of London # One of those constructions that really needs a proper analysis # 2016-12-16 # # We describe, and provide an
 HPSG account of, a hitherto little studied English construction (of
 which the title of the paper is an instance) involving an agreement
 mismatch: a partitive construction in which a plural nominal is
@@ -44,9 +41,7 @@ apparently modified by a singular relative clause.
 
 Augustinus, Liesbeth # 0000-0002-3238-4622 # KU Leuven # Word order variation in Dutch and German verb clusters # # no # #
 
-Beermann, Dorothee & Hellan, Lars # 0000-0002-8906-5235 & 0000-0003-3043-120X # Norwegian University of Science
-and Technology, Trondheim, Norway # Switched control and other
-'uncontrolled' cases of obligatory control # 2016-12-16 # #The
+Beermann, Dorothee & Hellan, Lars # 0000-0002-8906-5235 & 0000-0003-3043-120X # Norwegian University of Science and Technology, Trondheim, Norway # Switched control and other 'uncontrolled' cases of obligatory control # 2016-12-16 # #The
 paper presents an analysis of <b>control switch</b> in German and Norwegian,
 as exemplified in the German pair <i>Ich verspreche ihm zu kommen</i> 'I
 promise him to come' vs. <i>Ich verspreche ihm kommen zu dürfen</i> 'I
@@ -83,8 +78,7 @@ Dargwa in a wider typological context.
 Bögel, Tina # # University of Konstanz # The Swabian first person singular pronoun at the syntax-prosody interface # # no # #
 
 Bonami, Olivier & Borsley, Robert D. & Tallerman, Maggie # 0000-0003-0688-3855 & 0000-0002-4856-4732 & #
-Université Paris Diderot & University of Essex & Newcastle
-University # On pseudo-non-finite clauses in Welsh # 2016-12-16
+Université Paris Diderot & University of Essex & Newcastle University # On pseudo-non-finite clauses in Welsh # 2016-12-16
 ## Languages differ in how they employ finite and non-finite
 clauses. Welsh finite and non-finite clauses have a similar
 distribution to their counterparts in English. However, it doesn’t
@@ -97,8 +91,7 @@ provide an HPSG analysis capturing similarities and differences
 between these two constructions and canonical finite and nonfinite
 clauses. # Welsh, finiteness, syntax-morphology relation, periphrasis.
 
-Börjars, Kersti & Ghadgoud, Khawla & Payne, John # 0000-0002-3154-5260 & 0000-0001-7743-936X & 0000-0003-4761-3712 # The University of
-Manchester # Aspectual object marking in Libyan Arabic # 2016-12-16 # # In Libyan Arabic, the preposition <i>fi</i> 'in' has
+Börjars, Kersti & Ghadgoud, Khawla & Payne, John # 0000-0002-3154-5260 & 0000-0001-7743-936X & 0000-0003-4761-3712 # The University of Manchester # Aspectual object marking in Libyan Arabic # 2016-12-16 # # In Libyan Arabic, the preposition <i>fi</i> 'in' has
 developed into a marker of continuous or habitual aspect. While
 structurally remaining a preposition which marks the objects of the
 non-tensed forms of dynamic transitive verbs, it serves to attribute
@@ -125,8 +118,8 @@ predication, not just the result. # Urdu, Sindhi, Punjabi, agreeing
 adverbs, resultatives
 
 Ćavar, Damir & Moe, Lwin & Hu, Hai & Steimel,
-Kenneth # 0000-0002-1262-5927 & & 0000-0002-2289-9008 & 0000-0003-0637-6204 # Indiana University # Preliminary
-results from the Free Linguistic Environment project # 2016-12-16 # # The Free Linguistic Environment (FLE) project focuses on the
+Kenneth # 0000-0002-1262-5927 & & 0000-0002-2289-9008 & 0000-0003-0637-6204 # Indiana University # 
+Preliminary results from the Free Linguistic Environment project # 2016-12-16 # # The Free Linguistic Environment (FLE) project focuses on the
 development of an open and free library of natural language processing
 functions and a grammar engineering platform for Lexical Functional
 Grammar (LFG) and related grammar frameworks. In its present state the
@@ -173,8 +166,8 @@ analysis of such phenomena.
 Particle verb, Idiomatic constructions, XLFG
 
 
-Crysmann, Berthold # 0000-0003-0230-502X # Laboratoire de linguistique formelle,
-CNRS and U Paris-Diderot # An underspecification approach to Hausa resumption #
+Crysmann, Berthold # 0000-0003-0230-502X # Laboratoire de linguistique formelle, CNRS and U Paris-Diderot # 
+An underspecification approach to Hausa resumption #
 2016-12-16 # # Within recent work on the treatment of resumption
 in HPSG, there is growing consensus that resumptive unbounded
 dependency constructions (=UDCs) should be modelled on a par with
@@ -247,9 +240,8 @@ but rather as being located at the interface between syntax and
 semantics. # passive, syntax-semantics interface, argument linking
 
 
-Fiotaki, Alexandra & Tzortzi, Katerina # 0000-0002-1909-3142 & # University of Ioannina &
-University of Crete # Exhaustive object control constructions in
-Greek: An LFG/XLE treatment # 2016-12-16 # # In this paper we
+Fiotaki, Alexandra & Tzortzi, Katerina # 0000-0002-1909-3142 & # University of Ioannina & University of Crete # Exhaustive object control constructions in Greek: An LFG/XLE treatment # 2016-12-16 # # 
+In this paper we
 propose an LFG/XLE treatment of Exhaustive Object Control (EOC)
 constructions in Greek na clauses. We draw on data retrieved from the
 Hellenic National Corpus (HNC) in order to define the verbs that allow
@@ -260,8 +252,7 @@ case that is anaphorically related to the object of the matrix clause
 adding the new feature ANAPH_C_BY. # exhaustive object control, na
 clauses, PRO, anaphoric control, Greek
 
-Goldstein, David M. & Haug, Dag T. T. # & # University of California, Los
-Angeles & University of Oslo # Second-position clitics and the
+Goldstein, David M. & Haug, Dag T. T. # & # University of California, Los Angeles & University of Oslo # Second-position clitics and the
 syntax-phonology interface: The case of ancient Greek # 2016-12-16 # # In this paper we discuss second position clitics in Ancient
 Greek, which show a remarkable ability to break up syntactic
 constituents. We argue against attempts to capture such data in terms
@@ -271,7 +262,7 @@ with explicit yield functions rather than an ordinary CFG. # Ancient
 Greek, second-position clitics, syntax-prosody interface, multiple
 context-free grammars
 
-Hahm, Hyun Jong # # University of Guam # # Politeness and number in Chuukese # # no # #
+Hahm, Hyun Jong # # University of Guam # Politeness and number in Chuukese # # no # #
 
 Jones, Stephen # 0000-0003-2485-1566 # University of Oxford # The syntax-prosody interface
 in Korean: Resolving ambiguity in questions # 2016-12-16 # # The paper
@@ -361,9 +352,7 @@ and the determiner-noun agreement are dissociated from each other,
 can provide a straightforward account of the data. # seminumerals, 
 singular countable nouns, determiners, agreement, noun phrase syntax
 
-Moeljadi, David & Bond, Francis & Morgado da Costa, Luís # 0000-0002-7549-0732 & 0000-0003-4973-8068 & 0000-0002-4097-8543 # Nanyang
-Technological University & Nanyang Technological University & Nanyang
-Technological University # Basic copula clauses in Indonesian #
+Moeljadi, David & Bond, Francis & Morgado da Costa, Luís # 0000-0002-7549-0732 & 0000-0003-4973-8068 & 0000-0002-4097-8543 # Nanyang Technological University & Nanyang Technological University & Nanyang Technological University # Basic copula clauses in Indonesian #
 2016-12-16 # # We want to show how basic copula clauses in
 Indonesian can be dealt with within the framework of Head Driven
 Phrase Structure Grammar (HPSG) (Pollard & Sag, 1994). We analyzed
@@ -389,8 +378,7 @@ cross-linguistic generalizations are not captured by phrasal approaches.
 # LFG, template, lexicalism, Construction Grammar
 
 
-Otoguro, Ryo & Snijders, Liselotte # & # Waseda University & Waseda
-University # Syntactic, semantic and information structures of
+Otoguro, Ryo & Snijders, Liselotte # & # Waseda University & Waseda University # Syntactic, semantic and information structures of
 floating quantifiers # 2016-12-16 # # Quantifiers canonically
 attach to nouns or noun phrases as modifiers to specify the amount or
 number of the entity expressed by the noun. However, it has been
@@ -429,8 +417,7 @@ Icelandic.
 Pair Grammar
 
 
-Patejuk, Agnieszka # 0000-0002-2367-9170 # Institute of Computer Science, Polish Academy of
-Sciences # Integrating a rich external valency dictionary with an
+Patejuk, Agnieszka # 0000-0002-2367-9170 # Institute of Computer Science, Polish Academy of Sciences # Integrating a rich external valency dictionary with an
 implemented XLE/LFG grammar # 2016-12-16 # # This paper shows how Walenty, a valency dictionary of Polish, was automatically
 converted in order to be used with an XLE/LFG grammar of Polish,
 discussing issues such as the grammatical function assignment under unlike
@@ -438,8 +425,7 @@ category coordination and imposing constraints for lexicalised
 dependents.
 # valence, grammatical functions, grammar engineering, phraseology, coordination
 
-Patejuk, Agnieszka & Przepiórkowski, Adam # 0000-0002-2367-9170 & 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of
-Sciences & Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy,
+Patejuk, Agnieszka & Przepiórkowski, Adam # 0000-0002-2367-9170 & 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences & Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy,
 University of Warsaw # Reducing grammatical functions in LFG # 2016-12-16
 # # The aim of this paper is to reexamine the rich repertoire of
 grammatical functions assumed in LFG and provide novel arguments for
@@ -454,8 +440,7 @@ formalised.
 # grammatical functions, obliqueness, functional hierarchy, coordination
 
 
-Przepiórkowski, Adam # 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy,
-University of Warsaw # How <em>not</em>
+Przepiórkowski, Adam # 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy, University of Warsaw # How <em>not</em>
 to distinguish arguments from adjuncts in LFG # 2016-12-16 # #
 The paper briefly reexamines arguments for the argument–adjunct
 dichotomy, commonly assumed in contemporary linguistics, showing that
@@ -530,8 +515,7 @@ central aspects of the definite marking systems of our three object
 languages.
 # definite article, Lexical Resource Semantics, Yiddish, Papiamentu, Esperanto
 
-Shiraïshi, Aoi & Abeillé, Anne # & 0000-0002-9187-2298 # LLF, University Paris
-Diderot & LLF, University Paris Diderot and IUF # Peripheral ellipsis and verb mismatch # 2016-12-16
+Shiraïshi, Aoi & Abeillé, Anne # & 0000-0002-9187-2298 # LLF, University Paris Diderot & LLF, University Paris Diderot and IUF # Peripheral ellipsis and verb mismatch # 2016-12-16
 # # Right-node raising is usually set apart from other elliptical
 constructions for imposing a strict identity condition between the
 omitted and the peripheral elements. Since Pullum & Zwicky (1986), it
