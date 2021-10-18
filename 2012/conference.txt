@@ -30,7 +30,7 @@ involve a filler-gap dependency between the hv-phrase and the gap in the sis- te
 will propose that the gap in the sister clause is bound off by a constructional constraint. In this
 way the analysis will be shown to differ from previous HPSG wh-head analyses of free relatives. 
 
-Cho, Sae-Youn & Ku, Na-Hyun # mailed & mailed # Kangwon National University # Verbal suffix-repetition construction in Korean: A constraint- and construction-based approach # 2012-10-19 #  # 
+Cho, Sae-Youn & Ku, Na-Hyun # 0000-0002-1046-3303 & unknwon # Kangwon National University # Verbal suffix-repetition construction in Korean: A constraint- and construction-based approach # 2012-10-19 #  # 
 There are various
 Verbal Suffix-Repetition (VSR) constructions in Korean, where suffixes such as <em>-kena/tun(ci)/tun(ka)</em> are attached to the repeated verbs. Calling the VSR Choice-denying Repeated Verbs
 construction, Lee (2011) claims that the following verb of the VSR, which can be replaced with mal-,
@@ -152,7 +152,7 @@ entertain default implicative relations in the stem dependency hierarchy. We wil
 implemented analysis of the past affix and ii) an implementation of the allomorph selections by the
 `non-past' affix in Koga and Ono, 2010 as two examples. 
 
-Lee, Juwon # mailed # University of Texas at Austin # The direct evidential <em>-te</em> in Korean:<br> Its interaction with person and experiencer predicates # 1012-10-18 #  #
+Lee, Juwon # 0000-0002-4216-0884 # University of Texas at Austin # The direct evidential <em>-te</em> in Korean:<br> Its interaction with person and experiencer predicates # 1012-10-18 #  #
 This paper discusses the complex relations among the direct evidential <em>-te</em>, person, and experiencer
 predicates in Korean. The questions of the paper are: (i) how the three components are related with
 each other in the evidential sentences, and (ii) how the interactions of the three components can be

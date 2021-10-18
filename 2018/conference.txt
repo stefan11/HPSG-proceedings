@@ -1,7 +1,7 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # abstract
 
 
-Abeillé, Anne & Hassamal, Shrita  # 0000-0002-9187-2298 & # # Weak and strong interrogatives in Mauritian # # no #
+Abeillé, Anne & Hassamal, Shrita  # 0000-0002-9187-2298 & 0000-0002-1747-411X # # Weak and strong interrogatives in Mauritian # # no #
 
 Aguila-Multner, Gabriel & Crysmann, Berthold # 0000-0002-8074-1575 & 0000-0003-0230-502X # U Paris-Diderot & CNRS, Laboratoire de linguistique formelle
 # Feature resolution in French coordination # 2018-10-16 # no #

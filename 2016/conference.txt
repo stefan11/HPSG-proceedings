@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # keywords # abstract
 
-Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # & & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Reference patterns in
+Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # &0000-0001-6987-8135 & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Reference patterns in
 subjunctive complement clauses of Modern Standard Arabic # 2016-12-16 # # In this paper we investigate the status of control
 constructions in Modern Standard Arabic (MSA). MSA has several
 embedded clause constructions, some of which resemble control in
@@ -262,7 +262,7 @@ with explicit yield functions rather than an ordinary CFG. # Ancient
 Greek, second-position clitics, syntax-prosody interface, multiple
 context-free grammars
 
-Hahm, Hyun Jong # # University of Guam # Politeness and number in Chuukese # # no # #
+Hahm, Hyun-Jong # # University of Guam # Politeness and number in Chuukese # # no # #
 
 Jones, Stephen # 0000-0003-2485-1566 # University of Oxford # The syntax-prosody interface
 in Korean: Resolving ambiguity in questions # 2016-12-16 # # The paper

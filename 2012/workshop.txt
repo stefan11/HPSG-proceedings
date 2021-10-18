@@ -58,7 +58,7 @@ languages, and it is only the wh-phrase(s) that is retained:
 <li>Toosarvandani, M. 2008. Wh-movement and the syntax of sluicing. Journal of Linguistics. 44: 677-722. 
 </ul>
 
-Kim, Yae-Jee & Cho, Sae-Youn # mailed & mailed # State University of New York at Buffalo & Kangwon National University
+Kim, Yae-Jee & Cho, Sae-Youn # mailed & 0000-0002-1046-3303 # State University of New York at Buffalo & Kangwon National University
 # Tense and honorific interpretations in Korean gapping construction:<br> A constraint- and construction-based approach # 2012-10-20 # # 
 Chung (2001) claims that non-final conjuncts without overt tense morphemes which produce asymmetric
 tense interpretations are to be analyzed as TP; and Lee (2005) argues that the verbal honorific
