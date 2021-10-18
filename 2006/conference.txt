@@ -244,7 +244,7 @@ questioned or quantified for verbs. We then present an HPSG
 formalization of the analysis.
 
 
-Nakazawa, Tsuneko # mailed # University of Tokyo # Motion event and deictic motion verbs as path-conflating verbs # 2006-10-15 # #
+Nakazawa, Tsuneko # 0000-0001-6991-3447 # University of Tokyo # Motion event and deictic motion verbs as path-conflating verbs # 2006-10-15 # #
 This paper attempts to decompose the Motion event into such elements as Figure,
 Path, Vector, and Ground based upon Talmy's framework, which makes it possible
 to formally analyze and compare the lexical semantics of the deictic motion

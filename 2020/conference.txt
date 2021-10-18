@@ -1,35 +1,19 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # abstract # keywords
 
 
+Aguila-Multner, Gabriel & Crysmann, Berthold # 0000-0002-8074-1575 & 0000-0003-0230-502X # Université de Paris,
+Laboratoire de linguistique formelle, CNRS # An inside-out approach to French causatives # 2020-10-15 # # 
+In this paper, we provide a novel account of French causatives that crucially derives the core
+properties of the construction inside-out from the downstairs lexical verb to the causative verb, rather than outside-in, as is commonly assumed by argument composition (Miller & Sag, 1997; Abeillé & Godard,
+1997; Abeillé et al., 1998).  We shall argue on the basis of clitic trapping (Miller & Sag, 1997), as well as marking of the downstairs subject (Koenig, 1998) that the downstairs verb assumes a more active role than what is suggested by an argument composition approach and, conversely, we shall show that argument composition leads to problems with coordination and with en-cliticisation. The analysis we are going to propose combines an inversion analysis of the downstairs subject as a downstairs complement, accounting for scrambling and case marking, with an analysis of clitic climbing in terms of inflectional periphrasis (Aguila-Multner & Crysmann 2020). # Clitic climbing, French, HPSG, causative, faire, periphrasis, VP structure
 
-Aguila-Multner, Gabriel & Crysmann, Berthold # Université de Paris,
-Laboratoire de linguistique formelle, CNRS # An inside-out approach to
-French causatives # October 15 2020# # In this paper, we provide a
-novel account of French causatives that crucially derives the core
-properties of the construction inside-out from the downstairs lexical
-verb to the causative verb, rather than outside-in, as is commonly
-assumed by argument composition (Miller & Sag, 1997; Abeillé & Godard,
-1997; Abeillé et al., 1998).  We shall argue on the basis of clitic
-trapping (Miller & Sag, 1997), as well as marking of the downstairs
-subject (Koenig, 1998) that the downstairs verb assumes a more active
-role than what is suggested by an argument composition approach and,
-conversely, we shall show that argument composition leads to problems
-with coordination and with en-cliticisation. The analysis we are going
-to propose combines an inversion analysis of the downstairs subject as
-a downstairs complement, accounting for scrambling and case marking,
-with an analysis of clitic climbing in terms of inflectional
-periphrasis (Aguila-Multner & Crysmann 2020). # Clitic climbing,
-French, HPSG, causative, faire, periphrasis, VP structure
-
-Augustinus, Liesbeth # University of Leuven # A head-supplement analysis of Dutch quotative van # #
-no #
+Augustinus, Liesbeth # 0000-0002-3238-4622 # University of Leuven # A head-supplement analysis of Dutch quotative van # # no #
 This talk discusses constructions with quotative van ‘of’, the Dutch counterpart of English like and German so ‘thus’. Language users associate quotative van with colloquial speech, though the construction is widely used.
 Descriptive grammars typically consider the quote as a direct object, similar to instances of direct speech introduced by verbs of saying and thinking. There are, however, plenty of counterexamples showing that the quote cannot be treated as an internal argument of the construction.
 Instead, I propose to analyse Dutch quotative van as an instance of head-supplement phrase, in which the quoting clause as a whole is the head of the phrase and the quote its supplement. The advantage of this analysis is that it uniformly accounts for the different types of quotative van constructions. It deals with constructions in which the matrix clause contains a trigger of the quote (such as a verb of saying), and for constructions without such a trigger.
 
-
-Borsley, Robert D. #  University of Essex and Bangor University # On a family of Welsh constructions
-# October, 15, 2020 # # Research on unbounded dependency constructions (UDCs) has focused mainly on
+Borsley, Robert D. # 0000-0002-4856-4732 # University of Essex and Bangor University # On a family of Welsh constructions # 2020-10-15 # #
+Research on unbounded dependency constructions (UDCs) has focused mainly on
 the properties that are shared by all UDCs, but a satisfactory theory of syntax also needs to
 capture the properties that distinguish specific UDCs and the properties that are shared by some but
 not all of them. Three Welsh unbounded dependency constructions – wh-interrogatives, free relatives,
@@ -37,88 +21,47 @@ and cleft sentences – are of interest here because they show a challenging arr
 the differences. However, given a slightly expanded hierarchy of phrase types, HPSG can capture both
 the similarities and the differences in this area. # unbounded dependency constructions, wh-interrogatives, free relatives, cleft clauses, Welsh
 
-Bouma, Gosse # University of Groningen # Enhanced Universal Dependencies and its relationship to
-HPSG # # no # Recent work on neural parsing using pre-trained language models has shown that accurate dependency parsing requires very little supervision, and no induction of grammar rules in the traditional sense. We show that this even holds for dependency annotation that goes beyond labeled edges between word tokens, and that is able to capture much of the same information as that of richer phrase based models such as HPSG. Second, we show that dependency parsing can  still benefit from a combination with phrase based syntax, not unlike that of HPSG, and that such combinations might be readily available for many of the treebanks in the UD corpus.
+Bouma, Gosse # 0000-0003-1106-3181 # University of Groningen # Enhanced Universal Dependencies and its relationship to HPSG # # no #
+Recent work on neural parsing using pre-trained language models has shown that accurate dependency parsing requires very little supervision, and no induction of grammar rules in the traditional sense. We show that this even holds for dependency annotation that goes beyond labeled edges between word tokens, and that is able to capture much of the same information as that of richer phrase based models such as HPSG. Second, we show that dependency parsing can  still benefit from a combination with phrase based syntax, not unlike that of HPSG, and that such combinations might be readily available for many of the treebanks in the UD corpus.
 
-Chaves, Rui P. & Kay, Paul & Michaelis, Laura A. # 0000-0003-0820-6145 & mailed & # University at Buffalo,
-SUNY & University of California, Berkeley & University of Colorado at Boulder # Unrealized arguments in SBCG # 15 of October 2020 # # In
-null instantiation (NI) an optionally unexpressed argument receives
-either anaphoric or existential interpretation (Fillmore, 1986; Mauner
-& Koenig, 2000; Kay, 2002; Ruppenhofer & Michaelis, 2010, 2014).
-Examples include Lexically licensed NI (Nixon resigned.), Contextual
-accessibility NI (Can I see?), Labelese (Contains alcohol), Diary NI
-(Got up, got out of bed, dragged a comb across my head),
-Generic-habitual NI (The police only arrest (people) when there's
-probable cause). We think of a predicator as having NI potential when
-one or more of its frame elements may remain unexpressed under certain
-conditions. While one cannot accurately predict a predicator's NI
-potential based either on semantic factors (e.g., Aktionsart class of
-the verb, as in Hovav & Levin (1998)) or pragmatic factors (e.g.,
-relative discourse prominence of arguments, as in Goldberg (2006)), NI
-potential, while highly constrained, is not simply lexical
-idiosyncrasy, but is instead the product of both lexical and
-constructional licensing. In the latter case, a construction can endow
-a verb with NI potential that it would not otherwise have. Using
-representational tools of Sign Based Construction Grammar (Sag 2012,
-a.o), we offer a lexical treatment of null instantiation that covers
-both distinct patterns of construal of null instantiated arguments and
-the difference between listeme-based and contextually licensed, thus
-construction-based, null complementation # Sign-Based Construction
-Grammar, Frames, Null Instantiation.
+Chaves, Rui P. & Kay, Paul & Michaelis, Laura A. # 0000-0003-0820-6145 & mailed & 0000-0001-8391-2731 # University at Buffalo, SUNY & University of California, Berkeley & University of Colorado at Boulder # Unrealized arguments in SBCG # 2020-10-15 # #
+In null instantiation (NI) an optionally unexpressed argument receives either anaphoric or existential interpretation (Fillmore, 1986; Mauner & Koenig, 2000; Kay, 2002; Ruppenhofer & Michaelis, 2010, 2014).
+Examples include Lexically licensed NI (Nixon resigned.), Contextual accessibility NI (Can I see?), Labelese (Contains alcohol), Diary NI (Got up, got out of bed, dragged a comb across my head), Generic-habitual NI (The police only arrest (people) when there's probable cause). We think of a predicator as having NI potential when
+one or more of its frame elements may remain unexpressed under certain conditions. While one cannot accurately predict a predicator's NI potential based either on semantic factors (e.g., Aktionsart class of
+the verb, as in Hovav & Levin (1998)) or pragmatic factors (e.g., relative discourse prominence of arguments, as in Goldberg (2006)), NI potential, while highly constrained, is not simply lexical
+idiosyncrasy, but is instead the product of both lexical and constructional licensing. In the latter case, a construction can endow a verb with NI potential that it would not otherwise have. Using
+representational tools of Sign Based Construction Grammar (Sag 2012, a.o), we offer a lexical treatment of null instantiation that covers both distinct patterns of construal of null instantiated arguments and the difference between listeme-based and contextually licensed, thus construction-based, null complementation # Sign-Based Construction Grammar, Frames, Null Instantiation.
 
-
-
-Gyorfi, David # University of Surrey # Challenges in Kazakh Auxiliary Selection # October 15, 2020#
-# This paper proposes an account for the four auxiliaries in Kazakh that express the imperfective
+Gyorfi, David # 0000-0003-1883-6802 # University of Surrey # Challenges in Kazakh Auxiliary Selection # October 15, 2020 # # 
+This paper proposes an account for the four auxiliaries in Kazakh that express the imperfective
 aspect. The main factors – the auxiliary, the main verb, their inflections and the aspectual
 specifications reveal a complicated system, which can be captured with an appropriate monotonic, multiple inheritance type hierarchy using online-type construction with the implementation of Pāṇinian competition. This analysis sheds light to a very different auxiliary system that we find in Indo-European languages.# HPSG, Online type construction, Kazakh, auxiliary verbs
 
-Haugereid, Petter # Western Norway University of Applied Sciences # An incremental approach to verb clusters in German # October 15, 2020 # # This paper presents an incremental approach to verb clusters in German which radically differs from standard HPSG accounts. While the common assumption is that the verbs in subordinate clauses form clusters and accumulate all their valence requirements on a SUBCAT list, the assumption in this paper is that the arguments in verb final clauses are encapsulated incrementally into syntactic and semantic structures before the verbs are attached. The proposed analysis is in line with psycholinguistic findings. A grammar fragment of German demonstrating an implementation of the analysis is presented. # HPSG, German, Verb Clusters, Cross-Serial Dependencies, Incremental Parsing
+Haugereid, Petter # 0000-0003-3077-8983 # Western Norway University of Applied Sciences # An incremental approach to verb clusters in German # 2020-10-15 # #
+This paper presents an incremental approach to verb clusters in German which radically differs from standard HPSG accounts. While the common assumption is that the verbs in subordinate clauses form clusters and accumulate all their valence requirements on a SUBCAT list, the assumption in this paper is that the arguments in verb final clauses are encapsulated incrementally into syntactic and semantic structures before the verbs are attached. The proposed analysis is in line with psycholinguistic findings. A grammar fragment of German demonstrating an implementation of the analysis is presented. # HPSG, German, Verb Clusters, Cross-Serial Dependencies, Incremental Parsing
 
-Koenig, Jean-Pierre & Michelson, Karin # Department of Linguistics and Center for Cognitive Science,
-University at Buffalo # What does being a noun or a verb mean? # October 3, 2020 # # The indigenous languages of North America have played a critical role in discussions of the universality of part-of-speech distinctions. In this paper, we show that Oneida does not include a grammatical distinction between nouns and verbs. Rather, Oneida inflecting lexical items are subject to two cross-cutting semantic classifications, one that concerns the sort of entities they describe, the other the sort of semantic relation they include in their content. Labels such as ‘noun' and ‘verb' can still be used for cross-linguistic comparison, as the semantic partition of lexical items corresponds to canonical nouns and verbs according to morphologists and some typologists. But the meta-grammatical status of these labels is quite distinct from the status of corresponding labels in Indo-European languages like English. # Oneida, Iroquoian, Parts of speech, Noun, Verb, Word Classes, Morphology
+Koenig, Jean-Pierre & Michelson, Karin # 0000-0002-5431-5978 & # Department of Linguistics and Center for Cognitive Science, University at Buffalo # What does being a noun or a verb mean? # 2020-10-03 # #
+The indigenous languages of North America have played a critical role in discussions of the universality of part-of-speech distinctions. In this paper, we show that Oneida does not include a grammatical distinction between nouns and verbs. Rather, Oneida inflecting lexical items are subject to two cross-cutting semantic classifications, one that concerns the sort of entities they describe, the other the sort of semantic relation they include in their content. Labels such as ‘noun' and ‘verb' can still be used for cross-linguistic comparison, as the semantic partition of lexical items corresponds to canonical nouns and verbs according to morphologists and some typologists. But the meta-grammatical status of these labels is quite distinct from the status of corresponding labels in Indo-European languages like English. # Oneida, Iroquoian, Parts of speech, Noun, Verb, Word Classes, Morphology
 
-Richter, Frank # 0000-0003-1929-5489 # Goethe Universität Frankfurt am Main # Recursive adjectival modification in CLLRS  # October 15, 2020 # # This paper
-sketches an analysis in Lexical Resource Semantics of adverbial and
-adjectival modification in nominal projections which is extensible to
-modification of other syntactic categories. It combines insights into
-the syntax-semantics interface of recursive modification in HPSG with
-underspecified semantics and type-logical meaning representations in the
-tradition of Montague grammar.  The analysis is phrased in such a way
-that it receives a direct implementation in the Constraint Language of
-Lexical Resource Semantics as part of the TRALE system. # HPSG,
-semantics of modification, LRS, CLLRS
+Richter, Frank # 0000-0003-1929-5489 # Goethe Universität Frankfurt am Main # Recursive adjectival modification in CLLRS # 2020-10-15 # #
+This paper sketches an analysis in Lexical Resource Semantics of adverbial and
+adjectival modification in nominal projections which is extensible to modification of other syntactic categories. It combines insights into the syntax-semantics interface of recursive modification in HPSG with underspecified semantics and type-logical meaning representations in the tradition of Montague grammar.  The analysis is phrased in such a way that it receives a direct implementation in the Constraint Language of Lexical Resource Semantics as part of the TRALE system. # HPSG, semantics of modification, LRS, CLLRS
 
+Sailer, Manfred & Dörner, Annika # 0000-0002-1693-8859 & # Goethe-University Frankfurt a.M. & University of Erfurt # A Smurf-based approach to placeholder expressions # 2020-10-15 # #
+The Smurf comics series is, among others, famous for the so-called "smurf language", in which words or parts of words can be replaced by "smurf". We will argue that this "smurfing" has the properties of placeholding. Based on data from German translations of Smurf comics, we will provide a formalization of smurfing in German which can be generalized to a theory of placeholder expressions. # German, HPSG, morphology, placeholder expression, smurfing
 
-Sailer, Manfred & Dörner, Annika # Goethe-University Frankfurt a.M. & University of Erfurt # A
-Smurf-based Approach to Placeholder Expressions # October 15, 2020 # # The Smurf comics series is, among others, famous for the so-called "smurf language", in which words or parts of words can be replaced by "smurf". We will argue that this "smurfing" has the properties of placeholding. Based on data from German translations of Smurf comics, we will provide a formalization of smurfing in German which can be generalized to a theory of placeholder expressions. # German, HPSG, morphology, placeholder expression, smurfing
+Van Eynde, Frank & Kim, Jong-Bok # 0000-0002-6172-442X & 0000-0003-3286-0446 # University of Leuven & Kyung Hee University # Pseudo-partitives in English # # no #
+Pseudo-partitives are [N1&ndash;of&ndash;N2] sequences in which N1 denotes a quantity or measure and in which N2 is a bare plural or a singular mass noun, as in <em>a lot of things</em>, <em>a liter of water</em> and <em>a group of volunteers</em>. In terms of agreement, there are two types of such sequences: those which share the number value of N1, and those which share the number value of N2. The analysis of the first type is straightforward, but the second type raises issues about the status of N1 and the preposition <em>of</em>. We show how they can be dealt with if one adopts the functor treatment of the noun phrase.  
 
+Webelhuth, Gert # 0000-0001-7510-1736 # Goethe University Frankfurt # On c-command constraints in German: A corpus-based investigation # 2020-10-15 # no #
+Reinhart (1983) proposed that quantificational binding is subject to a surface c-command condition. Her claim has been widely accepted in the literature on the syntax-semantics interface. Barker (2012) presented what he claimed to constitute systematic counterevidence against the c-command requirement from English. It has been argued, however, that the relevant data does not instantiate quantificational binding but mere covariation, which does not require c-command. <p> This talk will address assumed quantificational binding in a number of constructions in German. Corpus data reveals potential counterexamples similar to Barker’s for English. The status of the examples as binding vs. covariation will be examined, among others by inspecting the behavior of other phenomena deemed to be subject to c-command, such as relative quantifier scope and negative polarity.
 
-Van Eynde, Frank & Kim, Jong-Bok # University of Leuven & Kyung Hee University # Pseudo-partitives in
-English # # no # Pseudo-partitives are [N1&ndash;of&ndash;N2] sequences in which N1 denotes 
-a quantity or measure and in which N2 is a bare plural or a singular mass noun, 
-as in <em>a lot of things</em>, <em>a liter of water</em> and <em>a group of volunteers</em>. 
-In terms of agreement, there are two types of such sequences:  
-those which share the number value of N1, and those which share the number value of N2. 
-The analysis of the first type is straightforward, but the second type 
-raises issues about the status of N1 and the preposition <em>of</em>. We show how 
-they can be dealt with if one adopts the functor treatment of the noun phrase.  
-
-Webelhuth, Gert # Goethe University Frankfurt # On c-command constraints in German: A corpus-based
-investigation # October 15, 2020 # no # Reinhart (1983) proposed that quantificational binding is
-subject to a surface c-command condition. Her claim has been widely accepted in the literature on
-the syntax-semantics interface. Barker (2012) presented what he claimed to constitute systematic
-counterevidence against the c-command requirement from English. It has been argued, however, that
-the relevant data does not instantiate quantificational binding but mere covariation, which does not
-require c-command.
-<p>
-This talk will address assumed quantificational binding in a number of constructions in German. Corpus data reveals potential counterexamples similar to Barker’s for English. The status of the examples as binding vs. covariation will be examined, among others by inspecting the behavior of other phenomena deemed to be subject to c-command, such as relative quantifier scope and negative polarity.
-
-Yatabe, Shûichi # University of Tokyo # The internal readings of symmetrical adjectives and
-adverbials # October 15, 2020 # no # In this paper, I point out that all available analyses of the so-called internal readings of sentences like "The students saw different films" have some empirical flaws, and propose a novel HPSG-based theory of such readings that is based on the idea that the internal readings of such sentences arise when a symmetrical predicate like "different" has an implicit argument whose meaning involves that of a reciprocal pronoun. In the course of formulating the theory, I also present a new analysis of the semantics of reciprocal pronouns, which is shown to be an improvement over previous analyses like that proposed in Heim, Lasnik, and May's 1991 paper.
+Yatabe, Shûichi # 0000-0003-2092-6073 # University of Tokyo # The internal readings of symmetrical adjectives and
+adverbials # 2020-10-15 # no #
+In this paper, I point out that all available analyses of the so-called internal readings of sentences like "The students saw different films" have some empirical flaws, and propose a novel HPSG-based theory of such readings that is based on the idea that the internal readings of such sentences arise when a symmetrical predicate like "different" has an implicit argument whose meaning involves that of a reciprocal pronoun. In the course of formulating the theory, I also present a new analysis of the semantics of reciprocal pronouns, which is shown to be an improvement over previous analyses like that proposed in Heim, Lasnik, and May's 1991 paper.
 <p>
 URL of the pre-recorded presentation:
 <a href="https://www.youtube.com/watch?v=y00RHj9XLWc">https://www.youtube.com/watch?v=y00RHj9XLWc</a>
 
-
-Zamaraeva, Olga & Emerson, Guy # University of Washington & University of Cambridge # Multiple Question Fronting without Relational Constraints:  An Analysis of Russian as a Basis for Cross-Linguistic Modeling # October 15, 2020 # # We present an analysis of multiple question fronting in a restricted variant of the HPSG formalism (DELPH-IN) where unification is the only natively defined operation. Analysing multiple fronting in this formalism is challenging, because it requires carefully handling list appends, something that HPSG analyses of question fronting heavily rely on. Our analysis uses the append list type to address this challenge. We focus the testing of our analysis on Russian, although we also integrate it into the Grammar Matrix customization system where it serves as a basis for cross-linguistic modeling. In this context, we discuss the relationship of our analysis to lexical threading and conclude that, while lexical threading has its advantages, modeling multiple extraction cross-linguistically is easier without the lexical threading assumption. # HPSG, interrogatives, wh-questions, Russian, Grammar Matrix, multiple fronting, DELPH-IN, difference lists, append lists, lists
+Zamaraeva, Olga & Emerson, Guy # 0000-0001-9969-058X & 0000-0002-3136-9682 # University of Washington & University of Cambridge # Multiple question fronting without relational constraints: An analysis of Russian as a basis for cross-linguistic modeling # 2020-10-15 # #
+We present an analysis of multiple question fronting in a restricted variant of the HPSG formalism (DELPH-IN) where unification is the only natively defined operation. Analysing multiple fronting in this formalism is challenging, because it requires carefully handling list appends, something that HPSG analyses of question fronting heavily rely on. Our analysis uses the append list type to address this challenge. We focus the testing of our analysis on Russian, although we also integrate it into the Grammar Matrix customization system where it serves as a basis for cross-linguistic modeling. In this context, we discuss the relationship of our analysis to lexical threading and conclude that, while lexical threading has its advantages, modeling multiple extraction cross-linguistically is easier without the lexical threading assumption. # HPSG, interrogatives, wh-questions, Russian, Grammar Matrix, multiple fronting, DELPH-IN, difference lists, append lists, lists
