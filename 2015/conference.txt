@@ -21,7 +21,7 @@ constructional approach is empirically superior. This is interesting, theoretica
 because empirical differences between such approaches have proved elusive hitherto.
 
 
-Bond, Francis & Ho, Jia Qian & Flickinger, Dan # 0000-0003-4973-8068 & mailed & 0000-0001-7959-999X # Nanyang Technological University & Nanyang University & Stanford University # Feeling our way to an analysis of English possessed idioms # 2015-10-15 # #
+Bond, Francis & Ho, Jia Qian & Flickinger, Dan # 0000-0003-4973-8068 & unknown & 0000-0001-7959-999X # Nanyang Technological University & Nanyang University & Stanford University # Feeling our way to an analysis of English possessed idioms # 2015-10-15 # #
 This paper describes an analysis for possessive idioms in English (e.g. `I twiddle my thumbs' ``I am idle'').  The analysis  relies on matching at the semantic level, to allow for syntactic variation.  It has been implemented in the English Resource Grammar, and tested by parsing a subset of the British National Corpus.  In addition to the syntactic analysis, we have linked the idioms to entries in the Princeton Wordnet, to allow for further lexical semantic analysis.
 
 
@@ -79,7 +79,7 @@ than the first treatment. The talk is based on part II of
 Frank Van Eynde (2015), Predicative Constructions, CSLI Publications.
 
 
-Wang, Wenjie & Song, Sanghoun & Bond, Francis # mailed & 0000-0002-4234-232X & 0000-0003-4973-8068 # Nanyang Technological University & Incheon National University & Nanyang Technological University # 
+Wang, Wenjie & Song, Sanghoun & Bond, Francis # unknown & 0000-0002-4234-232X & 0000-0003-4973-8068 # Nanyang Technological University & Incheon National University & Nanyang Technological University # 
 A constraint-based analysis of A-NOT-A questions in Mandarin Chinese # 2015-10-15 # # The A-NOT-A structure is one way to express polar questions in Mandarin Chinese. The present study provides a constraint-based analysis of A-NOT-A questions in Mandarin Chinese within the framework of HPSG (Pollard & Sag, 1994) and MRS (Copestake et al., 2005). We propose two possible approaches to analysing the A-NOT-A structure — a morphological/lexical approach as well as a syntactic approach — and illustrate their implementation, as well as their respective strengths and weaknesses.
 
 

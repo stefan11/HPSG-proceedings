@@ -317,7 +317,7 @@ give evaluation figures from manual validation of the treebank. These indicate
 high precision of the automatic RMRS construction process.
 
 
-Taghvaipour, Mehran A # mailed # University of Essex # Persian free relatives # 2005-10-15 # #
+Taghvaipour, Mehran A. # mailed # University of Essex # Persian free relatives # 2005-10-15 # #
 Free relatives (FRs) in Persian are Unbounded Dependency Constructions,
 containing gaps or resumptive pronouns (RPs). In some positions only gaps are
 allowed, and in some other positions only RPs. The structure of Persian FRs is

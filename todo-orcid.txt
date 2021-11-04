@@ -43,4 +43,17 @@ An:
 "Alotaibi, Mansour Q" <mqalot@essex.ac.uk>
 
 
+Alsulami, Abeer S A" <asaals@essex.ac.uk>
+
+dejan.matic@mpi.nl
+
+František Kratochvíl (FKRATOCHVIL@ntu.edu.sg)
+
+Rickard Ramhöj <rickard.ramhoj@sprak.gu.se>
+
+Lwin Moe <lwinmoe@indiana.edu>
+
+
 Spent the last week migrating the HPSG proceedings from the CSLI webpage to an OJS instance. I added ORCID-IDs to make everybody identifiable even if they move around or change names. PDFs are linked and the OJS pages as well. 
+
+

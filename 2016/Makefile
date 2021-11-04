@@ -11,16 +11,16 @@ PROGRAM=../gen-hpsg-proceedings-xml
 FILES=config.pl 
 
 
-all: hpsg$(YEAR).xml 
+all: headlex2016.xml 
 
 
 
 
 
-hpsg$(YEAR).xml: editors-note.tex conference.txt $(PROGRAM) $(FILES)
+headlex2016.xml: editors-note.tex conference.txt $(PROGRAM) $(FILES)
 	$(PROGRAM)
 
-hpsg$(YEAR).pdf: hpsg$(YEAR).tex 
+headlex2016.pdf: hpsg$(YEAR).tex 
 	chmod 755 *.pdf
 	pdflatex hpsg$(YEAR).tex
 	pdflatex hpsg$(YEAR).tex

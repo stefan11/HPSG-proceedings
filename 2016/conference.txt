@@ -1,7 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # keywords # abstract
 
-Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # &0000-0001-6987-8135 & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Reference patterns in
-subjunctive complement clauses of Modern Standard Arabic # 2016-12-16 # # In this paper we investigate the status of control
+Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # mailed &0000-0001-6987-8135 & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Reference patterns in subjunctive complement clauses of Modern Standard Arabic # 2016-12-16 # # In this paper we investigate the status of control
 constructions in Modern Standard Arabic (MSA). MSA has several
 embedded clause constructions, some of which resemble control in
 English (and other languages). However, these constructions exhibit
@@ -77,7 +76,7 @@ Dargwa in a wider typological context.
 
 Bögel, Tina # # University of Konstanz # The Swabian first person singular pronoun at the syntax-prosody interface # # no # #
 
-Bonami, Olivier & Borsley, Robert D. & Tallerman, Maggie # 0000-0003-0688-3855 & 0000-0002-4856-4732 & #
+Bonami, Olivier & Borsley, Robert D. & Tallerman, Maggie # 0000-0003-0688-3855 & 0000-0002-4856-4732 & 0000-0001-6256-4758 #
 Université Paris Diderot & University of Essex & Newcastle University # On pseudo-non-finite clauses in Welsh # 2016-12-16
 ## Languages differ in how they employ finite and non-finite
 clauses. Welsh finite and non-finite clauses have a similar
@@ -104,7 +103,7 @@ designators, anaphoric control
 
 Börjars, Kersti & Payne, John # 0000-0002-3154-5260 & 0000-0003-4761-3712 # University of Manchester # Adjectival definiteness marking and noun-phrase internal functions # # no # #
 
-Butt, Miriam & Sulger, Sebastian & Rahman, Mutee U & Ahmed, Tafseer # & & 0000-0002-7823-5411 & 0000-0002-2939-634X #
+Butt, Miriam & Sulger, Sebastian & Rahman, Mutee U & Ahmed, Tafseer # 0000-0003-0409-9223 & unknown & 0000-0002-7823-5411 & 0000-0002-2939-634X #
 University of Konstanz & University of Konstanz & Isra University &
 DHA Suffa University # Adverb agreement in Urdu, Sindhi and Punjabi #
 2016-12-16 # # We discuss agreeing adverbs in Urdu, Sindhi and
@@ -117,8 +116,7 @@ is reinterpreted as an adjunct that modifies the overall event
 predication, not just the result. # Urdu, Sindhi, Punjabi, agreeing
 adverbs, resultatives
 
-Ćavar, Damir & Moe, Lwin & Hu, Hai & Steimel,
-Kenneth # 0000-0002-1262-5927 & & 0000-0002-2289-9008 & 0000-0003-0637-6204 # Indiana University # 
+Ćavar, Damir & Moe, Lwin & Hu, Hai & Steimel, Kenneth # 0000-0002-1262-5927 & mailed & 0000-0002-2289-9008 & 0000-0003-0637-6204 # Indiana University # 
 Preliminary results from the Free Linguistic Environment project # 2016-12-16 # # The Free Linguistic Environment (FLE) project focuses on the
 development of an open and free library of natural language processing
 functions and a grammar engineering platform for Lexical Functional
@@ -143,8 +141,7 @@ based on the LFG framework.
 # parser, Free Linguistic Environment, implementation, grammar engineering,
 natural language processing
 
-Chiruzzo, Luis & Wonsever, Dina # 0000-0002-1697-4614 & 0000-0003-1453-3249 # Universidad de la República, Montevideo, Uruguay # Transforming the AnCora corpus to
-HPSG # 2016-12-16 # # We present the construction of a HPSG corpus for Spanish, based
+Chiruzzo, Luis & Wonsever, Dina # 0000-0002-1697-4614 & 0000-0003-1453-3249 # Universidad de la República, Montevideo, Uruguay # Transforming the AnCora corpus to HPSG # 2016-12-16 # # We present the construction of a HPSG corpus for Spanish, based
 on the transformation of the AnCora Spanish corpus into a HPSG
 compatible format. We describe the transformation process and the
 evaluation of the resulting corpus. #HPSG, Spanish, Corpus, AnCora
@@ -198,8 +195,7 @@ derive the correct gap-like semantics for resumptives, maintains
 standard deterministic amalgamation, and, finally, provides an answer
 to McCloskey’s generalisation. # Hausa, resumption, underspecification, islands
 
-Duncan, Lachlan # # no # On the perfect tense-aspect in K'ichee'an
-Mayan: An LFG approach # 2016-12-16 # # Previous accounts of the
+Duncan, Lachlan # 0000-0001-7103-9760 # no # On the perfect tense-aspect in K'ichee'an Mayan: An LFG approach # 2016-12-16 # # Previous accounts of the
 perfect tense-aspect in the K'ichee'an languages have concluded that
 the category or part-of-speech of the perfect is a verb, or less
 often, a participle. We believe otherwise. Empirical support is
@@ -225,8 +221,7 @@ hierarchical view and show that it is not born out by the data. A flat
 structure view of the VP, on the contrary, is in line with the data.
 #Persian, phrase structure, Differential Object Marking (DOM), empirical/usage-based methods
 
-Findlay, Jamie Y. # 0000-0002-7700-1525 # University of Oxford # The prepositional passive in
-Lexical Functional Grammar # 2016-12-16 # # The aim of this
+Findlay, Jamie Y. # 0000-0002-7700-1525 # University of Oxford # The prepositional passive in Lexical Functional Grammar # 2016-12-16 # # The aim of this
 paper is to provide an adequate analysis in LFG of the prepositional
 passive, e.g. <i>That problem has been dealt with, My pen has been written
 with.</I> This construction has been examined in LFG before by Bresnan
@@ -240,7 +235,7 @@ but rather as being located at the interface between syntax and
 semantics. # passive, syntax-semantics interface, argument linking
 
 
-Fiotaki, Alexandra & Tzortzi, Katerina # 0000-0002-1909-3142 & # University of Ioannina & University of Crete # Exhaustive object control constructions in Greek: An LFG/XLE treatment # 2016-12-16 # # 
+Fiotaki, Alexandra & Tzortzi, Katerina # 0000-0002-1909-3142 & mailed # University of Ioannina & University of Crete # Exhaustive object control constructions in Greek: An LFG/XLE treatment # 2016-12-16 # # 
 In this paper we
 propose an LFG/XLE treatment of Exhaustive Object Control (EOC)
 constructions in Greek na clauses. We draw on data retrieved from the
@@ -252,8 +247,7 @@ case that is anaphorically related to the object of the matrix clause
 adding the new feature ANAPH_C_BY. # exhaustive object control, na
 clauses, PRO, anaphoric control, Greek
 
-Goldstein, David M. & Haug, Dag T. T. # & # University of California, Los Angeles & University of Oslo # Second-position clitics and the
-syntax-phonology interface: The case of ancient Greek # 2016-12-16 # # In this paper we discuss second position clitics in Ancient
+Goldstein, David M. & Haug, Dag T. T. # 0000-0003-1276-7623 & 0000-0001-5275-8073 # University of California, Los Angeles & University of Oslo # Second-position clitics and the syntax-phonology interface: The case of ancient Greek # 2016-12-16 # # In this paper we discuss second position clitics in Ancient
 Greek, which show a remarkable ability to break up syntactic
 constituents. We argue against attempts to capture such data in terms
 of a mismatch between c-structure yield and surface string and instead
@@ -264,8 +258,7 @@ context-free grammars
 
 Hahm, Hyun-Jong # # University of Guam # Politeness and number in Chuukese # # no # #
 
-Jones, Stephen # 0000-0003-2485-1566 # University of Oxford # The syntax-prosody interface
-in Korean: Resolving ambiguity in questions # 2016-12-16 # # The paper
+Jones, Stephen # 0000-0003-2485-1566 # University of Oxford # The syntax-prosody interface in Korean: Resolving ambiguity in questions # 2016-12-16 # # The paper
 considers a phenomenon in Korean where ambiguity in the written
 language is resolved prosodically. An LFG analysis is provided which
 extends the proposals of Mycock and Lowe (2013) to Korean, based on
@@ -277,8 +270,7 @@ more robust account of focus expression.
 
 Kibort, Anna # # University of Oxford # The argument structure of causatives # # no # #
 
-King, Tracy Holloway # 0000-0002-7956-505X # A9 Amazon # Theoretical linguistics and grammar
-engineering as mutually constraining disciplines # 2016-12-16
+King, Tracy Holloway # 0000-0002-7956-505X # A9 Amazon # Theoretical linguistics and grammar engineering as mutually constraining disciplines # 2016-12-16
 # # This paper desribes four areas in which grammar engineers and
 theoretical linguists can interact.  These include: using grammar
 engineering to confirm linguistic hypotheses; linguistic issues
@@ -293,8 +285,7 @@ advantage, given the strong communities and resources available.
 Laczkó, Tibor # 0000-0003-3960-1789 # University of Debrecen # Fully syntactic, fully lexical, or in-between? Remarks on the architectures of generative grammars # # no # #
 
 
-Lahm, David # # University of Frankfurt # Refining the semantics of
-lexical rules in HPSG # 2016-12-16 # # This paper points out
+Lahm, David # mailed # University of Frankfurt # Refining the semantics of lexical rules in HPSG # 2016-12-16 # # This paper points out
 certain flaws in the semantics for lexical rule specifications
 developed in Meurers (2001). Under certain circumstances, certain
 words may not be licit inputs to a rule according to this semantics
@@ -310,7 +301,7 @@ alternative semantics is developed that does not suffer from these
 deficits.
 # lexical rules, SRL, semantics of lexical rules
 
-Lødrup, Helge # # University of Oslo # Verbal present participles in Norwegian: Controlled complements or parts of complex predicates # 2016-12-16 # # Norwegian has a limited option for verbal
+Lødrup, Helge # 0000-0003-2175-0479 # University of Oslo # Verbal present participles in Norwegian: Controlled complements or parts of complex predicates # 2016-12-16 # # Norwegian has a limited option for verbal
 present participles. These participles only exist with a small number
 of verbs, and they are selected by a handful of predicates. The
 analysis of sentences with these participles raises some
@@ -322,8 +313,7 @@ evidence for this analysis. # complex predicates, present participles,
 presentational focus, Norwegian syntax, Scandinavian syntax
 
 
-Lowe, John # 0000-0003-0131-1575 # University of Oxford # Participles, gerunds and syntactic
-categories # 2016-12-16 # # The phenomenon of so-called ‘mixed’
+Lowe, John # 0000-0003-0131-1575 # University of Oxford # Participles, gerunds and syntactic categories # 2016-12-16 # # The phenomenon of so-called ‘mixed’
 categories, whereby a word heads a phrase which appears to display
 some features of one lexical category, and some features of another,
 raises questions regarding the criteria used for distinguishing
@@ -337,8 +327,7 @@ heading, and argue that the term ‘mixed category’ should be reserved
 for only one of these.
 # mixed categories, English gerund, participles, morphology
 
-Maekawa, Takafumi # # Ryukoku University # Seminumerals, determiners and
-nouns in English # 2016-12-16 # # A singular countable noun in
+Maekawa, Takafumi # mailed # Ryukoku University # Seminumerals, determiners and nouns in English # 2016-12-16 # # A singular countable noun in
 English normally requires a determiner and they should agree in
 number. However, there is a type of noun phrase, such as <em>those
 thousand teachers</em>, which does not conform to this generalisation. As
@@ -378,8 +367,7 @@ cross-linguistic generalizations are not captured by phrasal approaches.
 # LFG, template, lexicalism, Construction Grammar
 
 
-Otoguro, Ryo & Snijders, Liselotte # & # Waseda University & Waseda University # Syntactic, semantic and information structures of
-floating quantifiers # 2016-12-16 # # Quantifiers canonically
+Otoguro, Ryo & Snijders, Liselotte # 0000-0003-3796-7023 & 0000-0002-7191-1536 # Waseda University & Waseda University # Syntactic, semantic and information structures of floating quantifiers # 2016-12-16 # # Quantifiers canonically
 attach to nouns or noun phrases as modifiers to specify the amount or
 number of the entity expressed by the noun. However, it has been
 observed that quantifiers can be positioned outside of the noun
@@ -398,8 +386,7 @@ information structure features of FQs within LFG’s projection
 architecture. # quantifier floating, information structure, English, Dutch, Japanese
 
  
-Pankau, Andreas # # Freie Universität Berlin # Quirky subjects in
-Icelandic, Faroese, and German: A Relational Grammar account # 2016-12-16
+Pankau, Andreas # mailed # Freie Universität Berlin # Quirky subjects in Icelandic, Faroese, and German: A Relational Grammar account # 2016-12-16
 # # This paper presents a new analysis of quirky subjects according to
 which quirky subjects bear multiple grammatical relations and hence
 differ syntactically from regular subjects. This contrasts with the
@@ -417,8 +404,7 @@ Icelandic.
 Pair Grammar
 
 
-Patejuk, Agnieszka # 0000-0002-2367-9170 # Institute of Computer Science, Polish Academy of Sciences # Integrating a rich external valency dictionary with an
-implemented XLE/LFG grammar # 2016-12-16 # # This paper shows how Walenty, a valency dictionary of Polish, was automatically
+Patejuk, Agnieszka # 0000-0002-2367-9170 # Institute of Computer Science, Polish Academy of Sciences # Integrating a rich external valency dictionary with an implemented XLE/LFG grammar # 2016-12-16 # # This paper shows how Walenty, a valency dictionary of Polish, was automatically
 converted in order to be used with an XLE/LFG grammar of Polish,
 discussing issues such as the grammatical function assignment under unlike
 category coordination and imposing constraints for lexicalised
@@ -440,8 +426,7 @@ formalised.
 # grammatical functions, obliqueness, functional hierarchy, coordination
 
 
-Przepiórkowski, Adam # 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy, University of Warsaw # How <em>not</em>
-to distinguish arguments from adjuncts in LFG # 2016-12-16 # #
+Przepiórkowski, Adam # 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy, University of Warsaw # How <em>not</em> to distinguish arguments from adjuncts in LFG # 2016-12-16 # #
 The paper briefly reexamines arguments for the argument–adjunct
 dichotomy, commonly assumed in contemporary linguistics, showing that
 they do not stand up to scrutiny. It demonstrates that – perhaps
@@ -451,8 +436,7 @@ way. Building on this observation, the paper presents a way of getting
 rid of this dichotomy altogether.
 # argument–adjunct distinction, dependents, argument structure, adjuncts, modifiers
 
-Ramhöj, Rickard # # University of Gothenburg # On the argument structure
-of raising-to-subject with passive predicates in Swedish # 2016-12-16 # # This paper concerns the argument structure analysis of
+Ramhöj, Rickard # mailed # University of Gothenburg # On the argument structure of raising-to-subject with passive predicates in Swedish # 2016-12-16 # # This paper concerns the argument structure analysis of
 raising-to-subject with passive predicates in Swedish and other
 Germanic languages. Support is given for the analysis in which the
 raising-to-subject construction constitutes a regular passive, the
@@ -464,8 +448,7 @@ attributed to certain semantic restrictions on the raising-to-object
 construction and the periphrastic passive construction, respectively.
 # raising-to-subject, raising-to-object, passive predicates, Swedish, evidentiality
 
-Richter, Frank # 0000-0003-1929-5489 # Goethe Universität Frankfurt a.M. # Categorematic
-unreducible polyadic quantifiers in Lexical Resource Semantics #
+Richter, Frank # 0000-0003-1929-5489 # Goethe Universität Frankfurt a.M. # Categorematic unreducible polyadic quantifiers in Lexical Resource Semantics #
 2016-12-16 # # Early work on quantification in natural languages showed that
 sentences like `Every ape picked different berries', on the reading
 that the sets of berries picked by any two apes are not the same, can
@@ -480,8 +463,7 @@ captures the reading in question with a polyadic quantifier. # constraint-based
 semantics, polyadic quantifiers, unreducible quantifiers,
 compositionality
 
-Ritchie, Sandy # # SOAS # Two cases of prominent internal possessor
-constructions # 2016-12-16 # # This paper outlines a new analysis of
+Ritchie, Sandy # mailed # SOAS # Two cases of prominent internal possessor constructions # 2016-12-16 # # This paper outlines a new analysis of
 the syntactic structure and discourse function of a ‘prominent
 internal possessor construction’ (PIPC) in Chimane (unclassified,
 Bolivia) and compares it with an existing analysis of a different kind
@@ -503,8 +485,7 @@ Nikolaeva (2005; 2011).
 # possession, prominence, internal possessors, Chimane, Tsimane', Maithili
 
 
-Sailer, Manfred  & Am-David, Assif # 0000-0002-1693-8859 & # Goethe University Frankfurt a. M. & Goethe University Frankfurt a. M. # Definite meaning and
-definite marking # 2016-12-16 # # We look at definite marking
+Sailer, Manfred  & Am-David, Assif # 0000-0002-1693-8859 & mailed # Goethe University Frankfurt a. M. & Goethe University Frankfurt a. M. # Definite meaning and definite marking # 2016-12-16 # # We look at definite marking
 in Esperanto, Papiamentu, and Yiddish considering three semantically
 definite contexts: the referential use of proper names and unique
 nouns, as well as anaphoric definites. We argue for a
@@ -515,7 +496,7 @@ central aspects of the definite marking systems of our three object
 languages.
 # definite article, Lexical Resource Semantics, Yiddish, Papiamentu, Esperanto
 
-Shiraïshi, Aoi & Abeillé, Anne # & 0000-0002-9187-2298 # LLF, University Paris Diderot & LLF, University Paris Diderot and IUF # Peripheral ellipsis and verb mismatch # 2016-12-16
+Shiraïshi, Aoi & Abeillé, Anne # mailed & 0000-0002-9187-2298 # LLF, University Paris Diderot & LLF, University Paris Diderot and IUF # Peripheral ellipsis and verb mismatch # 2016-12-16
 # # Right-node raising is usually set apart from other elliptical
 constructions for imposing a strict identity condition between the
 omitted and the peripheral elements. Since Pullum & Zwicky (1986), it
@@ -530,8 +511,7 @@ propose a new HPSG analysis of RNR that is based on sharing LID
 features and not morphophonological forms.
 # French, English, syncretism, Right-node raising, ellipsis
 
-Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # How regular a pattern in
-these labyrinths of constructions! # # no # The paper discusses two types of noun phrases with 
+Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # How regular a pattern in these labyrinths of constructions! # # no # The paper discusses two types of noun phrases with 
 idiosyncratic properties: the Big Mess Construction and the 
 Binominal Noun Phrase Construction.
 Employing the framework of constructivist Head-driven Phrase 
@@ -551,11 +531,9 @@ rather than for a dichotomy between them.
 Head-driven Phrase Structure Grammar, phrase type hierarchy.
  
 
-Vincent, Nigel & Börjars, Kersti # 0000-0002-2494-1652 & 0000-0002-3154-5260 # University of Manchester # Heads
-and history # # no # #
+Vincent, Nigel & Börjars, Kersti # 0000-0002-2494-1652 & 0000-0002-3154-5260 # University of Manchester # Heads and history # # no # #
 
-Yatabe, Shûichi # 0000-0003-2092-6073 # University of Tokyo # Medial left-node raising in
-Japanese # 2016-12-16 # # In this paper, it is demonstrated that
+Yatabe, Shûichi # 0000-0003-2092-6073 # University of Tokyo # Medial left-node raising in Japanese # 2016-12-16 # # In this paper, it is demonstrated that
 there is a phenomenon that can be viewed as a mirror image of medial
 right-node raising and thus might be designated as medial left-node
 raising, and it is argued that the properties of this phenomenon are

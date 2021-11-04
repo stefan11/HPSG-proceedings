@@ -25,7 +25,7 @@ This enables a simple analysis of  the clausal syntax of Coast
 Tsimshian while still accounting for the wide array of facts
 surrounding the connectives.
 
-Crowgey, Joshua & Bender, Emily M. # mailed & 0000-0001-5384-6227 # University of Washington # Analyzing interacting phenomena: Word order and negation in Basque # 2011-11-16 # #
+Crowgey, Joshua & Bender, Emily M. # 0000-0002-1589-572X & 0000-0001-5384-6227 # University of Washington # Analyzing interacting phenomena: Word order and negation in Basque # 2011-11-16 # #
 We explore the interaction of sentential negation and word order in Basque using a small
 experimental implemented grammar based on the Grammar Matrix (Bender et al., 2002, 2010) to test the
 analyses. We find that the analysis of free word order (Fokkens, 2010) provided by the Grammar

@@ -68,7 +68,7 @@ multiple-dimension typed-hierarchy of lexemes and provides an account for
 semantic generalizations involved in different types of lexeme formation
 (compounding, derivation, and conversion).
 
-Fokkens, Antske & Poulson, Laurie & Bender, Emily M. # 0000-0002-6628-6916 & mailed & 0000-0001-5384-6227 # Universität des Saarlandes & University of Washington # Inflectional morphology in Turkish VP coordination # 2009-10-16 # #
+Fokkens, Antske & Poulson, Laurie & Bender, Emily M. # 0000-0002-6628-6916 & no & 0000-0001-5384-6227 # Universität des Saarlandes & University of Washington # Inflectional morphology in Turkish VP coordination # 2009-10-16 # #
 We address three properties of Turkish morphology and
  VP coordination: the identification of tense and aspect values
  across conjuncts, the optional omission of affixes on non-final
@@ -118,7 +118,7 @@ Resource Semantics, whose constraint-based composition mechanisms directly
 support a systematic syntax-semantics for negative concord with polyadic
 quantification.
 
-Kay, Paul & Sag, Ivan A. # mailed & no # University of California, Berkeley & Stanford University # How hard a problem would this be to solve? # 2009-10-14 # #
+Kay, Paul & Sag, Ivan A. # 0000-0001-6279-8263 & no # University of California, Berkeley & Stanford University # How hard a problem would this be to solve? # 2009-10-14 # #
 This paper analyzes the interrelation
 of two understudied phenomena of English: 
 discontinuous modifier phenomenon (<strong>so</strong> <em>willing to help
@@ -220,7 +220,7 @@ in-depth analysis of two characteristic PCls shows how our two-dimensional
 theory of idiomatic expressions can be applied and illustrates the scope
 of  the theory.
 
-Skwarski, Filip # unknown # University of Warsaw # Accounting for underlying forms in HPSG phonology # 2009-10-04 # #
+Skwarski, Filip # no # University of Warsaw # Accounting for underlying forms in HPSG phonology # 2009-10-04 # #
 The paper aims to present approach to HPSG phonology which would account for underlying forms of
 phonemes. It shows some of the issues arising in monostratal analyses of phonology, and proposes a
 solution based on a notion of underlying representations. The approach presented, partly inspired by

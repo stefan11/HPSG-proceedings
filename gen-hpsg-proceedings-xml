@@ -20,6 +20,8 @@ use Term::ANSIColor;
 
 use MIME::Base64 qw(encode_base64);
 
+binmode(STDOUT, "encoding(UTF-8)");
+#use open ":std", ":encoding(UTF-8)";
 
 require './config.pl';
 
@@ -47,6 +49,7 @@ $conf_file  = lc($conf_name) . $year;
 $proc_titlepage = $proc_title;
 $proc_titlepage =~ s/on Head-Driven/on\\par Head-Driven/;
 $location_tex = transform_to_latex($location);
+$location_tex =~ s/\//\\slash /g;
 $location_tex_without_br = $location_tex;
 $location_tex_without_br =~ s/\\\\/ /g;
 
@@ -102,6 +105,7 @@ $editors_fn_ln_latex = transform_author_first_name_last_name($editors_string);
 
         $editors_fn_ln_pdfa = $editors_fn_ln;
         $editors_fn_ln_pdfa =~ s/,/\\sep /g;
+
 
 # \\begin{filecontents*}[overwrite]{\\jobname.xmpdata}
 #         \\Title{$proc_title}
@@ -168,7 +172,15 @@ pdfkeywords={HPSG, syntax, grammar, linguistics}%,
 \\pdfinclusioncopyfonts=1
 
 \\usepackage{orcidlink}
+EOF
 
+if ($draft eq "yes") {
+print PROCTMP <<EOF;
+\\usepackage[text={Draft! Do not cite!}, color=red, scale=.65]{draftwatermark}
+EOF
+}
+
+print PROCTMP <<EOF;
 \\newcommand\\formatauthor[2]{\\begin{tabular}[t]{\@{}c\@{}}
   {\\LARGE#1\\strut}\\\\
   {\\small#2\\strut}\\\\
@@ -189,9 +201,17 @@ pdfkeywords={HPSG, syntax, grammar, linguistics}%,
                         $editors_fn_ln_latex ($editors)\\\\[\\baselineskip]
 
                                 $year\\\\[\\baselineskip]
+EOF
 
-%                          CSLI Publications\\\\[\\baselineskip]
+if ($publisher) {
+print PROCTMP <<EOF;
 
+
+                          $publisher\\\\[\\baselineskip]
+EOF
+}
+
+print PROCTMP <<EOF;
 %              http://csli-publications.stanford.edu/$conf_name/$year \\\\[4\\baselineskip]
 
 The papers are published under a \\href{http://creativecommons.org/licenses/by/4.0/}{CC-BY license}:\\\\[3pt]
@@ -630,14 +650,18 @@ sub make_proceedings_part {
         $title_w_br = transform_to_latex($title_w_br);
 
         $title_tex = transform_to_latex($title);
+        $title_tex =~ s/\\\\//g; #remove newlines 
 
         $title_pdfa = transform_to_plain_ascii($title);
 
         $keywords_pdfa = $keywords;
         $keywords_pdfa =~ s/,/\\sep /g;
         
-        $authors_fn_ln_pdfa = $authors_fn_ln;
+        $authors_fn_ln_pdfa = author_first_name_last_name($authors_string);
         $authors_fn_ln_pdfa =~ s/,/\\sep /g;
+
+
+        $abstract =~ s/%/\\%/g;
 
         print PROC <<EOF;
         \\setcounter{page}{$page_start}
@@ -683,11 +707,20 @@ open (TEXFILE, ">:utf8", "${tex_file}") or die("Cannot open '${tex_file}': $!\n"
 \\usepackage{pdfpages}
 \\pdfinclusioncopyfonts=1
 \\usepackage[utf8]{inputenc}
-        \\usepackage{hyperref}
-        \\hypersetup{colorlinks=false, pdfborder={0 0 0}}
+%        \\usepackage{hyperref}
+        \\hypersetup{pdfkeywords={$keywords_pdfa},
+                         colorlinks=false, pdfborder={0 0 0}}
         \\setcounter{page}{$page_start}
 \\usepackage{orcidlink}
+EOF
 
+if ($draft eq "yes") {
+print TEXFILE <<EOF;
+\\usepackage[text={Draft! Do not cite!}, color=red, scale=.65]{draftwatermark}
+EOF
+}
+
+print TEXFILE <<EOF;
         \\begin{document}
 
 \\newcommand\\formatauthor[2]{\\begin{tabular}[t]{\@{}c\@{}}
@@ -716,20 +749,20 @@ EOF
 sub print_title_page {
   local( $file ) = @_;
 
-#  $apa_authors = $authors_string;
-#  $apa_authors =~ s/&/,/g;          # Meurers, W. Detmar, De Kuthy, Kordula
+#  $ling_authors = $authors_string;
+#  $ling_authors =~ s/&/,/g;          # Meurers, W. Detmar, De Kuthy, Kordula
 
 
-  $apa_title = $title;
-  $apa_title =~ s/<br>/ /g;          # Can there be a <br> in the title? I thought it is \\
-  $apa_title =~ s/\\\\/ /g;
-  $apa_title = transform_to_latex($apa_title);
+  $ling_title = $title;
+  $ling_title =~ s/<br>/ /g;          # Can there be a <br> in the title? I thought it is \\
+  $ling_title =~ s/\\\\/ /g;
+  $ling_title = transform_to_latex($ling_title);
 
 #@authors=split(/&/,$authors_string);
 # remove trainling white space
 #s{^\s+|\s+$}{}g foreach @authors;
 
- $apa_authors = create_apa_name_list(@authors);
+ $ling_authors = create_ling_name_list(@authors);
 
 # Authors: Write out the last name and initials for all authors of a particular work. Use an ampersand (&) instead of the word "and" when listing multiple authors of a single work. e.g. Smith, J. D., & Jones, M.
 
@@ -747,8 +780,8 @@ sub print_title_page {
 # http://blog.apastyle.org/apastyle/2011/07/punctuating-the-reference-list-entry.html
 
 # check whether the last item ends in a dot, otherwise add one
-  if ($apa_authors !~ /\.$/) {
-     $apa_authors = $apa_authors . ".";
+  if ($ling_authors !~ /\.$/) {
+     $ling_authors = $ling_authors . ".";
   }
 
 # to do 
@@ -757,17 +790,17 @@ sub print_title_page {
 
   s{^\s+|\s+$}{}g foreach @editors;
 
-  $apa_editors= create_apa_name_list(@editors);
+  $ling_editors= create_ling_editors_name_list(@editors);
   if (@editors > 1) {
-    $Eds = "Eds";
+    $Eds = "eds";
   } else {
-    $Eds = "Ed";
+    $Eds = "ed";
   }
 
 
 # check title for exclamation or question mark
-  if ($apa_title !~ /[!\.\?][}]*$/) {
-    $apa_title = $apa_title . ".";
+  if ($ling_title !~ /[!\.\?][}]*$/) {
+    $ling_title = $ling_title . ".";
   }
 
 # we print a APA style reference at the bottom of the title page.
@@ -817,7 +850,18 @@ sub print_title_page {
 
   \\medskip
 
-%  CSLI Publications
+EOF
+
+if ($publisher) {
+print $file <<EOF;
+
+
+                          $publisher\\\\[\\baselineskip]
+EOF
+}
+
+print $file <<EOF;
+
 
   \\medskip
 
@@ -844,12 +888,18 @@ else {
 
 \\vfill
 \\noindent
-% APA Style
-$apa_authors $year. $apa_title In $apa_editors ($Eds.), \\emph{$proc_title_location_tex},
-$page_start--$page_end. DOI: \\href{http://doi.org/$doi}{$doi}. \\hfill\\href{http://creativecommons.org/licenses/by/4.0/}{\\includegraphics[height=.75em]{Includes/ccby-eps-converted-to.pdf}}
-
-\\newpage
+$ling_authors $year. $ling_title In $ling_editors ($Eds.), \\emph{$proc_title_location_tex},
+$page_start--$page_end.
 EOF
+if ($address) {
+    print $file "$address: ";
+}
+if ($publisher) {
+    print $file "$publisher. ";
+}
+
+print $file "DOI: \\href{http://doi.org/$doi}{$doi}. \\hfill\\href{http://creativecommons.org/licenses/by/4.0/}{\\includegraphics[height=.75em]{Includes/ccby-eps-converted-to.pdf}}\n
+\\newpage";
 
 }
 
@@ -867,7 +917,15 @@ s{^\s+|\s+$}{}g foreach @record;
 #print STDERR "not submitted!!!!\n\n";
 
       return;
+   } elsif ($record[5] eq "pending") {
+       print_warning("$record[0] is missing\n");
+       return;
    }
+
+   if ($record[4] !~ /\-/) { #does not contain a dash and hence is something like 22 October, 2015 
+       print_warning("date in wrong format: $record[4]!\n");
+       exit;
+   } 
 
 # we need this in the first pass already to get the DOI right.
    $publication_id +=1;
@@ -878,6 +936,7 @@ s{^\s+|\s+$}{}g foreach @record;
 @record[1]=~ s/\s*&\s*/&/g;
 @record[2]=~ s/\s*&\s*/&/g;
 
+    
 
     @authors=split(/&/,$record[0]);
 
@@ -921,9 +980,6 @@ s{^\s+|\s+$}{}g foreach @record;
 
        print STDERR "processing: $file_name, $record[0],$record[2] \n";
 
-   if ($record[5] ne "pending") {
-
-#       if ($record[5] ne "no" && $record[5] ne "pending") {
 
         $numberofpages = `pdftk Includes/$pdf_include_file dump_data | grep NumberOfPages`;
 
@@ -941,12 +997,12 @@ s{^\s+|\s+$}{}g foreach @record;
 
            make_bibtex(@record);
            
-          print_warning("Keywords empty!\n") unless ($record[6]);
+          print_warning("Keywords empty!\n") unless ($record[7]);
 
           make_proceedings_part(@record);
            
-#       };
-   };
+
+
 }
 
 
@@ -958,12 +1014,12 @@ sub process_record_xml {
 # remove trailing white space
 s{^\s+|\s+$}{}g foreach @record; 
 
-   if ($record[5] eq "no") { # not submitted
+   if ($record[5] eq "no" || $record[5] eq "pending" ) { # not submitted (yet)
 
 #print STDERR "not submitted!!!!\n\n";
 
       return;
-   }
+   } 
 
    $publication_id +=1;
 
@@ -973,6 +1029,12 @@ s{^\s+|\s+$}{}g foreach @record;
 @record[0]=~ s/\s*&\s*/&/g;
 @record[1]=~ s/\s*&\s*/&/g;
 @record[2]=~ s/\s*&\s*/&/g;
+
+# remove newlines
+@record[0]=~ s/\n//g; # author
+@record[2]=~ s/\n//g; # affiliation
+@record[3]=~ s/\n//g; # title
+
 
 
     @authors=split(/&/,$record[0]);
@@ -1017,7 +1079,7 @@ s{^\s+|\s+$}{}g foreach @record;
 
        print STDERR "processing: $file_name, $record[0],$record[2] \n";
 
-   if ($record[5] ne "pending") {
+#   if ($record[5] ne "pending") {
 
  #      if ($record[5] ne "no" && $record[5] ne "pending") {
 
@@ -1042,7 +1104,7 @@ s{^\s+|\s+$}{}g foreach @record;
 #          make_proceedings_part(@record);
            
 #       };
-   };
+#   };
      
     @authors=split(/&/,$record[0]);
     #print STDERR "@authors\n\n\n";
@@ -1090,6 +1152,7 @@ sub transform_author_first_name_last_name{
 
 }
 
+# Ginzburg, Jonathan, & Lücking, Andy. 
 sub create_apa_name_list{
 	local(@authors) = @_;
 
@@ -1110,6 +1173,65 @@ sub create_apa_name_list{
             $i++;
         }
           return $apa_name_list;
+}
+
+# Arad Greshler, Tali,  Livnat Herzig Sheinfux, Nurit Melnik & Shuly Wintner.
+sub create_ling_name_list{
+	local(@authors) = @_;
+
+  # number of names = @authors
+  my $no_of_names = @authors;
+
+  $i = 1;
+  $ling_name_list = $authors[0];   # the first author remains Lastname, Firstname
+        while ($authors[$i]) {
+
+            if ($i + 1 < $no_of_names) {
+                $ling_name_list = $ling_name_list . ", ";
+            }
+            if ($i + 1 == $no_of_names) {
+                $ling_name_list = $ling_name_list . " \\& ";
+            }
+
+            @authors[$i] =~ /\s*(.*),\s*(.*)\s*/;
+            $firstname = $2;
+            $lastname = $1;
+
+            $ling_name_list = $ling_name_list . "$firstname $lastname";
+
+            $i++;
+        }
+          return $ling_name_list;
+}
+
+# for the editors we have to reverse the first editor's name as well
+
+sub create_ling_editors_name_list{
+	local(@authors) = @_;
+
+  # number of names = @authors
+  my $no_of_names = @authors;
+
+  $i = 0;
+  $ling_name_list = "";
+        while ($authors[$i]) {
+
+            @authors[$i] =~ /\s*(.*),\s*(.*)\s*/;
+            $firstname = $2;
+            $lastname = $1;
+
+            $ling_name_list = $ling_name_list . "$firstname $lastname";
+
+            if ($i + 2 < $no_of_names) {
+                $ling_name_list = $ling_name_list . ", ";
+            }
+            if ($i + 2 == $no_of_names) {
+                $ling_name_list = $ling_name_list . " \\& ";
+            }
+
+            $i++;
+        }
+          return $ling_name_list;
 }
 
 
@@ -1198,16 +1320,16 @@ sub transform_to_latex {
 #     '&'    , '&amp;' ,
 #     '\^{a}', '&#229;' ,
 #     '\~{a}', '&#227;' ,
-      'ä',     '\"{a}', 
+      'ä',     '\"a', 
      'ă',     '\u{a}',
           'ą', '\k{a}',
 #     '\c{c}', '&#231;' ,
 #     '\c'   , '&#184;' ,
 #     '\^{}' , '^' ,
 #     '\copyright', '&#169;' ,
-      'é',  '{\\\'e}', 
+      'é',  '\\\'e', 
 #     '\^{e}', '&#234;' ,
-      'è',  '\`{e}', 
+      'è',  '\`e', 
 #     '\v{o}', '&#240;' ,
 #     '\"{e}', '&#235;' ,
 #     '!`'   , '&#161;' ,
@@ -1219,12 +1341,12 @@ sub transform_to_latex {
 #     '\"{i}', '&#239;' ,
 #     '<'    , '&lt;' ,
 #     '\~{n}', '&#241;' ,
-      'ó', '{\\\'o}', 
+      'ó', '\\\'o', 
 #     '\^{o}', '&#244;' ,
 #      '\`{o}', 
       'ø', '{\o}',
 #     '\~{o}', '&#245;' ,
-     'ö', '{\\"o}',
+     'ö', '\\"o',
 #     '&#175;' , '\={}',
 #     '&#163;' , '\pounds',
 #     '&#191;' , '?`',
@@ -1235,12 +1357,12 @@ sub transform_to_latex {
 #     '\'{u}', '&#250;' ,
      'û', '{\^u}',
 #     '\`{u}', '&#249;' ,
-     'ü',  '{\\"u}',
+     'ü',  '\\"u',
 #     '\'{y}', '&#253;' ,
 #     '\"{y}', '&#255;' ,
 
 #     '\'{c}', '&#263;' ,
-      'ć',  '{\\\'c}',
+      'ć',  '\\\'c',
 #     '\'{C}', 'C' ,
 #     '\v{c}', '&#269;',
 
@@ -1249,7 +1371,7 @@ sub transform_to_latex {
 
 #     '\'{s}', '&#347;' ,
 #     '{\'s}', '&#347;' ,
-      'ś', '{\\\'s}',
+      'ś', '\\\'s',
 #     '\'{S}', 'S' ,
      'ż', '\.z',
      'ń', '\\\'n',
@@ -1260,8 +1382,8 @@ sub transform_to_latex {
 
 # is this needed? We can do unicode now, can't we?
 # The ` of X-bar does not work it needs utf8x/utf8 and hangs. 12.10.2021
-#	$string =~ s/((ä|ă|ą|ö|ü|ÄÖ|Ü|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
-	$string =~ s/((ă|ą|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
+	$string =~ s/((ä|ă|ą|ö|ü|ÄÖ|Ü|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
+#	$string =~ s/((ă|ą|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
 
 #       this cannot cope with nesting
 #        $string =~ s/<em>(.*)<\/em>/\\emph{$1}/g;
@@ -1293,12 +1415,14 @@ sub eliminate_special_chars{
      'á', 'a',
      'é', 'e',
      'è', 'e',
+     'ė', 'e',
      'ó', 'o', 
      'Ø', 'Oe',
      'ø', 'oe',
      'ö', 'oe',
      'ß', 'ss',
      'ś', 's',
+     'š', 's',
      'ć', 'c',
      'û', 'u',
      'î', 'i',
@@ -1310,7 +1434,7 @@ sub eliminate_special_chars{
 
 );
 
-	$string =~ s/((ä|ă|á|ą|ö|ü|Ä|Ö|Ü|î|í|ï|ś|ć|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ñ))/$utf8_character_map{"$1"}/geo;    
+	$string =~ s/((ä|ă|á|ą|ö|ü|Ä|Ö|Ü|î|í|ï|ś|š|ć|æ|Æ|Œ|œ|è|é|ė|Ø|ø|û|ó|ñ))/$utf8_character_map{"$1"}/geo;    
 
 
 	return $string;
@@ -1491,11 +1615,11 @@ print XML <<EOF;
         <familyname locale="en_US">$lastname</familyname>
         <affiliation locale="en_US">$affiliation</affiliation>
         <country>FK</country>
-        <email>zaspil\@ojs.example</email>
+        <email>none\@ojs.example</email>
 EOF
         if (@orcids[$i] =~ /-/) { # contains dash
             print XML "        <orcid>https://orcid.org/@orcids[$i]</orcid>\n";
-        } elsif (@orcids[$i] ne "no" && @orcids[$i] ne "mailed" && @orcids[$i] ne "unknown") {
+        } elsif (@orcids[$i] ne "no") {# && @orcids[$i] ne "mailed" && @orcids[$i] ne "unknown") {
             print_warning("No ORCID for $firstname $lastname, $affiliation!\n\n");
         }
 print XML <<EOF;

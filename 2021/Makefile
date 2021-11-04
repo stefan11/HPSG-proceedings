@@ -8,7 +8,7 @@ YEAR := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
 
 PROGRAM=../gen-hpsg-proceedings-xml
 
-FILES=config.pl 
+FILES=config.pl $(wildcard Includes/*.pdf)
 
 
 all: hpsg$(YEAR).xml 
@@ -17,7 +17,7 @@ all: hpsg$(YEAR).xml
 
 
 
-hpsg$(YEAR).xml: editors-note.tex conference.txt $(PROGRAM) $(FILES)
+hpsg$(YEAR).xml: editors-note.tex conference.txt workshop.txt $(PROGRAM) $(FILES)
 	$(PROGRAM)
 
 hpsg$(YEAR).pdf: hpsg$(YEAR).tex 
@@ -28,7 +28,7 @@ hpsg$(YEAR).pdf: hpsg$(YEAR).tex
 
 
 clean:
-	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc *.tmp *~
+	rm -f *.bak *~ *.log *.blg *.bbl *.aux *.out *.toc *.tmp *~ *.xmpdata *.xmpi
 
 realclean: clean
 	rm -f *.pdf *.html *.xml *.shtml *.bib
