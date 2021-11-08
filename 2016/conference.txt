@@ -485,7 +485,7 @@ Nikolaeva (2005; 2011).
 # possession, prominence, internal possessors, Chimane, Tsimane', Maithili
 
 
-Sailer, Manfred  & Am-David, Assif # 0000-0002-1693-8859 & mailed # Goethe University Frankfurt a. M. & Goethe University Frankfurt a. M. # Definite meaning and definite marking # 2016-12-16 # # We look at definite marking
+Sailer, Manfred  & Am-David, Assif # 0000-0002-1693-8859 & 0000-0001-5030-5062 # Goethe University Frankfurt a. M. & Goethe University Frankfurt a. M. # Definite meaning and definite marking # 2016-12-16 # # We look at definite marking
 in Esperanto, Papiamentu, and Yiddish considering three semantically
 definite contexts: the referential use of proper names and unique
 nouns, as well as anaphoric definites. We argue for a
