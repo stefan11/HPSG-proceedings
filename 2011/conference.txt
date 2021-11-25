@@ -149,7 +149,7 @@ fronted position. In contrast to Danish and Yiddish, German does not
 insert expletives into embedded <em>wh</em>-clauses. They are
 inserted only into declarative V2 clauses in order to fulfill the V2 requirement without having to
 front another constituent. In this paper we try to provide an account that captures the
-commonalities between the three languages while being able to account for the differences.
+commonalities between the three languages while being able to account for the differences. # expletive pronoun, Danish, German, Yiddish, Verb second, V2, wh-clause
 
 Sag, Ivan A. & Nykiel, Joanna # no & 0000-0002-4646-747X # Stanford University & University of Silesia # Remarks on sluicing # 2011-11-19 # #
 Sluicing is widely regarded as requiring an analysis via deletion

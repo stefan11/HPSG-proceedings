@@ -81,7 +81,7 @@ We address three properties of Turkish morphology and
  implemented in a small HPSG grammar and tested against datasets
  confirming the functionality and consistency of the analysis.
 
-Holler, Anke # mailed # University of Göttingen # Towards an analysis of the adverbial use of German interrogative <em>was</em>
+Holler, Anke # 0000-0003-0566-1150 # University of Göttingen # Towards an analysis of the adverbial use of German interrogative <em>was</em>
 (`what') # 2009-10-15 # #
 The paper discusses the so-called adverbial use of the <em>wh</em>-pronoun
 <em>was</em> (`what'), which establishes a non-standard interrogative
@@ -165,7 +165,7 @@ found in German left dislocation structures, which follows from the assumptions 
 A modified treatment of complex predicate formation allows for a reduction of selectional features
 (that is abolishing of <span style="font-variant: small-caps;">xcomp</span> or <span style="font-variant: small-caps;">vcomp</span>) and for a uniform treatment of predicational
 phrases in copula constructions and resultative secondary predicates. This yields an account for
-constituent order variants that remained unexplained by earlier analyses. 
+constituent order variants that remained unexplained by earlier analyses. # copula, German, English, Danish, specificational construction, predication, tag question, left dislocation
 
 Müller, Stefan & Lipenkova, Janna # 0000-0003-4413-5313 & 0000-0003-4093-170X # Freie Universität Berlin # Serial verb constructions in Chinese:<br> A HPSG account # 2009-10-15 # #
 The present paper gives an account of Serial Verb Constructions (SVCs) in Mandarin Chinese. After a
@@ -176,7 +176,7 @@ SVCs as well as alternative, semantically equivalent constructions. A HPSG-analy
 marked SVCs, which uses the interaction between aspect marking and the set of possible subordinative
 relations to deduce the extra-lexical meaning of the construction. Particular attention is payed to
 the syntactically peculiar SVC with shared internal arguments, which is accounted for by a
-non-cancellation approach to valence requirements.
+non-cancellation approach to valence requirements. # serial verb construction, Mandarin Chinese, HPSG
 
 Ørsnes, Bjarne # 0000-0003-2046-2029 # Freie Universität Berlin # Preposed negation in Danish # 2009-10-13 # #
 In Danish the base position of the negation and negated

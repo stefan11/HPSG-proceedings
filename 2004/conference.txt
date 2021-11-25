@@ -274,7 +274,7 @@ emphasised.
 
 
 Müller, Stefan # 0000-0003-4413-5313 # Universität Bremen # An analysis of depictive secondary predicates in German without discontinuous constituents # 2004-08-11 # #    
-In <a href="http://hpsg.fu-berlin.de/~stefan/Pub/mehr-vf-lb.html">Müller, 2005</a> I provide evidence that suggests that linearization approaches
+In <a href="https://hpsg.hu-berlin.de/~stefan/Pub/mehr-vf-lb.html">Müller, 2005</a> I provide evidence that suggests that linearization approaches
 that analyze German clause structure with discontinuous constituents
 cannot account for the German clause structure in an insightful way. 
 In order to eliminate the very powerful concept of linearization
@@ -283,10 +283,10 @@ analyses of other phenomena which also rely on discontinuous constituents should
 be revised. 
 <p>
 In this paper, I develop an analysis of German depictive secondary predicates
-that differs from the one suggested in <a href="http://hpsg.fu-berlin.de/~stefan/Pub/complex.html">Müller, 2002</a> by assuming binary branching structures,
+that differs from the one suggested in <a href="https://hpsg.hu-berlin.de/~stefan/Pub/complex.html">Müller, 2002</a> by assuming binary branching structures,
 verb movment, and continuous constituents instead of a linearization approach. Some shortcomings of previous analyses are pointed
 out and it is shown how linearization constraints regarding depictive predicate and antecedent
-can be modeled.
+can be modeled. # depictives, secondary predication, HPSG, syntax, German
 
 
 Przepiórkowski, Adam  & Rosen, Alexandr # 0000-0002-4398-2636 & 0000-0003-2210-4268 # Polish Academy of Sciences & Charles University, Prague # Obligatory, optional and impossible case transmission in control constructions # 2004-08-25 # no #

@@ -148,6 +148,7 @@ print PROCTMP <<EOF;
      \\end{filecontents*}
 \\documentclass[11pt,a4paper,fleqn]{article}
 \\usepackage{times}
+\\usepackage{ogonek} % Dąbkowski
 \\thispagestyle{empty}
 
 
@@ -207,7 +208,7 @@ if ($publisher) {
 print PROCTMP <<EOF;
 
 
-                          $publisher\\\\[\\baselineskip]
+                          $address: $publisher\\\\[\\baselineskip]
 EOF
 }
 
@@ -700,6 +701,11 @@ open (TEXFILE, ">:utf8", "${tex_file}") or die("Cannot open '${tex_file}': $!\n"
 \\documentclass[a4paper,11pt]{article}
 \\usepackage{times}
 \\usepackage{ogonek} % Dąbkowski
+
+%\\usepackage[T1]{fontenc}   % Silbentrennung
+
+%\\usepackage[utf8x]{inputenc}
+
 \\hyphenation{Acad-e-my}
 \\usepackage{colorprofiles}
 \\usepackage[a-2b,mathxmp]{pdfx}[2018/12/22]
@@ -721,7 +727,7 @@ EOF
 }
 
 print TEXFILE <<EOF;
-        \\begin{document}
+\\begin{document}
 
 \\newcommand\\formatauthor[2]{\\begin{tabular}[t]{\@{}c\@{}}
   {\\LARGE#1\\strut}\\\\
@@ -856,7 +862,7 @@ if ($publisher) {
 print $file <<EOF;
 
 
-                          $publisher\\\\[\\baselineskip]
+                          $address: $publisher\\\\[\\baselineskip]
 EOF
 }
 
@@ -1619,7 +1625,7 @@ print XML <<EOF;
 EOF
         if (@orcids[$i] =~ /-/) { # contains dash
             print XML "        <orcid>https://orcid.org/@orcids[$i]</orcid>\n";
-        } elsif (@orcids[$i] ne "no") {# && @orcids[$i] ne "mailed" && @orcids[$i] ne "unknown") {
+        } elsif (@orcids[$i] ne "no" && @orcids[$i] ne "mailed" && @orcids[$i] ne "unknown") {
             print_warning("No ORCID for $firstname $lastname, $affiliation!\n\n");
         }
 print XML <<EOF;

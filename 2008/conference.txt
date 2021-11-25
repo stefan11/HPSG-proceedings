@@ -97,7 +97,7 @@ The conference talk dealt with the constituent order in Maltese. It described th
 possible, including cases in wich objects are realized both by clitics and by full NPs and provided
 an HPSG analysis.  The analysis is implemented in a computer processable grammar fragment, which is
 described in more detail in the proceedings of the first conference on Maltese Linguistics (<a
-href="http://hpsg.fu-berlin.de/~stefan/Pub/maltese-sketch.html">Maltese paper</a>). The full
+href="https://hpsg.hu-berlin.de/~stefan/Pub/maltese-sketch.html">Maltese paper</a>). The full
 description of the grammar fragment covers several other phenomena in addition to constituent order.
 
 Nakazawa, Tsuneko # 0000-0001-6991-3447 # University of Tokyo # Resultatives in Japanese as adjuncts # 2008-10-16 # no #

@@ -192,7 +192,7 @@ proper semantic representations though further development is needed for a finer
 contextual information.
 
 
-Koenig, Jean-Piere & Michelson, Karin # 0000-0002-5431-5978 & mailed # Buffalo University # Invariance in argument realization: The case of Iroquoian # # no #
+Koenig, Jean-Piere & Michelson, Karin # 0000-0002-5431-5978 & 0000-0002-8404-6801 # Buffalo University # Invariance in argument realization: The case of Iroquoian # # no #
 
 
 Levine, Robert # 0000-0001-8938-1839 # Ohio State University # Polarity and auxiliaryhood (pseudo)entanglement: The ellipsis pattern of modal need # # no #

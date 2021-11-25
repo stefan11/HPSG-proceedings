@@ -92,7 +92,7 @@ compounds, which are fully productive; and lexical compounds, which
 are of varying productivity.
 
 
-Holler, Anke # mailed # University of Heidelberg # On non-canonical clause linkage # 2005-10-10 # #
+Holler, Anke # 0000-0003-0566-1150 # University of Heidelberg # On non-canonical clause linkage # 2005-10-10 # #
 The present paper investigates a certain subset of clause linkage
 phenomena and develops a constraint-based account to the empirical
 fact that clauses need to be distinguished with respect to their degree of
@@ -268,7 +268,7 @@ constituents or realization of the resultative construction in connection
 with valence changing processes. It will be shown that adjuncts,
 predicate complexes, and derivational morphology pose considerable
 problems for the phrasal approach, while they are unproblematic for
-lexical rule-based approaches.
+lexical rule-based approaches. # resultatives, secondary predication, Construction Grammar, CxG, HPSG, lexical analysis, valence
 
 
 Runner, Jeffrey T. # 0000-0001-6818-0632 # University of Rochester # Conferential and bound variable interpretations: An experimental investigation # # no #
@@ -373,8 +373,8 @@ can be carried over to account for passives cross-linguistically. Specifically,
 we look at corresponding structures in German and show that there is no need
 for a dual raising and control analysis for the German ``agentive''
 (<i>werden</i>) and the German ``dative'' (<i>kriegen</i>) passives,
-respectively, as has been proposed in <a href="http://hpsg.fu-berlin.de/~stefan/Pub/complex.html">Müller (2002)</a> 
-and <a href="http://hpsg.fu-berlin.de/~stefan/Pub/passiv-da.html">Müller (2003)</a>.
+respectively, as has been proposed in <a href="https://hpsg.hu-berlin.de/~stefan/Pub/complex.html">Müller (2002)</a> 
+and <a href="https://hpsg.hu-berlin.de/~stefan/Pub/passiv-da.html">Müller (2003)</a>.
 
 
 Villavicencio, Aline & Sadler, Louisa & Arnold, Doug # 0000-0002-3731-9168 & 0000-0001-9107-9014 & 0000-0002-3685-8450# Universidade Federal do Rio Grande do Sul, Brazil & University of Essex & University of Essex # An HPSG account of closest conjunct agreement in NP coordination in Portuguese # 2005-10-15 # #

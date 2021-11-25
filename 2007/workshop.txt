@@ -30,7 +30,7 @@ This presentation suggested several advantages of constructions as against lexic
 </ol>
 The final point argues additionally that a phrasal account is preferable over a lexical account in general (even assuming the lexical account avoids the pitfalls of lexical rules).  In particular, it was argued, following Fellbaum (2007) that idioms often have meanings and syntactic constraints that are much more complex than those found in simple words.
 <p>
-The presentation additionally addressed several possible concerns that a phrasal constructional account might raise (cf. Kay 2005; <a href="http://hpsg.fu-berlin.de/~stefan/Pub/phrasal.html">Müller 2006</a>). The possible concerns that were countered included the following: 
+The presentation additionally addressed several possible concerns that a phrasal constructional account might raise (cf. Kay 2005; <a href="https://hpsg.hu-berlin.de/~stefan/Pub/phrasal.html">Müller 2006</a>). The possible concerns that were countered included the following: 
 <ol>
 <li>there is no reason to assume that linear order be prespecified, which would lead to massive proliferation of constructions; instead linear order is underspecified;
 <li><q>relation changing</q> passive, middle constructions do require additional constructions to capture the relevant linking; however, instead of being a drawback, it was argued that this is motivated because these constructions often involve some non-predictable aspect; 
@@ -50,14 +50,14 @@ into the LKB (Linguistic Knowledge Building) system
 
 
 Müller, Stefan # 0000-0003-4413-5313 # Freie Universität Berlin # Phrasal or lexical constructions? Some comments on underspecification of constituent order, compositionality, and control # 2007-09-27 # #
-This paper is a follow up on <a href="http://hpsg.fu-berlin.de/~stefan/Pub/phrasal.html">Müller, 2006</a>. It contains some
+This paper is a follow up on <a href="https://hpsg.hu-berlin.de/~stefan/Pub/phrasal.html">Müller, 2006</a>. It contains some
 comments on suggestions about the interaction of phrasal Constructions with constituent order that
 Adele Goldberg made at various occasions. In addition the paper discusses various HPSG analyses of
 particle verbs that assume lexical representations including phonologically specified parts of
 particle verb lexical entries. A recent phrasal analysis of resultatives (Haugereid, 2007) is
 discussed as well and it is pointed out that control constructions pose problems for phrasal
 analyses that do not assume empty elements but require that the subject is realized in a phrasal
-configuration.
+configuration. # Construction Grammar, HPSG, particle verb, resultatives, control, constituent order
 
 
 Sag, Ivan A. # no # Stanford University # Remarks on locality # 2007-10-22 # #

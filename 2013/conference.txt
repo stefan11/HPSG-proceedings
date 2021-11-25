@@ -39,7 +39,7 @@ analysis addresses these issues, unifying the treatment of three types of copula
 we identify in MH. The analysis is implemented as part of a larger-scale grammar, and is extensively
 tested.
 
-Holler, Anke # mailed # University of Göttingen # Reanalyzing {German} correlative <em>es</em> # 2013-10-15 # # 
+Holler, Anke # 0000-0003-0566-1150 # University of Göttingen # Reanalyzing {German} correlative <em>es</em> # 2013-10-15 # # 
 The present article discusses several aspects of the
 so-called correlate-<em>es</em> construction in German. This complex clausal
 construction can be identified by a correlative nominal element <em>es</em>
@@ -105,7 +105,7 @@ We show how the variation in the passive in Danish, English, and German can be a
 </ul>
 The differences are accounted for by differences in the structural/lexical case distinction and by
 mapping processes that insert expletives in Danish. The passive in general is accounted for by
-a lexical rule that is uniform across languages and hence captures the generalization regarding passive.
+a lexical rule that is uniform across languages and hence captures the generalization regarding passive. # passive, Danish, English, German, impersonal passive, case
 
 
 Przepiórkowski, Adam # 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences # The syntax of distance distributivity in {Polish}: Preserving generalisations with weak heads # 2013-10-15 # #

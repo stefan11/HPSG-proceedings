@@ -220,7 +220,7 @@ captures many of the various constraints that have been shown to
 hold in classical views of grammar.
 
 
-Holler, Anke # mailed # University of Heidelberg § TEMIS Deutschland # An HPSG analysis of the non-integrated <em>wh</em>-relative clauses in German # 2003-10-01 # #
+Holler, Anke # 0000-0003-0566-1150 # University of Heidelberg § TEMIS Deutschland # An HPSG analysis of the non-integrated <em>wh</em>-relative clauses in German # 2003-10-01 # #
 In this article, the so-called <em>wh</em>-relative clause construction is
 investigated. The German <em>wh</em>-relative clauses are syntactically relevant as they
 show both, root clause and subordinate clause properties. They matter
@@ -363,7 +363,7 @@ In this paper I show how Heinz and Matiasek's (1994) formalizations of Haider's 
 can be extended and modified in a way that both modal infinitives and control constructions
 can be captured correctly. The suggested analysis needs only one lexical item
 for participles, base form infinitives, and <em>zu</em> infinitives irrespective
-of their usage in active or passive like structures.
+of their usage in active or passive like structures. # passive, case, lexical rule, HPSG
 
 
 Paris, Luis & Koenig, Jean-Pierre # 0000-0001-9073-0012 & 0000-0002-5431-5978 # University at Albany, SUNY & University at Buffalo, SUNY # What does it mean to be a complement? # 2003-10-01 # #
