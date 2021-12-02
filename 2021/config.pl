@@ -11,7 +11,7 @@ $issn       = "1535-1793";
 $publisher  = "University Library";
 $address    = "Frankfurt/Main";
 $maintainer = "<a href=\"https://hpsg.hu-berlin.de/~stefan/\">Stefan Müller</a>";
-$draft      = "yes";
+$draft      = "no";
 
 # numbers of pages for the cover and editor's note.
 $page_offset = 4;

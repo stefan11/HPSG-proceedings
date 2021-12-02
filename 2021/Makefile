@@ -20,7 +20,7 @@ all: hpsg$(YEAR).xml
 hpsg$(YEAR).xml: editors-note.tex conference.txt workshop.txt $(PROGRAM) $(FILES)
 	$(PROGRAM)
 
-hpsg$(YEAR).pdf: hpsg$(YEAR).tex 
+hpsg$(YEAR).pdf: hpsg$(YEAR).tex editors-note.tex conference.txt workshop.txt $(PROGRAM) $(FILES)
 	chmod 755 *.pdf
 	pdflatex hpsg$(YEAR).tex
 	pdflatex hpsg$(YEAR).tex
