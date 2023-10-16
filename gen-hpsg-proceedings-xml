@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 #
 # CC-BY Stefan Müller (HU Berlin)
 #
@@ -36,8 +36,10 @@ $published = $today unless ($published);
 
 # global counters for the whole XML document
 
-$publication_id = 0;
-$author_id      = 0;
+$publication_id     = 0;  # we keep adding 1
+$publication_id_pdf = -1; # we keep adding 2: 1, 3
+$publication_id_bib = 0;  # we keep adding 2: 2, 4
+$author_id          = 0;
 
 
 # probably you do not want to change anything below
@@ -65,8 +67,13 @@ print STDERR "Please provide ccby-eps-converted-to.pdf in the directory Includes
 exit(0);
 }
 
+  die "fix address and publisher in config.pl" if (($address eq "") or ($publisher eq ""));
 
-open(BIB, ">${conf_file}.bib");
+
+
+
+open(BIB, '>:encoding(UTF-8)', "${conf_file}.bib");
+open(BIBCROSS, '>:encoding(UTF-8)', "${conf_file}-crossref.bib");
 
 $editor_tex = $editors_string;
 
@@ -74,14 +81,30 @@ $editor_tex =~ s/&/and/g;
 
 $editor_tex = transform_to_latex($editor_tex); 
 
+# used to be configured in config.pl, but I decided to get a uniform key. 01.12.22
+$crossref   = "HPSG${year}";
+
 print BIB <<EOF;
 \@proceedings{$crossref,
   editor    = {$editor_tex},
   title     = {$proc_title_location_tex},
   booktitle = {$proc_title_location_tex},
-  url       = {http://cslipublications.stanford.edu/HPSG/${year}/},
-  publisher = {CSLI Publications},
-  address   = {Stanford, CA},
+  publisher = {$publisher},
+  address   = {$address},
+  OPTissn   = {$issn},
+  year      = {$year},
+}
+
+EOF
+
+print BIBCROSS <<EOF;
+\@proceedings{$crossref,
+  editor    = {$editor_tex},
+  title     = {$proc_title_location_tex},
+  booktitle = {$proc_title_location_tex},
+  publisher = {$publisher},
+  address   = {$address},
+  checked   = {HPSG bib $today},
   OPTissn   = {$issn},
   year      = {$year},
 }
@@ -341,14 +364,16 @@ print PROC <<EOF;
 EOF
 
 close(PROC);
-close($bib_fh);
+close($BIB);
+close($BIBCROSS);
 
 print STDERR "latexing the whole volume, first pass.\n";
         `pdflatex $conf_file`;
 print STDERR "latexing the whole volume, second pass.\n";
         `pdflatex $conf_file`;
 
-$filesize = -s "$conf_file.pdf";
+$filesize_pdf = -s "$conf_file.pdf";
+$filesize_bib = -s "$conf_file.bib";
 
 
 
@@ -377,7 +402,7 @@ print XML <<EOF;
       <issue_file>
         <file_name>$conf_file.pdf</file_name>
         <file_type>application/pdf</file_type>
-        <file_size>$filesize</file_size>
+        <file_size>$filesize_pdf</file_size>
         <content_type>1</content_type>
         <original_file_name>$conf_file.pdf</original_file_name>
         <date_uploaded>$today</date_uploaded>
@@ -387,6 +412,27 @@ EOF
 
 
 open (FILE, "$conf_file.pdf") or die "$!";
+while (read(FILE, $buf, 60*57)) {
+    print XML encode_base64($buf);
+}
+  print XML <<EOF;
+        </embed>
+      </issue_file>
+    </issue_galley>
+    <issue_galley locale="en_US">
+      <label>BibTeX</label>
+      <issue_file>
+        <file_name>$conf_file.bib</file_name>
+        <file_type>text/plain</file_type>
+        <file_size>$filesize_bib</file_size>
+        <content_type>1</content_type>
+        <original_file_name>$conf_file.bib</original_file_name>
+        <date_uploaded>$today</date_uploaded>
+        <date_modified>$today</date_modified>
+        <embed encoding="base64">
+EOF
+
+open (FILE, "$conf_file.bib") or die "$!";
 while (read(FILE, $buf, 60*57)) {
     print XML encode_base64($buf);
 }
@@ -405,6 +451,8 @@ EOF
 $page_end = $page_offset;
 
 $publication_id = 0;
+$publication_id_pdf = -1;
+$publication_id_bib = 0;
 $author_id      = 0;
 
 
@@ -561,19 +609,23 @@ return $filename;
 sub make_bibtex {
 	local( ($authors_string,$orcids,$affiliation,$title,$date,$status,$abstract,$keywords) ) = @_;
 
+        if ($paper_prefix) {
+ 
+            $bib_file  = $paper_prefix . "-" . $file_name . ".bib";
 
-        $bib_file  = $file_name . ".pdf";
+            } else {
+                $bib_file  = $file_name . ".bib";
+        }
 
-        open (AUBIB, ">${file_name}.bib");
+        open (AUBIB, ">${bib_file}");
 
         $authors_string =~ s/&/ and /g;
-
-
 
         $authors_tex = transform_to_latex($authors_string);
 
         $title = transform_to_latex($title);
-        $title =~ s/\\\\//g;
+        $title =~ s/\\\\//g; # remove latex newlines in the title
+        $title =~ s/\n//g;   # remove text newlines in the title
 
         print AUBIB <<EOF;
 \@inproceedings{${file_name}:${year},
@@ -582,9 +634,9 @@ sub make_bibtex {
   booktitle = {$proc_title_location_tex},
   editor    = {$editor_tex},
   OPTissn   = {$issn},
-  url       = {http://cslipublications.stanford.edu/HPSG/${year}/${pdf_file}},
-  publisher = {CSLI Publications},
-  address   = {Stanford, CA},
+  doi       = {$doi},
+  publisher = {$publisher},
+  address   = {$address},
   pages     = {$page_start--$page_end},
   year      = {$year},
 }
@@ -593,7 +645,7 @@ sub make_bibtex {
   crossref  = {$crossref},
   author    = {$authors_tex},
   title     = {$title},
-  url       = {http://cslipublications.stanford.edu/HPSG/${year}/${pdf_file}},
+  doi       = {$doi},
   pages     = {$page_start--$page_end},
 }
 
@@ -601,10 +653,9 @@ sub make_bibtex {
   editor    = {$editor_tex},
   title     = {$proc_title_location_tex},
   booktitle = {$proc_title_location_tex},
-  publisher = {CSLI Publications},
-  address   = {Stanford, CA},
+  publisher = {$publisher},
+  address   = {$address},
   OPTissn   = {$issn},
-  url       = {http://cslipublications.stanford.edu/HPSG/${year}/},
   year      = {$year},
 }
 
@@ -616,9 +667,9 @@ EOF
   booktitle = {$proc_title_location_tex},
   editor    = {$editor_tex},
   OPTissn   = {$issn},
-  url       = {http://cslipublications.stanford.edu/HPSG/${year}/${pdf_file}},
-  publisher = {CSLI Publications},
-  address   = {Stanford, CA},
+  doi       = {$doi},
+  publisher = {$publisher},
+  address   = {$address},
   pages     = {$page_start--$page_end},
   year      = {$year},
 }
@@ -627,11 +678,24 @@ EOF
   crossref  = {$crossref},
   author    = {$authors_tex},
   title     = {$title},
-  url       = {http://cslipublications.stanford.edu/HPSG/${year}/${pdf_file}},
+  doi       = {$doi},
   pages     = {$page_start--$page_end},
 }
 
 EOF
+
+        print BIBCROSS <<EOF;
+\@inproceedings{${file_name}:${year}-HPSGBib,
+  crossref  = {$crossref},
+  author    = {$authors_tex},
+  title     = {$title},
+  checked   = {HPSG bib $today},
+  doi       = {$doi},
+  pages     = {$page_start--$page_end},
+}
+
+EOF
+
 
 }
 
@@ -1001,12 +1065,11 @@ s{^\s+|\s+$}{}g foreach @record;
 
         #print "$pdf_file: ($numberofpages) $page_start-$page_end\n";
 
-           make_bibtex(@record);
-           
           print_warning("Keywords empty!\n") unless ($record[7]);
 
           make_proceedings_part(@record);
            
+          make_bibtex(@record);
 
 
 }
@@ -1028,6 +1091,9 @@ s{^\s+|\s+$}{}g foreach @record;
    } 
 
    $publication_id +=1;
+$publication_id_pdf += 2;
+$publication_id_bib += 2;
+
 
   $doi = "10.21248/hpsg.$year.$publication_id";
 
@@ -1068,10 +1134,14 @@ s{^\s+|\s+$}{}g foreach @record;
    if ($paper_prefix) {
    $pdf_file  = $paper_prefix . "-" . $file_name . ".pdf";
 
+   $bib_file  = $paper_prefix . "-" . $file_name . ".bib";
+
    $tex_file  = $paper_prefix . "-" . $file_name . ".tex";
 
    } else {
           $pdf_file  = $file_name . ".pdf";
+
+          $bib_file  = $file_name . ".bib";
 
           $tex_file  = $file_name . ".tex";
    }
@@ -1123,7 +1193,7 @@ s{^\s+|\s+$}{}g foreach @record;
 #print STDERR "$record[1]\n";
 
  #print_record_xml($record[0],$pdf_file,$page_start,$page_end,$title,$date,$abstract,$keywords);
- print_record_xml($record[0],$record[1],$record[2],$pdf_file,$page_start,$page_end,$record[3],$record[4],$record[6],$record[7]);
+ print_record_xml($record[0],$record[1],$record[2],$pdf_file,$bib_file,$page_start,$page_end,$record[3],$record[4],$record[6],$record[7]);
 
 }
 
@@ -1258,6 +1328,11 @@ sub typeset_authors_affiliations{
 
         $a_af = $a_af . "\\formatauthor{$firstname" . " " . $lastname;
         if (@orcids[$i] =~ /-/) { # 0000-0000-0000-0000 rather than "no", "mailed" or "unknown"
+           if (@orcids[$i] !~ m/[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[X0-9]{1}/) {
+               print_warning("ORCID for $firstname $lastname is broken!\n\n");
+               exit;
+            }
+
           $a_af = $a_af . "\\,\\orcidlink{@orcids[$i]}";
         }
         $a_af = $a_af . "}";
@@ -1388,7 +1463,7 @@ sub transform_to_latex {
 
 # is this needed? We can do unicode now, can't we?
 # The ` of X-bar does not work it needs utf8x/utf8 and hangs. 12.10.2021
-	$string =~ s/((ä|ă|ą|ö|ü|ÄÖ|Ü|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
+# removed 01.12.2022	$string =~ s/((ä|ă|ą|ö|ü|ÄÖ|Ü|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
 #	$string =~ s/((ă|ą|æ|Æ|Œ|œ|è|é|Ø|ø|û|ó|ś|ć|ń|ż|′))/$utf8_character_map{"$1"}/geo;    
 
 #       this cannot cope with nesting
@@ -1481,10 +1556,11 @@ sub print_warning{
 
 
 sub print_record_xml{
-	local( ($authors,$orcids,$affiliations,$pdf_file,$page_start,$page_end,$title,$date,$abstract,$keywords) ) = @_;
+	local( ($authors,$orcids,$affiliations,$pdf_file,$bib_file,$page_start,$page_end,$title,$date,$abstract,$keywords) ) = @_;
 
 
-$filesize = -s $pdf_file;
+$filesize_pdf = -s $pdf_file;
+$filesize_bib = -s $bib_file;
 
 $abstract=~ s/\&/\&amp;/g;
 $abstract=~ s/</\&lt;/g;
@@ -1514,9 +1590,9 @@ $title=~ s/}//g;
 
   print XML <<EOF;
   <article status="3" submission_progress="0" stage="production" date_submitted="$date">
-    <submission_file id="$publication_id" file_id="$publication_id" stage="proof" updated_at="$today" viewable="false" genre="Article Text" uploader="ojs_admin">
+    <submission_file id="$publication_id_pdf" file_id="$publication_id_pdf" stage="proof" updated_at="$today" viewable="false" genre="Article Text" uploader="ojs_admin">
       <name locale="en_US">$pdf_file</name>
-      <file id="$publication_id" filesize="$filesize" extension="pdf">
+      <file id="$publication_id_pdf" filesize="$filesize_pdf" extension="pdf">
         <embed encoding="base64">
 EOF
 
@@ -1529,13 +1605,30 @@ while (read(FILE, $buf, 60*57)) {
 </embed>
       </file>
     </submission_file>
+    <submission_file id="$publication_id_bib" file_id="$publication_id_bib" stage="proof" updated_at="$today" viewable="false" genre="Other" uploader="ojs_admin">
+         <name locale="en_US">$bib_file</name>
+         <file id="$publication_id_bib" filesize="$filesize_bib" extension="bib">
+             <embed encoding="base64">
+EOF
+open (FILE, $bib_file) or die "$!";
+while (read(FILE, $buf, 60*57)) {
+    print XML encode_base64($buf);
+}
+print XML <<EOF;
+             </embed>
+         </file>
+     </submission_file> 
+
     <publication locale="en_US" version="1" status="3" seq="$publication_id" date_published="$date" section_ref="$section_ref" access_status="0">
       <id type="doi" advice="update">$doi</id>
       <title locale="en_US">$title</title>
       <abstract locale="en_US">
 &lt;p&gt;$abstract&lt;/p&gt;</abstract>
-      <copyrightYear>2021</copyrightYear>
+      <copyrightYear>$year</copyrightYear>
 EOF
+
+
+
 
 print_authors_xml($authors,$orcids,$affiliations);
 
@@ -1545,7 +1638,12 @@ print_authors_xml($authors,$orcids,$affiliations);
       <article_galley locale="en_US" approved="false">
         <name locale="en_US">PDF</name>
         <seq>0</seq>
-        <submission_file_ref id="$publication_id"/>
+        <submission_file_ref id="$publication_id_pdf"/>
+      </article_galley>
+      <article_galley locale="en_US" approved="false">
+        <name locale="en_US">BibTeX</name>
+        <seq>0</seq>
+        <submission_file_ref id="$publication_id_bib"/>
       </article_galley>
       <issue_identification>
         <year>$year</year>
@@ -1557,8 +1655,6 @@ print_authors_xml($authors,$orcids,$affiliations);
 EOF
 
 # was before year but is not needed since there is only one volume per year.  <volume>$volume</volume>
-
-
 
 }
 
@@ -1624,7 +1720,11 @@ print XML <<EOF;
         <email>none\@ojs.example</email>
 EOF
         if (@orcids[$i] =~ /-/) { # contains dash
-            print XML "        <orcid>https://orcid.org/@orcids[$i]</orcid>\n";
+            if (@orcids[$i] =~ m/[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[X0-9]{1}/) {
+               print XML "        <orcid>https://orcid.org/@orcids[$i]</orcid>\n";
+            } else {
+                print_warning("ORCID for $firstname $lastname, $affiliation is broken!\n\n");
+            }
         } elsif (@orcids[$i] ne "no" && @orcids[$i] ne "mailed" && @orcids[$i] ne "unknown") {
             print_warning("No ORCID for $firstname $lastname, $affiliation!\n\n");
         }
