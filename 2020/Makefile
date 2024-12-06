@@ -8,7 +8,7 @@ YEAR := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
 
 PROGRAM=../gen-hpsg-proceedings-xml
 
-FILES=config.pl 
+FILES=config.pl $(wildcard Includes/*.pdf)
 
 
 all: hpsg$(YEAR).xml 

@@ -8,6 +8,8 @@ $editor     = "Müller, Stefan & Richter, Frank";
 $editor_g   = "Müller, Stefan & Richter, Frank";
 $crossref   = "MuellerRichter${year}a-ed";
 $issn       = "15351793";
+$publisher  = "CSLI Publications";
+$address    = "Stanford, CA";
 $maintainer = "<a href=\"https://hpsg.hu-berlin.de/~stefan/\">Stefan Müller</a>";
 
 # numbers of pages for the cover and editor's note.

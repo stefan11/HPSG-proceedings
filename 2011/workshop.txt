@@ -1,7 +1,7 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
 
-Bjerre, Anne # 0000-0003-1622-5266 # University of Southern Denmark # Topic and focus in local subject extractions in Danish # 2011-11-16 # #
+Bjerre, Anne # 0000-0003-1622-5266 # University of Southern Denmark # Topic and focus in local subject extractions in {Danish} # 2011-11-16 # #
 The present paper proposes an analysis of the asymmetrical distribution of der, 'there', in embedded
 interrogative and relative clauses, respectively, in standard Danish. The analysis sets itself apart
 from previous analyses in integrating information structural constraints. We will show that the
@@ -11,12 +11,12 @@ that der in interrogative and relative clauses is an expletive subject filler, a
 information structural point of view, the der in existential, presentational, passives and relative
 clauses is indeed the same der.
 
-De Kuthy, Kordula & Meurers, Detmar # 0000-0003-2318-3754 & 0000-0002-9740-7442 # Universität Tübingen # Integrating GIVENness into a structured meaning approach in HPSG # 2011-11-16 # #
+De Kuthy, Kordula & Meurers, Detmar # 0000-0003-2318-3754 & 0000-0002-9740-7442 # Universität Tübingen # Integrating {GIVENness} into a structured meaning approach in {HPSG} # 2011-11-16 # #
 In this article we show how the HPSG approach to information structure of De Kuthy (2002) and De Kuthy and Meurers (2003)
 can be extended to capture givenness (Schwarzschild, 1999) and make the right predictions for so-called deaccenting of given information,
 a widespread phenomenon not previously dealt with in HPSG.
 
-Gazdik, Anna # 0000-0003-0232-9400 # Université Paris Diderot-Paris 7, LLF # On the syntax-discourse interface in Hungarian # 2011-11-16 # no #
+Gazdik, Anna # 0000-0003-0232-9400 # Université Paris Diderot-Paris 7, LLF # On the syntax-discourse interface in {Hungarian} # 2011-11-16 # no #
 In this paper, I investigate the syntax-discourse interface in Hungarian and propose the first steps
 of its formalization in the framework of Lexical-Functional Grammar. Concerning the syntax, I
 propose a flat structure in Hungarian, in which the preverbal domain is determined by the
@@ -30,7 +30,7 @@ more adequately. The syntax-discourse interface is then exposed via the mappings
 constituent and information structures.
 
 
-Kim, Jong-Bok # 0000-0003-3286-0446 # Kyung Hee University # Floating numeral classifiers in Korean: A thematic-structure perspective # 2011-11-17 # # 
+Kim, Jong-Bok # 0000-0003-3286-0446 # Kyung Hee University # Floating numeral classifiers in {Korean}: {A} thematic-structure perspective # 2011-11-17 # # 
 The syntactic and semantic complexity of the so-called numeral classifier
 (NUM-CL) constructions in languages like Korean (Japanese and Chinese as
 well) has much challenged theoretical as well as computational approaches.
@@ -45,7 +45,7 @@ show that the FQ introduces new information in discourse and as default sets
 off rheme in the thematic structure. This functional analysis can provide an
 answer to several puzzling contrasts we observe in the distribution of the FQ.
 
-Light, Caitlin # mailed # University of Pennsylvania # The information structure of subject extraposition in Early New High German # 2011-11-16 # # 
+Light, Caitlin # mailed # University of Pennsylvania # The information structure of subject extraposition in {Early New High German} # 2011-11-16 # # 
 This paper investigates the information-structural characteristics of extraposed subjects in Early
 New High German (ENHG). Based on new quantitative data from a parsed corpus of ENHG, I will argue
 that unlike objects, subjects in ENHG have two motivations for extraposing. First, subjects may
@@ -60,7 +60,7 @@ broader set of crosslinguistic focus phenomena which demonstrate a subject-objec
 (cf. Hartmann and Zimmermann 2007, Skopeteas and Fanselow 2010), raising important questions about
 the relationship between argument structure and information structural notions.
 
-Marandin, Jean-Marie # mailed # CNRS, Université Paris Diderot # Subject inversion in French: The limits of information structure # 2011-11-16 # #
+Marandin, Jean-Marie # mailed # CNRS, Université Paris Diderot # Subject inversion in {French}: {The} limits of information structure # 2011-11-16 # #
 My objective here is to assess the relevance of information structural notions for analyzing subject 
 inversion in French. Subject inversion is not a unified phenomenon. In fact, there are three distinct 
 constructions featuring an inverted subject. I show that the sentences do not have the same informational 
@@ -71,7 +71,7 @@ feature that pertains to a completely different dimension: the perspective chose
 adopt Langacker's notion of absolute construal to characterize it. Finally, I present another common 
 feature: the blocking of the referential anchoring of the referent of indefinite and partitive NPs.
 
-Song, Sanghoun & Bender, Emily M. # 0000-0002-4234-232X & 0000-0001-5384-6227 # University of Washington # Using information structure to improve transfer-based MT # 2011-11-16 # #
+Song, Sanghoun & Bender, Emily M. # 0000-0002-4234-232X & 0000-0001-5384-6227 # University of Washington # Using information structure to improve transfer-based {MT} # 2011-11-16 # #
 This paper hypothesizes that transfer-based machine translation systems can be improved by encoding
 information structure in both the source and target grammars, and preserving information structure
 in the transfer stage. We explore how information structure can be represented within the HPSG/MRS

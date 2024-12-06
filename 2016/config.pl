@@ -9,6 +9,8 @@ $editor_g   = "Müller, Stefan";
 $crossref   = "BHKM${year}a-ed";
 #$issn       = "1535-1793, 1098-6782";
 $issn       = "1535-1793";
+$publisher  = "CSLI Publications";
+$address    = "Stanford, CA";
 $maintainer = "<a href=\"http://hpsg.hu-berlin.de/~stefan/\">Stefan Müller</a>";
 
 # numbers of pages for the cover and editor's note.

@@ -1,7 +1,7 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
 
-Alahverdzhieva, Katya & Lascarides, Alex # 0000-0003-3942-257X & 0000-0003-1704-1864 # University of Edinburgh # An HPSG approach to synchronous speech and deixis # 2011-11-16 # # 
+Alahverdzhieva, Katya & Lascarides, Alex # 0000-0003-3942-257X & 0000-0003-1704-1864 # University of Edinburgh # An {HPSG} approach to synchronous speech and deixis # 2011-11-16 # # 
 The use of hand gestures to point at objects and individuals, or to navigate through landmarks on a
 virtually created map is ubiquitous in face-to-face conversation. We take this observation as a
 starting point, and we demonstrate that deictic gestures can be analysed on a par with speech by
@@ -12,7 +12,7 @@ multimodal meaning. The integration process is constrained via construction rule
 ill-formed input. These rules are driven from an empirical corporal study which sheds light on the
 interaction between speech and deictic gesture.
 
-Ball, Douglas # 0000-0002-8046-9452 # Truman State University # Morphology in the `wrong' place: The curious case of Coast Tsimshian connectives # 2011-11-16 # #
+Ball, Douglas # 0000-0002-8046-9452 # Truman State University # Morphology in the ``wrong'' place: {The} curious case of {Coast Tsimshian} connectives # 2011-11-16 # #
 This paper examines the apparently odd location of case-marking
 formatives found in the Pacific Northwest language, Coast Tsimshian.
 It first argues that the case-marking formatives are actually affixes
@@ -25,14 +25,14 @@ This enables a simple analysis of  the clausal syntax of Coast
 Tsimshian while still accounting for the wide array of facts
 surrounding the connectives.
 
-Crowgey, Joshua & Bender, Emily M. # 0000-0002-1589-572X & 0000-0001-5384-6227 # University of Washington # Analyzing interacting phenomena: Word order and negation in Basque # 2011-11-16 # #
+Crowgey, Joshua & Bender, Emily M. # 0000-0002-1589-572X & 0000-0001-5384-6227 # University of Washington # Analyzing interacting phenomena: {Word} order and negation in {Basque} # 2011-11-16 # #
 We explore the interaction of sentential negation and word order in Basque using a small
 experimental implemented grammar based on the Grammar Matrix (Bender et al., 2002, 2010) to test the
 analyses. We find that the analysis of free word order (Fokkens, 2010) provided by the Grammar
 Matrix customization system can be adapted to handle the Basque facts, and that the constructional
 approach taken in that analysis supports the integration of negation.
 
-Hahn, Michael # 0000-0003-4828-4834 # University of Tübingen # Null conjuncts and bound pronouns in Arabic # 2011-11-15 # #
+Hahn, Michael # 0000-0003-4828-4834 # University of Tübingen # Null conjuncts and bound pronouns in {Arabic} # 2011-11-15 # #
 This paper presents a descriptive overview and a formal analysis of the
 syntax of pronominal arguments, pronominal conjuncts and bound pronouns
 in Arabic. I argue that Arabic allows first conjuncts to be null and that this
@@ -47,7 +47,7 @@ constraints on case marking in Arabic coordination can be formalized. The
 analysis is part of an Arabic grammar fragment implemented in the TRALE
 system.
 
-Hasegawa, Akio & Koenig, Jean-Pierre # mailed & 0000-0002-5431-5978 # University at Buffalo # Focus particles, secondary meanings, and Lexical Resource Semantics:<br> The case of Japanese <em>shika</em> # 2011-11-16 # # 
+Hasegawa, Akio & Koenig, Jean-Pierre # mailed & 0000-0002-5431-5978 # University at Buffalo # Focus particles, secondary meanings, and {Lexical Resource Semantics}:<br> {The} case of {Japanese} <em>shika</em> # 2011-11-16 # # 
 Japanese has two exclusive particles `shika' and `dake'. Although traditionally, both particles were
 considered to be exclusive particles like `only', a recent proposal claims that `shika' is an
 exceptive particle like `everyone except' to account for the necessary co-occurrence of the negative
@@ -59,7 +59,7 @@ meaning when it co-occurs with `shika'. We present an HPSG and LRS analysis that
 co-occurrence of `shika' and the negative suffix `na', and their contribution to the sentence's
 secondary meaning.
 
-Kim, Jong-Bok & Sells, Peter # 0000-0003-3286-0446 & 0000-0003-4284-6947 # Kyung Hee University & University of York # The English binominal NP construction: A construction-based perspective # 2011-11-17 # #  
+Kim, Jong-Bok & Sells, Peter # 0000-0003-3286-0446 & 0000-0003-4284-6947 # Kyung Hee University & University of York # The {English} binominal {NP} construction: {A} construction-based perspective # 2011-11-17 # #  
 English Binominal NPs (BNP) (e.g., a hell of a problem) are of empirical and
 theoretical interest due to their complex syntactic and semantic properties. In
 this paper, we review some basic properties of the BNP construction, focusing
@@ -69,7 +69,7 @@ grammar. In particular, we show that English BNP is a nominal juxtaposition
 construction whose special syntactic constraints are linked to semantic
 relations like a subject-predicate relation.
 
-Krieger, Hans-Ulrich & Kiefer, Bernd # no & 0000-0003-2323-091X # DFKI, Saarbrücken # Converting CCGs into typed feature structure grammars # 2011-11-11 # #
+Krieger, Hans-Ulrich & Kiefer, Bernd # no & 0000-0003-2323-091X # DFKI, Saarbrücken # Converting {CCGs} into typed feature structure grammars # 2011-11-11 # #
 In this paper, we report on a transformation scheme that turns a Categorial
 Grammar, more specifically, a Combinatory Categorial Grammar (CCG; see
 Baldridge, 2002) into a derivation- and meaning-preserving typed feature
@@ -118,7 +118,7 @@ must conclude that despite the general poplularity of LBE accounts of
 conjunction, there is at the moment no satisfactory HPSG treatment of
 noncanonical coordinations.
 
-Lipenkova, Janna # 0000-0003-4093-170X # Freie Universität Berlin # Reanalysis of semantically required dependents as complements in the Chinese <em>ba</em>-construction # 2011-11-15 # #
+Lipenkova, Janna # 0000-0003-4093-170X # Freie Universität Berlin # Reanalysis of semantically required dependents as complements in the {Chinese} <em>ba</em>-construction # 2011-11-15 # #
 The paper aims at a formulation of semantic constraints on the produc-
 tivity of the Chinese <em>ba</em>-construction and their representation at the
 syntax-semantics interface. It builds on the observation that requirements
@@ -134,7 +134,7 @@ the additional dependent for some verbs, it is reanalyzed as a complement
 of <em>ba</em>: being optional on their level of combination with the verb, it
 becomes obligatory once the verb is used in the <em>ba</em>-construction.
 
-Müller, Stefan & Ørsnes, Bjarne # 0000-0003-4413-5313 & 0000-0003-2046-2029 # Freie Universität Berlin # Positional expletives in Danish, German, and Yiddish # 2011-11-04 # #
+Müller, Stefan & Ørsnes, Bjarne # 0000-0003-4413-5313 & 0000-0003-2046-2029 # Freie Universität Berlin # Positional expletives in {Danish, German, and Yiddish} # 2011-11-04 # #
 This paper deals with expletives that are inserted into clauses for structural reasons. We will
 focus on the Germanic languages Danish, German, and Yiddish. In Danish and Yiddish expletives are
 inserted in preverbal position in certain <em>wh</em>-clauses: In Danish such an insertion is
@@ -160,7 +160,7 @@ cross-linguistic and language-internal evidence in support of a
 fundamentally semantic constructional alternative like the
 one proposed by Ginzburg and Sag (2000).
 
-Thuilier, Juliette # 0000-0003-4290-553X # Univ Paris Diderot, Sorbonne Paris Cité, ALPAGE, UMR-I 001 INRIA # Case suffixes and postpositions in Hungarian # 2011-11-16 # # 
+Thuilier, Juliette # 0000-0003-4290-553X # Univ Paris Diderot, Sorbonne Paris Cité, ALPAGE, UMR-I 001 INRIA # Case suffixes and postpositions in {Hungarian} # 2011-11-16 # # 
 This paper examines the morpho-syntactic puzzle of case suffixes and postpositions that Hungarian
 displays. Although these two categories show distributional similarities, they are distinguishable
 from a morphological and a syntactic point of view. Moreover, this language has defective
@@ -174,7 +174,7 @@ morphological and syntactic differences. Finally, the shared distributional prop
 suffixes, postpositions and defective postpositions are captured by means of the use of the MARKING
 feature.
 
-Walker, Heike # no # University of Frankfurt am Main # Adjuncts and the HPSG binding theory # 2011-11-15 # #
+Walker, Heike # no # University of Frankfurt am Main # Adjuncts and the {HPSG} binding theory # 2011-11-15 # #
 The HPSG binding theory in Pollard and Sag (1994) cannot account for the binding-theoretic
 interaction between main clause and adjunct-internal elements. Following Hukari and Levine (1995), I
 claim that structural configurations must be taken into account. In this article, I present a
@@ -300,7 +300,7 @@ Island Effects</em>. Language, Volume 86.
 <li> Wasow, Thomas (1972) Anaphoric Relations in English.  MIT dissertation
 </ul>
 
-Wetta, Andrew C. # no # University at Buffalo # A construction-based cross-linguistic analysis of V2 word order # 2011-11-15 # #
+Wetta, Andrew C. # no # University at Buffalo # A construction-based cross-linguistic analysis of {V2} word order # 2011-11-15 # #
 Verb second (V2) word order is determined by considering the absolute position of clausal
 constituents.  Previous accounts of such word order in HPSG have been developed for individual V2
 languages (predominantly German) but are often not cross-linguistically applicable.  I propose a

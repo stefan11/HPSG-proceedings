@@ -8,6 +8,8 @@ $editor     = "Müller, Stefan";
 $editor_g   = "Müller, Stefan";
 $crossref   = "Mueller${year}a-ed";
 $issn       = "15351793";
+$publisher  = "CSLI Publications";
+$address    = "Stanford, CA";
 $maintainer = "<a href=\"http://hpsg.fu-berlin.de/~stefan/\">Stefan Müller</a>";
 $published  = "2004-10-15";
 

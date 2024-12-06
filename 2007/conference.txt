@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Bjerre, Anne & Bjerre, Tavs # 0000-0003-1622-5266 & mailed # University of Southern Denmark & Aarhus University, Denmark # Pseudocoordination in Danish # 2007-10-15 # #
+Bjerre, Anne & Bjerre, Tavs # 0000-0003-1622-5266 & mailed # University of Southern Denmark & Aarhus University, Denmark # Pseudocoordination in {Danish} # 2007-10-15 # #
 In this paper we propose an analysis of Danish pseudocoordination constructions. The analysis is
 based on a hybrid phrase hierarchy where phrase types are assumed to be subtypes of types that cut
 across the traditional division of phrasal types, allowing the phrase type of pseudocoordinations to
@@ -15,7 +15,7 @@ do not allow overt subjects in the second conjunct and allow transitive verbs to
 there-constructions.
 
 
-Bonami, Olivier & Godard, Danièle # 0000-0003-0688-3855 & mailed # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # Integrating linguistic dimensions:<br> The scope of adverbs # 2007-10-20 # #
+Bonami, Olivier & Godard, Danièle # 0000-0003-0688-3855 & 0000-0001-7354-6264 # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # Integrating linguistic dimensions:<br> {The} scope of adverbs # 2007-10-20 # #
 Three distinctions seem relevant for the scope properties of adverbs: their function (adjuncts
 or complements), their prosody (incidental or integrated) and their lexical semantics (parenthetical
 or non parenthetical). We propose an analysis in which the scope of French adverbs is aligned with
@@ -23,7 +23,7 @@ their syntactic properties, relying on a view of adjuncts as loci for quantifica
 linearization approach to the word order, and an explicit modelling of dialogue.
 
 
-Chaves, Rui P. & Paperno, Denis # 0000-0003-0820-6145 & 0000-0002-8889-4066 # University of Lisbon & Lomonosov Moscow State University # On the Russian hybrid coordination construction # 2007-10-16 # #
+Chaves, Rui P. & Paperno, Denis # 0000-0003-0820-6145 & 0000-0002-8889-4066 # University of Lisbon & Lomonosov Moscow State University # On the {Russian} hybrid coordination construction # 2007-10-16 # #
 This paper discusses a non-constituent coordination construction that occurs
 in Russian in which constituents with different syntactic functions
 and different thematic roles are conjoined.
@@ -67,7 +67,7 @@ whether or not well-formed formulas and constraints hold in larger models and mo
 more fine-grained modal inferences in a larger domain.
 
 
-Crysmann, Berthold & von Böselager, Philipp # 0000-0003-0230-502X & unknown # DFKI, Universität des Saarlandes, Universität Bonn & Universität zu Köln # Using an HPSG grammar for the generation of prosody # 2007-10-16 # #
+Crysmann, Berthold & von Böselager, Philipp # 0000-0003-0230-502X & unknown # DFKI, Universität des Saarlandes, Universität Bonn & Universität zu Köln # Using an {HPSG} grammar for the generation of prosody # 2007-10-16 # #
 <p>In this paper, we report on an experiment showing how
 the introduction of prosodic information from detailed syntactic
 structures into synthetic speech leads to better disambiguation of
@@ -83,8 +83,8 @@ system MARY is shown to be a valuable platform for testing hypotheses
 in intonation studies.
 
 
-Kropp Dakubu, Mary Esther & Hellan, Lars & Beermann, Dorothee # no & 0000-0003-3043-120X & 0000-0002-8906-5235 # University of Ghana & NTNU, Trondheim & NTNU, Trondheim # Verb sequencing constraints in Ga:
-Serial verb constructions and the extended verb complex # 2007-09-27 # #
+Kropp Dakubu, Mary Esther & Hellan, Lars & Beermann, Dorothee # no & 0000-0003-3043-120X & 0000-0002-8906-5235 # University of Ghana & NTNU, Trondheim & NTNU, Trondheim # 
+Verb sequencing constraints in {Ga}: {Serial} verb constructions and the extended verb complex # 2007-09-27 # #
 The paper examines two verb sequencing constructions in Ga: the Serial
 Verb Construction (SVC) and the Extended Verb Complex (EVC). The former
 is an instance of a commonly recognized construction, the latter is
@@ -114,7 +114,7 @@ in order to account for altering argument frames and maybe also coercion without
 lexical rules or multiple lexical entries.
 
 
-Henri, Fabiola & Abeillé, Anne # 0000-0002-2491-1568 & 0000-0002-9187-2298 # University Paris 7 # The syntax of copular constructions in Mauritian # 2007-10-16 # # 
+Henri, Fabiola & Abeillé, Anne # 0000-0002-2491-1568 & 0000-0002-9187-2298 # University Paris 7 # The syntax of copular constructions in {Mauritian} # 2007-10-16 # # 
 <p>
 This paper examines the syntactic behavior of the Mauritian copula in predicative
 and extracted sentences. As it is the case in many languages, the Mauritian
@@ -140,7 +140,7 @@ performance. In our experiment, the use of licenser rules reduced the
 parse time by a factor of 13.5.
 
 
-Kim, Jong-Bok & Yang, Jaehyung # 0000-0003-3286-0446 & 0000-0002-2228-8223 # Kyung Hee University & Kangnam University # Syntax and semantics of Korean numeral classifier constructions # 2007-10-22 # #
+Kim, Jong-Bok & Yang, Jaehyung # 0000-0003-3286-0446 & 0000-0002-2228-8223 # Kyung Hee University & Kangnam University # Syntax and semantics of {Korean} numeral classifier constructions # 2007-10-22 # #
 The so-called floating quantifier constructions in languages like
 Korean display intriguing properties whose successful processing can
 prove the robustness of a parsing system. This paper shows that a
@@ -154,7 +154,7 @@ shows how the analysis has been successfully implemented in the LKB
 Manning, Christopher # 0000-0001-6155-649X # Stanford University # Linguistic strip mining meets deep linguistic processing # # no #
 
 
-Melnik, Nurit # 0000-0002-0610-915X # University of Haifa # Extending partial pro-drop in modern Hebrew: A comprehensive analysis # 2007-10-16 # #
+Melnik, Nurit # 0000-0002-0610-915X # University of Haifa # Extending partial pro-drop in {Modern Hebrew}: {A} comprehensive analysis # 2007-10-16 # #
 Modern Hebrew is considered to be a 'partial pro-drop language'. Traditionally, the distinction
 between cases where pro-drop is licensed and those in which it is prohibited, was based on the
 person and tense features of the verb: 1st and 2nd person pronominal subjects may be omitted in
@@ -170,7 +170,7 @@ HPSG-based analysis incorporates insights concerning locality, correlations betw
 control, non-canonical elements, and binding.
 
 
-Norcliffe, Elisabeth # 0000-0001-8646-6474 # Stanford University # Constructing Spanish complex predicates # 2007-10-17 # #
+Norcliffe, Elisabeth # 0000-0001-8646-6474 # Stanford University # Constructing {Spanish} complex predicates # 2007-10-17 # #
 Abeillé and Godard (2007) describe a variety of Spanish whose complex predicates differ structurally
 from the more familiar flat VP type of complex predicate common to other varieties of Spanish and
 Romance. I present a verb cluster analysis of this variety which both captures these structural
@@ -184,7 +184,7 @@ more of the Spanish data, but also has the potential to provide a unified accoun
 across Romance.
 
 
-Sailer, Manfred # 0000-0002-1693-8859 # Universität Göttingen # NPI licensing, intervention and discourse representation structures in HPSG # 2007-10-16 # #
+Sailer, Manfred # 0000-0002-1693-8859 # Universität Göttingen # NPI licensing, intervention and discourse representation structures in {HPSG} # 2007-10-16 # #
 Negative Polarity Items (NPI) are expressions such as English 'ever'
 and 'lift a finger' that only occur in sentences that are somehow
 <q>negative</q>.  NPIs have puzzled linguists working in syntax,
@@ -204,7 +204,7 @@ the denotation itself.  This makes DRT particularly well-suited to my
 purpose.
 
 
-Samvelian, Pollet # 0000-0002-6622-4117 # Université de Paris 3 & CNRS # A lexical account of Sorani Kurdish prepositions # 2007-10-15 # #
+Samvelian, Pollet # 0000-0002-6622-4117 # Université de Paris 3 & CNRS # A lexical account of {Sorani Kurdish} prepositions # 2007-10-15 # #
 In Sorani Kurdish dialects, the complement of a preposition can generally be realized either as a
 syntactic item (NP, independent pronoun or PP) or a bound personal morpheme (clitic/affix). However,
 the affixal realization of the complement gives rise to a range of specific phenomena. First, some
@@ -220,7 +220,7 @@ realization receive a lexical account, either in terms of argument composition o
 linearization constraints on domain objects.
 
 
-Song, Sanghoun & Choe, Jae-Woong # 0000-0002-4234-232X & 0000-0001-5224-2229 # Korea University # Type hierarchies for passive forms in Korean # 2007-10-15 # #
+Song, Sanghoun & Choe, Jae-Woong # 0000-0002-4234-232X & 0000-0001-5224-2229 # Korea University # Type hierarchies for passive forms in {Korean} # 2007-10-15 # #
 This paper aims to provide type hierarchies for Korean passive constructions on the basis of their
 forms within the HPSG framework. The type hierarchies proposed in this paper are based on the
 classification of Korean passives; suffixal passives, auxiliary passives, inherent passives, and
@@ -243,7 +243,7 @@ types of prepositional passives in English, and the ordinary NP
 passive.
 
 
-Wang, Lulu & Liu, Haitao # mailed & mailed # Communication University of China # A description of Chinese NPs using Head-Driven Phrase Structure Grammar # 2007-10-15 # #
+Wang, Lulu & Liu, Haitao # 0000-0001-8844-1676 & 0000-0003-1724-4418 # Communication University of China # A description of {Chinese NPs} using {Head-Driven Phrase Structure Grammar} # 2007-10-15 # #
 This paper aims at making a general description of Chinese NPs using Head-Driven Phrase Structure
 Grammar. The paper introduces the basic and complex structures of Chinese NPs and then shed light on
 the noun-classifier matching problem when implemented in HPSG. To solve this problem, the paper
@@ -253,7 +253,7 @@ can be described in HPSG, especially by the MRS, it is still difficult to effici
 semantic constrains in the LKB system.
 
 
-Webelhuth, Gert # 0000-0001-7510-1736 # University of Göttingen # Complex topic-comment structures in HPSG # 2007-10-14 # #
+Webelhuth, Gert # 0000-0001-7510-1736 # University of Göttingen # Complex topic-comment structures in {HPSG} # 2007-10-14 # #
 Based on Krifka (1992) and de Kuthy (2000), this paper develops an
 architecture for complex topic-comment structures in HPSG and applies it to
 predicate fronting in English with the goal of capturing the insights of Ward

@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Ahn, Hee-Don & Cho, Sungeun # mailed & mailed # Konkuk University & Yeungnam University # Fragments vs. null arguments in Korean # 2012-10-15 # # 
+Ahn, Hee-Don & Cho, Sungeun # mailed & mailed # Konkuk University & Yeungnam University # Fragments vs. null arguments in {Korean} # 2012-10-15 # # 
 Korean has two types of answers shorter than full sentential answers: Fragments and null argument
 constructions. Apparently the two constructions have the same interpretative processes. However,
 there are some cases where the fragment and null argument construction behave differently: e.g.,
@@ -15,7 +15,7 @@ pronoun pro; hence, the former is surface anaphora whereas the latter is deep an
 of Hankamer & Sag (1976).  
 
 Erschler, David # 0000-0001-6977-896X # Max Planck Institute for Developmental Biology, Tübingen and University of
-Tübingen # Sluicing-like phenomena and the location of CP in Ossetic # # no # In this talk, I show
+Tübingen # Sluicing-like phenomena and the location of {CP} in {Ossetic} # # no # In this talk, I show
 that Digor and Iron Ossetic, closely related Iranian languages spoken in the Central Caucasus, show
 sluicing in the proper sense and argue on this basis for the low (preverbal) position of
 complementizers in the Ossetic clause structure. The classical sluicing occurs in wh-fronting
@@ -59,7 +59,7 @@ languages, and it is only the wh-phrase(s) that is retained:
 </ul>
 
 Kim, Yae-Jee & Cho, Sae-Youn # mailed & 0000-0002-1046-3303 # State University of New York at Buffalo & Kangwon National University
-# Tense and honorific interpretations in Korean gapping construction:<br> A constraint- and construction-based approach # 2012-10-20 # # 
+# Tense and honorific interpretations in {Korean} gapping construction:<br> {A} constraint- and construction-based approach # 2012-10-20 # # 
 Chung (2001) claims that non-final conjuncts without overt tense morphemes which produce asymmetric
 tense interpretations are to be analyzed as TP; and Lee (2005) argues that the verbal honorific
 affix -si- never occurs in non-final conjuncts so honorific agreement between the subject and the
@@ -71,7 +71,7 @@ allowed to occur in all non-final conjuncts when the covert predicates of the no
 have an identical semantic relation value with that of the overt verb in the final conjunct,
 regardless of the consistency of the honorific and tense values between conjuncts. 
 
-Kobele, Gregory M. # 0000-0002-1051-8503 # University of Chicago # Eliding the derivation: A minimalist formalization of ellipsis # 2012-10-15 # #
+Kobele, Gregory M. # 0000-0002-1051-8503 # University of Chicago # Eliding the derivation: {A} minimalist formalization of ellipsis # 2012-10-15 # #
 In this paper I use the formal framework of minimalist grammars to implement a version of the
 traditional approach to ellipsis as ‘deletion under syntactic (derivational) identity’, which, in
 conjunction with canonical analyses of voice phenomena, immediately allows for voice mismatches in
@@ -83,7 +83,7 @@ transformational community are naturally seen as equivalent descriptions at diff
 LF-copying approach to ellipsis resolution is best seen as a description of the parser, whereas the
 phonological deletion approach a description of the underlying relation between form and meaning. 
 
-Lee, Hanjung & Kim, Nayoun # mailed & mailed # Sungkyunkwan University # Non-canonical word order and subject-object asymmetry in Korean case ellipsis # 2012-10-12 # #
+Lee, Hanjung & Kim, Nayoun # mailed & mailed # Sungkyunkwan University # Non-canonical word order and subject-object asymmetry in {Korean} case ellipsis # 2012-10-12 # #
 The dispreference for subject case ellipsis in OSV sentences has been analyzed as resulting from a
 violation of a structural requirement on the position of bare subject NPs (Ahn and Cho 2006a, 2006b,
 2007). In this study, we present evidence from an acceptability rating experiment demonstrating that
@@ -94,7 +94,7 @@ context. This evidence supports the conclusion that the dispreference for subjec
 OSV sentences is due to violations of probabilistic constraints that favor case marking for rare
 types of subjects and such violations can be remedied by non-syntactic information. 
 
-Sato, Yo & Tam, Wai Lok # mailed & mailed # Department of Computer Science University of Hertfordshire & National Institute of Advanced Industrial Science and Technology # Ellipsis of case-markers and information structure in Japanese # 2012-10-13 # #
+Sato, Yo & Tam, Wai Lok # mailed & mailed # Department of Computer Science University of Hertfordshire & National Institute of Advanced Industrial Science and Technology # Ellipsis of case-markers and information structure in {Japanese} # 2012-10-13 # #
 This paper presents an HPSG formalisation of how the ellipsis of case-marking affects the focus of
 the clause in Japanese. We restrict our attention to the nominative and accusative markers ga and o,
 and in view of the fact that the ellipsis effects on focushood vary between 1) ga and o and 2)

@@ -2,7 +2,7 @@
 
 
 
-Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # 0000-0002-9187-2298 & 0000-0003-0688-3855 & mailed & mailed # Universite Paris 7 # The syntax of French N′ phrases # 2004-10-14 # # 
+Abeillé, Anne & Bonami, Olivier & Godard, Danièle & Tseng, Jesse # 0000-0002-9187-2298 & 0000-0003-0688-3855 & 0000-0001-7354-6264 & mailed # Universite Paris 7 # The syntax of {French N$'$} phrases # 2004-10-14 # # 
 Of all French functional elements, the form <em>de</em> has without question the widest
 variety of uses, and presents the greatest challenge for linguistic description
 and analysis.  Historically a preposition, it still has a number of
@@ -18,7 +18,7 @@ related in previous accounts.
 Ackerman, Farrell  &  Nikolaeva, Irina &  Malou, Rob # & & # UC San Diego & University of London & San Diego State University  # Possessive relatives and cooperating constructions #  # no #
 
 
-Arnold, Doug # 0000-0002-3685-8450 # University of Essex # Non-restrictive relative clauses in Construction Based HPSG # 2004-10-12 # #
+Arnold, Doug # 0000-0002-3685-8450 # University of Essex # Non-restrictive relative clauses in {Construction Based HPSG} # 2004-10-12 # #
 This paper presents an account of English non-restrictive (`appositive') relative
 clauses (NRCs) in the framework of `construction based' HPSG.
 Specifically, it shows how the account of restrictive relative clause
@@ -50,7 +50,7 @@ develop our own ellipsis analysis, building on Yatabe's and
 Crysmann's insights.
 
 
-Borsley, Robert D. # 0000-0002-4856-4732 # University of Essex # An approach to English comparative correlatives # 2004-10-11 # # 
+Borsley, Robert D. # 0000-0002-4856-4732 # University of Essex # An approach to {English} comparative correlatives # 2004-10-11 # # 
 Recent syntactic theory has highlighted the importance of peripheral
 constructions such as the comparative correlative construction. This
 construction involves a pair of filler-gap constructions with unusual
@@ -65,7 +65,7 @@ analyzed as a non-standard head-adjunct phrase, in which the head and the
 phrase have different categories.
 
 
-Daniels, Michael W. & Meurers, W. Detmar # mailed & 0000-0002-9740-7442 # Ohio State University # GIDLP: A grammar format for linearization-based HPSG # 2004-10-01 # #
+Daniels, Michael W. & Meurers, W. Detmar # mailed & 0000-0002-9740-7442 # Ohio State University # {GIDLP}: {A} grammar format for linearization-based {HPSG} # 2004-10-01 # #
 Linearization-based HPSG theories are widely used for analyzing languages with
 relatively free constituent order. This paper introduces the Generalized ID/LP
 (GIDLP) grammar format, which supports a direct encoding of such theories, and
@@ -126,10 +126,10 @@ semantic selection, corresponding to the semantic and syntactic head
 paths: a feature SORT on indices and a feature KEY inside HEAD.
 
 
-Ellingsen, Liv # # University of Oslo # Norwegian word order in HPSG # # no #
+Ellingsen, Liv # # University of Oslo # Norwegian word order in {HPSG} # # no #
 
 
-Ginzburg, Jonathan # 0000-0001-5737-0991 # King's College London # HPSG in Constructive Type Theory # 2004-10-01 # no #
+Ginzburg, Jonathan # 0000-0001-5737-0991 # King's College London # HPSG in {Constructive Type Theory} # 2004-10-01 # no #
 In the talk I propose, following the lead of some recent work by Robin Cooper
 (Cooper (2005a,b)), that Constructive Type Theory (CTT, Ranta (1994), see also
 Constable (2002) for a elementary introduction) is an attractive framework to underpin HPSG.
@@ -216,7 +216,7 @@ Semantics and Interaction in Dialogue, Stanford: California: CSLI Publications a
 Kiss, Tibor # 0000-0003-1857-3686 # Ruhr-Universität Bochum # Exempt reflexives and psych verbs # # no #
 
 
-Koenig, Jean-Pierre  & Davis, Anthony R. # 0000-0002-5431-5978 & 0000-0003-2873-9555 # University at Buffalo, The State University of New York & StreamSage, Inc. # Raising doubts about Russian impersonals # 2004-10-17 # #
+Koenig, Jean-Pierre  & Davis, Anthony R. # 0000-0002-5431-5978 & 0000-0003-2873-9555 # University at Buffalo, The State University of New York & StreamSage, Inc. # Raising doubts about {Russian} impersonals # 2004-10-17 # #
 The Russian data presented in Perlmutter and Moore (2002) seem to
 call into question the standard analysis of raising within Head-driven Phrase
 Structure Grammar (HPSG): In Russian, the case marking of the raising target 
@@ -230,7 +230,7 @@ stance recently advocated within HPSG, following the lead of Construction
 Grammar.
 
 
-Kordoni, Valia # 0000-0002-7515-427X # Saarland University # Between shifts and alternations: Ditransitive constructions # 2004-10-25 # #
+Kordoni, Valia # 0000-0002-7515-427X # Saarland University # Between shifts and alternations: {Ditransitive} constructions # 2004-10-25 # #
 In this paper I present two classes of double object constructions in Modern 
 Greek, i.e., the genitive, as well as the double accusative, ditransitive 
 constructions. I show that these two classes differ from one another in that 
@@ -253,7 +253,7 @@ constraints can deal with the phenomena in question, and that the cases problema
 constituency-based analyses can also be accounted for by our analysis.
 
 
-Marshall, Ian  & Safar, Eva # unknown & unknown # University of East Anglia # Sign language generation in an ALE HPSG # 2004-10-18 # #
+Marshall, Ian  & Safar, Eva # unknown & unknown # University of East Anglia # Sign language generation in an {ALE HPSG} # 2004-10-18 # #
 During the past fifty years sign languages have been
 recognised as genuine languages with their own syntax and
 distinctive phonology. In the case of sign languages,
@@ -273,7 +273,7 @@ which respect positional agreement in signing space are
 emphasised.
 
 
-Müller, Stefan # 0000-0003-4413-5313 # Universität Bremen # An analysis of depictive secondary predicates in German without discontinuous constituents # 2004-08-11 # #    
+Müller, Stefan # 0000-0003-4413-5313 # Universität Bremen # An analysis of depictive secondary predicates in {German} without discontinuous constituents # 2004-08-11 # #    
 In <a href="https://hpsg.hu-berlin.de/~stefan/Pub/mehr-vf-lb.html">Müller, 2005</a> I provide evidence that suggests that linearization approaches
 that analyze German clause structure with discontinuous constituents
 cannot account for the German clause structure in an insightful way. 
@@ -309,7 +309,7 @@ these two grammar modules are required to successfully account for the
 curious case transmission facts in Czech and Polish.
 
 
-Sailer, Manfred # 0000-0002-1693-8859 # Universität Göttingen # Propositional relative clauses in German # 2004-10-17 # #
+Sailer, Manfred # 0000-0002-1693-8859 # Universität Göttingen # Propositional relative clauses in {German} # 2004-10-17 # #
 This paper discusses a special kind of syntax-semantics mismatch: a
 noun with a relative clause is interpreted as if it were a complement
 clause. An analysis in terms of Lexical Resource Semantics is
@@ -317,7 +317,7 @@ developed which provides a uniform account for ``normal'' relative
 clauses and for the discussed type of relative clause.
 
 
-Siegel, Melanie  & Bender, Emily M. # 0000-0002-5064-5750 & 0000-0001-5384-6227 # University of Saarbrücken & University of Washington # Head-initial constructions in Japanese # 2004-10-15 # #
+Siegel, Melanie  & Bender, Emily M. # 0000-0002-5064-5750 & 0000-0001-5384-6227 # University of Saarbrücken & University of Washington # Head-initial constructions in {Japanese} # 2004-10-15 # #
 Japanese is often taken to be strictly head-final in its syntax. In our work on
 a broad-coverage, precision implemented HPSG for Japanese, we have found that
 while this is generally true, there are nonetheless a few minor exceptions to
@@ -329,7 +329,7 @@ generalizations and on the other hand the usefulness of grammar engineering as
 a means of testing linguistic hypotheses.
 
 
-Soehn, Jan-Philipp # 0000-0003-3054-7085 # University of Jena # License to coll: How to bind bound words and readings to their contexts # 2004-09-30 # #
+Soehn, Jan-Philipp # 0000-0003-3054-7085 # University of Jena # License to {COLL}: {How} to bind bound words and readings to their contexts # 2004-09-30 # #
 In this contribution we propose a new module for handling idioms and
 distributional idiosyncrasies. Based on the concept by Richter/Sailer (1999)
 the new feature COLL (context of lexical licensing) plays the central role in
@@ -344,7 +344,7 @@ proposal with alternative approaches and give some ideas regarding further
 applications beyond idiomaticity.
 
 
-Taghvaipour, Mehran A. # mailed # University of Essex # An HPSG analysis of Persian relative clauses # 2004-10-15 # #
+Taghvaipour, Mehran A. # mailed # University of Essex # An {HPSG} analysis of {Persian} relative clauses # 2004-10-15 # #
 Relative clauses (RCs) in Persian are head-modifying constituents, all
 typically introduced by the invariant complementizer ke. Persian RCs are
 Unbounded Dependency Constructions (UDCs), containing either a gap or a
@@ -364,7 +364,7 @@ the complementizer ke that will account for the binding of SLASH by the feature
 BIND, which has a nonempty set as value.
 
 
-Trawinski, Beata # 0000-0002-1705-6911 # University of Tübingen # Towards licensing of adverbial noun phrases in HPSG # 2004-10-15 # #
+Trawinski, Beata # 0000-0002-1705-6911 # University of Tübingen # Towards licensing of adverbial noun phrases in {HPSG} # 2004-10-15 # #
 This paper focuses on aspects of the licensing of adverbial noun phrases
 (AdvNPs) in the HPSG grammar framework. In the first part, empirical issues
 will be discussed. A number of AdvNPs will be examined with respect to various

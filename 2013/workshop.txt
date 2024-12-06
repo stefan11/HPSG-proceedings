@@ -20,7 +20,7 @@ grammar per se, e.g., processing complexity, semantic or pragmatic well-formedne
 coherence, etc. I review several examples that suggest that the line that SS draws between
 competence on the one hand and performance and other mechanisms on the other is on the right track. 
 
-Kiss, Tibor # 0000-0003-1857-3686 # Ruhr Universität Bochum # Gauging the progress in linguistics (Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind.) # 2013-06-18 # no # In this talk, I will argue that socio-political and methodological problems lie at the heart of the
+Kiss, Tibor # 0000-0003-1857-3686 # Ruhr Universität Bochum # Gauging the progress in linguistics {(Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind.)} # 2013-06-18 # no # In this talk, I will argue that socio-political and methodological problems lie at the heart of the
 decreasing progress in and success of linguistics as a field. Socio-politically, two large schools
 focus on empty theorizing or collecting data without theoretical guidance, respectively. Schools
 progress from communities in which issues can be openly discussed to communities in which certain
@@ -34,7 +34,7 @@ To support my claim, I shall discuss picture-NP-reflexives in binding theory and
 obligatoriness throughout. 
 
 
-Müller, Gereon # # University of Leipzig # Derivational syntax: Arguments and challenges # 2013-10-31 # no # Strong arguments for a derivational organization of syntax are
+Müller, Gereon # # University of Leipzig # Derivational syntax: {Arguments} and challenges # 2013-10-31 # no # Strong arguments for a derivational organization of syntax are
 provided by opaque interactions of grammatical building blocks (like
 rules, constraints, or schemata), i.e., by counter-bleeding and
 counter-feeding phenomena. Some of these opaque interactions can be
@@ -69,7 +69,7 @@ simple way.
 </ul>
 
 
-Müller, Stefan # 0000-0003-4413-5313 # Freie Universität Berlin # Some remarks on the state of the field and on ways to ensure progress: Description, analysis, formalization, implementation # 2013-10-15 # no #
+Müller, Stefan # 0000-0003-4413-5313 # Freie Universität Berlin # Some remarks on the state of the field and on ways to ensure progress: {Description}, analysis, formalization, implementation # 2013-10-15 # no #
 One problem of current theorizing in mainstream generative grammar (MGG) is the impressionistic use
 of data (Fanselow, 2009). Another problem is that constructs that are manifested in one language or
 a language class are taken as evidence for invisible structures in other languages (Chinque, 1999;

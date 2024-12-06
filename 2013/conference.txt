@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # abstract
 
-Ackerman, Farrell & Malouf, Robert & Moore, John # & & # University of California, San Diego & San Diego State University & University of California, San Diego # Symmetric objects in Moro # # no # pdf
+Ackerman, Farrell & Malouf, Robert & Moore, John # & & # University of California, San Diego & San Diego State University & University of California, San Diego # Symmetric objects in {Moro} # # no # pdf
 
 Alotaibi, Mansour & Borsley, Robert D. # mailed & 0000-0002-4856-4732 # University of Essex, Salman bin Abdulaziz University & University of Essex # Gaps and resumptive pronouns in {Modern Standard Arabic} # 2013-10-15 # # Unbounded dependencies in Modern Standard Arabic often involve not a gap but a null resumptive pronoun. The facts are quite complex, but it is not too difficult to extend the SLASH mechanism of HPSG to handle dependencies with a null resumptive pronoun. It is also not too difficult to restrict the distribution of gaps appropriately.
 
@@ -19,7 +19,7 @@ paradigmatic opposition with a general distinction between expression and condit
 
 
 
-Hahn, Michael # 0000-0003-4828-4834 # University of Tübingen # Word order variation in Khoekhoe # 2013-10-15 # # 
+Hahn, Michael # 0000-0003-4828-4834 # University of Tübingen # Word order variation in {Khoekhoe} # 2013-10-15 # # 
 Khoekhoe, a Central Khoisan language, has been claimed to have a clause-second position and
 topological fields similar to German and Dutch. The position in front of the clause-second position
 can be occupied by either the matrix verb or a dependent. We argue that monomoraic words are exempt
@@ -60,7 +60,7 @@ constraint-based analysis is developed that takes both empirical
 observations into account, the verb-class dependence and the janus-faced
 nature. 
 
-Jin, Dawei # 0000-0001-7992-4940 # University at Buffalo, SUNY # Information structure constraints and complex NP islands in {Chinese} # 2013-10-26 # #
+Jin, Dawei # 0000-0001-7992-4940 # University at Buffalo, SUNY # Information structure constraints and complex {NP} islands in {Chinese} # 2013-10-26 # #
 This paper presents an analysis of the complex NP island effects in
 Chinese. I follow Ginzburg & Sag (2000)'s analysis of <em>in situ
 wh</em>-interrogative
@@ -83,7 +83,7 @@ four beautiful days). There are at least two analyses that might be
 proposed within HPSG, a lexical analysis and a constructional analysis,
 but we argue that the latter is the best analysis.
 
-Miller, Philip # 0000-0002-1436-9533 # EA 3967 CLILLAC-ARP, Université Paris Diderot # Usage preferences: The case of the {English} verbal anaphor <em>do so</em> # 2013-11-05  #  # 
+Miller, Philip # 0000-0002-1436-9533 # EA 3967 CLILLAC-ARP, Université Paris Diderot # Usage preferences: {The} case of the {English} verbal anaphor <em>do so</em> # 2013-11-05  #  # 
 In this paper I introduce the notion of Usage Preferences (UPs), which are statistically significant
 preferences in usage which can concern any aspect of linguistics. I suggest that multiple violations
 of UPs can have additive effects, causing grammatical sentences to be judged as unacceptable. A new
@@ -108,11 +108,11 @@ mapping processes that insert expletives in Danish. The passive in general is ac
 a lexical rule that is uniform across languages and hence captures the generalization regarding passive. # passive, Danish, English, German, impersonal passive, case
 
 
-Przepiórkowski, Adam # 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences # The syntax of distance distributivity in {Polish}: Preserving generalisations with weak heads # 2013-10-15 # #
+Przepiórkowski, Adam # 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences # The syntax of distance distributivity in {Polish}: {Preserving} generalisations with weak heads # 2013-10-15 # #
 This paper presents a syntactic HPSG analysis of distance distributivity in Polish, where the challenge is to uniformly analyse a number of function lexemes PO 'each' which share their form and semantic contribution, but differ in their syntactic behaviour. To this end, the HPSG notion of <em>weak head</em> is employed in a novel way.
 
 
-Richter, Frank # 0000-0003-1929-5489 # Heinrich-Heine Universität Düsseldorf # 87, 94, 14? The Nature of Linguistic Theory
+Richter, Frank # 0000-0003-1929-5489 # Heinrich-Heine Universität Düsseldorf # 87, 94, 14? {The} Nature of Linguistic Theory
 # October 16, 2013 # no # 
 In the early days of HPSG, there was considerable emphasis on its
 formal foundations and on the 'nature of linguistic theory' that would
@@ -146,7 +146,7 @@ We know HPSG in 1987 and in 1994. My modest aim is to present
 HPSG 2014.
 
 
-Ryu, Byong-Rae # mailed # Chungnam National University # Multiple case marking as case copying: A unified approach to multiple nominative and accusative constructions in {Korean} # 2013-10-18 ## 
+Ryu, Byong-Rae # mailed # Chungnam National University # Multiple case marking as case copying: {A} unified approach to multiple nominative and accusative constructions in {Korean} # 2013-10-18 ## 
 This paper presents a unified approach to multiple nominative and accusative constructions in
 Korean. We identify 16 semantic relations holding between two consecutive NPs in multiple case
 marking constructions, and propose each semantic relation as a licensing condition on double case

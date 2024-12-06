@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Abeillé, Anne & Godard, Danièle & Sabio, Frédéric # 0000-0002-9187-2298 & mailed & mailed # University of Paris 7 & CNRS, France & University of Paris 7 & CNRS, France & University of Provence, Aix, France # Two types of NP preposing in French # 2008-10-16 # #
+Abeillé, Anne & Godard, Danièle & Sabio, Frédéric # 0000-0002-9187-2298 & mailed & mailed # University of Paris 7 & CNRS, France & University of Paris 7 & CNRS, France & University of Provence, Aix, France # Two types of {NP} preposing in {French} # 2008-10-16 # #
 We contrast two types of sentences with a preposed NP in French in a construction
 based HPSG grammar. They differ with respect to different grammatical aspects
 (syntax, semantics, pragmatics and phonology), which cluster uniquely into
@@ -25,7 +25,7 @@ range of elliptical and anaphoric phenomena, and show that this conclusion is
 misplaced. In fact, the phenomena argue strongly in favour of a syntactically
 integrated analysis.
 
-Bildhauer, Felix # 0000-0002-6567-5987 # Freie Universität Berlin # Clitic left dislocation and focus projection in Spanish # 2008-10-16 # #
+Bildhauer, Felix # 0000-0002-6567-5987 # Freie Universität Berlin # Clitic left dislocation and focus projection in {Spanish} # 2008-10-16 # #
 The information-structural status of clitic left dislocated arguments in
 Spanish has been argued to depend crucially on their thematic role.
 Earlier HPSG analyses of related phenomena in other languages do not
@@ -33,7 +33,7 @@ take into account this sort of information. A formalization will be
 presented which can handle differences in information-structure arising
 from different thematic roles of clitic left dislocated phrases.
 
-Bonami, Olivier & Godard, Danièle # 0000-0003-0688-3855 & mailed # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # On the syntax of direct quotation in French # 2008-10-06 # #
+Bonami, Olivier & Godard, Danièle # 0000-0003-0688-3855 & 0000-0001-7354-6264 # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # On the syntax of direct quotation in {French} # 2008-10-06 # #
 Direct quotation raises three major problems for grammatical modelling: (i) the variety of quoted
 material (which can be a non linguistic behavior, or a sign in a different language), (ii) the
 embedding of an utterance inside another one, (iii) a special denotation, the content of the
@@ -43,7 +43,7 @@ behavior demonstrated by the speaker. Syntactically, direct quotation comes in t
 be the complement of a quotative verb, or constitutes a head sentence, modified by an adjunct
 containing a quotative verb whose complement is extracted and identified with its local features.
 
-Henri, Fabiola & Abeillé, Anne # 0000-0002-2491-1568 & 0000-0002-9187-2298 # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # Verb form alternations in Mauritian # 2008-10-06 # #
+Henri, Fabiola & Abeillé, Anne # 0000-0002-2491-1568 & 0000-0002-9187-2298 # Université Paris-Sorbonne & LLF & CNRS & U. Paris 7 # Verb form alternations in {Mauritian} # 2008-10-06 # #
 This paper presents a constraint-based account of verb form alternations (Short and Long Forms)
 in Mauritian which, basically, is syntactically driven: Short Forms appear with Canonical
 complements while Long Forms are expected with no realized complements. However, in
@@ -80,7 +80,7 @@ meanings. In the end, I evaluate the relative
 importance of structural cues among different cues
 children use in verb learning.
 
-Kubota, Yusuke & Lee, Jungmee # 0000-0002-8468-5857 & 0000-0002-1417-0575 # The Ohio State University # Reconsidering the coordinate structure constraint in Japanese and Korean: Syntactic constraint or pragmatic principle? # 2008-10-15 # #
+Kubota, Yusuke & Lee, Jungmee # 0000-0002-8468-5857 & 0000-0002-1417-0575 # The Ohio State University # Reconsidering the coordinate structure constraint in {Japanese and Korean}: {Syntactic} constraint or pragmatic principle? # 2008-10-15 # #
 Whether the Coordinate Structure Constraint (CSC) (Ross, 1967) is a
 syntactic constraint has been discussed much in the literature.  This
 paper reconsiders this issue by drawing on evidence from Japanese and
@@ -92,7 +92,7 @@ many problems.  We take these results to provide strong support for
 the view that the CSC is a pragmatic principle rather than a syntactic
 constraint.
 
-Marandin, Jean-Marie # mailed # CNRS, Université Paris 7 # The exclamative clause type in French # 2008-10-16 # #
+Marandin, Jean-Marie # mailed # CNRS, Université Paris 7 # The exclamative clause type in {French} # 2008-10-16 # #
 My objective in this paper is to integrate scalar exclamatives into an HPSG grammar of
 French. First, a procedure to sort out scalar exclamatives from declaratives and interrogatives is
 proposed. Then, the main semantic and dialogical properties of exclamatives are presented:

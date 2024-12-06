@@ -1,4 +1,4 @@
-Beermann, Dorothee & Hellan, Lars # 0000-0002-8906-5235 & 0000-0003-3043-120X # NTNU Trondheim # A treatment of directionals in implemented HPSG grammars # 2004-10-01 # #
+Beermann, Dorothee & Hellan, Lars # 0000-0002-8906-5235 & 0000-0003-3043-120X # NTNU Trondheim # A treatment of directionals in two implemented {HPSG} grammars # 2004-10-01 # #
 This article proposes a semantics of directional expressions in Norwegian and
 German, regarded as VP modifiers. The analysis uses Minimal Recursion
 Semantics, as an integrated part of Matrix-based HPSG grammars. Directional
@@ -56,7 +56,7 @@ Research on Language and Computation
 in press
 
 
-Crysmann, Berthold # 0000-0003-0230-502X # DFKI, Saarland University # Underspecification of intersective modifier attachment: Some arguments from German # 2004-10-01 # # 
+Crysmann, Berthold # 0000-0003-0230-502X # DFKI, Saarland University # Underspecification of intersective modifier attachment: {Some} arguments from {German} # 2004-10-01 # # 
 In this paper, I shall discuss the semantic attachment of intersective
 modifiers in German coherent constructions. I shall show that a purely
 syntactic solution to the observable attachment ambiguity is undesirable for
@@ -74,7 +74,7 @@ implementation where semantic attachment is unfolded by means of retrieval
 rules.
 
 
-Frank, Anette & Spreyer, Kathrin & Drożdżyński, Witold & Krieger, Hans-Ulrich & Schäfer, Ulrich # 0000-0003-4706-9817 & unknown & unknown & no & 0000-0003-2649-3731 # DFKI Saarbrücken # Constraint-based RMRS construction from shallow grammars # 2004-10-01 # #
+Frank, Anette & Spreyer, Kathrin & Drożdżyński, Witold & Krieger, Hans-Ulrich & Schäfer, Ulrich # 0000-0003-4706-9817 & unknown & unknown & no & 0000-0003-2649-3731 # DFKI Saarbrücken # Constraint-based {RMRS} construction from shallow grammars # 2004-10-01 # #
 We present a constraint-based syntax-semantics interface 
 for the construction of RMRS (Robust Minimal Recursion 
 Semantics) representations from shallow grammars. The 
@@ -97,7 +97,7 @@ morphologically motivated. The aim is to show that this can be avoided by
 letting constructions introduce the linking information instead.
 
 
-Penn, Gerald  & Richter, Frank # 0000-0003-3553-8305 & 0000-0003-1929-5489 # University of Toronto & Universität Tübingen # Lexical resource semantics: From theory to implementation # 2004-10-01 # #
+Penn, Gerald  & Richter, Frank # 0000-0003-3553-8305 & 0000-0003-1929-5489 # University of Toronto & Universität Tübingen # {Lexical Resource Semantics}: {From} theory to implementation # 2004-10-01 # #
 This paper summarizes the architecture of Lexical Resource Semantics
 (LRS).  It demonstrates how to encode the language of two-sorted
 theory (Ty2; Gallin, 1975) in typed feature logic (TFL), and then

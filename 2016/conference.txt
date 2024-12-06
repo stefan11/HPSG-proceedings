@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date                 # status # keywords # abstract
 
-Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # mailed &0000-0001-6987-8135 & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Reference patterns in subjunctive complement clauses of Modern Standard Arabic # 2016-12-16 # # In this paper we investigate the status of control
+Arad Greshler, Tali & Herzig Sheinfux, Livnat & Melnik, Nurit & Wintner, Shuly # mailed &0000-0001-6987-8135 & 0000-0002-0610-915X & 0000-0002-7154-4764 # University of Haifa & University of Haifa & The Open University of Israel & University of Haifa # Reference patterns in subjunctive complement clauses of {Modern Standard Arabic} # 2016-12-16 # # In this paper we investigate the status of control
 constructions in Modern Standard Arabic (MSA). MSA has several
 embedded clause constructions, some of which resemble control in
 English (and other languages). However, these constructions exhibit
@@ -18,7 +18,7 @@ corpus study, Modern Standard Arabic
 
 
 Arka, I Wayan # 0000-0002-2819-6186 # Australian National University / Udayana University #
-Externally and internally headed relative clauses in Marori #
+Externally and internally headed relative clauses in {Marori} #
 2016-12-16 ## This paper discusses relative clauses (RCs) in Marori,
 showing that this language unusually has almost all of relative clause
 types, from headed/headless, externally/internally headed,
@@ -38,9 +38,9 @@ mismatch: a partitive construction in which a plural nominal is
 apparently modified by a singular relative clause.
 # HPSG, English, syntax, semantics, agreement mismatch
 
-Augustinus, Liesbeth # 0000-0002-3238-4622 # KU Leuven # Word order variation in Dutch and German verb clusters # # no # #
+Augustinus, Liesbeth # 0000-0002-3238-4622 # KU Leuven # Word order variation in {Dutch} and {German} verb clusters # # no # #
 
-Beermann, Dorothee & Hellan, Lars # 0000-0002-8906-5235 & 0000-0003-3043-120X # Norwegian University of Science and Technology, Trondheim, Norway # Switched control and other 'uncontrolled' cases of obligatory control # 2016-12-16 # #The
+Beermann, Dorothee & Hellan, Lars # 0000-0002-8906-5235 & 0000-0003-3043-120X # Norwegian University of Science and Technology, Trondheim, Norway # Switched control and other ``uncontrolled'' cases of obligatory control # 2016-12-16 # #The
 paper presents an analysis of <b>control switch</b> in German and Norwegian,
 as exemplified in the German pair <i>Ich verspreche ihm zu kommen</i> 'I
 promise him to come' vs. <i>Ich verspreche ihm kommen zu dürfen</i> 'I
@@ -51,7 +51,7 @@ deploying a pronounced feature-based semantic component. Our core
 assumption is that a <b>normative agent</b> is computed on top of control
 relations. # deontic modal,  deontic infinitives, suasive verbs
 
-Belyaev, Oleg # 0000-0002-8032-566X # Lomonosov Moscow State University and Institute of Linguistics RAS # Ergative gender agreement in Dargwa ``backward control'' or feature sharing? # 2016-12-16 # # Dargwa languages have two types of agreement at clause
+Belyaev, Oleg # 0000-0002-8032-566X # Lomonosov Moscow State University and Institute of Linguistics RAS # Ergative gender agreement in {Dargwa} ``backward control'' or feature sharing? # 2016-12-16 # # Dargwa languages have two types of agreement at clause
 level: gender and person agreement. In the general case, person
 agreement is hierarchical (speech act participants prefered to 3rd
 persons), while gender agreement is with the absolutive (S/P)
@@ -74,10 +74,10 @@ conventional account of clause structure while framing the data of
 Dargwa in a wider typological context.
 #agreement, person hierarchy, gender, obviation, Dargwa
 
-Bögel, Tina # # University of Konstanz # The Swabian first person singular pronoun at the syntax-prosody interface # # no # #
+Bögel, Tina # # University of Konstanz # The {Swabian} first person singular pronoun at the syntax-prosody interface # # no # #
 
 Bonami, Olivier & Borsley, Robert D. & Tallerman, Maggie # 0000-0003-0688-3855 & 0000-0002-4856-4732 & 0000-0001-6256-4758 #
-Université Paris Diderot & University of Essex & Newcastle University # On pseudo-non-finite clauses in Welsh # 2016-12-16
+Université Paris Diderot & University of Essex & Newcastle University # On pseudo-non-finite clauses in {Welsh} # 2016-12-16
 ## Languages differ in how they employ finite and non-finite
 clauses. Welsh finite and non-finite clauses have a similar
 distribution to their counterparts in English. However, it doesn’t
@@ -90,7 +90,7 @@ provide an HPSG analysis capturing similarities and differences
 between these two constructions and canonical finite and nonfinite
 clauses. # Welsh, finiteness, syntax-morphology relation, periphrasis.
 
-Börjars, Kersti & Ghadgoud, Khawla & Payne, John # 0000-0002-3154-5260 & 0000-0001-7743-936X & 0000-0003-4761-3712 # The University of Manchester # Aspectual object marking in Libyan Arabic # 2016-12-16 # # In Libyan Arabic, the preposition <i>fi</i> 'in' has
+Börjars, Kersti & Ghadgoud, Khawla & Payne, John # 0000-0002-3154-5260 & 0000-0001-7743-936X & 0000-0003-4761-3712 # The University of Manchester # Aspectual object marking in {Libyan Arabic} # 2016-12-16 # # In Libyan Arabic, the preposition <i>fi</i> 'in' has
 developed into a marker of continuous or habitual aspect. While
 structurally remaining a preposition which marks the objects of the
 non-tensed forms of dynamic transitive verbs, it serves to attribute
@@ -105,7 +105,7 @@ Börjars, Kersti & Payne, John # 0000-0002-3154-5260 & 0000-0003-4761-3712 # Uni
 
 Butt, Miriam & Sulger, Sebastian & Rahman, Mutee U & Ahmed, Tafseer # 0000-0003-0409-9223 & unknown & 0000-0002-7823-5411 & 0000-0002-2939-634X #
 University of Konstanz & University of Konstanz & Isra University &
-DHA Suffa University # Adverb agreement in Urdu, Sindhi and Punjabi #
+DHA Suffa University # Adverb agreement in {Urdu, Sindhi and Punjabi} #
 2016-12-16 # # We discuss agreeing adverbs in Urdu, Sindhi and
 Punjabi. We adduce crosslinguistic evidence that is based mainly on
 similar patterns in Romance and posit that there is a close connection
@@ -117,7 +117,7 @@ predication, not just the result. # Urdu, Sindhi, Punjabi, agreeing
 adverbs, resultatives
 
 Ćavar, Damir & Moe, Lwin & Hu, Hai & Steimel, Kenneth # 0000-0002-1262-5927 & mailed & 0000-0002-2289-9008 & 0000-0003-0637-6204 # Indiana University # 
-Preliminary results from the Free Linguistic Environment project # 2016-12-16 # # The Free Linguistic Environment (FLE) project focuses on the
+Preliminary results from the {Free Linguistic Environment} project # 2016-12-16 # # The Free Linguistic Environment (FLE) project focuses on the
 development of an open and free library of natural language processing
 functions and a grammar engineering platform for Lexical Functional
 Grammar (LFG) and related grammar frameworks. In its present state the
@@ -141,7 +141,7 @@ based on the LFG framework.
 # parser, Free Linguistic Environment, implementation, grammar engineering,
 natural language processing
 
-Chiruzzo, Luis & Wonsever, Dina # 0000-0002-1697-4614 & 0000-0003-1453-3249 # Universidad de la República, Montevideo, Uruguay # Transforming the AnCora corpus to HPSG # 2016-12-16 # # We present the construction of a HPSG corpus for Spanish, based
+Chiruzzo, Luis & Wonsever, Dina # 0000-0002-1697-4614 & 0000-0003-1453-3249 # Universidad de la República, Montevideo, Uruguay # Transforming the {AnCora} corpus to {HPSG} # 2016-12-16 # # We present the construction of a HPSG corpus for Spanish, based
 on the transformation of the AnCora Spanish corpus into a HPSG
 compatible format. We describe the transformation process and the
 evaluation of the resulting corpus. #HPSG, Spanish, Corpus, AnCora
@@ -164,7 +164,7 @@ Particle verb, Idiomatic constructions, XLFG
 
 
 Crysmann, Berthold # 0000-0003-0230-502X # Laboratoire de linguistique formelle, CNRS and U Paris-Diderot # 
-An underspecification approach to Hausa resumption #
+An underspecification approach to {Hausa} resumption #
 2016-12-16 # # Within recent work on the treatment of resumption
 in HPSG, there is growing consensus that resumptive unbounded
 dependency constructions (=UDCs) should be modelled on a par with
@@ -195,7 +195,7 @@ derive the correct gap-like semantics for resumptives, maintains
 standard deterministic amalgamation, and, finally, provides an answer
 to McCloskey’s generalisation. # Hausa, resumption, underspecification, islands
 
-Duncan, Lachlan # 0000-0001-7103-9760 # no # On the perfect tense-aspect in K'ichee'an Mayan: An LFG approach # 2016-12-16 # # Previous accounts of the
+Duncan, Lachlan # 0000-0001-7103-9760 # no # On the perfect tense-aspect in {K'ichee'an Mayan}: {An} LFG approach # 2016-12-16 # # Previous accounts of the
 perfect tense-aspect in the K'ichee'an languages have concluded that
 the category or part-of-speech of the perfect is a verb, or less
 often, a participle. We believe otherwise. Empirical support is
@@ -211,7 +211,7 @@ restrictions that constrain the perfect. The analyses are implemented
 using the syntactic architecture of LFG. # perfect tense-aspect, K'ichee'an Mayan
 
 
-Faghiri, Pegah & Samvelian, Pollet # 0000-0001-9121-6330 & 0000-0002-6622-4117 # Université Sorbonne Nouvelle Paris 3 # How much structure is needed: The case of the Persian VP # 2016-12-16 # # The aim of
+Faghiri, Pegah & Samvelian, Pollet # 0000-0001-9121-6330 & 0000-0002-6622-4117 # Université Sorbonne Nouvelle Paris 3 # How much structure is needed: {The} case of the {Persian VP} # 2016-12-16 # # The aim of
 this paper is to tease apart two available views of the VP in
 Persian. The prevailing view of the Persian VP initially suggested in
 generative studies assumes a hierarchical structure with two object
@@ -221,10 +221,10 @@ hierarchical view and show that it is not born out by the data. A flat
 structure view of the VP, on the contrary, is in line with the data.
 #Persian, phrase structure, Differential Object Marking (DOM), empirical/usage-based methods
 
-Findlay, Jamie Y. # 0000-0002-7700-1525 # University of Oxford # The prepositional passive in Lexical Functional Grammar # 2016-12-16 # # The aim of this
+Findlay, Jamie Y. # 0000-0002-7700-1525 # University of Oxford # The prepositional passive in {Lexical Functional Grammar} # 2016-12-16 # # The aim of this
 paper is to provide an adequate analysis in LFG of the prepositional
 passive, e.g. <i>That problem has been dealt with, My pen has been written
-with.</I> This construction has been examined in LFG before by Bresnan
+with.</i> This construction has been examined in LFG before by Bresnan
 (1982), Lødrup (1991), and Alsina (2009), but empirical and
 theoretical problems, some well-documented, some new, mean that such
 proposals cannot be maintained. Instead, I offer an account couched in
@@ -235,7 +235,7 @@ but rather as being located at the interface between syntax and
 semantics. # passive, syntax-semantics interface, argument linking
 
 
-Fiotaki, Alexandra & Tzortzi, Katerina # 0000-0002-1909-3142 & mailed # University of Ioannina & University of Crete # Exhaustive object control constructions in Greek: An LFG/XLE treatment # 2016-12-16 # # 
+Fiotaki, Alexandra & Tzortzi, Katerina # 0000-0002-1909-3142 & mailed # University of Ioannina & University of Crete # Exhaustive object control constructions in {Greek}: {An} {LFG/XLE} treatment # 2016-12-16 # # 
 In this paper we
 propose an LFG/XLE treatment of Exhaustive Object Control (EOC)
 constructions in Greek na clauses. We draw on data retrieved from the
@@ -247,7 +247,7 @@ case that is anaphorically related to the object of the matrix clause
 adding the new feature ANAPH_C_BY. # exhaustive object control, na
 clauses, PRO, anaphoric control, Greek
 
-Goldstein, David M. & Haug, Dag T. T. # 0000-0003-1276-7623 & 0000-0001-5275-8073 # University of California, Los Angeles & University of Oslo # Second-position clitics and the syntax-phonology interface: The case of ancient Greek # 2016-12-16 # # In this paper we discuss second position clitics in Ancient
+Goldstein, David M. & Haug, Dag T. T. # 0000-0003-1276-7623 & 0000-0001-5275-8073 # University of California, Los Angeles & University of Oslo # Second-position clitics and the syntax-phonology interface: {The} case of {Ancient Greek} # 2016-12-16 # # In this paper we discuss second position clitics in Ancient
 Greek, which show a remarkable ability to break up syntactic
 constituents. We argue against attempts to capture such data in terms
 of a mismatch between c-structure yield and surface string and instead
@@ -256,9 +256,9 @@ with explicit yield functions rather than an ordinary CFG. # Ancient
 Greek, second-position clitics, syntax-prosody interface, multiple
 context-free grammars
 
-Hahm, Hyun-Jong # # University of Guam # Politeness and number in Chuukese # # no # #
+Hahm, Hyun-Jong # # University of Guam # Politeness and number in {Chuukese} # # no # #
 
-Jones, Stephen # 0000-0003-2485-1566 # University of Oxford # The syntax-prosody interface in Korean: Resolving ambiguity in questions # 2016-12-16 # # The paper
+Jones, Stephen # 0000-0003-2485-1566 # University of Oxford # The syntax-prosody interface in {Korean}: {Resolving} ambiguity in questions # 2016-12-16 # # The paper
 considers a phenomenon in Korean where ambiguity in the written
 language is resolved prosodically. An LFG analysis is provided which
 extends the proposals of Mycock and Lowe (2013) to Korean, based on
@@ -282,10 +282,10 @@ linguists.  This is an area in which HPSG and LFG as a distinct
 advantage, given the strong communities and resources available.
 # grammar engineering, indeterminacy, restriction, LFG, HPSG
 
-Laczkó, Tibor # 0000-0003-3960-1789 # University of Debrecen # Fully syntactic, fully lexical, or in-between? Remarks on the architectures of generative grammars # # no # #
+Laczkó, Tibor # 0000-0003-3960-1789 # University of Debrecen # Fully syntactic, fully lexical, or in-between? {Remarks} on the architectures of {Generative Grammars} # # no # #
 
 
-Lahm, David # mailed # University of Frankfurt # Refining the semantics of lexical rules in HPSG # 2016-12-16 # # This paper points out
+Lahm, David # mailed # University of Frankfurt # Refining the semantics of lexical rules in {HPSG} # 2016-12-16 # # This paper points out
 certain flaws in the semantics for lexical rule specifications
 developed in Meurers (2001). Under certain circumstances, certain
 words may not be licit inputs to a rule according to this semantics
@@ -301,7 +301,7 @@ alternative semantics is developed that does not suffer from these
 deficits.
 # lexical rules, SRL, semantics of lexical rules
 
-Lødrup, Helge # 0000-0003-2175-0479 # University of Oslo # Verbal present participles in Norwegian: Controlled complements or parts of complex predicates # 2016-12-16 # # Norwegian has a limited option for verbal
+Lødrup, Helge # 0000-0003-2175-0479 # University of Oslo # Verbal present participles in {Norwegian}: {Controlled} complements or parts of complex predicates # 2016-12-16 # # Norwegian has a limited option for verbal
 present participles. These participles only exist with a small number
 of verbs, and they are selected by a handful of predicates. The
 analysis of sentences with these participles raises some
@@ -327,7 +327,7 @@ heading, and argue that the term ‘mixed category’ should be reserved
 for only one of these.
 # mixed categories, English gerund, participles, morphology
 
-Maekawa, Takafumi # mailed # Ryukoku University # Seminumerals, determiners and nouns in English # 2016-12-16 # # A singular countable noun in
+Maekawa, Takafumi # mailed # Ryukoku University # Seminumerals, determiners and nouns in {English} # 2016-12-16 # # A singular countable noun in
 English normally requires a determiner and they should agree in
 number. However, there is a type of noun phrase, such as <em>those
 thousand teachers</em>, which does not conform to this generalisation. As
@@ -341,7 +341,7 @@ and the determiner-noun agreement are dissociated from each other,
 can provide a straightforward account of the data. # seminumerals, 
 singular countable nouns, determiners, agreement, noun phrase syntax
 
-Moeljadi, David & Bond, Francis & Morgado da Costa, Luís # 0000-0002-7549-0732 & 0000-0003-4973-8068 & 0000-0002-4097-8543 # Nanyang Technological University & Nanyang Technological University & Nanyang Technological University # Basic copula clauses in Indonesian #
+Moeljadi, David & Bond, Francis & Morgado da Costa, Luís # 0000-0002-7549-0732 & 0000-0003-4973-8068 & 0000-0002-4097-8543 # Nanyang Technological University & Nanyang Technological University & Nanyang Technological University # Basic copula clauses in {Indonesian} #
 2016-12-16 # # We want to show how basic copula clauses in
 Indonesian can be dealt with within the framework of Head Driven
 Phrase Structure Grammar (HPSG) (Pollard & Sag, 1994). We analyzed
@@ -355,7 +355,7 @@ Resource Grammar (INDRA), a computational grammar for Indonesian
 # copula, Indonesian, HPSG
 
 
-Müller, Stefan # 0000-0003-4413-5313 # Humboldt Universität zu Berlin # Flexible phrasal constructions, constituent structure and (cross-linguistic) generalizations:<br> A discussion of template-based phrasal LFG approaches # 2016-07-25 # # 
+Müller, Stefan # 0000-0003-4413-5313 # Humboldt Universität zu Berlin # Flexible phrasal constructions, constituent structure and (cross-linguistic) generalizations:<br> {A} discussion of template-based phrasal {LFG} approaches # 2016-07-25 # # 
 This paper discusses recent LFG proposals on resultative and benefactive constructions. I show that
 neither resultative nor benefactive constructions are fully fixed and that this flexibility requires
 traces or a stipulation of constructional templates at several unrelated places in the grammar,
@@ -386,7 +386,7 @@ information structure features of FQs within LFG’s projection
 architecture. # quantifier floating, information structure, English, Dutch, Japanese
 
  
-Pankau, Andreas # mailed # Freie Universität Berlin # Quirky subjects in Icelandic, Faroese, and German: A Relational Grammar account # 2016-12-16
+Pankau, Andreas # mailed # Freie Universität Berlin # Quirky subjects in {Icelandic, Faroese, and German}: {A} {Relational Grammar} account # 2016-12-16
 # # This paper presents a new analysis of quirky subjects according to
 which quirky subjects bear multiple grammatical relations and hence
 differ syntactically from regular subjects. This contrasts with the
@@ -404,7 +404,7 @@ Icelandic.
 Pair Grammar
 
 
-Patejuk, Agnieszka # 0000-0002-2367-9170 # Institute of Computer Science, Polish Academy of Sciences # Integrating a rich external valency dictionary with an implemented XLE/LFG grammar # 2016-12-16 # # This paper shows how Walenty, a valency dictionary of Polish, was automatically
+Patejuk, Agnieszka # 0000-0002-2367-9170 # Institute of Computer Science, Polish Academy of Sciences # Integrating a rich external valency dictionary with an implemented {XLE/LFG} grammar # 2016-12-16 # # This paper shows how Walenty, a valency dictionary of Polish, was automatically
 converted in order to be used with an XLE/LFG grammar of Polish,
 discussing issues such as the grammatical function assignment under unlike
 category coordination and imposing constraints for lexicalised
@@ -412,7 +412,7 @@ dependents.
 # valence, grammatical functions, grammar engineering, phraseology, coordination
 
 Patejuk, Agnieszka & Przepiórkowski, Adam # 0000-0002-2367-9170 & 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences & Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy,
-University of Warsaw # Reducing grammatical functions in LFG # 2016-12-16
+University of Warsaw # Reducing grammatical functions in {LFG} # 2016-12-16
 # # The aim of this paper is to reexamine the rich repertoire of
 grammatical functions assumed in LFG and provide novel arguments for
 the claim, voiced earlier for example in Alsina et al. 2005, that most
@@ -426,7 +426,7 @@ formalised.
 # grammatical functions, obliqueness, functional hierarchy, coordination
 
 
-Przepiórkowski, Adam # 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy, University of Warsaw # How <em>not</em> to distinguish arguments from adjuncts in LFG # 2016-12-16 # #
+Przepiórkowski, Adam # 0000-0002-4398-2636 # Institute of Computer Science, Polish Academy of Sciences and\\ Institute of Philosophy, University of Warsaw # How <em>not</em> to distinguish arguments from adjuncts in {LFG} # 2016-12-16 # #
 The paper briefly reexamines arguments for the argument–adjunct
 dichotomy, commonly assumed in contemporary linguistics, showing that
 they do not stand up to scrutiny. It demonstrates that – perhaps
@@ -436,7 +436,7 @@ way. Building on this observation, the paper presents a way of getting
 rid of this dichotomy altogether.
 # argument–adjunct distinction, dependents, argument structure, adjuncts, modifiers
 
-Ramhöj, Rickard # mailed # University of Gothenburg # On the argument structure of raising-to-subject with passive predicates in Swedish # 2016-12-16 # # This paper concerns the argument structure analysis of
+Ramhöj, Rickard # mailed # University of Gothenburg # On the argument structure of raising-to-subject with passive predicates in {Swedish} # 2016-12-16 # # This paper concerns the argument structure analysis of
 raising-to-subject with passive predicates in Swedish and other
 Germanic languages. Support is given for the analysis in which the
 raising-to-subject construction constitutes a regular passive, the
@@ -448,7 +448,7 @@ attributed to certain semantic restrictions on the raising-to-object
 construction and the periphrastic passive construction, respectively.
 # raising-to-subject, raising-to-object, passive predicates, Swedish, evidentiality
 
-Richter, Frank # 0000-0003-1929-5489 # Goethe Universität Frankfurt a.M. # Categorematic unreducible polyadic quantifiers in Lexical Resource Semantics #
+Richter, Frank # 0000-0003-1929-5489 # Goethe Universität Frankfurt a.M. # Categorematic unreducible polyadic quantifiers in {Lexical Resource Semantics} #
 2016-12-16 # # Early work on quantification in natural languages showed that
 sentences like `Every ape picked different berries', on the reading
 that the sets of berries picked by any two apes are not the same, can
@@ -533,7 +533,7 @@ Head-driven Phrase Structure Grammar, phrase type hierarchy.
 
 Vincent, Nigel & Börjars, Kersti # 0000-0002-2494-1652 & 0000-0002-3154-5260 # University of Manchester # Heads and history # # no # #
 
-Yatabe, Shûichi # 0000-0003-2092-6073 # University of Tokyo # Medial left-node raising in Japanese # 2016-12-16 # # In this paper, it is demonstrated that
+Yatabe, Shûichi # 0000-0003-2092-6073 # University of Tokyo # Medial left-node raising in {Japanese} # 2016-12-16 # # In this paper, it is demonstrated that
 there is a phenomenon that can be viewed as a mirror image of medial
 right-node raising and thus might be designated as medial left-node
 raising, and it is argued that the properties of this phenomenon are

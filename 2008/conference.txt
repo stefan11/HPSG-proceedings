@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Bender, Emily M. # 0000-0001-5384-6227 # University of Washington # Radical non-configurationality without shuffle operators: An analysis of Wambaya # 2008-10-16 # #
+Bender, Emily M. # 0000-0001-5384-6227 # University of Washington # Radical non-configurationality without shuffle operators: {An} analysis of {Wambaya} # 2008-10-16 # #
 The word order facts of radically non-configurational languages pose a challenge to HPSG
 approaches which assume both that the surface order of words is the yield of the (tectogrammatical)
 tree and standard HPSG-style cancellation of valence lists. These languages allow discontinuous noun
@@ -11,7 +11,7 @@ an analysis based on non-cancellation. This analysis is contrasted with other ap
 discontinuous constituents and analyses of other phenomena based on non-cancellation. Finally, I
 explore the implications for current models of semantic compositionality.
 
-Bîlbîie, Gabriela # 0000-0002-4547-1645 # University Paris 7 # A syntactic account of Romanian correlative coordination from a Romance perspective # 2008-10-18 # #
+Bîlbîie, Gabriela # 0000-0002-4547-1645 # University Paris 7 # A syntactic account of {Romanian} correlative coordination from a {Romance} perspective # 2008-10-18 # #
 This paper examines the syntactic behaviour of two omnisyndetic coordinations (also called
 correlative coordinations), i.e. the disjunctive and the conjunctive types in Romanian, by
 explaining its data in a Romance perspective. Major issue has been whether these structures have
@@ -31,7 +31,7 @@ We further propose a <q>locative</q> constraint. The transitive verbs allowing
 there-insertion will be shown to coincide with verbs that allow a
 locative analysis.
 
-Drellishak, Scott # mailed # University of Washington # Complex case phenomena in the Grammar Matrix # 2008-10-16 # #
+Drellishak, Scott # mailed # University of Washington # Complex case phenomena in the {Grammar Matrix} # 2008-10-16 # #
 This paper describes a number of verbal argument marking patterns found in the world's languages and
 provides HPSG analyses for them.  In addition to commonly-occurring variations of morphosyntactic
 alignment (e.g. nominative-accusative, ergative-absolutive), this paper also presents analyses of
@@ -47,7 +47,7 @@ node, in order to preserve the strong version of the principle of locality in su
 propose a general formal mechanism to effect this occasional transparency of heads with respect to
 certain properties of their complements.
 
-Ito, Chizuru & Chaves, Rui P. # mailed & 0000-0003-0820-6145# Osaka University & Lisbon University # Apparent non-constituent coordination in Japanese # 2008-10-16 # #
+Ito, Chizuru & Chaves, Rui P. # mailed & 0000-0003-0820-6145# Osaka University & Lisbon University # Apparent non-constituent coordination in {Japanese} # 2008-10-16 # #
 Coordination in Japanese poses various puzzles which defy the standard notion of syntactic
 category. On the one hand, one can conjoin structures which one usually would not expect to form any
 constituent, and on the other hand, there are various conjunction particles that are sensitive to
@@ -92,7 +92,7 @@ This paper focuses on a specific type of verbless utterance, labeled PVU, which 
 <p>PVUs are analyzed as clausal predicative phrases. Although PVUs can have various illocutionary forces, their content type is constrained by their syntactic form.</p>
 <p>As for &alpha;-phrases, they are shown to be right-dislocated phrases. Right-dislocation is analyzed as a local anaphoric phenomenon. This approach is consistent with the anaphoric properties of PVUs' external arguments.
 
-Müller, Stefan # 0000-0003-4413-5313 # Freie Universität Berlin # Towards an HPSG analysis of constituent order in Maltese # 2008-10-06 # no #
+Müller, Stefan # 0000-0003-4413-5313 # Freie Universität Berlin # Towards an {HPSG} analysis of constituent order in {Maltese} # 2008-10-06 # no #
 The conference talk dealt with the constituent order in Maltese. It described the orders that are
 possible, including cases in wich objects are realized both by clitics and by full NPs and provided
 an HPSG analysis.  The analysis is implemented in a computer processable grammar fragment, which is
@@ -100,7 +100,7 @@ described in more detail in the proceedings of the first conference on Maltese L
 href="https://hpsg.hu-berlin.de/~stefan/Pub/maltese-sketch.html">Maltese paper</a>). The full
 description of the grammar fragment covers several other phenomena in addition to constituent order.
 
-Nakazawa, Tsuneko # 0000-0001-6991-3447 # University of Tokyo # Resultatives in Japanese as adjuncts # 2008-10-16 # no #
+Nakazawa, Tsuneko # 0000-0001-6991-3447 # University of Tokyo # Resultatives in {Japanese} as adjuncts # 2008-10-16 # no #
 This paper investigates resultative phrases in Japanese and
 shows that their behaviors are more consistent with adjuncts
 than with obligatorily controlled complements as proposed by
@@ -133,7 +133,8 @@ experiments on artificially constructed signatures with respect to
 the relative rank of their asymptotic cost at parse-time, and
 experimentally consider how they impact memory management.
 
-Song, Sanghoun & Choe, Jae-Woong # 0000-0002-4234-232X & 0000-0001-5224-2229 # Korea University # Automatic construction of Korean verbal type hierarchy using Treebank # 2008-10-16 # #
+Song, Sanghoun & Choe, Jae-Woong # 0000-0002-4234-232X & 0000-0001-5224-2229 # Korea University # 
+Automatic construction of {Korean} verbal type hierarchy using {Treebank} # 2008-10-16 # #
 The lexical information of verbal lexemes, such as verbs and adjectives, plays an important role in
 syntactic parsing, because the structure of a sentence mainly hinges on the type of verbal lexemes.
 The question we address in this research is how to acquire the argument structure (henceforth
@@ -149,8 +150,7 @@ Korean.  Finally, the result is evaluated with reference to two Korean dictionar
 respect to a manually constructed type hierarchy.
 
 
-Tam, Wai Lok & Sato, Yo # mailed & mailed # Queen Mary University of London & King's College # An analysis of pseudopartitives and measure phrases that say
-no to extra rules # 2008-10-15 # #
+Tam, Wai Lok & Sato, Yo # mailed & mailed # Queen Mary University of London & King's College # An analysis of pseudopartitives and measure phrases that say no to extra rules # 2008-10-15 # #
 Our analysis of pseudopartitives and measure phrases draws on the idea of `of' as a copula in a
 pseudopartitive. The copular analysis allows us to avoid the complications caused by treating either
 the numeral-noun combination before the of-phrase or the of-object as the head of a pseudopartitive
@@ -161,7 +161,7 @@ anaphoric constructions in classifier languages. Such an analysis does not only 
 intuition of native speakers but also have an appeal from the perspective of the universality of
 languages.
 
-Tseng, Jesse # mailed # CNRS & University of Toulouse # The representation of syllable structure in HPSG # 2008-10-16 # #
+Tseng, Jesse # mailed # CNRS & University of Toulouse # The representation of syllable structure in {HPSG} # 2008-10-16 # #
 This paper proposes a representation for syllable structure in HPSG, building on previous work by
 Bird and Klein (1994), Höhle (1999), and Crysmann (2002). Instead of mapping segments into a a
 separate part of the sign where syllables are represented structurally, information about
@@ -190,7 +190,7 @@ are composed in the syntax. Third, the count/mass properties of nouns suggest
 an interleaving of conceptual and grammatical information in semantic
 composition.
 
-Yoo, Eun-Jung # 0000-0002-5116-0907 # Seoul National University # Transparent free relatives in English # 2008-10-14 # #
+Yoo, Eun-Jung # 0000-0002-5116-0907 # Seoul National University # Transparent free relatives in {English} # 2008-10-14 # #
 Transparent free relatives (TFRs) are constituents involving a
 WH-gap dependency in which the phrase that is predicated
 of the gap associated with 'what', not the wh-phrase

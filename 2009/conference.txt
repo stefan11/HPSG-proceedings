@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Bîlbîie, Gabriela & Laurens, Frédéric # 0000-0002-4547-1645 & mailed # LLF, Université Paris Diderot Paris 7 # A construction-based analysis of verbless relative adjuncts in French and Romanian # 2009-10-15 # #
+Bîlbîie, Gabriela & Laurens, Frédéric # 0000-0002-4547-1645 & mailed # LLF, Université Paris Diderot Paris 7 # A construction-based analysis of verbless relative adjuncts in {French and Romanian} # 2009-10-15 # #
 French and Romanian verbless relative adjuncts are incidental adjuncts which 
 have been described as elliptical relative clauses. We show that this analysis 
 is not empirically adequate and propose an alternative non-elliptical analysis. 
@@ -12,7 +12,7 @@ interaction of grammatical constraints introduced by various linguistic objects,
 as well as on a constructional analysis of verbless relative adjuncts 
 distinguishing several subtypes.
 
-Bonami, Olivier & Samvelian, Pollet # 0000-0003-0688-3855 & 0000-0002-6622-4117 # Université Paris-Sorbonne and Laboratoire de Linguistique Formelle & Université Paris 3 Sorbonne nouvelle and Mondes iranien et indien # Inflectional periphrasis in Persian # 2009-10-16 # #
+Bonami, Olivier & Samvelian, Pollet # 0000-0003-0688-3855 & 0000-0002-6622-4117 # Université Paris-Sorbonne and Laboratoire de Linguistique Formelle & Université Paris 3 Sorbonne nouvelle and Mondes iranien et indien # Inflectional periphrasis in {Persian} # 2009-10-16 # #
 Modern Persian conjugation makes use of five periphrastic constructions. We contrast the properties
 of these five constructions and argue that they call for different analyses. We propose contrasting
 analyses relying on the combination of an HPSG approach to feature geometry and syntactic
@@ -33,7 +33,7 @@ as an instance of a more general process. Finally, this paper also
 discusses a uniform mechanism for case assignment to valents and
 adverbial nominals.
 
-Crysmann, Berthold # 0000-0003-0230-502X # Universität Bonn and Universität des Saarlandes # Deriving superficial ergativity in Nias # 2009-10-15 # #
+Crysmann, Berthold # 0000-0003-0230-502X # Universität Bonn and Universität des Saarlandes # Deriving superficial ergativity in {Nias} # 2009-10-15 # #
 In this paper, I discuss the case and agreement system of Nias, a
 language that has been described as a marked-absolutive system by
 various authors (Donohue and Brown, 1999; Corbett, 2006; Cysouw, 2005;
@@ -48,7 +48,7 @@ attributing the <q>ergative</q> split in Nias to an <q>inverse</q> linking of
 intransitives instead. Under this perspective, case, agreement, and word
 order will receive a natural explanation.
 
-Desmets, Marianne & Villoing, Florence # mailed & 0000-0002-7769-7278 # Université Paris Ouest/LLF & Université Paris Saint-Denis/SFL # French VN lexemes: Morphological compounding in HPSG # 2009-10-15 # #
+Desmets, Marianne & Villoing, Florence # mailed & 0000-0002-7769-7278 # Université Paris Ouest/LLF & Université Paris Saint-Denis/SFL # French {VN} lexemes: {Morphological} compounding in {HPSG} # 2009-10-15 # #
 Although the original framework of HPSG is mostly compatible with
 independent theoretical claims or analyses in lexical lexeme base morphology
 (Anderson 1992, Aronoff & Fudeman 2004, Beard 1995, Booij 2005,
@@ -68,7 +68,7 @@ multiple-dimension typed-hierarchy of lexemes and provides an account for
 semantic generalizations involved in different types of lexeme formation
 (compounding, derivation, and conversion).
 
-Fokkens, Antske & Poulson, Laurie & Bender, Emily M. # 0000-0002-6628-6916 & no & 0000-0001-5384-6227 # Universität des Saarlandes & University of Washington # Inflectional morphology in Turkish VP coordination # 2009-10-16 # #
+Fokkens, Antske & Poulson, Laurie & Bender, Emily M. # 0000-0002-6628-6916 & no & 0000-0001-5384-6227 # Universität des Saarlandes & University of Washington # Inflectional morphology in {Turkish VP} coordination # 2009-10-16 # #
 We address three properties of Turkish morphology and
  VP coordination: the identification of tense and aspect values
  across conjuncts, the optional omission of affixes on non-final
@@ -81,8 +81,7 @@ We address three properties of Turkish morphology and
  implemented in a small HPSG grammar and tested against datasets
  confirming the functionality and consistency of the analysis.
 
-Holler, Anke # 0000-0003-0566-1150 # University of Göttingen # Towards an analysis of the adverbial use of German interrogative <em>was</em>
-(`what') # 2009-10-15 # #
+Holler, Anke # 0000-0003-0566-1150 # University of Göttingen # Towards an analysis of the adverbial use of {German} interrogative <em>was</em> (`what') # 2009-10-15 # #
 The paper discusses the so-called adverbial use of the <em>wh</em>-pronoun
 <em>was</em> (`what'), which establishes a non-standard interrogative
 construction type in German.  It argues that the adverbial use of <em>was</em>
@@ -105,7 +104,7 @@ WH-value models <em>wh</em>-fronting and pied-piping phenomena, the QUE value
 links syntactic and semantic information and thus keeps track of
 <em>wh</em>-phrases in-situ.
 
-Iordăchioaia, Gianina & Richter, Frank # 0000-0002-8847-6307 & 0000-0003-1929-5489 # Universität Stuttgart & Universität Tübingen # Negative concord in Romanian as polyadic quantification # 2009-10-16 # #
+Iordăchioaia, Gianina & Richter, Frank # 0000-0002-8847-6307 & 0000-0003-1929-5489 # Universität Stuttgart & Universität Tübingen # Negative concord in {Romanian} as polyadic quantification # 2009-10-16 # #
 In this paper we develop an HPSG syntax-semantics of negative concord in
 Romanian. We show that n-words in Romanian can best be treated as negative
 quantifiers which may combine by resumption to form polyadic negative
@@ -137,7 +136,7 @@ structure captures linguistic generalizations, while at the same time
 accounting for idiosyncratic facts in this seemingly
 complex grammatical domain.
 
-Lahm, David # mailed # Universität Tübingen # An alternative to the HPSG raising principle on the description-level # 2009-10-15 # #
+Lahm, David # mailed # Universität Tübingen # An alternative to the {HPSG} {Raising Principle} on the description-level # 2009-10-15 # #
 I reconsider the HPSG Raising Principle which is introduced in Pollard & Sag (1994) to constrain the
 way in which lexical entries describe the SUBCAT lists of the words they license. On the basis of
 whether a complement is assigned a semantic role in a lexical entry or not, this entry may not or
@@ -167,7 +166,7 @@ A modified treatment of complex predicate formation allows for a reduction of se
 phrases in copula constructions and resultative secondary predicates. This yields an account for
 constituent order variants that remained unexplained by earlier analyses. # copula, German, English, Danish, specificational construction, predication, tag question, left dislocation
 
-Müller, Stefan & Lipenkova, Janna # 0000-0003-4413-5313 & 0000-0003-4093-170X # Freie Universität Berlin # Serial verb constructions in Chinese:<br> A HPSG account # 2009-10-15 # #
+Müller, Stefan & Lipenkova, Janna # 0000-0003-4413-5313 & 0000-0003-4093-170X # Freie Universität Berlin # Serial verb constructions in {Chinese}:<br> {A HPSG} account # 2009-10-15 # #
 The present paper gives an account of Serial Verb Constructions (SVCs) in Mandarin Chinese. After a
 typological presentation of the phenomenon, we give an overview of the Chinese data with examples of
 the semantic variations of SVCs. The inventory of SVC types is classified according to causal and
@@ -178,7 +177,7 @@ relations to deduce the extra-lexical meaning of the construction. Particular at
 the syntactically peculiar SVC with shared internal arguments, which is accounted for by a
 non-cancellation approach to valence requirements. # serial verb construction, Mandarin Chinese, HPSG
 
-Ørsnes, Bjarne # 0000-0003-2046-2029 # Freie Universität Berlin # Preposed negation in Danish # 2009-10-13 # #
+Ørsnes, Bjarne # 0000-0003-2046-2029 # Freie Universität Berlin # Preposed negation in {Danish} # 2009-10-13 # #
 In Danish the base position of the negation and negated
 quantifier phrases  is between the subject and
 the finite verb in embedded clauses. However, in embedded clauses
@@ -211,7 +210,7 @@ head-modifier structure. It is argued that the existence of two structures favor
 interface between syntax and semantics which do not require a uniform isomorphism between the
 semantics and syntax of aspect.
 
-Richter, Frank & Sailer, Manfred # 0000-0003-1929-5489 & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Phraseological clauses in constructional HPSG # 2009-10-16 # #
+Richter, Frank & Sailer, Manfred # 0000-0003-1929-5489 & 0000-0002-1693-8859 # University of Tübingen & University of Göttingen # Phraseological clauses in {Constructional HPSG} # 2009-10-16 # #
 In this paper we investigate German idioms which contain phraseologically
 fixed clauses (PCl). To provide a comprehensive HPSG theory of PCls we
 extend the idiom theory of Soehn 2006 in such a way that it can
@@ -220,7 +219,7 @@ in-depth analysis of two characteristic PCls shows how our two-dimensional
 theory of idiomatic expressions can be applied and illustrates the scope
 of  the theory.
 
-Skwarski, Filip # no # University of Warsaw # Accounting for underlying forms in HPSG phonology # 2009-10-04 # #
+Skwarski, Filip # no # University of Warsaw # Accounting for underlying forms in {HPSG} phonology # 2009-10-04 # #
 The paper aims to present approach to HPSG phonology which would account for underlying forms of
 phonemes. It shows some of the issues arising in monostratal analyses of phonology, and proposes a
 solution based on a notion of underlying representations. The approach presented, partly inspired by
@@ -229,7 +228,7 @@ either restrict the surface representation or relate it to the underlying form.
 
 // Cognition Langues Langage Ergonomie Équipe de recherche en syntaxe et sémantique
 
-Tseng, Jesse # mailed # CLLE-ERSS UMR 5263 CNRS § University of Toulouse # Phonological change and grammaticalization in HPSG: The case of French final consonants # 2009-10-15 # #
+Tseng, Jesse # mailed # CLLE-ERSS UMR 5263 CNRS § University of Toulouse # Phonological change and grammaticalization in {HPSG}: {The} case of {French} final consonants # 2009-10-15 # #
 This paper explores the use of HPSG for modeling historical phonological change and
 grammaticalization, focusing on the evolution of the pronunciation of word-final consonants in
 Modern French. The diachronic evidence is presented in detail, and interpreted as two main
@@ -240,7 +239,7 @@ liaison in modern French. The stages of development are analyzed formally as a s
 lexical schemas in which phonological representations are determined by reference to the immediately
 following phonological context.
 
-Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # On the copula: From a Fregean to a Montagovian treatment # 2009-10-09 # #
+Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # On the copula: {From a Fregean to a Montagovian} treatment # 2009-10-09 # #
 The analysis of the copula as a semantically vacuous word in mainstream
 HPSG is appropriate for some of its uses, such as the progressive and
 the passive, but not for its use in clauses with a predicative complement.

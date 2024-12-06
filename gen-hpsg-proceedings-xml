@@ -625,7 +625,7 @@ sub make_bibtex {
 
         $title = transform_to_latex($title);
         $title =~ s/\\\\//g; # remove latex newlines in the title
-        $title =~ s/\n//g;   # remove text newlines in the title
+        $title =~ s/\n/ /g;   # remove text newlines in the title but keep a space to separate words
 
         print AUBIB <<EOF;
 \@inproceedings{${file_name}:${year},
@@ -715,7 +715,7 @@ sub make_proceedings_part {
         $title_w_br = transform_to_latex($title_w_br);
 
         $title_tex = transform_to_latex($title);
-        $title_tex =~ s/\\\\//g; #remove newlines 
+        $title_tex =~ s/\\\\/ /g; #remove newlines 
 
         $title_pdfa = transform_to_plain_ascii($title);
 
@@ -1105,7 +1105,7 @@ $publication_id_bib += 2;
 # remove newlines
 @record[0]=~ s/\n//g; # author
 @record[2]=~ s/\n//g; # affiliation
-@record[3]=~ s/\n//g; # title
+@record[3]=~ s/\n/ /g; # title
 
 
 
@@ -1567,7 +1567,7 @@ $abstract=~ s/</\&lt;/g;
 $abstract=~ s/>/\&gt;/g;
 $abstract=~ s/<q>/"/g;
 $abstract=~ s/<\/q>/"/g;
-$abstract=~ s/`/&#715;/g;
+#$abstract=~ s/`/&#715;/g;  # The ` is probably interpreted as something XMLish.
 
 
 
@@ -1580,7 +1580,7 @@ $title=~ s/<\/q>/"/g;
 $title=~ s/`/&#715;/g;
 
 # line breaks are needed for LaTeX typesetting. Remove them in XML
-$title=~ s/<br>//g;
+$title=~ s/<br>/ /g;
 
 # remove decapitalization protection for LaTeX, which was used in some years
 $title=~ s/{//g;

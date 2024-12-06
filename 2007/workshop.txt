@@ -1,6 +1,6 @@
 // Author1 & Author 2 # Affiliation1 & Affiliation2 # Title                                                            # date              # status # abstract
 
-Francis, Elaine J. # 0000-0003-1964-3148 # Purdue University # The role of default constructions in the processing of mismatch: The case of possessive free relatives # 2007-10-14 # #
+Francis, Elaine J. # 0000-0003-1964-3148 # Purdue University # The role of default constructions in the processing of mismatch: {The} case of possessive free relatives # 2007-10-14 # #
 <p>Townsend and Bever (2001) and Ferreira (2003) argue that simple 
 templates representing the most commonly used orderings of arguments 
 within a clause (e.g., NP-V-NP = Agent-Action-Patient) are used early 
@@ -20,7 +20,7 @@ costly for language users. Finally, I argue that evidence for canonical template
 parallel-architecture, constructionist theory of grammar.
 
 
-Goldberg, Adele # 0000-0001-8636-8890 # Princeton University # Argument structure constructions: Lexical or phrasal? # 2007-10-01 # no #
+Goldberg, Adele # 0000-0001-8636-8890 # Princeton University # Argument structure constructions: {Lexical} or phrasal? # 2007-10-01 # no #
 This presentation suggested several advantages of constructions as against lexical rules including the following: <ol>
 <li>Implausible verb senses are avoided;
 <li>The possibility of representing a distinction between mismatches and matches of verb and constructional meaning is allowed for;
@@ -41,7 +41,7 @@ linking rules look more general than construction-specific form-function pairing
 </ol>
 
 
-Kim, Jong-Bok & Sells, Peter # 0000-0003-3286-0446 & 0000-0003-4284-6947 # Kyung Hee University & Stanford University # Two types of multiple nominative construction: A constructional approach # 2007-10-22 # #
+Kim, Jong-Bok & Sells, Peter # 0000-0003-3286-0446 & 0000-0003-4284-6947 # Kyung Hee University & Stanford University # Two types of multiple nominative construction: {A} constructional approach # 2007-10-22 # #
 Multiple nominative constructions (MNCs) in Korean have two main sub-
 types: possessive and adjunct types. This paper shows that a grammar allow-
 ing the interaction of declarative constraints on types of signs - in particular,
@@ -49,7 +49,7 @@ having constructions (phrases and clauses) - can provide a robust and efficient 
 into the LKB (Linguistic Knowledge Building) system
 
 
-Müller, Stefan # 0000-0003-4413-5313 # Freie Universität Berlin # Phrasal or lexical constructions? Some comments on underspecification of constituent order, compositionality, and control # 2007-09-27 # #
+Müller, Stefan # 0000-0003-4413-5313 # Freie Universität Berlin # Phrasal or lexical constructions? {Some} comments on underspecification of constituent order, compositionality, and control # 2007-09-27 # #
 This paper is a follow up on <a href="https://hpsg.hu-berlin.de/~stefan/Pub/phrasal.html">Müller, 2006</a>. It contains some
 comments on suggestions about the interaction of phrasal Constructions with constituent order that
 Adele Goldberg made at various occasions. In addition the paper discusses various HPSG analyses of
@@ -69,7 +69,7 @@ insights from work in the tradition of Berkeley Construction Grammar, as exempli
 et al. (1988), Kay and Fillmore (1999), and related work.
 
 
-Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # The Big Mess Construction # 2007-10-15 # #
+Van Eynde, Frank # 0000-0002-6172-442X # University of Leuven # The {Big Mess Construction} # 2007-10-15 # #
 There is a construction in English, exemplified by 'how long a bridge',
 which is so irregular that it has been named the Big Mess Construction
 (Berman 1974). This paper first sketches its main characteristics 

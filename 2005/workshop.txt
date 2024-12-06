@@ -17,7 +17,7 @@ could be accounted for within the approach developed in (Reuland,
 <q>ertmanet-</q> leave the issue of subject anaphors open.
 
 
-Branco, António # 0000-0002-7174-4942 # University of Lisbon # Reflexives: Escaping exemption via domain reshuffling # 2005-10-14 # #
+Branco, António # 0000-0002-7174-4942 # University of Lisbon # Reflexives: {Escaping} exemption via domain reshuffling # 2005-10-14 # #
 In this paper we argue that at least for some languages, when
 there are suitable o-commanders of its selectional domain, a
 reflexive in the bottom of its obliqueness hierarchy escapes
@@ -29,7 +29,7 @@ predicator directly subcategorizes the domain headed by the
 predicator directly subcategorizing the reflexive.
 
 
-Canac-Marquis, Réjean # mailed # Simon Fraser University # Phases and binding of reflexives and pronouns in English # 2005-10-15 # #
+Canac-Marquis, Réjean # mailed # Simon Fraser University # Phases and binding of reflexives and pronouns in {English} # 2005-10-15 # #
 This paper proposes a distinct approach to local binding effects for reflexives
 and pronominals in English whereby the nature of local binding domains is a
 by-product of the incremental interpretation of syntactic derivations
@@ -60,7 +60,7 @@ for the partitioning of anaphoric elements, presupposing more types of
 'anaphors'/'pronouns' than standard Binding Theory offers us.
 
 
-Hellan, Lars # 0000-0003-3043-120X # NTNU, Trondheim # Implementing Norwegian reflexives in an HPSG grammar # 2005-10-14 # #
+Hellan, Lars # 0000-0003-3043-120X # NTNU, Trondheim # Implementing {Norwegian} reflexives in an {HPSG} grammar # 2005-10-14 # #
 The paper reviews basic patterns of reflexive binding in Norwegian, and
 explores a possible implementation of them in an HPSG grammar using the
 LKB platform. Norwegian has two reflexive elements, with distinct
@@ -89,7 +89,7 @@ the proper characterization of syntactic chains, as proposed by Reinhart and Reu
 A is rendered superfluous.
 
 
-Pollard, Carl # mailed # Ohio State University # Remarks on binding theory # 2005-10-15 # #
+Pollard, Carl # mailed # Ohio State University # Remarks on {Binding Theory} # 2005-10-15 # #
 We propose some reformulations of binding principle A that build on recent 
 work by Pollard and Xue, and by Runner et al. We then turn to the
 thorny issue of the status of indices, in connection with the seemingly
@@ -103,14 +103,14 @@ to the idea that referentially dependent expressions denote identity functions
 seerms to hold more promise.
 
 
-Reuland, Eric # 0000-0003-4485-4246 # Utrecht University # Binding conditions:<br> How are they derived? # 2005-10-24 # #
+Reuland, Eric # 0000-0003-4485-4246 # Utrecht University # Binding conditions:<br> {How} are they derived? # 2005-10-24 # #
 In this article I discuss binding conditions A and B. I show that important
 properties of binding need not be stipulated, but can be explained as
 consequences of general properties of the computational system underlying
 human language.
 
 
-Runner, Jeffrey T. & Kaiser, Elsi # 0000-0001-6818-0632 & 0000-0003-3594-4127 # University of Rochester & University of Southern California # Binding in picture noun phrases: Implications for binding theory # 2005-10-17 # #
+Runner, Jeffrey T. & Kaiser, Elsi # 0000-0001-6818-0632 & 0000-0003-3594-4127 # University of Rochester & University of Southern California # Binding in picture noun phrases: {Implications} for {Binding Theory} # 2005-10-17 # #
 This paper investigates the binding of pronouns and reflexives in <q>picture</q>
 noun phrases, and focuses on data showing that reflexives and pronouns are not
 in complementary distribution in picture NPs with possessors. In particular, we
