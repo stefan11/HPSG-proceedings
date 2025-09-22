@@ -121,14 +121,12 @@
 \definecolor{lsDOIGray}{cmyk}{0,0,0,0.45}
 
 
-%% Use this to add space in glossings e.g. for a "[" in the original you write \hapsceThis{[}
+%% Use this to add space in glossings e.g. for a "[" in the original you write \hphantom{[}
 %% hspace over width of something without showing it
-\newlength{\LSPTmp}
-\newcommand*{\hspaceThis}[1]{\settowidth{\LSPTmp}{#1}\hspace*{\LSPTmp}}
 
-% german.sty has nice hyphenation support
-%\usepackage{german}
-%\selectlanguage{USenglish}
+% load babel.sty for hyphenation support
+\usepackage[ngerman,english]{babel}
+\addto\extrasenglish{\languageshorthands{ngerman}}\useshorthands{"}
 
 % this package supports scaling for instance if your AVMs do not fit the page
 %\usepackage{graphicx}

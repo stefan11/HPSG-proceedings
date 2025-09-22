@@ -20,6 +20,8 @@ use Term::ANSIColor;
 
 use MIME::Base64 qw(encode_base64);
 
+#use Text::Unidecode; # Problems with installing this. 12.12.2024
+
 binmode(STDOUT, "encoding(UTF-8)");
 #use open ":std", ":encoding(UTF-8)";
 
@@ -277,6 +279,7 @@ EOF
 } # end if workshop
 
 print PROC "\\newpage\n";
+#print PROC "\\pagebreak\n";
 
 # the abstract can span multiple lines, so records have to be separated by lines with no content.
 $/ = "\n\n";
@@ -565,6 +568,7 @@ if ($authors{$filename}) {
   $authors{$filename} = 1; # set a flag that indicates that we used this name already.
 
 $filename = eliminate_special_chars($filename);
+#$filename = unidecode($filename);
 
 } elsif ($#authors < 2) { # two authors: max-moritz.pdf
 
@@ -1483,7 +1487,6 @@ sub transform_to_latex {
 }
 
 
-
 sub eliminate_special_chars{
 	local($string) = @_;
 
@@ -1504,6 +1507,7 @@ sub eliminate_special_chars{
      'ß', 'ss',
      'ś', 's',
      'š', 's',
+     'ş', 's',
      'ć', 'c',
      'û', 'u',
      'î', 'i',
@@ -1515,7 +1519,7 @@ sub eliminate_special_chars{
 
 );
 
-	$string =~ s/((ä|ă|á|ą|ö|ü|Ä|Ö|Ü|î|í|ï|ś|š|ć|æ|Æ|Œ|œ|è|é|ė|Ø|ø|û|ó|ñ))/$utf8_character_map{"$1"}/geo;    
+	$string =~ s/((ä|ă|á|ą|ö|ü|Ä|Ö|Ü|î|í|ï|ś|š|ş|ć|æ|Æ|Œ|œ|è|é|ė|Ø|ø|û|ó|ñ))/$utf8_character_map{"$1"}/geo;    
 
 
 	return $string;

@@ -20,8 +20,8 @@
 
 \usepackage[sectionbib]{natbib}
 
-\usepackage{german}
-\selectlanguage{USenglish}
+\usepackage[ngerman,english]{babel}
+\addto\extrasenglish{\languageshorthands{ngerman}}\useshorthands{"}
 
 % If you want to make your paper more usable for readers,
 % insert the following code.
@@ -48,10 +48,6 @@ Humboldt Universität zu Berlin}
 Please submit:
 \begin{enumerate}
 \item your paper in pdf format\footnote{
-As with last year, we will produce a large pdf file that includes all
-of the papers.  This way, readers can download the entire proceedings
-as a book.
-
 If you absolutely cannot do PDF, please let me know as soon as
 possible and I will accomodate you in some way: point you to some
 reasonable converters, help you with the conversion, etc.}
@@ -70,7 +66,8 @@ you may look at the proceedings of previous years at:\newline
 
 \section{Deadline}
 
-The deadline for submission is October 15th.
+The traditional deadline for submission is October 15th. Exceptions that may be due to late
+conference dates will be announced separately.
 
 \section{Page limit}
 
@@ -91,6 +88,13 @@ Please add a short (one paragraph) abstract directly on the first page.
 
 \section{Details on formatting}
 
+Please use the General style rules for linguistics:
+\url{http://langsci.github.io/gsr/GenericStyleRulesLangsci.pdf}. The most important aspects of these
+styles are the list of references and the glossed examples. Glossed examples have to be glossed
+according to the Leipzig Glossing Rules (LGR,
+\url{https://www.eva.mpg.de/lingua/resources/glossing-rules.php}). Abbreviations that are not
+defined in the LGR have to be listed at the end of the paper.
+
 \subsection{\LaTeX{} users}
 
 \subsubsection{Styles}
@@ -101,15 +105,15 @@ and use the BibTeX file at \url{https://raw.githubusercontent.com/stefan11/HPSG-
 
 \subsubsection{PDF creation}
 
-If you do not fancy stuff that needs PostScript you may produce
-the pdf file by using \verb+pdflatex+. If you use \verb+pstricks+ or
-similar packages, please use \verb+dvips+ and \verb+ps2pdf13+.
-
-Using \verb+ps2pdf13+ helps avoiding problems with ligaturs like in `fi'
-or `ff'. If you do not have this on your machine, using \verb+ps2pdf+ is okay.
-
-Please use the \verb+ps2pdf+-option \verb+-dAutoRotatePages=/None+  to avoid auto rotation
-of figures.
+It is recommended to use \verb+lualatex+. 
+% If you use \verb+pstricks+ or
+% similar packages, please use \verb+dvips+ and \verb+ps2pdf13+.
+%
+% Using \verb+ps2pdf13+ helps avoiding problems with ligaturs like in `fi'
+% or `ff'. If you do not have this on your machine, using \verb+ps2pdf+ is okay.
+%
+% Please use the \verb+ps2pdf+-option \verb+-dAutoRotatePages=/None+  to avoid auto rotation
+% of figures.
 
 
 \subsubsection{A4 paper}
@@ -120,7 +124,7 @@ a4paper rather than letter. Most tex distributions in the US are set up to use l
 If you are using \verb+dvips+, please use the option \verb+-t a4+. This tells
 \verb+dvips+ to use A4 paper.
 
-On a4 paper in general (dvips and pdflatex) see \url{http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex2pdfprint.html}.
+%On a4 paper in general (dvips and pdflatex) see \url{http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex2pdfprint.html}.
 
 If you are a Mac user and use MacTex you can change this setting with the Tex Live Utility. Go to
 Configure$|$Change Paper Size and select A4.
@@ -150,33 +154,33 @@ objects, you may use \verb+resizebox+ from the package \verb+graphicx+.
 \label{hyphenation}
 
 If you write things like \verb+head-driven+ or very long pathes like
-{\sc snysem$|$loc$|$cat$|$head$|$mod$|$loc}, \LaTeX{} does not do hyphenation
+\textsc{synsem$|$loc$|$cat$|$head$|$mod$|$loc}, \LaTeX{} does not do hyphenation
 (in the part following the dash).
 
-If you use \verb+german.sty+ you get additional markup that allows for proper hyphenation:
+If you use \verb+babel.sty+ you can enable German language shortcuts which allow for proper hyphenation:
 \begin{verbatim}
 head"=driven
 
-{\sc snysem$|$""loc$|$""cat$|$""head$|$""mod$|$""loc}
+\textsc{synsem$|$""loc$|$""cat$|$""head$|$""mod$|$""loc}
 \end{verbatim}
-With this markup even long pathes like {\sc snysem$|$loc$|$cat$|$head$|$mod$|$loc$|$cat$|$""head}
+With this markup even long pathes like \textsc{synsem$|$loc$|$cat$|$head$|$mod$|$loc$|$cat$|$""head}
 are typeset properly. Alternatively you my write
 \begin{verbatim}
-{\sc snysem$|$\-loc$|$\-cat$|$\-head$|$\-mod}
+\textsc{synsem$|$\-loc$|$\-cat$|$\-head$|$\-mod}
 \end{verbatim}
 which introduces a dash at the place of the linebreak:
-{\sc snysem$|$\-loc$|$\-cat$|$\-head$|$\-mod$|$\-loc$|$\-cat$|$\-head}.
+{\sc synsem$|$\-loc$|$\-cat$|$\-head$|$\-mod$|$\-loc$|$\-cat$|$\-head}.
 
-If you use \verb+german.sty+ do not forget to declare English as the language
-you are using:
+You can activate the hyphenation shorthands by:
 \begin{verbatim}
-\selectlanguage{USenglish}
+\usepackage[ngerman,english]{babel}
+\addto\extrasenglish{\languageshorthands{ngerman}}\useshorthands{"}
 \end{verbatim}
-Otherwise the section name for references comes out in German.
+This sets English as the main language but also loads code for German which includes the shorthands.
 
 \subsubsection{URLs}
 
-There is a cool package: url.sty It helps you typeset URLs and together with the hyperref style the
+There is a cool package: url.sty. It helps you typeset URLs and together with the hyperref style the
 URLs are even clickable. The `\~{}' symbol is correctly displayed with url.sty. Please use the
 hyphens option for the url package. See example.tex for details.
 
@@ -252,6 +256,7 @@ not display correctly accross platforms.
 \section{Checklist}
 
 \begin{itemize}
+\item Did you use the Leipzig Glossing Rules?
 \item Do you have the right margins (\LaTeX{} $\to$ no problem if you didn't change
       the styles, others see Section~\ref{margins})?
 \item Do you use a4 paper, rather than letter? dvips has to be used with the option ``-t a4'' if you
@@ -266,7 +271,7 @@ If you used \LaTeX{} to produce your document you can avoid rotating figures by 
 \verb+ps2pdf13+ with the option \verb+-dAutoRotatePages=/None+.
 \item Is there something sticking out at the right-hand side of the text?
       If so, see Section~\ref{hyphenation}.
-\item Are there coloured URLs or something that like in your paper? If so,
+\item Are there coloured URLs or something like that in your paper? If so,
       please change this to the text colour.
 \item Are the URLs underlined? If so please change this to normal text.
 \item Do you have AVMs, equations, or trees that do not fit the textwidth?
@@ -292,9 +297,12 @@ Please send the pdf and the abstract/author information to
 
 If you have any questions, please contact me at the given adress.
 
-\newpage
+%\newpage
 
-\noindent
+%\noindent
+
+\section{Example of an abstract}
+
 The abstract/author information has to be part of the email and looks as follows:
 
 First Author \& Second Author \# First ORCID \& Second ORCID \# First Affiliation \& Second Affiliation \# Titel of Paper \# Date of
@@ -327,3 +335,4 @@ multiclausal sentences. \# HPSG, Information Structure
 \end{document}
 
 
+%      <!-- Local IspellDict: en_US-w_accents -->
