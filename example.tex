@@ -66,6 +66,10 @@
 
 \fi
 
+\usepackage{booktabs} % for nicer lines
+\providecommand{\lsptoprule}{\midrule\toprule}
+\providecommand{\lspbottomrule}{\bottomrule\midrule}
+
 
 \usepackage{microtype}
 \LoadMicrotypeFile{ptm}
@@ -120,6 +124,8 @@
 
 \definecolor{lsDOIGray}{cmyk}{0,0,0,0.45}
 
+\usepackage{langsci-gb4e}
+\usepackage{langsci-lgr,xspace}
 
 %% Use this to add space in glossings e.g. for a "[" in the original you write \hphantom{[}
 %% hspace over width of something without showing it
@@ -187,12 +193,66 @@ For an overview see \citew{BC2021a}.
 The migrated HPSG proceedings should be cited with CSLI Publications as publisher and
 DOI. \citet{Sag2007a} is an important example.
 
+Tables should look like Table~\ref{table-with-caption}.
+
+\begin{table}[htbp]
+\centering
+\caption{The caption of the table}\label{table-with-caption}
+\begin{tabular}{llll}
+\lsptoprule
+col1 & col2 & col3 & col4\\
+\midrule
+v1   & v2   & v3   & v4\\
+\lspbottomrule
+\end{tabular}
+\end{table}
+
+AVMs should be numbered examples.
+
+Examples should be glossed and aligned. Markings of grammatical status stick out:
+\eal
+\ex[]{
+\label{ex-it-was-hoped}
+It was hoped that it would rain.
+}
+\ex[*]{
+That it would rain was hoped.
+}
+\zl
+
+\eal
+\ex[]{
+\gll weil der Mann dem Jungen den Ball schenkt\\
+     because the man.\NOM{} the boy.\DAT{} the ball.\ACC{} gives.as.a.present\\
+\glt `because the man gives the boy the ball as a present'
+}
+\ex[]{
+\gll  weil dem Jungen der Ball geschenkt wurde\\
+      because the boy.\DAT{} the ball.\NOM{} given.as.a.present was\\
+\glt `because the boy was given the ball as a present'
+}
+\ex[*]{
+\gll  weil der Junge den Ball geschenkt wurde\\
+      because the boy.\NOM{} the ball.\ACC{} given.as.a.present was\\
+\glt Intended: `because the ball was given to the boy as a present'
+}
+\zl
+
+Trees are figures, not numbered examples.
+
+Please use the BibTeX entries provided here:
+\url{https://github.com/stefan11/grammar-references/blob/main/grammar.bib}. These are the ones that
+were used in the HPSG handbook and other Language Sceince Press publications. They are verified and
+complete and correct. Hopefully.
+
 \section{Conclusion}
 
 Some conclusions.
 
 
 See also: \url{http://very-long-url.url-home-for-very-long-urls.com/~long/yes-indeed-very/long/}
+
+
 
 
 

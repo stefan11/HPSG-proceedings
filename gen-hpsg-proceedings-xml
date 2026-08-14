@@ -36,8 +36,13 @@ $today = `date +'%Y-%m-%d'`; chop($today);
 
 $published = $today unless ($published);
 
+# for diffs and testing
+#$today = "2026-03-30";
+#$published = "2026-03-30";
+
 # global counters for the whole XML document
 
+#$current_publication_id = -1; # starts at 0 only needed for the second pass
 $publication_id     = 0;  # we keep adding 1
 $publication_id_pdf = -1; # we keep adding 2: 1, 3
 $publication_id_bib = 0;  # we keep adding 2: 2, 4
@@ -198,6 +203,29 @@ pdfkeywords={HPSG, syntax, grammar, linguistics}%,
 \\pdfinclusioncopyfonts=1
 
 \\usepackage{orcidlink}
+
+\\usepackage[
+	natbib=true,
+	style=langsci-unified,            % bbx
+        citestyle=langsci-unified,
+        datamodel=langsci,
+	%refsection=chapter,
+	maxbibnames=99,
+	uniquename=false,
+	mincrossrefs=99,
+	maxcitenames=2,
+	isbn=false,
+	autolang=hyphen,
+	language=english,
+	backend=biber,
+	indexing=cite,
+        citetracker % to check for et al
+]{biblatex}
+\\bibliography{$bib_file}
+\\usepackage{xcolor}
+\\definecolor{lsDOIGray}{cmyk}{0,0,0,0.45}
+\\def\\toappear{To appear}
+
 EOF
 
 if ($draft eq "yes") {
@@ -372,6 +400,8 @@ close($BIBCROSS);
 
 print STDERR "latexing the whole volume, first pass.\n";
         `pdflatex $conf_file`;
+print STDERR "Calling biber.\n";
+   `biber $conf_file`;
 print STDERR "latexing the whole volume, second pass.\n";
         `pdflatex $conf_file`;
 
@@ -388,29 +418,48 @@ open (XML, ">:utf8", "$conf_file.xml");
 # remove newlines in location for XML
 $location =~ s/<br>/ /g;
 
+# todo check whether there was a workshop at all
 print XML <<EOF;
-<?xml version='1.0' encoding='UTF-8'?>
-<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="1" access_status="1" url_path="" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
-    <description locale="en_US">&lt;p class="author"&gt;$location&lt;br&gt;$conf_date&lt;/p&gt;&#xD;
+<?xml version="1.0" encoding="UTF-8"?>
+<issues xmlns="http://pkp.sfu.ca">
+  <issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="1" access_status="1" url_path="" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">0</id>
+    <description locale="en">&lt;p class="author"&gt;$location&lt;br&gt;$conf_date&lt;/p&gt;
         &lt;p class="author"&gt;Editors: $editors_fn_ln&lt;/p&gt;</description>
     <issue_identification>
-        <year>$year</year>
-        <title locale="en_US">$proc_title</title>
+      <year>$year</year>
+      <title locale="en">$proc_title</title>
     </issue_identification>
     <date_published>$published</date_published>
     <last_modified>$today</last_modified>
-  <issue_galleys>
-    <issue_galley locale="en_US">
-      <label>PDF</label>
-      <issue_file>
-        <file_name>$conf_file.pdf</file_name>
-        <file_type>application/pdf</file_type>
-        <file_size>$filesize_pdf</file_size>
-        <content_type>1</content_type>
-        <original_file_name>$conf_file.pdf</original_file_name>
-        <date_uploaded>$today</date_uploaded>
-        <date_modified>$today</date_modified>
-        <embed encoding="base64">
+    <sections>
+      <section ref="CONFERENCE" seq="0" abstract_word_count="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="0" hide_title="0" hide_author="0">
+        <abbrev locale="en">CONFERENCE</abbrev>
+        <title locale="en">CONFERENCE</title>
+      </section>
+EOF
+if ($workshop) {
+print XML <<EOF;
+      <section ref="WORKSHOP" seq="1" abstract_word_count="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="0" hide_title="0" hide_author="0">
+        <abbrev locale="en">WORKSHOP</abbrev>
+        <title locale="en">WORKSHOP</title>
+      </section>
+EOF
+}
+print XML <<EOF;
+    </sections>
+    <issue_galleys>
+      <issue_galley locale="en">
+        <label>PDF</label>
+        <issue_file>
+          <file_name>$conf_file.pdf</file_name>
+          <file_type>application/pdf</file_type>
+          <file_size>$filesize_pdf</file_size>
+          <content_type>1</content_type>
+          <original_file_name>$conf_file.pdf</original_file_name>
+          <date_uploaded>$today</date_uploaded>
+          <date_modified>$today</date_modified>
+          <embed encoding="base64">
 EOF
 
 
@@ -419,20 +468,20 @@ while (read(FILE, $buf, 60*57)) {
     print XML encode_base64($buf);
 }
   print XML <<EOF;
-        </embed>
-      </issue_file>
-    </issue_galley>
-    <issue_galley locale="en_US">
-      <label>BibTeX</label>
-      <issue_file>
-        <file_name>$conf_file.bib</file_name>
-        <file_type>text/plain</file_type>
-        <file_size>$filesize_bib</file_size>
-        <content_type>1</content_type>
-        <original_file_name>$conf_file.bib</original_file_name>
-        <date_uploaded>$today</date_uploaded>
-        <date_modified>$today</date_modified>
-        <embed encoding="base64">
+          </embed>
+        </issue_file>
+      </issue_galley>
+      <issue_galley locale="en">
+        <label>BibTeX</label>
+        <issue_file>
+          <file_name>$conf_file.bib</file_name>
+          <file_type>text/plain</file_type>
+          <file_size>$filesize_bib</file_size>
+          <content_type>1</content_type>
+          <original_file_name>$conf_file.bib</original_file_name>
+          <date_uploaded>$today</date_uploaded>
+          <date_modified>$today</date_modified>
+          <embed encoding="base64">
 EOF
 
 open (FILE, "$conf_file.bib") or die "$!";
@@ -440,11 +489,11 @@ while (read(FILE, $buf, 60*57)) {
     print XML encode_base64($buf);
 }
   print XML <<EOF;
-        </embed>
-      </issue_file>
-    </issue_galley>
-  </issue_galleys>
-<articles>
+          </embed>
+        </issue_file>
+      </issue_galley>
+    </issue_galleys>
+    <articles>
 EOF
 
 # now loop throgh the separate papers
@@ -453,6 +502,7 @@ EOF
 
 $page_end = $page_offset;
 
+$current_publication_id = -1; # starts at 0 only needed for the second pass
 $publication_id = 0;
 $publication_id_pdf = -1;
 $publication_id_bib = 0;
@@ -534,8 +584,9 @@ while (<WS>) {
 # print closing of XML
 
 print XML <<EOF;
-</articles>
-</issue>
+    </articles>
+  </issue>
+</issues>
 EOF
 
 close(XML);
@@ -611,7 +662,7 @@ return $filename;
 
 
 sub make_bibtex {
-	local( ($authors_string,$orcids,$affiliation,$title,$date,$status,$abstract,$keywords) ) = @_;
+	local( ($authors_string,$orcids,$affiliation,$title,$date,$status,$abstract,$keywords,$email) ) = @_;
 
         if ($paper_prefix) {
  
@@ -705,7 +756,7 @@ EOF
 
 
 sub make_proceedings_part {
-	local( ($authors_string,$orcids,$affiliation,$title,$date,$status,$abstract,$keywords) ) = @_;
+	local( ($authors_string,$orcids,$affiliation,$title,$date,$status,$abstract,$keywords,$email) ) = @_;
 
         $authors_fn_ln = transform_author_first_name_last_name($authors_string);
 
@@ -946,21 +997,26 @@ print $file <<EOF;
 %  \\url{http://csli-publications.stanford.edu/$conf_name/$year}
 \\end{center}
 \\vfill
-
-\\noindent
 EOF
+if ($logo) {
+print $file "\\centerline{\\includegraphics[scale=.13]{$logo}}\n\\vfill\n";
+}
 if ($keywords) {
-  print $file "Keywords: $keywords\n";
+  print $file "\\noindent Keywords: $keywords\n\\bigskip";
 }
 else {
   print $file "\n";
 }
 
-  $doi = "10.21248/hpsg.$year.$publication_id";
+  if ($doipref) {
+      $doi = "$doipref/hpsg.$year.$publication_id";
+  } else {
+      $doi = "10.21248/hpsg.$year.$publication_id";
+  }
   print $file <<EOF;
 
 
-\\vfill
+
 \\noindent
 $ling_authors $year. $ling_title In $ling_editors ($Eds.), \\emph{$proc_title_location_tex},
 $page_start--$page_end.
@@ -972,7 +1028,7 @@ if ($publisher) {
     print $file "$publisher. ";
 }
 
-print $file "DOI: \\href{http://doi.org/$doi}{$doi}. \\hfill\\href{http://creativecommons.org/licenses/by/4.0/}{\\includegraphics[height=.75em]{Includes/ccby-eps-converted-to.pdf}}\n
+print $file "DOI: \\href{http://doi.org/$doi}{$doi}. \\hfill\\href{http://creativecommons.org/licenses/by/4.0/}{\\includegraphics[height=.75em]{Includes/ccby-eps-converted-to.pdf}} CC-BY 4.0\n
 \\newpage";
 
 }
@@ -999,7 +1055,13 @@ s{^\s+|\s+$}{}g foreach @record;
    if ($record[4] !~ /\-/) { #does not contain a dash and hence is something like 22 October, 2015 
        print_warning("date in wrong format: $record[4]!\n");
        exit;
-   } 
+   } else {  
+   # 2025-12-06
+   @date=split(/-/,$record[4]);
+
+   if ($date[0] < 100) {  print STDERR "problem with date: $record[4] \n"; 
+                          exit; }
+   }
 
 # we need this in the first pass already to get the DOI right.
    $publication_id +=1;
@@ -1045,6 +1107,7 @@ s{^\s+|\s+$}{}g foreach @record;
           $tex_file  = $file_name . ".tex";
    }
 
+
    if ($record[6] =~ /^\s*pdf/) {
         $abstr_file = "abstr-${file_name}.pdf";
       }
@@ -1071,6 +1134,8 @@ s{^\s+|\s+$}{}g foreach @record;
 
           print_warning("Keywords empty!\n") unless ($record[7]);
 
+          print_warning("Email empty!\n") unless ($record[8] || $year lt "2025");
+
           make_proceedings_part(@record);
            
           make_bibtex(@record);
@@ -1094,6 +1159,7 @@ s{^\s+|\s+$}{}g foreach @record;
       return;
    } 
 
+   $current_publication_id +=1;
    $publication_id +=1;
 $publication_id_pdf += 2;
 $publication_id_bib += 2;
@@ -1197,7 +1263,7 @@ $publication_id_bib += 2;
 #print STDERR "$record[1]\n";
 
  #print_record_xml($record[0],$pdf_file,$page_start,$page_end,$title,$date,$abstract,$keywords);
- print_record_xml($record[0],$record[1],$record[2],$pdf_file,$bib_file,$page_start,$page_end,$record[3],$record[4],$record[6],$record[7]);
+ print_record_xml($record[0],$record[1],$record[2],$pdf_file,$bib_file,$page_start,$page_end,$record[3],$record[4],$record[6],$record[7],$record[8]);
 
 }
 
@@ -1560,7 +1626,7 @@ sub print_warning{
 
 
 sub print_record_xml{
-	local( ($authors,$orcids,$affiliations,$pdf_file,$bib_file,$page_start,$page_end,$title,$date,$abstract,$keywords) ) = @_;
+	local( ($authors,$orcids,$affiliations,$pdf_file,$bib_file,$page_start,$page_end,$title,$date,$abstract,$keywords,$emails) ) = @_;
 
 
 $filesize_pdf = -s $pdf_file;
@@ -1593,11 +1659,11 @@ $title=~ s/}//g;
 
 
   print XML <<EOF;
-  <article status="3" submission_progress="0" stage="production" date_submitted="$date">
-    <submission_file id="$publication_id_pdf" file_id="$publication_id_pdf" stage="proof" updated_at="$today" viewable="false" genre="Article Text" uploader="ojs_admin">
-      <name locale="en_US">$pdf_file</name>
-      <file id="$publication_id_pdf" filesize="$filesize_pdf" extension="pdf">
-        <embed encoding="base64">
+      <article status="3" submission_progress="0" stage="production" date_submitted="$date" current_publication_id="$current_publication_id">
+        <submission_file id="$publication_id_pdf" file_id="$publication_id_pdf" stage="proof" updated_at="$today" viewable="false" genre="Article Text" uploader="ojs_admin">
+          <name locale="en">$pdf_file</name>
+          <file id="$publication_id_pdf" filesize="$filesize_pdf" extension="pdf">
+            <embed encoding="base64">
 EOF
 
 
@@ -1606,56 +1672,57 @@ while (read(FILE, $buf, 60*57)) {
     print XML encode_base64($buf);
 }
   print XML <<EOF;
-</embed>
-      </file>
-    </submission_file>
-    <submission_file id="$publication_id_bib" file_id="$publication_id_bib" stage="proof" updated_at="$today" viewable="false" genre="Other" uploader="ojs_admin">
-         <name locale="en_US">$bib_file</name>
-         <file id="$publication_id_bib" filesize="$filesize_bib" extension="bib">
-             <embed encoding="base64">
+            </embed>
+          </file>
+        </submission_file>
+        <submission_file id="$publication_id_bib" file_id="$publication_id_bib" stage="proof" updated_at="$today" viewable="false" genre="Other" uploader="ojs_admin">
+          <name locale="en">$bib_file</name>
+          <file id="$publication_id_bib" filesize="$filesize_bib" extension="bib">
+            <embed encoding="base64">
 EOF
 open (FILE, $bib_file) or die "$!";
 while (read(FILE, $buf, 60*57)) {
     print XML encode_base64($buf);
 }
 print XML <<EOF;
-             </embed>
-         </file>
-     </submission_file> 
+            </embed>
+          </file>
+        </submission_file> 
 
-    <publication locale="en_US" version="1" status="3" seq="$publication_id" date_published="$date" section_ref="$section_ref" access_status="0">
-      <id type="doi" advice="update">$doi</id>
-      <title locale="en_US">$title</title>
-      <abstract locale="en_US">
+        <publication version="1" status="3" seq="$publication_id" date_published="$date" section_ref="$section_ref" access_status="0">
+          <id type="internal" advice="ignore">$current_publication_id</id>
+          <id type="doi" advice="update">$doi</id>
+          <title locale="en">$title</title>
+          <abstract locale="en">
 &lt;p&gt;$abstract&lt;/p&gt;</abstract>
-      <copyrightYear>$year</copyrightYear>
+          <copyrightYear>$year</copyrightYear>
 EOF
 
 
 
 
-print_authors_xml($authors,$orcids,$affiliations);
+print_authors_xml($authors,$orcids,$affiliations,$emails);
 
 
 
   print XML <<EOF;
-      <article_galley locale="en_US" approved="false">
-        <name locale="en_US">PDF</name>
-        <seq>0</seq>
-        <submission_file_ref id="$publication_id_pdf"/>
-      </article_galley>
-      <article_galley locale="en_US" approved="false">
-        <name locale="en_US">BibTeX</name>
-        <seq>0</seq>
-        <submission_file_ref id="$publication_id_bib"/>
-      </article_galley>
-      <issue_identification>
-        <year>$year</year>
-        <title locale="en_US">$proc_title</title>
-      </issue_identification>
-      <pages>$page_start–$page_end</pages>
-    </publication>
-  </article>
+          <article_galley locale="en" approved="false">
+            <name locale="en">PDF</name>
+            <seq>0</seq>
+            <submission_file_ref id="$publication_id_pdf"/>
+          </article_galley>
+          <article_galley locale="en" approved="false">
+            <name locale="en">BibTeX</name>
+            <seq>0</seq>
+            <submission_file_ref id="$publication_id_bib"/>
+          </article_galley>
+          <issue_identification>
+            <year>$year</year>
+            <title locale="en">$proc_title</title>
+          </issue_identification>
+          <pages>$page_start–$page_end</pages>
+        </publication>
+      </article>
 EOF
 
 # was before year but is not needed since there is only one volume per year.  <volume>$volume</volume>
@@ -1664,12 +1731,14 @@ EOF
 
 
 sub print_authors_xml{
-	local( ($authors,$orcids,$affiliations) ) = @_;
+	local( ($authors,$orcids,$affiliations,$emails) ) = @_;
 
     my $author_seq = 0;
 
     @authors=split(/&/,$authors);
     @orcids =split(/&/,$orcids);
+    @emails =split(/&/,$emails);
+
 
 #s{^\s+|\s+$}{}g foreach @orcids; # I do not understand why we still have space here.
 
@@ -1679,7 +1748,7 @@ sub print_authors_xml{
         $i = 0;
 
        print XML <<EOF;
-<authors>
+          <authors>
 EOF
 
         while ($i < @authors) {
@@ -1703,29 +1772,35 @@ $no_affs=@affiliations;
            $affiliation = @affiliations[$i];                # take the affiliation corresponding to
                                                             # the author number
         } 
-#        <givenname locale="en_US">Berthold</givenname>
-#        <familyname locale="en_US">Crysmann</familyname>
-#    <affiliation locale="en_US">HU Berlin</affiliation>
+#        <givenname locale="en">Berthold</givenname>
+#        <familyname locale="en">Crysmann</familyname>
+#    <affiliation locale="en">HU Berlin</affiliation>
 #        <country>FK</country>
 #    
 #          <email>https://example.com</email>
 #    <url>https://example.com</url>
 #    <orcid>0000-0000-0000-0000</orcid>
-#    <biography locale="en_US">Lorem Ipsum</biography>
+#    <biography locale="en">Lorem Ipsum</biography>
 
 #     @orcids[$i] = "0000-0000-0000-0000" unless @orcids[$i];
 
 print XML <<EOF;
-        <author include_in_browse="true" user_group_ref="Author" seq="$author_seq" id="$author_id">
-        <givenname locale="en_US">$firstname</givenname>
-        <familyname locale="en_US">$lastname</familyname>
-        <affiliation locale="en_US">$affiliation</affiliation>
-        <country>FK</country>
-        <email>none\@ojs.example</email>
+            <author include_in_browse="true" user_group_ref="Author" seq="$author_seq" id="$author_id">
+              <givenname locale="en">$firstname</givenname>
+              <familyname locale="en">$lastname</familyname>
+              <affiliation>
+                <name locale="en">$affiliation</name>
+              </affiliation>
+              <country>FK</country>
 EOF
+if (($year gt "2024") && (@emails[$i])) {
+            print XML "              <email>@emails[$i]</email>\n";
+} else {
+            print XML "              <email>none\@ojs.example</email>\n";
+}
         if (@orcids[$i] =~ /-/) { # contains dash
             if (@orcids[$i] =~ m/[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[X0-9]{1}/) {
-               print XML "        <orcid>https://orcid.org/@orcids[$i]</orcid>\n";
+               print XML "              <orcid>https://orcid.org/@orcids[$i]</orcid>\n";
             } else {
                 print_warning("ORCID for $firstname $lastname, $affiliation is broken!\n\n");
             }
@@ -1733,12 +1808,12 @@ EOF
             print_warning("No ORCID for $firstname $lastname, $affiliation!\n\n");
         }
 print XML <<EOF;
-        </author>
+            </author>
 EOF
 
 
         $i++;
        } 
-        print XML "</authors>\n";
+        print XML "          </authors>\n";
 
 }
